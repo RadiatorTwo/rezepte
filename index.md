@@ -8,5 +8,5 @@
 [Pad Kana](https://radiatortwo.github.io/rezepte/PadKana) \
 [Tteokbokki - Reiskuchen mit Hackfleisch](https://radiatortwo.github.io/rezepte/Tteokbokki_Reiskuchen) \
 [Udon Nudeln mit Rindfleisch](https://radiatortwo.github.io/rezepte/UdonNudeln) \
-[Zuchini Schupfnudel Pfanne](https://radiatortwo.github.io/rezepte/ZucchiniSchupfnudelPfanne)
+[Zuchini Schupfnudel Pfanne](https://radiatortwo.github.io/rezepte/ZucchiniSchupfnudelPfanne)\
 [Pollo Fino - Hähnchen Oberkeulen ohne Knochen](https://radiatortwo.github.io/rezepte/PolloFino)
