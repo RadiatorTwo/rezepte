@@ -3,7 +3,7 @@
 ![](https://radiatortwo.github.io/rezepte/pics/pulled_beef.jpg)
 
 2,5 kg Rindernacken\
-Beef Brisket Gewürzmischung\
+Beef Brisket Gewürzmischung
 
 Für Injektion:\
 MarinadeSpritze\
@@ -13,12 +13,12 @@ MarinadeSpritze\
 4 EL Worcestershire Sauce\
 2 EL Paprikapulver\
 2 TL Salz\
-2 TL gemahlener Schwarzer Pfeffer\
+2 TL gemahlener Schwarzer Pfeffer
 
 Alle Zutaten für die Injektion in einem Topf mischen und kurz aufkochen.\
-Dann gleichmäßig mit der Marinadespritze im Fleisch verteilen.\
+Dann gleichmäßig mit der Marinadespritze im Fleisch verteilen.
 
-Nach der Injektion das Fleisch mit dem Trocken Rub komplett einreiben.\
+Nach der Injektion das Fleisch mit dem Trocken Rub komplett einreiben.
 
 Den Grill auf 120 Grad einregeln.\
 Das Fleisch ist fertig wenn die Kerntemperatur 88-93 Grad Celsius erreicht hat und beim Einstechen/Herauszihen des Thermometers kein Widerstand mehr ist.\
