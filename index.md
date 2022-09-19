@@ -15,3 +15,4 @@
 [Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)\
 [White BBQ Tacos](https://radiatortwo.github.io/rezepte/WhiteBBQTacos)\
 [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)\
+[Pig Shots](https://radiatortwo.github.io/rezepte/PigShots)
