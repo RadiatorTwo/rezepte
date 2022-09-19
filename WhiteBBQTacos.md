@@ -8,9 +8,10 @@
 100 g [Cole Slaw](https://radiatortwo.github.io/rezepte/ColeSlaw)\
 120 g [Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)
 
+Die Tortilla Fladen mit einem Zahnstocher mehrfach einstechen, damit sich keine Blasen bilden.\
 In einer Beschichteten Pfanne den Cheddar in der Größe der Tortilla streuen.\
 Direkt eine Tortilla auf den Käse legen und leicht andrücken.\
-Den Tortialla mit dem geschmolzenen Käse umdrehen.\
+Den Tortilla mit dem geschmolzenen Käse umdrehen.\
 Etwas Pulled Beef, Cole Slaw und die Alabama White Sauce darüber geben.\
 Den Tortilla in der Mitte falten.\
-Jetzt von beiden Seiten etwas backen.
+Jetzt von beiden Seiten backen.
