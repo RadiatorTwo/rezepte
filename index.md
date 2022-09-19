@@ -13,4 +13,5 @@
 [Pizza Lievito Madre](https://radiatortwo.github.io/rezepte/PizzaLievitoMadre)\
 [Cole Slaw](https://radiatortwo.github.io/rezepte/ColeSlaw)\
 [Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)\
-[White BBQ Tacos](https://radiatortwo.github.io/rezepte/WhiteBBQTacos)
+[White BBQ Tacos](https://radiatortwo.github.io/rezepte/WhiteBBQTacos)\
+[Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)\
