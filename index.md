@@ -1,8 +1,8 @@
-##Soßen
+## Soßen
 * [Austernsoße](https://radiatortwo.github.io/rezepte/Austernsosse)
 * [McRib Soße](https://radiatortwo.github.io/rezepte/McRibSauce)
 
-##Gerichte
+## Gerichte
 
 * [Grünes Curry](https://radiatortwo.github.io/rezepte/GruenesCurry)
 * [Rotes Curry](https://radiatortwo.github.io/rezepte/RotesCurry)
@@ -17,7 +17,7 @@
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
 * [Pig Shots](https://radiatortwo.github.io/rezepte/PigShots)
 
-##Sonstiges
+## Sonstiges
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
 * [Koreanischer Fischkuchen](https://radiatortwo.github.io/rezepte/KoreanFishCake)
 * [Moo Grob (Frittierter Schweinebauch)](https://radiatortwo.github.io/rezepte/MooGrob_FrittierterSchweinebauch)
