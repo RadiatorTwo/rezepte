@@ -16,6 +16,7 @@
 * [White BBQ Tacos](https://radiatortwo.github.io/rezepte/WhiteBBQTacos)
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
 * [Pig Shots](https://radiatortwo.github.io/rezepte/PigShots)
+* [Thai Nudelpfanne](https://radiatortwo.github.io/rezepte/ThaiNudelpfanne)
 
 ##Sonstiges
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
