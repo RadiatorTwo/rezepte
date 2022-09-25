@@ -8,7 +8,6 @@ Zutaten:\
 50 g Butter\
 50 g Parmesan Reggiano\
 1/2 Zwiebel\
-1/2 Glas Weißwein oder Wasser\
 1000 ml Gemüsebrühe\
 Petersilie\
 Olivenöl\
