@@ -21,5 +21,5 @@ Dann gleichmäßig mit der Marinadespritze im Fleisch verteilen.
 Nach der Injektion das Fleisch mit dem Trocken Rub komplett einreiben.
 
 Den Grill auf 120 Grad einregeln.\
-Das Fleisch ist fertig wenn die Kerntemperatur 88-93 Grad Celsius erreicht hat und beim Einstechen/Herauszihen des Thermometers kein Widerstand mehr ist.\
+Das Fleisch ist fertig wenn die Kerntemperatur 88-93 Grad Celsius erreicht hat und beim Einstechen/Herausziehen des Thermometers kein Widerstand mehr ist.\
 Das kann bis zu 20 Stunden dauern.

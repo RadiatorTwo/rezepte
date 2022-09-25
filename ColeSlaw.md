@@ -14,4 +14,4 @@
 Den Spitzkohl in dünne Streifen schneiden.\
 Die Möhren in dünne Streifen reiben.\
 Restlichen Zutaten dazugeben und gut durchmischen.\
-Das ganze eine halbe Stunde ziehen lassen.
+Das ganze mindestens eine halbe Stunde ziehen lassen.

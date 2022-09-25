@@ -18,6 +18,7 @@
 * [Pig Shots](https://radiatortwo.github.io/rezepte/PigShots)
 * [Thai Nudelpfanne](https://radiatortwo.github.io/rezepte/ThaiNudelpfanne)
 * [Shakshuka](https://radiatortwo.github.io/rezepte/Shakshuka)
+* [Steinpilz Risotto](https://radiatortwo.github.io/rezepte/SteinpilzRisotto)
 
 ## Sonstiges
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
