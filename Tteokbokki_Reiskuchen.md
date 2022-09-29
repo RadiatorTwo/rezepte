@@ -2,10 +2,10 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/tteokbokki.jpg)
 
-200 gr Tteokbokki Reiskuchen [Amazon Link](https://www.amazon.de/-/de/dp/B08WH3WWKG) \
+200 gr Tteokbokki Reiskuchen [Link](https://asia4friends.de/reiskuchen-scheiben-tteokbokki-matamun-600g) \
 300 gr Hackfleisch\
 50 gr Gewürfelter Speck\
-1-2 Esslöffel Gochujang (Fermentierte Chili Paste) [Amazon Link](https://www.amazon.de/-/de/5115/dp/B07YQ91R81) \
+1-2 Esslöffel Gochujang (Fermentierte Chili Paste) [Link](https://asia4friends.de/gochujang-chilipaste-sempio) \
 1 frische Knoblauchzehe\
 100 gr Brechbohnen oder Prinzessbohnen\
 250 ml Rinderbrühe\
