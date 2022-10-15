@@ -1,6 +1,7 @@
 ## Soßen
 * [Austernsoße](https://radiatortwo.github.io/rezepte/Austernsosse)
 * [McRib Soße](https://radiatortwo.github.io/rezepte/McRibSauce)
+* [Burger Remoulade](https://radiatortwo.github.io/rezepte/BurgerRemoulade)
 
 ## Gerichte
 
