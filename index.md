@@ -21,6 +21,9 @@
 * [Shakshuka](https://radiatortwo.github.io/rezepte/Shakshuka)
 * [Steinpilz Risotto](https://radiatortwo.github.io/rezepte/SteinpilzRisotto)
 
+## Dessert
+* [Grießauflauf](https://radiatortwo.github.io/rezepte/GriessAuflauf)
+
 ## Sonstiges
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
 * [Koreanischer Fischkuchen](https://radiatortwo.github.io/rezepte/KoreanFishCake)
