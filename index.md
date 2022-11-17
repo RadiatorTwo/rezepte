@@ -20,6 +20,7 @@
 * [Thai Nudelpfanne](https://radiatortwo.github.io/rezepte/ThaiNudelpfanne)
 * [Shakshuka](https://radiatortwo.github.io/rezepte/Shakshuka)
 * [Steinpilz Risotto](https://radiatortwo.github.io/rezepte/SteinpilzRisotto)
+* [Hähnchen Saté Spieße](https://radiatortwo.github.io/rezepte/SateSpiesse)
 
 ## Dessert
 * [Grießauflauf](https://radiatortwo.github.io/rezepte/GriessAuflauf)
