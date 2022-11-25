@@ -31,3 +31,4 @@
 * [Moo Grob (Frittierter Schweinebauch)](https://radiatortwo.github.io/rezepte/MooGrob_FrittierterSchweinebauch)
 * [Cole Slaw](https://radiatortwo.github.io/rezepte/ColeSlaw)
 * [Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)
+* [Frühstücks Brot](https://radiatortwo.github.io/rezepte/FruehstuecksBrot)
