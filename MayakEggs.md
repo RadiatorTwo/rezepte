@@ -4,7 +4,7 @@
 
 6 Eier\
 1 Teelöffel Salz\
-1 Teelöffel Essig\
+1 Teelöffel Essig
 
 120 ml Sojasoße\
 120 ml Wasser oder Dashi Brühe\
@@ -13,18 +13,18 @@
 1/2 Zwiebel\
 2 Jalapenos oder Chilischoten\
 3 Knoblauchzehen\
-1 Esslöffel geröstete Sesam Samen\
+1 Esslöffel geröstete Sesam Samen
 
-Sesamöl zum Servieren\
+Sesamöl zum Servieren
 
 Eier 7-8 Minuten mit Salz und Essig kochen.\
 Mit Eiswasser abschrecken und schälen.
 
 Frühlingszwiebeln in kleine Scheiben schneiden.\
 Zwiebel in Würfel schneiden.\
-Jalapeno in feine Würfel schneiden.\
+Jalapeno in feine Würfel schneiden.
 
-Alles in einem Behälter zusammen mischen und über Nacht oder mindestens 6 Stunden marinieren lassen.\
+Alles in einem Behälter zusammen mischen und über Nacht oder mindestens 6 Stunden marinieren lassen.
 
 Zum Servieren halbieren und auf frisch gekochtem Reis mit etwas Sesamöl und ein paar Löffel der Marinade übergießen.
 
