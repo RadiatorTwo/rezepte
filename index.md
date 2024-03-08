@@ -21,6 +21,7 @@
 * [Shakshuka](https://radiatortwo.github.io/rezepte/Shakshuka)
 * [Steinpilz Risotto](https://radiatortwo.github.io/rezepte/SteinpilzRisotto)
 * [Hähnchen Saté Spieße](https://radiatortwo.github.io/rezepte/SateSpiesse)
+* [Koreanische Drogeneier (Mayak Eggs)](https://radiatortwo.github.io/rezepte/MayakEggs)
 
 ## Dessert
 * [Grießauflauf](https://radiatortwo.github.io/rezepte/GriessAuflauf)
