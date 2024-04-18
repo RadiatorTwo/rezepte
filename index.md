@@ -31,6 +31,8 @@
 * [Koreanischer Fischkuchen](https://radiatortwo.github.io/rezepte/KoreanFishCake)
 * [Moo Grob (Frittierter Schweinebauch)](https://radiatortwo.github.io/rezepte/MooGrob_FrittierterSchweinebauch)
 * [Cole Slaw](https://radiatortwo.github.io/rezepte/ColeSlaw)
+* [Besserer Cole Slaw](https://radiatortwo.github.io/rezepte/CreamyColeSlaw)
+* [BBQ Street Corn](https://radiatortwo.github.io/rezepte/BBQStreetCorn)
 * [Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)
 * [Frühstücks Brot](https://radiatortwo.github.io/rezepte/FruehstuecksBrot)
 * [Burger Buns](https://radiatortwo.github.io/rezepte/BurgerBuns)
