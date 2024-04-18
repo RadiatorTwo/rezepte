@@ -15,27 +15,27 @@ Zutaten:
 100 g Mayonnaise\
 50 g Sour Cream\
 2 g Schwarzer Pfeffer\
-2 g Chili Pulver\
+2 g Chili Pulver
 
 Den Mais reinigen.\
 Eine Schüssel nehmen und in die Schüssel eine kleinere Schüssel verkehrtherum hineinstellen.\
 Die Spitze von den Maiskoblen abschneiden, auf die kleine Schüssel stellen und festhalten.\
-Mit einem Messer so dicht am kolben wie möglich den Mais vom Kolben schneiden.\
+Mit einem Messer so dicht am kolben wie möglich den Mais vom Kolben schneiden.
 
 Das Öl in einer Gusseisernen Pfanne stark erhitzen.\
 Den Mais dazu geben und alle 60-90 Sekunden durchmischen.\
 Der Mais soll etwas Farbe bekommen.\
-Wenn der Mais anfängt zu platzen ist es fast fertig.\
+Wenn der Mais anfängt zu platzen ist es fast fertig.
 
 Den Jalapeno in feine Würfel schneiden.\
 Die Spitzen und die Knollen von den Frühlingszwiebeln abschneiden und den übrigen Teil in kleine Stücke schneiden.\
 Die Petersilie fein Hacken.\
-Alles zu dem Mais geben.\
+Alles zu dem Mais geben.
 
 Mit einer Reibe die Limonenschale in die Schüssel reiben.\
 Dann die Limone auspressen und den Limonensaft dazu geben.\
 Den Knoblauch mit einer Knoblauchpresse hineinpressen.\
-Die Mayonnaise, den Sour Cream, Schwarzen Pfeffer, Chili Pulver und den Feta Käse hinzugeben.\
+Die Mayonnaise, den Sour Cream, Schwarzen Pfeffer, Chili Pulver und den Feta Käse hinzugeben.
 
 Alles gut durchmischen während der Mais noch heiß ist.
 

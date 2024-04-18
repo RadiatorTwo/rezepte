@@ -8,14 +8,14 @@
 1 große rote Zwiebel\
 2 mittlere Knoblauchzehen\
 30 g Salz\
-20 g Zucker\
+20 g Zucker
 
 Dressing:
 150 g Mayonnaise\
 30 g groben Senf\
 30 g Apfelessig\
 30 g Zucker\
-2 g Schwarzer Pfeffer\
+2 g Schwarzer Pfeffer
 
 
 Den Spitzkohl und Karotten in dünne Streifen schneiden.\
@@ -26,9 +26,9 @@ Den Knoblauch mit einer Knoblauchpresse zerdrücken.\
 Alles in eine Schüssel geben.\
 Salz und Zucker dazu geben und alle gut durchmischen.\
 Alles für 30 Minuten stehen lassen.\
-Nach 30 Minuten mit einem Sieb oder einer Salatschleuder überschüssiges Wasser entfernen.\
+Nach 30 Minuten mit einem Sieb oder einer Salatschleuder überschüssiges Wasser entfernen.
 
 Für das Dressing:
-Alle Zutaten mischen und mit einem Stabmixer pürieren.\
+Alle Zutaten mischen und mit einem Stabmixer pürieren.
 
-Das Dressings in die SChüssel mit dem Gemüse geben und gut durchmischen.\
+Das Dressings in die SChüssel mit dem Gemüse geben und gut durchmischen.
