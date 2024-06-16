@@ -22,6 +22,7 @@
 * [Steinpilz Risotto](https://radiatortwo.github.io/rezepte/SteinpilzRisotto)
 * [Hähnchen Saté Spieße](https://radiatortwo.github.io/rezepte/SateSpiesse)
 * [Koreanische Drogeneier (Mayak Eggs)](https://radiatortwo.github.io/rezepte/MayakEggs)
+* [Garnelen-Pasta](https://radiatortwo.github.io/rezepte/GarnelenPasta)
 
 ## Dessert
 * [Grießauflauf](https://radiatortwo.github.io/rezepte/GriessAuflauf)
