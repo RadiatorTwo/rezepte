@@ -23,7 +23,7 @@
 * [Hähnchen Saté Spieße](https://radiatortwo.github.io/rezepte/SateSpiesse)
 * [Koreanische Drogeneier (Mayak Eggs)](https://radiatortwo.github.io/rezepte/MayakEggs)
 * [Garnelen-Pasta](https://radiatortwo.github.io/rezepte/GarnelenPasta)
-* [Pad Thai Udon](https://radiatortwo.github.io/rezepte/PadThaiUdon)
+* [Pad Thai Udon](https://radiatortwo.github.io/rezepte/PadThai)
 
 ## Dessert
 * [Grießauflauf](https://radiatortwo.github.io/rezepte/GriessAuflauf)
