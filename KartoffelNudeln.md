@@ -1,5 +1,7 @@
 # Würzige Kartoffel-Nudeln  
 
+![](https://radiatortwo.github.io/rezepte/pics/kartoffel_nudeln.webp)
+
 ## Zutaten  
 
 ### Für die Kartoffel-Nudeln  

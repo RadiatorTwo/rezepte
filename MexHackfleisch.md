@@ -1,5 +1,7 @@
 # Überbackenes Mexikanisches Hackfleisch-Reisgericht
 
+![](https://radiatortwo.github.io/rezepte/pics/mex_hackfleisch.webp)
+
 ## Zutaten
 
 - 500 g Rinderhackfleisch (5 % Fett)  

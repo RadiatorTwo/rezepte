@@ -1,5 +1,7 @@
 # Würzige Rindfleischstreifen mit Chilisauce
 
+![](https://radiatortwo.github.io/rezepte/pics/w_rind_streifen.webp)
+
 ## Zutaten
 
 ### Für das Rindfleisch:

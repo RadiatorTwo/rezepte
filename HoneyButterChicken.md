@@ -1,5 +1,7 @@
 # Honig-Butter-Hähnchen (AirFryer)
 
+![](https://radiatortwo.github.io/rezepte/pics/honey_butter_chicken.webp)
+
 ## Zutaten
 
 - 225 g Hähnchenfleisch  

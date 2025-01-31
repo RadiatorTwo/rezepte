@@ -1,5 +1,7 @@
 # Reispapier-Rollen  
 
+![](https://radiatortwo.github.io/rezepte/pics/reispapier_rollen.webp)
+
 ## Zutaten (für 8–10 Stück)  
 
 ### Reispapier  

@@ -1,5 +1,7 @@
 # Hong Shao Rou (Roter Geschmorter Schweinebauch)
 
+![](https://radiatortwo.github.io/rezepte/pics/hong_shao_rou.webp)
+
 ## Zutaten
 
 ### Blanchieren:
