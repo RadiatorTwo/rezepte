@@ -32,9 +32,31 @@
 * [Reispapier-Rollen](https://radiatortwo.github.io/rezepte/ReispapierRollen)
 * [Würzige Kartoffel-Nudeln](https://radiatortwo.github.io/rezepte/KartoffelNudeln)
 * [Käse-Reispapier-Nudeln](https://radiatortwo.github.io/rezepte/KaeseReispapierNudeln)
+* [Bang Bang Chicken](https://radiatortwo.github.io/rezepte/BangBangChicken)
+* [Flammkuchen Brezel](https://radiatortwo.github.io/rezepte/BrezelFlammkuchen)
+* [Cheeseburger Tacos](https://radiatortwo.github.io/rezepte/CheeseburgerTaco)
+* [Cheesy Knoblauch Kartoffel Bites](https://radiatortwo.github.io/rezepte/CheesyGarlicPotatoBites)
+* [Chicken Teriyaki Sandwich](https://radiatortwo.github.io/rezepte/ChickenTerriyakiSandwich)
+* [Filipino Coconut Pork Adobo](https://radiatortwo.github.io/rezepte/FilipinoPorkAdobo)
+* [Filipino Pork Tocino](https://radiatortwo.github.io/rezepte/FilipinoPorkTocino)
+* [French Bread Snack](https://radiatortwo.github.io/rezepte/FrenchBreadSnack)
+* [Cheesy Garlic Bread Tortilla](https://radiatortwo.github.io/rezepte/GarlicBreadTortilla)
+* [Hot Dog Pinecones](https://radiatortwo.github.io/rezepte/HotDogPineCones)
+* [Knoblauch Butter Kartoffel Pops](https://radiatortwo.github.io/rezepte/KartoffelPops)
+* [KartoffelSuppe mit Speck](https://radiatortwo.github.io/rezepte/KartoffelSuppe)
+* [Laugenbrioche Bacon Cheeseburger ](https://radiatortwo.github.io/rezepte/LaugenbriocheCheeseburger)
+* [Sweet & Sour Fried Eggs](https://radiatortwo.github.io/rezepte/SweetSourFriedEggs)
+
+## Airfryer Gerichte
+* [Apple Pancakes Air Fryer Edition](https://radiatortwo.github.io/rezepte/AirfryApplePancakes)
+* [Bang Bang Chicken Airfryer Edition](https://radiatortwo.github.io/rezepte/AirfryBangBangChicken)
+* [Lachsröllchen Airfryer Edition](https://radiatortwo.github.io/rezepte/AirfryLachsroellchen)
+* [Langos AirFryer Edition](https://radiatortwo.github.io/rezepte/AirfryLangos)
+* [Lasagne Wrap](https://radiatortwo.github.io/rezepte/AirfryLasagneWrap)
 
 ## Dessert
 * [Grießauflauf](https://radiatortwo.github.io/rezepte/GriessAuflauf)
+* [Lemon Brownies](https://radiatortwo.github.io/rezepte/LemonBrownies)
 
 ## Sonstiges
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
@@ -46,3 +68,4 @@
 * [Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)
 * [Frühstücks Brot](https://radiatortwo.github.io/rezepte/FruehstuecksBrot)
 * [Burger Buns](https://radiatortwo.github.io/rezepte/BurgerBuns)
+* [Eiersalat](https://radiatortwo.github.io/rezepte/Eiersalat)
