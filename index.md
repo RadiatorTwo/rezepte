@@ -46,6 +46,19 @@
 * [KartoffelSuppe mit Speck](https://radiatortwo.github.io/rezepte/KartoffelSuppe)
 * [Laugenbrioche Bacon Cheeseburger ](https://radiatortwo.github.io/rezepte/LaugenbriocheCheeseburger)
 * [Sweet & Sour Fried Eggs](https://radiatortwo.github.io/rezepte/SweetSourFriedEggs)
+* [KFC Zinger Sliders](https://radiatortwo.github.io/rezepte/KfcSliders)
+* [BBQ Leberkäse](https://radiatortwo.github.io/rezepte/BBQLeberkas)
+* [NaughtySandwich](https://radiatortwo.github.io/rezepte/NaughtySandwich)
+* [Süß Saure Chicken Bällchen](https://radiatortwo.github.io/rezepte/ChickenBalls)
+* [Balsamic Bourbon Short Ribs](https://radiatortwo.github.io/rezepte/BalsamicBourbonShortRibs)
+* [Norwegischer Rindereintopf (Lapskaus)](https://radiatortwo.github.io/rezepte/Lapskaus)
+* [Hokkien Mee](https://radiatortwo.github.io/rezepte/HokkienMee)
+* [Maple Bacon Party Ribs](https://radiatortwo.github.io/rezepte/MapleBaconPartyRibs)
+* [Raspberry Bacon Jam Burger](https://radiatortwo.github.io/rezepte/RaspberryBaconJamBurger)
+
+
+## Mealprep
+* [Loaded Breakfast McMuffins](https://radiatortwo.github.io/rezepte/MealprepLoadedMuffins)
 
 ## Airfryer Gerichte
 * [Apple Pancakes Air Fryer Edition](https://radiatortwo.github.io/rezepte/AirfryApplePancakes)
@@ -53,10 +66,15 @@
 * [Lachsröllchen Airfryer Edition](https://radiatortwo.github.io/rezepte/AirfryLachsroellchen)
 * [Langos AirFryer Edition](https://radiatortwo.github.io/rezepte/AirfryLangos)
 * [Lasagne Wrap](https://radiatortwo.github.io/rezepte/AirfryLasagneWrap)
+* [Bolognese-Knoblauchbrot](https://radiatortwo.github.io/rezepte/BologneseKnoblauchbrot)
+* [Airfryer Ravioli](https://radiatortwo.github.io/rezepte/AirfryerRavioli)
+* [Bang Bang Shrimp](https://radiatortwo.github.io/rezepte/BangBangShrimp)
 
 ## Dessert
 * [Grießauflauf](https://radiatortwo.github.io/rezepte/GriessAuflauf)
 * [Lemon Brownies](https://radiatortwo.github.io/rezepte/LemonBrownies)
+* [Guinnes Kuchen](https://radiatortwo.github.io/rezepte/GuinnessCake)
+* [Cinnamon Pull Apart Bread](https://radiatortwo.github.io/rezepte/CinnamonPullApartBread)
 
 ## Sonstiges
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
