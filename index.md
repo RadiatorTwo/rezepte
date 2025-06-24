@@ -5,6 +5,7 @@
 * [McRib Soße](https://radiatortwo.github.io/rezepte/McRibSauce)
 * [Burger Remoulade](https://radiatortwo.github.io/rezepte/BurgerRemoulade)
 * [Hot Honey Ranch](https://radiatortwo.github.io/rezepte/HotHoneyRanch)
+* [Peppercorn Steak Soße](https://radiatortwo.github.io/rezepte/PepperCornSauce)
 
 ## Asiatische Küche
 * [Grünes Curry](https://radiatortwo.github.io/rezepte/GruenesCurry)
