@@ -24,6 +24,7 @@
 * [Würzige Rindfleisch Streifen](https://radiatortwo.github.io/rezepte/WuerzigeRindStreifen)
 * [Süß Saure Chicken Bällchen](https://radiatortwo.github.io/rezepte/ChickenBalls)
 * [Hokkien Mee](https://radiatortwo.github.io/rezepte/HokkienMee)
+* [Chili Knoblauch Nudeln](https://radiatortwo.github.io/rezepte/ChiliGarlicNoodles)
 
 ## Amerikanisch & Fusion
 * [Hackfleisch Bohnen mit Reis](https://radiatortwo.github.io/rezepte/HackfleischBohnen)
