@@ -1,5 +1,7 @@
 # Chili Knoblauch Nudeln
 
+![](https://radiatortwo.github.io/rezepte/pics/chili_garlic_noodles.jpg)
+
 ## Zutaten (2 Portionen)
 - 200 g Nudeln  
 - 60 ml neutrales Öl  
