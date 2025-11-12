@@ -96,3 +96,4 @@
 * [Burger Buns](https://radiatortwo.github.io/rezepte/BurgerBuns)
 * [Eiersalat](https://radiatortwo.github.io/rezepte/Eiersalat)
 * [Nudelsalat](https://radiatortwo.github.io/rezepte/BesterNudelsalat)
+* [BBQ Nudelsalat](https://radiatortwo.github.io/rezepte/BBQNudelsalat)
