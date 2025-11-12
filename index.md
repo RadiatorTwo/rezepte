@@ -97,3 +97,4 @@
 * [Eiersalat](https://radiatortwo.github.io/rezepte/Eiersalat)
 * [Nudelsalat](https://radiatortwo.github.io/rezepte/BesterNudelsalat)
 * [BBQ Nudelsalat](https://radiatortwo.github.io/rezepte/BBQNudelsalat)
+* [BBQ Chicken Nudelsalat](https://radiatortwo.github.io/rezepte/BBQChickenNudelsalat)
