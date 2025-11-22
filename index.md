@@ -25,6 +25,7 @@
 * [Süß Saure Chicken Bällchen](https://radiatortwo.github.io/rezepte/ChickenBalls)
 * [Hokkien Mee](https://radiatortwo.github.io/rezepte/HokkienMee)
 * [Chili Knoblauch Nudeln](https://radiatortwo.github.io/rezepte/ChiliGarlicNoodles)
+* [Rindfleisch Marinade](https://radiatortwo.github.io/rezepte/AsiaRindfleischMarinade)
 
 ## Amerikanisch & Fusion
 * [Hackfleisch Bohnen mit Reis](https://radiatortwo.github.io/rezepte/HackfleischBohnen)
