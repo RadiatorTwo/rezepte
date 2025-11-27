@@ -26,6 +26,7 @@
 * [Hokkien Mee](https://radiatortwo.github.io/rezepte/HokkienMee)
 * [Chili Knoblauch Nudeln](https://radiatortwo.github.io/rezepte/ChiliGarlicNoodles)
 * [Rindfleisch Marinade](https://radiatortwo.github.io/rezepte/AsiaRindfleischMarinade)
+* [Garnelen Nudelsalat](https://radiatortwo.github.io/rezepte/AsiaGarnelenNudelsalat)
 
 ## Amerikanisch & Fusion
 * [Hackfleisch Bohnen mit Reis](https://radiatortwo.github.io/rezepte/HackfleischBohnen)
