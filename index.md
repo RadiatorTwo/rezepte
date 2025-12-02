@@ -66,6 +66,7 @@
 * [Knoblauch Butter Kartoffel Pops](https://radiatortwo.github.io/rezepte/KartoffelPops)
 * [Würzige Kartoffel-Nudeln](https://radiatortwo.github.io/rezepte/KartoffelNudeln)
 * [Käse-Reispapier-Nudeln](https://radiatortwo.github.io/rezepte/KaeseReispapierNudeln)
+* [Spaghetti Alfredo mit Garnelen](https://radiatortwo.github.io/rezepte/SpaghettiAlfredo)
 
 ## Airfryer Rezepte
 * [Apple Pancakes Air Fryer Edition](https://radiatortwo.github.io/rezepte/AirfryApplePancakes)
