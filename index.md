@@ -55,6 +55,7 @@
 * [Flammkuchen Brezel](https://radiatortwo.github.io/rezepte/BrezelFlammkuchen)
 * [Shakshuka](https://radiatortwo.github.io/rezepte/Shakshuka)
 * [Sweet & Sour Fried Eggs](https://radiatortwo.github.io/rezepte/SweetSourFriedEggs)
+* [Spaghetti Alfredo mit Garnelen](https://radiatortwo.github.io/rezepte/SpaghettiAlfredo)
 
 ## Snacks & Fingerfood
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
@@ -66,7 +67,6 @@
 * [Knoblauch Butter Kartoffel Pops](https://radiatortwo.github.io/rezepte/KartoffelPops)
 * [Würzige Kartoffel-Nudeln](https://radiatortwo.github.io/rezepte/KartoffelNudeln)
 * [Käse-Reispapier-Nudeln](https://radiatortwo.github.io/rezepte/KaeseReispapierNudeln)
-* [Spaghetti Alfredo mit Garnelen](https://radiatortwo.github.io/rezepte/SpaghettiAlfredo)
 
 ## Airfryer Rezepte
 * [Apple Pancakes Air Fryer Edition](https://radiatortwo.github.io/rezepte/AirfryApplePancakes)
