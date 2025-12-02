@@ -56,6 +56,7 @@
 * [Shakshuka](https://radiatortwo.github.io/rezepte/Shakshuka)
 * [Sweet & Sour Fried Eggs](https://radiatortwo.github.io/rezepte/SweetSourFriedEggs)
 * [Spaghetti Alfredo mit Garnelen](https://radiatortwo.github.io/rezepte/SpaghettiAlfredo)
+* [Garnelen Pasta mit Speck](https://radiatortwo.github.io/rezepte/SpeckGarnelenPasta)
 
 ## Snacks & Fingerfood
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
