@@ -397,7 +397,7 @@
                     type="text" 
                     id="searchInput" 
                     class="search-input" 
-                    placeholder="Suche nach Rezept oder Zutat..."
+                    placeholder="Suche nach Rezept oder Zutat... (mehrere Zutaten mit Komma trennen: Kohl, Mayonnaise)"
                     autocomplete="off">
             </div>
             <div class="filter-tabs" id="categoryFilters">
@@ -554,14 +554,32 @@
                 return;
             }
 
+            // Trenne Suchbegriffe bei Komma, Semikolon oder +
+            const searchTerms = query.split(/[,;+]/).map(term => term.trim()).filter(term => term);
+            
             const results = filteredRecipes.filter(recipe => {
-                // Suche im Titel
-                if (recipe.title.toLowerCase().includes(query)) return true;
+                // Wenn nur ein Suchbegriff: normale Suche
+                if (searchTerms.length === 1) {
+                    const term = searchTerms[0];
+                    // Suche im Titel
+                    if (recipe.title.toLowerCase().includes(term)) return true;
+                    
+                    // Suche in Zutaten
+                    return recipe.ingredients.some(ing => 
+                        ing.name.toLowerCase().includes(term)
+                    );
+                }
                 
-                // Suche in Zutaten
-                return recipe.ingredients.some(ing => 
-                    ing.name.toLowerCase().includes(query)
-                );
+                // Mehrere Suchbegriffe: ALLE müssen in den Zutaten vorkommen (AND-Suche)
+                return searchTerms.every(term => {
+                    // Prüfe ob der Begriff im Titel ist
+                    if (recipe.title.toLowerCase().includes(term)) return true;
+                    
+                    // Oder in irgendeiner Zutat vorkommt
+                    return recipe.ingredients.some(ing => 
+                        ing.name.toLowerCase().includes(term)
+                    );
+                });
             });
 
             displayRecipes(results);
