@@ -495,10 +495,13 @@
             // Aktiven Tab aktualisieren
             document.querySelectorAll('.filter-tab').forEach(tab => {
                 tab.classList.remove('active');
-                if (tab.dataset.category === category || (category === 'all' && tab.dataset.category === 'all')) {
-                    tab.classList.add('active');
-                }
             });
+            
+            // Finde und aktiviere den geklickten Tab
+            const clickedTab = document.querySelector(`.filter-tab[data-category="${category}"]`);
+            if (clickedTab) {
+                clickedTab.classList.add('active');
+            }
 
             // Filter anwenden
             if (category === 'all') {
