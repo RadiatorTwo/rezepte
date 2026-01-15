@@ -508,7 +508,7 @@
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "SweetSourFriedEggs",
@@ -640,7 +640,7 @@
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "BBQChickenNudelsalat",
@@ -925,7 +925,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 10
   },
   {
     "id": "GarlicBreadTortilla",
@@ -1166,7 +1166,7 @@
       }
     ],
     "category": "Airfryer Rezepte",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "ColeSlaw",
@@ -1249,7 +1249,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "PizzaLievitoMadre",
@@ -1395,7 +1395,7 @@
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "UdonNudeln",
@@ -1564,7 +1564,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "Lapskaus",
@@ -1722,7 +1722,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 6
   },
   {
     "id": "BBQNudelsalat",
@@ -1978,7 +1978,7 @@
       }
     ],
     "category": "Airfryer Rezepte",
-    "servings": 1
+    "servings": 6
   },
   {
     "id": "Eiersalat",
@@ -2065,7 +2065,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "SateSpiesse",
@@ -2247,7 +2247,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "Tteokbokki_Reiskuchen",
@@ -2373,7 +2373,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "FilipinoPorkTocino",
@@ -2493,7 +2493,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "Austernsosse",
@@ -2827,7 +2827,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 6
   },
   {
     "id": "ChickenBalls",
@@ -2948,7 +2948,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "LemonBrownies",
@@ -3446,7 +3446,7 @@
       }
     ],
     "category": "",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "PepperCornSauce",
@@ -3689,7 +3689,7 @@
       }
     ],
     "category": "Snacks & Fingerfood",
-    "servings": 1
+    "servings": 8
   },
   {
     "id": "KoreanFishCake",
@@ -3816,7 +3816,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "FilipinoPorkAdobo",
@@ -3947,7 +3947,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "BurgerBuns",
@@ -4054,7 +4054,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 6
   },
   {
     "id": "RaspberryBaconJamBurger",
@@ -4344,7 +4344,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "GruenesCurry",
@@ -4518,7 +4518,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 2
+    "servings": 3
   },
   {
     "id": "SteinpilzRisotto",
@@ -4676,7 +4676,7 @@
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "BangBangChicken",
@@ -4853,7 +4853,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "MealprepLoadedMuffins",
@@ -5078,7 +5078,7 @@
       }
     ],
     "category": "Mealprep",
-    "servings": 1
+    "servings": 6
   },
   {
     "id": "KartoffelSuppe",
@@ -5485,7 +5485,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "ThaiNudelpfanne",
@@ -5576,7 +5576,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "HackfleischBohnen",
@@ -5886,7 +5886,7 @@
       }
     ],
     "category": "Dessert",
-    "servings": 1
+    "servings": 8
   },
   {
     "id": "KartoffelNudeln",
@@ -6006,7 +6006,7 @@
       }
     ],
     "category": "Snacks & Fingerfood",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "BBQStreetCorn",
@@ -6417,7 +6417,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 3
   },
   {
     "id": "AsiaGarnelenNudelsalat",
@@ -6582,7 +6582,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "PadKana",
@@ -6972,7 +6972,7 @@
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "ReispapierRollen",
@@ -7121,7 +7121,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "HotHoneyRanch",
@@ -7336,7 +7336,7 @@
       }
     ],
     "category": "Snacks & Fingerfood",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "GriessAuflauf",
@@ -7421,7 +7421,7 @@
       }
     ],
     "category": "Dessert",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "PolloFino",
@@ -7517,7 +7517,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "AirfryApplePancakes",
@@ -7767,7 +7767,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "KaeseReispapierNudeln",
@@ -8012,7 +8012,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "RotesCurry",
@@ -8165,7 +8165,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 2
+    "servings": 3
   },
   {
     "id": "NaughtySandwich",
@@ -8338,7 +8338,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "MexHackfleisch",
@@ -8472,7 +8472,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "AirfryLachsroellchen",
@@ -8639,7 +8639,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 8
   },
   {
     "id": "PigShots",
@@ -8971,7 +8971,7 @@
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "GarnelenPasta",
@@ -9109,7 +9109,7 @@
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "McRibSauce",
@@ -9285,7 +9285,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "ZucchiniSchupfnudelPfanne",
@@ -9405,7 +9405,7 @@
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "Shakshuka",
@@ -9548,7 +9548,7 @@
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "MapleBaconPartyRibs",
@@ -9676,7 +9676,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "BurgerRemoulade",
@@ -10053,7 +10053,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "PadThai",
@@ -10316,7 +10316,7 @@
       }
     ],
     "category": "Airfryer Rezepte",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "LaugenbriocheCheeseburger",
@@ -10497,7 +10497,7 @@
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 3
   },
   {
     "id": "HoneyButterChicken",
@@ -10748,7 +10748,7 @@
       }
     ],
     "category": "Airfryer Rezepte",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "ShotgunShells",
@@ -11007,6 +11007,6 @@
       }
     ],
     "category": "Dessert",
-    "servings": 1
+    "servings": 12
   }
 ]
