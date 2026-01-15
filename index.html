@@ -751,8 +751,8 @@
                 
                 return `
                     <div class="recipe-card" onclick="openRecipe('${recipe.id}')">
-                        ${recipe.image 
-                            ? `<img src="${recipe.image}" alt="${recipe.title}" class="recipe-image">` 
+                        ${recipe.image && recipe.image.trim()
+                            ? `<img src="${recipe.image}" alt="${recipe.title}" class="recipe-image" onerror="this.outerHTML='<div class=\\'recipe-placeholder\\'>🍽️</div>'">`
                             : '<div class="recipe-placeholder">🍽️</div>'}
                         <div class="recipe-content">
                             ${recipe.category ? `<span class="recipe-category">${recipe.category}</span>` : ''}
