@@ -381,23 +381,25 @@
 
         /* Responsive */
         @media (max-width: 768px) {
+            header {
+                padding: 1rem;
+            }
+
             header h1 {
-                font-size: 2rem;
+                font-size: 1.5rem;
             }
 
-            .recipes-grid {
-                grid-template-columns: 1fr;
-                gap: 1rem;
+            header p {
+                font-size: 0.85rem;
             }
 
-            .modal-content {
-                margin: 0;
-                border-radius: 0;
-                max-height: 100vh;
+            .container {
+                padding: 1rem 0.5rem;
             }
 
-            .modal-body {
-                padding: 1.5rem;
+            .search-section {
+                padding: 1rem;
+                border-radius: 8px;
             }
 
             .search-box {
@@ -406,6 +408,173 @@
 
             .search-input {
                 width: 100%;
+                font-size: 16px; /* Verhindert Zoom auf iOS */
+            }
+
+            .filter-tabs {
+                overflow-x: auto;
+                flex-wrap: nowrap;
+                padding-bottom: 0.5rem;
+                -webkit-overflow-scrolling: touch;
+            }
+
+            .filter-tab {
+                flex-shrink: 0;
+                padding: 0.4rem 0.8rem;
+                font-size: 0.85rem;
+            }
+
+            /* Rezept-Karten: Kompaktes horizontales Layout */
+            .recipes-grid {
+                grid-template-columns: 1fr;
+                gap: 0.75rem;
+            }
+
+            .recipe-card {
+                display: flex;
+                flex-direction: row;
+                border-radius: 8px;
+            }
+
+            .recipe-image, .recipe-placeholder {
+                width: 100px;
+                min-width: 100px;
+                height: 100px;
+                border-radius: 8px 0 0 8px;
+            }
+
+            .recipe-placeholder {
+                font-size: 2rem;
+            }
+
+            .recipe-content {
+                padding: 0.75rem;
+                min-height: auto;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+            }
+
+            .recipe-title {
+                font-size: 1rem;
+                margin-bottom: 0.25rem;
+            }
+
+            .recipe-category {
+                font-size: 0.7rem;
+                padding: 0.15rem 0.5rem;
+                margin-bottom: 0.25rem;
+            }
+
+            .recipe-preview {
+                font-size: 0.8rem;
+                -webkit-line-clamp: 2;
+            }
+
+            /* Modal: Vollbild mit sticky Header */
+            .modal {
+                padding: 0;
+            }
+
+            .modal-content {
+                margin: 0;
+                border-radius: 0;
+                min-height: 100vh;
+                max-height: none;
+            }
+
+            .modal-header {
+                position: sticky;
+                top: 0;
+                background: var(--card-bg);
+                z-index: 10;
+                padding: 1rem;
+                border-bottom: 1px solid var(--border);
+            }
+
+            .modal-close {
+                top: 0.5rem;
+                right: 0.5rem;
+                width: 44px;
+                height: 44px;
+                font-size: 1.5rem;
+                background: var(--background);
+                border-radius: 50%;
+            }
+
+            .modal-image {
+                max-height: 200px;
+            }
+
+            .modal-body {
+                padding: 1rem;
+            }
+
+            .modal-title {
+                font-size: 1.5rem;
+                margin-bottom: 0.5rem;
+            }
+
+            /* Portionen: Größere Touch-Targets */
+            .portion-control {
+                margin: 1rem 0;
+                padding: 0.75rem;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 0.5rem;
+            }
+
+            .portion-btn {
+                width: 44px;
+                height: 44px;
+                font-size: 1.4rem;
+            }
+
+            .portion-value {
+                font-size: 1.3rem;
+                min-width: 50px;
+            }
+
+            /* Zutaten & Zubereitung */
+            .ingredients-section, .instructions-section {
+                margin: 1rem 0;
+            }
+
+            .section-title {
+                font-size: 1.2rem;
+                margin-bottom: 0.75rem;
+            }
+
+            .ingredient-group-title,
+            .instruction-group-title {
+                font-size: 1rem;
+            }
+
+            .ingredient-item {
+                padding: 0.5rem 0.75rem;
+                font-size: 0.9rem;
+            }
+
+            .instruction-item {
+                padding: 0.75rem;
+                font-size: 0.9rem;
+            }
+        }
+
+        /* Noch kleinere Screens */
+        @media (max-width: 380px) {
+            .recipe-image, .recipe-placeholder {
+                width: 80px;
+                min-width: 80px;
+                height: 80px;
+            }
+
+            .recipe-title {
+                font-size: 0.9rem;
+            }
+
+            .recipe-preview {
+                display: none;
             }
         }
 
