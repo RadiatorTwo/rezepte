@@ -930,7 +930,7 @@
   {
     "id": "GarlicBreadTortilla",
     "title": "Cheesy Garlic Bread Tortilla",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheese-tortilla.jpg",
     "ingredients": [
       {
         "amount": 2.0,
@@ -1038,7 +1038,7 @@
   {
     "id": "BrezelFlammkuchen",
     "title": "Flammkuchen Brezel",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/flammkuchen-brezeln.jpg",
     "ingredients": [
       {
         "amount": 1.0,
@@ -1104,7 +1104,7 @@
   {
     "id": "AirfryerRavioli",
     "title": "Airfryer Ravioli",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/air-fryer-ravioli.jpg",
     "ingredients": [
       {
         "amount": 340.0,
@@ -1727,7 +1727,7 @@
   {
     "id": "BBQNudelsalat",
     "title": "BBQ-Nudelsalat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bbq_nudelsalat.jpeg",
     "ingredients": [
       {
         "amount": 500.0,
@@ -1983,7 +1983,7 @@
   {
     "id": "Eiersalat",
     "title": "Eiersalat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/eiersalat.webp",
     "ingredients": [
       {
         "amount": 10.0,
@@ -2378,7 +2378,7 @@
   {
     "id": "FilipinoPorkTocino",
     "title": "Filipino Pork Tocino",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pork-tocino.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -2552,7 +2552,7 @@
   {
     "id": "KartoffelPops",
     "title": "Garlic Butter Potato Pops",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic_potato_pops.jpg",
     "ingredients": [
       {
         "amount": 2.0,
@@ -2832,7 +2832,7 @@
   {
     "id": "ChickenBalls",
     "title": "Sweet and Sour Chicken Balls",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chicken_balls.webp",
     "ingredients": [
       {
         "amount": null,
@@ -3113,7 +3113,7 @@
   {
     "id": "AirfryLasagneWrap",
     "title": "Airfryer Lasagne Wrap",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-lasagne-wrap.jpg",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3302,7 +3302,7 @@
   {
     "id": "PadThaiUdon",
     "title": "Pad Thai mit Udon Nudeln und Rindfleisch",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pad-thai-udon-nudeln.webp",
     "ingredients": [
       {
         "amount": null,
@@ -3451,7 +3451,7 @@
   {
     "id": "PepperCornSauce",
     "title": "Peppercorn-Soße – Flambierte Pfefferkornsoße mit Röstaromen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/peppercorn.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3603,7 +3603,7 @@
   {
     "id": "HotDogPineCones",
     "title": "Hot Dog Pinecones",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hotdog_pinecone.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3821,7 +3821,7 @@
   {
     "id": "FilipinoPorkAdobo",
     "title": "Filipino Coconut Pork Adobo",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/coconut-pork-adobo.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -4059,21 +4059,21 @@
   {
     "id": "RaspberryBaconJamBurger",
     "title": "Raspberry Bacon Jam Burger",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/raspbacon-jam-cheeseburger.webp",
     "ingredients": [
       {
-        "amount": 450.0,
-        "unit": "g",
-        "name": "Bacon (gewürfelt)",
+        "amount": null,
+        "unit": "",
+        "name": "450g Bacon, gewürfelt",
         "group": "Für die Raspberry Bacon Jam",
-        "original": "450 g Bacon (gewürfelt)"
+        "original": "450g Bacon, gewürfelt"
       },
       {
         "amount": 1.0,
         "unit": "weiße",
-        "name": "Zwiebel (gewürfelt)",
+        "name": "Zwiebel, gewürfelt",
         "group": "Für die Raspberry Bacon Jam",
-        "original": "1 weiße Zwiebel (gewürfelt)"
+        "original": "1 weiße Zwiebel, gewürfelt"
       },
       {
         "amount": null,
@@ -4106,16 +4106,23 @@
       {
         "amount": null,
         "unit": "",
-        "name": "Salz und Pfeffer nach Geschmack",
+        "name": "Salz",
         "group": "Für die Raspberry Bacon Jam",
-        "original": "Salz und Pfeffer nach Geschmack"
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Raspberry Bacon Jam",
+        "original": "Pfeffer"
       },
       {
         "amount": 4.0,
         "unit": "Rindfleischbällchen",
-        "name": "(je 110 g, 75/25 Mischung)",
+        "name": "(je 110g, 75/25 Mischung)",
         "group": "Für den Burger",
-        "original": "4 Rindfleischbällchen (je 110 g, 75/25 Mischung)"
+        "original": "4 Rindfleischbällchen (je 110g, 75/25 Mischung)"
       },
       {
         "amount": null,
@@ -4162,84 +4169,32 @@
     ],
     "instructions": [
       {
-        "text": "Eine schwere Pfanne bei mittlerer bis hoher Hitze erhitzen und den gewürfelten Bacon darin 10-15 Minuten knusprig braten.",
-        "group": ""
+        "text": "Eine schwere Pfanne bei mittlerer bis hoher Hitze erhitzen und den gewürfelten Bacon darin 10-15 Minuten knusprig braten. Bacon herausnehmen und das überschüssige Fett abgießen, aber die Bratreste in der Pfanne lassen.",
+        "group": "Himbeer-Bacon-Marmelade zubereiten"
       },
       {
-        "text": "Bacon herausnehmen und das überschüssige Fett abgießen, aber die Bratreste in der Pfanne lassen.",
-        "group": ""
+        "text": "Die gewürfelte Zwiebel in die Pfanne geben und 3 Minuten anschwitzen. Kaffee, braunen Zucker und Himbeeren hinzufügen und gut verrühren. Sobald die Himbeeren beginnen zu zerfallen, mit Salz und Pfeffer würzen und den Bacon wieder in die Pfanne geben.",
+        "group": "Himbeer-Bacon-Marmelade zubereiten"
       },
       {
-        "text": "Die gewürfelte Zwiebel in die Pfanne geben und 3 Minuten anschwitzen.",
-        "group": ""
+        "text": "Auf mittlerer bis niedriger Hitze 45-50 Minuten köcheln lassen, bis die Marmelade eindickt. Beiseitestellen, während die Burger zubereitet werden.",
+        "group": "Himbeer-Bacon-Marmelade zubereiten"
       },
       {
-        "text": "Kaffee, braunen Zucker und Himbeeren hinzufügen und gut verrühren.",
-        "group": ""
+        "text": "Eine Pfanne oder Grillplatte auf mittlerer bis hoher Hitze vorheizen. Die Rindfleischbällchen in die heiße Pfanne geben. Dünn geschnittene Jalapeños auf jedes Patty legen, dann mit einem Spatel flachdrücken. Mit Jalapeño-Salz oder einer scharfen Gewürzmischung würzen.",
+        "group": "Burger braten"
       },
       {
-        "text": "Sobald die Himbeeren beginnen zu zerfallen, mit Salz und Pfeffer würzen und den Bacon wieder in die Pfanne geben.",
-        "group": ""
+        "text": "Nach 90 Sekunden wenden und mit Havarti-Käse belegen. Weitere 30 Sekunden braten, bis der Käse geschmolzen ist.",
+        "group": "Burger braten"
       },
       {
-        "text": "Auf mittlerer bis niedriger Hitze 45-50 Minuten köcheln lassen, bis die Marmelade eindickt.",
-        "group": ""
-      },
-      {
-        "text": "Beiseitestellen, während die Burger zubereitet werden.",
-        "group": ""
-      },
-      {
-        "text": "Burger braten:",
-        "group": ""
-      },
-      {
-        "text": "Eine Pfanne oder Grillplatte auf mittlerer bis hoher Hitze vorheizen.",
-        "group": ""
-      },
-      {
-        "text": "Die Rindfleischbällchen in die heiße Pfanne geben.",
-        "group": ""
-      },
-      {
-        "text": "Dünn geschnittene Jalapeños auf jedes Patty legen, dann mit einem Spatel flachdrücken.",
-        "group": ""
-      },
-      {
-        "text": "Mit Jalapeño-Salz oder einer scharfen Gewürzmischung würzen.",
-        "group": ""
-      },
-      {
-        "text": "Nach 90 Sekunden wenden und mit Havarti-Käse belegen.",
-        "group": ""
-      },
-      {
-        "text": "Weitere 30 Sekunden braten, bis der Käse geschmolzen ist.",
-        "group": ""
-      },
-      {
-        "text": "Burger zusammenbauen:",
-        "group": ""
-      },
-      {
-        "text": "Laugenbrötchen aufschneiden und die untere Hälfte mit geschlagenem Frischkäse bestreichen.",
-        "group": ""
-      },
-      {
-        "text": "Zwei Jalapeño-Patties darauf stapeln.",
-        "group": ""
-      },
-      {
-        "text": "Die Oberseite des Brötchens großzügig mit Raspberry Bacon Jam bestreichen.",
-        "group": ""
-      },
-      {
-        "text": "Oberseite auflegen und genießen!",
-        "group": ""
+        "text": "Laugenbrötchen aufschneiden und die untere Hälfte mit geschlagenem Frischkäse bestreichen. Zwei Jalapeño-Patties darauf stapeln. Die Oberseite des Brötchens großzügig mit Raspberry Bacon Jam bestreichen. Oberseite auflegen und genießen!",
+        "group": "Burger zusammenbauen"
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "FruehstuecksBrot",
@@ -4726,7 +4681,7 @@
   {
     "id": "BangBangChicken",
     "title": "Bang Bang Chicken",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-chicken.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -4903,7 +4858,7 @@
   {
     "id": "MealprepLoadedMuffins",
     "title": "Loaded Breakfast McMuffins",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/breakfest-mcmuffin.jpg",
     "ingredients": [
       {
         "amount": null,
@@ -5391,7 +5346,7 @@
   {
     "id": "HokkienMee",
     "title": "Hokkien Mee",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hokkien-mee.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -5751,7 +5706,7 @@
   {
     "id": "CinnamonPullApartBread",
     "title": "Cinnamon Pull Apart Bread",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cinnamon-pull-apart-bread.jpg",
     "ingredients": [
       {
         "amount": 3.0,
@@ -6467,7 +6422,7 @@
   {
     "id": "AsiaGarnelenNudelsalat",
     "title": "Asiatischer Garnelen Nudelsalat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chili_garnelen_nudelsalat.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -7302,7 +7257,7 @@
   {
     "id": "FrenchBreadSnack",
     "title": "Easy French Bread Snack",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/french-bread-snack.webp",
     "ingredients": [
       {
         "amount": 150.0,
