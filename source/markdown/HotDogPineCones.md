@@ -1,5 +1,7 @@
 # Hot Dog Pinecones
 
+![](https://radiatortwo.github.io/rezepte/pics/)
+
 Portionen: 1
 
 ## Zutaten

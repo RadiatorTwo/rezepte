@@ -1,5 +1,7 @@
 # Käse-Reispapier-Nudeln
 
+![](https://radiatortwo.github.io/rezepte/pics/kaese-reispapier.png)
+
 Portionen: 1
 
 ## Zutaten

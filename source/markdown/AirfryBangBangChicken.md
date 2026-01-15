@@ -1,5 +1,7 @@
 # Bang Bang Chicken Airfryer Edition
 
+![](https://radiatortwo.github.io/rezepte/pics/bang-bang-chicken.jpg)
+
 Portionen: 1
 
 ## Zutaten

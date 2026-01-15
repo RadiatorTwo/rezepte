@@ -1,5 +1,7 @@
 # Asiatischer Garnelen Nudelsalat
 
+![](https://radiatortwo.github.io/rezepte/pics/)
+
 Portionen: 1
 
 ## Zutaten

@@ -1,5 +1,7 @@
 # Bester Nudelsalat
 
+![](https://radiatortwo.github.io/rezepte/pics/best-nudelsalat.webp)
+
 Portionen: 1
 
 ## Zutaten

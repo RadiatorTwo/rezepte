@@ -1,5 +1,7 @@
 # Cheesy Garlic Potato Bites
 
+![](https://radiatortwo.github.io/rezepte/pics/)
+
 Portionen: 1
 
 ## Zutaten

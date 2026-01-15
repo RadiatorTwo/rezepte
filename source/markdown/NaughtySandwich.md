@@ -1,5 +1,7 @@
 # Naughty Sandwich
 
+![](https://radiatortwo.github.io/rezepte/pics/naughty-sandwich.png)
+
 Portionen: 1
 
 ## Zutaten

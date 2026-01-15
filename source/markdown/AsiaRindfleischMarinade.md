@@ -1,5 +1,7 @@
 # Rindfleisch-Marinade (Asiatisch)
 
+![](https://radiatortwo.github.io/rezepte/pics/rindfleisch-marinade-asia.jpg)
+
 Portionen: 1
 
 ## Zutaten

@@ -1,5 +1,7 @@
 # Chicken Teriyaki Sandwich
 
+![](https://radiatortwo.github.io/rezepte/pics/teriyaki-chicken-sub.jpg)
+
 Portionen: 1
 
 ## Zutaten

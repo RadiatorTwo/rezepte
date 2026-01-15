@@ -1,5 +1,7 @@
 # Loaded Breakfast McMuffins
 
+![](https://radiatortwo.github.io/rezepte/pics/)
+
 Portionen: 1
 
 ## Zutaten

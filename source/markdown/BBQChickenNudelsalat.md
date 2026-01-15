@@ -1,5 +1,7 @@
 # BBQ-Hähnchen-Nudelsalat
 
+![](https://radiatortwo.github.io/rezepte/pics/bbq-chicken-nudelsalat.webp)
+
 Portionen: 6
 
 ## Zutaten

@@ -1,5 +1,7 @@
 # Sweet and Sour Chicken Balls
 
+![](https://radiatortwo.github.io/rezepte/pics/)
+
 Portionen: 1
 
 ## Zutaten

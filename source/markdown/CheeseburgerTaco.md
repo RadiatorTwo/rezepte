@@ -1,5 +1,7 @@
 # Cheeseburger Tacos
 
+![](https://radiatortwo.github.io/rezepte/pics/cheeseburger-taco.png)
+
 Portionen: 1
 
 ## Zutaten

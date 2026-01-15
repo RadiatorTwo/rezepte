@@ -1,5 +1,7 @@
 # Spaghetti mit Garnelen und Speck in Sahnesauce
 
+![](https://radiatortwo.github.io/rezepte/pics/spaghetti-garnelen-speck.webp)
+
 Portionen: 1
 
 ## Zutaten

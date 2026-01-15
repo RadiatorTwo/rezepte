@@ -1,5 +1,7 @@
 # Apple Pancakes Air Fryer Edition
 
+![](https://radiatortwo.github.io/rezepte/pics/apple-pancakes.webp)
+
 Portionen: 1
 
 ## Zutaten
