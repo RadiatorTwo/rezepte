@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/guinness-cake.webp)
 
-Portionen: 1
+Portionen: 12
 
 ## Zutaten
 

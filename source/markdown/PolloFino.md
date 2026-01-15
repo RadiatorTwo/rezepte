@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/pollo_fino.jpg)
 
-Portionen: 1
+Portionen: 4
 
 ## Zutaten
 

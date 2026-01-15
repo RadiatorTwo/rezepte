@@ -4,7 +4,7 @@
 
 Ein herzhaft-würziger Leberkäsebraten mit BBQ-Aroma.
 
-Portionen: 1
+Portionen: 8
 
 ## Zutaten
 1 kg Rinderhackfleisch

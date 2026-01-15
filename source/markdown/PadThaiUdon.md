@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/pad-thai-udon-nudeln.webp)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

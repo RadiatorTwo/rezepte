@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/hokkien-mee.webp)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

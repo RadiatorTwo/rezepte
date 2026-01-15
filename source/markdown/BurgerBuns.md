@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/burger_buns.jpg)
 
-Portionen: 1
+Portionen: 6
 
 ## Zutaten
 

@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/SpaghettiAlfredo.jpg)
 
-Portionen: 1
+Portionen: 2
 
 Ein köstliches Pasta-Gericht mit saftigen Garnelen in einer reichhaltigen, cremigen Sauce.
 

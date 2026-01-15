@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/mayak_eggs.jpg)
 
-Portionen: 1
+Portionen: 3
 
 ## Zutaten
 

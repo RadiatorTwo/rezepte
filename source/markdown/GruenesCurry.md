@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/gruenes_curry.jpg)
 
-Portionen: 2
+Portionen: 3
 
 ## Zutaten
 

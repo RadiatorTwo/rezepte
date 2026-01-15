@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/bang-bang-chicken.webp)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

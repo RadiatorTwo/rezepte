@@ -3,7 +3,7 @@
 ![](https://radiatortwo.github.io/rezepte/pics/sweet_sour_fried_eggs.webp)
 sweet_sour_fried_eggs.webp
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/tteokbokki.jpg)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

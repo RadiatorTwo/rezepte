@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/lapskaus.webp)
 
-Portionen: 1
+Portionen: 6
 
 ## Zutaten
 

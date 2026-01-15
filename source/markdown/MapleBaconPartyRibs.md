@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/maple-bacon-party-ribs.png)
 
-Portionen: 1
+Portionen: 4
 
 ## Zutaten
 

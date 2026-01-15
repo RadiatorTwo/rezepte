@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/udonnudeln.jpg)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/rindfleisch-marinade-asia.jpg)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

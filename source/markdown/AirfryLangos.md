@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/langos-airfryer.webp)
 
-Portionen: 1
+Portionen: 6
 
 ## Zutaten
 

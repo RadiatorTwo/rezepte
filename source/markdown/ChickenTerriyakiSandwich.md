@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/teriyaki-chicken-sub.jpg)
 
-Portionen: 1
+Portionen: 4
 
 ## Zutaten
 

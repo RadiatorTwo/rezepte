@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/reispapier_rollen.webp)
 
-Portionen: 1
+Portionen: 4
 
 ## Zutaten
 

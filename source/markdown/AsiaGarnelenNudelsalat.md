@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/chili_garnelen_nudelsalat.webp)
 
-Portionen: 1
+Portionen: 4
 
 ## Zutaten
 

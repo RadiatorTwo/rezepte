@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/white_bbq_tacos.jpg)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

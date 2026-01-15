@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/garnelen_pasta.jpg)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

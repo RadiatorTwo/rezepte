@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/cinnamon-pull-apart-bread.jpg)
 
-Portionen: 1
+Portionen: 8
 
 ## Zutaten
 

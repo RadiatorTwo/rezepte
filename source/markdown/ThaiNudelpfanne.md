@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/thai_nudeln.jpg)
 
-Portionen: 1
+Portionen: 2
 
 ## Zutaten
 

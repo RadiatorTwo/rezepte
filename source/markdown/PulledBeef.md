@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/pulled_beef.jpg)
 
-Portionen: 1
+Portionen: 10
 
 ## Zutaten
 

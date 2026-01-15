@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/w_rind_streifen.webp)
 
-Portionen: 1
+Portionen: 4
 
 ## Zutaten
 

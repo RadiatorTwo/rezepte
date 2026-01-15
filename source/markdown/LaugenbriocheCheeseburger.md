@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.png)
 
-Portionen: 1
+Portionen: 3
 
 ## Zutaten
 

@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/hotdog_pinecone.webp)
 
-Portionen: 1
+Portionen: 8
 
 ## Zutaten
 

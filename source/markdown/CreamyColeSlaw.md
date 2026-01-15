@@ -2,7 +2,7 @@
 
 ![](https://radiatortwo.github.io/rezepte/pics/creamy_coleslaw.jpg)
 
-Portionen: 1
+Portionen: 6
 
 ## Zutaten
 
