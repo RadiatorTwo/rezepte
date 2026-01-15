@@ -111,7 +111,11 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
         
         if not line:
             continue
-        
+
+        # Überspringe Metadaten-Zeilen
+        if line.lower().startswith('portionen:') or line.lower().startswith('zutaten:'):
+            continue
+
         # Entferne Backslashes am Zeilenende
         line = line.rstrip('\\').strip()
         
@@ -132,11 +136,17 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
     # Anweisungen übernehmen
     recipe['instructions'] = instructions_section
     
-    # Versuche Portionen zu erkennen (z.B. aus "für 4 Personen")
-    full_text = content.lower()
-    servings_match = re.search(r'(?:für|ergibt)\s+(\d+)\s+(?:personen|portionen)', full_text)
+    # Versuche Portionen zu erkennen
+    # Priorität 1: Dedizierte "Portionen: X" Zeile
+    servings_match = re.search(r'^Portionen:\s*(\d+)', content, re.MULTILINE | re.IGNORECASE)
     if servings_match:
         recipe['servings'] = int(servings_match.group(1))
+    else:
+        # Priorität 2: Fallback auf "für X Personen" oder "ergibt X Portionen"
+        full_text = content.lower()
+        servings_match = re.search(r'(?:für|ergibt)\s+(\d+)\s+(?:personen|portionen)', full_text)
+        if servings_match:
+            recipe['servings'] = int(servings_match.group(1))
     
     return recipe
 
@@ -184,8 +194,8 @@ def convert_recipes(recipes_dir: str, output_file: str):
         with open(index_file, 'r', encoding='utf-8') as f:
             categories_map = parse_index_markdown(f.read())
     
-    # Alle .md Dateien durchgehen (außer index.md)
-    md_files = [f for f in recipes_path.glob('*.md') if f.name != 'index.md']
+    # Alle .md Dateien durchgehen (außer index.md und VORLAGE.md)
+    md_files = [f for f in recipes_path.glob('*.md') if f.name not in ('index.md', 'VORLAGE.md')]
     
     for md_file in md_files:
         print(f"Verarbeite {md_file.name}...")

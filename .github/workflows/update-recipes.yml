@@ -1,0 +1,32 @@
+name: Update recipes.json
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'source/markdown/**'
+
+jobs:
+  update-recipes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate recipes.json
+        run: python source/convert_recipes.py source/markdown recipes.json
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add recipes.json
+          git diff --staged --quiet || git commit -m "Update recipes.json [automated]"
+          git push
