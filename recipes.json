@@ -1569,169 +1569,156 @@
   {
     "id": "Lapskaus",
     "title": "Norwegischer Rindereintopf (Lapskaus)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/lapskaus.webp",
     "ingredients": [
       {
         "amount": 1.2,
         "unit": "kg",
         "name": "Rindfleisch (Schmorqualität, z. B. Rinderwade oder Short Rib), gewürfelt",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1,2 kg Rindfleisch (Schmorqualität, z. B. Rinderwade oder Short Rib), gewürfelt"
       },
       {
         "amount": 2.0,
         "unit": "große",
         "name": "Zwiebeln (oder 1 große Lauchstange), gehackt",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "2 große Zwiebeln (oder 1 große Lauchstange), gehackt"
       },
       {
-        "amount": 600.0,
-        "unit": "g",
-        "name": "Kartoffeln, geschält und gewürfelt",
-        "group": "",
-        "original": "600 g Kartoffeln, geschält und gewürfelt"
+        "amount": null,
+        "unit": "",
+        "name": "600g Kartoffeln, geschält und gewürfelt",
+        "group": "Hauptzutaten",
+        "original": "600g Kartoffeln, geschält und gewürfelt"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Karotten, geschält und in Stücke geschnitten",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "4 Karotten, geschält und in Stücke geschnitten"
       },
       {
         "amount": 3.0,
         "unit": "Stangen",
         "name": "Sellerie, gewürfelt",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "3 Stangen Sellerie, gewürfelt"
       },
       {
         "amount": 1.0,
         "unit": "kleine",
         "name": "Steckrübe (oder Kohlrübe), geschält und gewürfelt",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1 kleine Steckrübe (oder Kohlrübe), geschält und gewürfelt"
       },
       {
         "amount": 800.0,
         "unit": "ml",
         "name": "kräftige Rinderbrühe",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "800 ml kräftige Rinderbrühe"
       },
       {
         "amount": 300.0,
         "unit": "ml",
         "name": "Rotwein (optional, alternativ mehr Brühe)",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "300 ml Rotwein (optional, alternativ mehr Brühe)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Olivenöl zum Anbraten",
+        "group": "Weitere Zutaten",
+        "original": "Olivenöl zum Anbraten"
+      },
+      {
+        "amount": 4.0,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Weitere Zutaten",
+        "original": "4 EL Butter"
+      },
+      {
+        "amount": 3.0,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "Weitere Zutaten",
+        "original": "3 EL Mehl"
+      },
+      {
+        "amount": 1.0,
+        "unit": "EL",
+        "name": "Senf (optional)",
+        "group": "Weitere Zutaten",
+        "original": "1 EL Senf (optional)"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "Lorbeerblätter",
+        "group": "Weitere Zutaten",
+        "original": "2 Lorbeerblätter"
+      },
+      {
+        "amount": 2.0,
+        "unit": "TL",
+        "name": "fein gehackter Thymian",
+        "group": "Weitere Zutaten",
+        "original": "2 TL fein gehackter Thymian"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Weitere Zutaten",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Weitere Zutaten",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Frische Petersilie zum Garnieren",
+        "group": "Weitere Zutaten",
+        "original": "Frische Petersilie zum Garnieren"
       }
     ],
     "instructions": [
       {
-        "text": "Olivenöl zum Anbraten",
-        "group": ""
+        "text": "Das Rindfleisch in mundgerechte Stücke (2-3 cm) schneiden. 1 EL Butter und etwas Olivenöl in einer Pfanne auf mittlerer bis hoher Hitze erhitzen. Das Fleisch portionsweise anbraten, sodass es rundherum eine schöne braune Kruste bekommt. Das Fleisch beiseitestellen.",
+        "group": "Fleisch anbraten"
       },
       {
-        "text": "4 EL Butter",
-        "group": ""
+        "text": "Die restliche Butter in einem großen Topf schmelzen und die Zwiebeln darin etwa 3 Minuten anbraten, bis sie weich sind. Das angebratene Fleisch zurück in den Topf geben.",
+        "group": "Eintopf vorbereiten"
       },
       {
-        "text": "3 EL Mehl",
-        "group": ""
+        "text": "Das Mehl darüber streuen und gut umrühren. 2 Minuten anschwitzen, damit der Mehlgeschmack verschwindet.",
+        "group": "Eintopf vorbereiten"
       },
       {
-        "text": "1 EL Senf (optional)",
-        "group": ""
+        "text": "Nach und nach den Senf, die Rinderbrühe und den Rotwein einrühren. Lorbeerblätter und Thymian hinzufügen. Den Deckel aufsetzen und den Eintopf 1 Stunde köcheln lassen, gelegentlich umrühren.",
+        "group": "Eintopf vorbereiten"
       },
       {
-        "text": "2 Lorbeerblätter",
-        "group": ""
+        "text": "Währenddessen das Gemüse in 1 cm große Würfel schneiden. Die Lorbeerblätter und Thymianzweige entfernen.",
+        "group": "Gemüse hinzufügen"
       },
       {
-        "text": "2 TL fein gehackter Thymian",
-        "group": ""
+        "text": "Kartoffeln, Karotten, Sellerie und Steckrübe in den Topf geben. Weitere 20-30 Minuten köcheln lassen, bis das Gemüse weich ist.",
+        "group": "Gemüse hinzufügen"
       },
       {
-        "text": "Salz und Pfeffer nach Geschmack",
-        "group": ""
-      },
-      {
-        "text": "Frische Petersilie zum Garnieren",
-        "group": ""
-      },
-      {
-        "text": "Das Rindfleisch in mundgerechte Stücke (2-3 cm) schneiden.",
-        "group": ""
-      },
-      {
-        "text": "1 EL Butter und etwas Olivenöl in einer Pfanne auf mittlerer bis hoher Hitze erhitzen.",
-        "group": ""
-      },
-      {
-        "text": "Das Fleisch portionsweise anbraten, sodass es rundherum eine schöne braune Kruste bekommt.",
-        "group": ""
-      },
-      {
-        "text": "Das Fleisch beiseitestellen.",
-        "group": ""
-      },
-      {
-        "text": "Die restliche Butter in einem großen Topf schmelzen und die Zwiebeln darin etwa 3 Minuten anbraten, bis sie weich sind.",
-        "group": ""
-      },
-      {
-        "text": "Das angebratene Fleisch zurück in den Topf geben.",
-        "group": ""
-      },
-      {
-        "text": "Das Mehl darüber streuen und gut umrühren.",
-        "group": ""
-      },
-      {
-        "text": "2 Minuten anschwitzen, damit der Mehlgeschmack verschwindet.",
-        "group": ""
-      },
-      {
-        "text": "Nach und nach den Senf, die Rinderbrühe und den Rotwein einrühren.",
-        "group": ""
-      },
-      {
-        "text": "Lorbeerblätter und Thymian hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "Den Deckel aufsetzen und den Eintopf 1 Stunde köcheln lassen, gelegentlich umrühren.",
-        "group": ""
-      },
-      {
-        "text": "Währenddessen das Gemüse in 1 cm große Würfel schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Die Lorbeerblätter und Thymianzweige entfernen.",
-        "group": ""
-      },
-      {
-        "text": "Kartoffeln, Karotten, Sellerie und Steckrübe in den Topf geben.",
-        "group": ""
-      },
-      {
-        "text": "Weitere 20-30 Minuten köcheln lassen, bis das Gemüse weich ist.",
-        "group": ""
-      },
-      {
-        "text": "Mit Salz und Pfeffer abschmecken.",
-        "group": ""
-      },
-      {
-        "text": "Mit frisch gehackter Petersilie garnieren und heiß servieren.",
-        "group": ""
-      },
-      {
-        "text": "Dazu passt frisches, knuspriges Brot mit Butter.",
-        "group": ""
+        "text": "Mit Salz und Pfeffer abschmecken. Mit frisch gehackter Petersilie garnieren und heiß servieren. Dazu passt frisches, knuspriges Brot mit Butter.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Amerikanisch & Fusion",
@@ -1885,28 +1872,21 @@
   {
     "id": "AirfryLangos",
     "title": "Langos AirFryer Edition",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/langos-airfryer.webp",
     "ingredients": [
       {
-        "amount": 6.0,
+        "amount": null,
         "unit": "",
-        "name": "Portionen",
-        "group": "",
-        "original": "6 Portionen"
+        "name": "275g Mehl",
+        "group": "Teig",
+        "original": "275g Mehl"
       },
       {
-        "amount": 275.0,
-        "unit": "g",
-        "name": "Mehl",
+        "amount": null,
+        "unit": "",
+        "name": "75g neutrales Proteinpulver",
         "group": "Teig",
-        "original": "275 g Mehl"
-      },
-      {
-        "amount": 75.0,
-        "unit": "g",
-        "name": "neutrales Proteinpulver",
-        "group": "Teig",
-        "original": "75 g neutrales Proteinpulver"
+        "original": "75g neutrales Proteinpulver"
       },
       {
         "amount": 180.0,
@@ -1916,11 +1896,11 @@
         "original": "180 ml Wasser (je nach Proteinpulver variieren)"
       },
       {
-        "amount": 8.0,
-        "unit": "g",
-        "name": "frische Hefe",
+        "amount": null,
+        "unit": "",
+        "name": "8g frische Hefe",
         "group": "Teig",
-        "original": "8 g frische Hefe"
+        "original": "8g frische Hefe"
       },
       {
         "amount": 1.0,
@@ -1930,81 +1910,71 @@
         "original": "1 Prise Salz"
       },
       {
-        "amount": 250.0,
-        "unit": "g",
-        "name": "Magerquark oder vegane Skyr-Alternative",
+        "amount": null,
+        "unit": "",
+        "name": "250g Magerquark oder vegane Skyr-Alternative",
         "group": "Knoblauch-Creme",
-        "original": "250 g Magerquark oder vegane Skyr-Alternative"
-      },
-      {
-        "amount": 100.0,
-        "unit": "g",
-        "name": "griechischer Joghurt oder Soja-Joghurt",
-        "group": "Knoblauch-Creme",
-        "original": "100 g griechischer Joghurt oder Soja-Joghurt"
+        "original": "250g Magerquark oder vegane Skyr-Alternative"
       },
       {
         "amount": null,
         "unit": "",
-        "name": "Frischer Schnittlauch (gehackt)",
+        "name": "100g griechischer Joghurt oder Soja-Joghurt",
         "group": "Knoblauch-Creme",
-        "original": "Frischer Schnittlauch (gehackt)"
+        "original": "100g griechischer Joghurt oder Soja-Joghurt"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Frischer Schnittlauch, gehackt",
+        "group": "Knoblauch-Creme",
+        "original": "Frischer Schnittlauch, gehackt"
       },
       {
         "amount": 2.0,
-        "unit": "Knoblauchzehen",
-        "name": "(gepresst)",
+        "unit": "",
+        "name": "Knoblauchzehen, gepresst",
         "group": "Knoblauch-Creme",
-        "original": "2 Knoblauchzehen (gepresst)"
+        "original": "2 Knoblauchzehen, gepresst"
       },
       {
         "amount": null,
         "unit": "",
-        "name": "Salz und Pfeffer nach Geschmack",
+        "name": "Salz",
         "group": "Knoblauch-Creme",
-        "original": "Salz und Pfeffer nach Geschmack"
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Knoblauch-Creme",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Öl zum Besprühen",
+        "group": "Außerdem",
+        "original": "Öl zum Besprühen"
       }
     ],
     "instructions": [
       {
-        "text": "Alle Zutaten für den Teig in eine Schüssel geben und vermengen.",
-        "group": ""
+        "text": "Alle Zutaten für den Teig in eine Schüssel geben und vermengen. Falls nötig, die Wassermenge je nach Proteinpulver anpassen. Den Teig 1 Stunde ruhen lassen.",
+        "group": "Teig vorbereiten"
       },
       {
-        "text": "Falls nötig, die Wassermenge je nach Proteinpulver anpassen.",
-        "group": ""
+        "text": "Alle Zutaten für die Knoblauch-Creme in eine kleine Schüssel geben und gut vermischen. Abschmecken und beiseitestellen.",
+        "group": "Knoblauch-Creme zubereiten"
       },
       {
-        "text": "Den Teig 1 Stunde ruhen lassen.",
-        "group": ""
+        "text": "Den Teig in 6 gleich große Portionen (ca. 85g) aufteilen. Mit der Hand zu Fladen formen. Mit etwas Öl besprühen und im AirFryer bei 200°C für ca. 8 Minuten goldbraun backen.",
+        "group": "Langos backen"
       },
       {
-        "text": "Alle Zutaten für die Knoblauch-Creme in eine kleine Schüssel geben und gut vermischen.",
-        "group": ""
-      },
-      {
-        "text": "Abschmecken und beiseitestellen.",
-        "group": ""
-      },
-      {
-        "text": "Den Teig in 6 gleich große Portionen (ca. 85 g) aufteilen.",
-        "group": ""
-      },
-      {
-        "text": "Mit der Hand zu Fladen formen.",
-        "group": ""
-      },
-      {
-        "text": "Mit etwas Öl besprühen und im AirFryer bei 200°C für ca. 8 Minuten goldbraun backen.",
-        "group": ""
-      },
-      {
-        "text": "Die fertigen Langos mit der Knoblauch-Creme bestreichen.",
-        "group": ""
-      },
-      {
-        "text": "Nach Belieben mit weiteren Toppings garnieren und genießen.",
-        "group": ""
+        "text": "Die fertigen Langos mit der Knoblauch-Creme bestreichen. Nach Belieben mit weiteren Toppings garnieren und genießen.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Airfryer Rezepte",
@@ -2070,16 +2040,13 @@
         "name": "Maggi",
         "group": "",
         "original": "2 EL Maggi"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Die gekochten Eier schälen und grob hacken.",
-        "group": "",
-        "original": "Die gekochten Eier schälen und grob hacken."
       }
     ],
     "instructions": [
+      {
+        "text": "Die gekochten Eier schälen und grob hacken.",
+        "group": ""
+      },
       {
         "text": "In einer Schüssel Senf, Cornichon-Saft, Joghurt, Maggi, Salz und Pfeffer verrühren.",
         "group": ""
@@ -2531,15 +2498,8 @@
   {
     "id": "Austernsosse",
     "title": "Austernsoße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/austernsoße.webp",
     "ingredients": [
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Passt zu fast allem mit Reis",
-        "group": "",
-        "original": "Passt zu fast allem mit Reis"
-      },
       {
         "amount": 300.0,
         "unit": "ml",
@@ -2571,26 +2531,21 @@
       {
         "amount": null,
         "unit": "",
-        "name": "Chilipulver oder 1/2 Teelöffel Gochujang",
-        "group": "",
-        "original": "Chilipulver oder 1/2 Teelöffel Gochujang"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Pfeffer",
-        "group": "",
-        "original": "Pfeffer"
-      },
-      {
-        "amount": null,
-        "unit": "",
         "name": "1-2 EL Soßenbinder",
         "group": "",
         "original": "1-2 EL Soßenbinder"
       }
     ],
-    "instructions": [],
+    "instructions": [
+      {
+        "text": "Chilipulver oder 1/2 Teelöffel Gochujang",
+        "group": ""
+      },
+      {
+        "text": "Pfeffer",
+        "group": ""
+      }
+    ],
     "category": "Soßen",
     "servings": 1
   },
@@ -2998,176 +2953,162 @@
   {
     "id": "LemonBrownies",
     "title": "Lemon Brownies",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
-    "ingredients": [],
+    "image": "https://radiatortwo.github.io/rezepte/pics/lemon-brownies.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": "",
+        "name": "250g (1¼ Tassen) Zucker (Fein- oder Kristallzucker)",
+        "group": "Lemon Brownies",
+        "original": "250g (1¼ Tassen) Zucker (Fein- oder Kristallzucker)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Abrieb von 2 Bio-Zitronen",
+        "group": "Lemon Brownies",
+        "original": "Abrieb von 2 Bio-Zitronen"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "170g (1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt",
+        "group": "Lemon Brownies",
+        "original": "170g (1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt"
+      },
+      {
+        "amount": 2.0,
+        "unit": "große",
+        "name": "Eier (US) / 2 mittelgroße Eier (UK), zimmerwarm",
+        "group": "Lemon Brownies",
+        "original": "2 große Eier (US) / 2 mittelgroße Eier (UK), zimmerwarm"
+      },
+      {
+        "amount": 2.0,
+        "unit": "große",
+        "name": "Eigelbe (US) / 2 mittelgroße Eigelbe (UK), zimmerwarm",
+        "group": "Lemon Brownies",
+        "original": "2 große Eigelbe (US) / 2 mittelgroße Eigelbe (UK), zimmerwarm"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)",
+        "group": "Lemon Brownies",
+        "original": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "45g (3 EL) frisch gepresster Zitronensaft",
+        "group": "Lemon Brownies",
+        "original": "45g (3 EL) frisch gepresster Zitronensaft"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "150g (1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)",
+        "group": "Lemon Brownies",
+        "original": "150g (1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "½ TL Xanthan (nur ¼ TL, wenn im Mehl bereits enthalten)",
+        "group": "Lemon Brownies",
+        "original": "½ TL Xanthan (nur ¼ TL, wenn im Mehl bereits enthalten)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "¼ TL Salz",
+        "group": "Lemon Brownies",
+        "original": "¼ TL Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "120g (1 Tasse) Puderzucker, gesiebt",
+        "group": "Lemon Cream Cheese Icing",
+        "original": "120g (1 Tasse) Puderzucker, gesiebt"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "55g (¼ Tasse) Vollfett-Frischkäse, zimmerwarm",
+        "group": "Lemon Cream Cheese Icing",
+        "original": "55g (¼ Tasse) Vollfett-Frischkäse, zimmerwarm"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "10g (2 TL) frisch gepresster Zitronensaft",
+        "group": "Lemon Cream Cheese Icing",
+        "original": "10g (2 TL) frisch gepresster Zitronensaft"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Abrieb von ½ Zitrone",
+        "group": "Lemon Cream Cheese Icing",
+        "original": "Abrieb von ½ Zitrone"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)",
+        "group": "Lemon Cream Cheese Icing",
+        "original": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)"
+      }
+    ],
     "instructions": [
       {
-        "text": "Diese saftigen, zitronigen Brownies sind fudgy und aromatisch – perfekt für alle Zitronenliebhaber!",
-        "group": ""
-      },
-      {
-        "text": "Lemon Brownies:",
-        "group": ""
-      },
-      {
-        "text": "250 g (1¼ Tassen) Zucker (Fein- oder Kristallzucker)",
-        "group": ""
-      },
-      {
-        "text": "Abrieb von 2 Bio-Zitronen",
-        "group": ""
-      },
-      {
-        "text": "170 g (1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt",
-        "group": ""
-      },
-      {
-        "text": "2 große Eier (US) / 2 mittelgroße Eier (UK), zimmerwarm",
-        "group": ""
-      },
-      {
-        "text": "2 große Eigelbe (US) / 2 mittelgroße Eigelbe (UK), zimmerwarm",
-        "group": ""
-      },
-      {
-        "text": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)",
-        "group": ""
-      },
-      {
-        "text": "45 g (3 EL) frisch gepresster Zitronensaft",
-        "group": ""
-      },
-      {
-        "text": "150 g (1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)",
-        "group": ""
-      },
-      {
-        "text": "½ TL Xanthan (nur ¼ TL, wenn im Mehl bereits enthalten)",
-        "group": ""
-      },
-      {
-        "text": "¼ TL Salz",
-        "group": ""
-      },
-      {
-        "text": "Lemon Cream Cheese Icing:",
-        "group": ""
-      },
-      {
-        "text": "120 g (1 Tasse) Puderzucker, gesiebt",
-        "group": ""
-      },
-      {
-        "text": "55 g (¼ Tasse) Vollfett-Frischkäse, zimmerwarm",
-        "group": ""
-      },
-      {
-        "text": "10 g (2 TL) frisch gepresster Zitronensaft",
-        "group": ""
-      },
-      {
-        "text": "Abrieb von ½ Zitrone",
-        "group": ""
-      },
-      {
-        "text": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)",
-        "group": ""
-      },
-      {
-        "text": "Lemon Brownies zubereiten:",
-        "group": ""
-      },
-      {
         "text": "Den Ofen auf 180°C (350°F) Ober-/Unterhitze vorheizen und eine 23 cm (9 Zoll) quadratische Backform mit Backpapier auslegen.",
-        "group": ""
+        "group": "Lemon Brownies zubereiten"
       },
       {
-        "text": "Tipp: Etwas Überhang lassen, um die Brownies später leichter herauszuheben.",
-        "group": ""
+        "text": "**Tipp:** Etwas Überhang lassen, um die Brownies später leichter herauszuheben.",
+        "group": "Lemon Brownies zubereiten"
       },
       {
-        "text": "Zucker und Zitronenschale in eine große Schüssel geben und mit den Fingerspitzen einreiben, um die ätherischen Öle freizusetzen.",
-        "group": ""
+        "text": "Zucker und Zitronenschale in eine große Schüssel geben und mit den Fingerspitzen einreiben, um die ätherischen Öle freizusetzen. Geschmolzene Butter, Eier, Eigelbe und Vanille dazugeben und glatt rühren.",
+        "group": "Lemon Brownies zubereiten"
       },
       {
-        "text": "Geschmolzene Butter, Eier, Eigelbe und Vanille dazugeben und glatt rühren.",
-        "group": ""
+        "text": "**Wichtig:** Nicht schaumig aufschlagen, sonst werden die Brownies eher kuchenartig statt fudgy.",
+        "group": "Lemon Brownies zubereiten"
       },
       {
-        "text": "Wichtig: Nicht schaumig aufschlagen, sonst werden die Brownies eher kuchenartig statt fudgy.",
-        "group": ""
+        "text": "Zitronensaft unterrühren. In einer separaten Schüssel glutenfreies Mehl, Xanthan und Salz vermengen. Die trockenen Zutaten zur Zitronenmasse geben und zu einem glatten, leicht flüssigen Teig verrühren. Den Teig in die vorbereitete Form füllen und glatt streichen.",
+        "group": "Lemon Brownies zubereiten"
       },
       {
-        "text": "Zitronensaft unterrühren.",
-        "group": ""
+        "text": "Bei 180°C (350°F) für 20-22 Minuten backen, bis die Oberfläche goldgelb ist. Ein Zahnstocher sollte fast sauber herauskommen, aber die Brownies sollten noch weich sein.",
+        "group": "Backen"
       },
       {
-        "text": "In einer separaten Schüssel glutenfreies Mehl, Xanthan und Salz vermengen.",
-        "group": ""
-      },
-      {
-        "text": "Die trockenen Zutaten zur Zitronenmasse geben und zu einem glatten, leicht flüssigen Teig verrühren.",
-        "group": ""
-      },
-      {
-        "text": "Den Teig in die vorbereitete Form füllen und glatt streichen.",
-        "group": ""
-      },
-      {
-        "text": "Backen:",
-        "group": ""
-      },
-      {
-        "text": "Bei 180°C (350°F) für 20-22 Minuten backen, bis die Oberfläche goldgelb ist.",
-        "group": ""
-      },
-      {
-        "text": "Ein Zahnstocher sollte fast sauber herauskommen, aber die Brownies sollten noch weich sein.",
-        "group": ""
-      },
-      {
-        "text": "Tipp: Lieber leicht unterbacken als zu lange backen, um die Fudginess zu erhalten.",
-        "group": ""
+        "text": "**Tipp:** Lieber leicht unterbacken als zu lange backen, um die Fudginess zu erhalten.",
+        "group": "Backen"
       },
       {
         "text": "Brownies vollständig auf Raumtemperatur abkühlen lassen, bevor das Frosting darauf kommt.",
-        "group": ""
+        "group": "Backen"
       },
       {
-        "text": "Lemon Cream Cheese Icing zubereiten:",
-        "group": ""
-      },
-      {
-        "text": "Alle Zutaten in einer Schüssel gut verrühren, bis eine glatte, leicht flüssige Glasur entsteht.",
-        "group": ""
-      },
-      {
-        "text": "Über die komplett abgekühlten Brownies gießen und mit einem Löffel oder einer Palette gleichmäßig verstreichen.",
-        "group": ""
+        "text": "Alle Zutaten in einer Schüssel gut verrühren, bis eine glatte, leicht flüssige Glasur entsteht. Über die komplett abgekühlten Brownies gießen und mit einem Löffel oder einer Palette gleichmäßig verstreichen.",
+        "group": "Lemon Cream Cheese Icing zubereiten"
       },
       {
         "text": "Die Glasur bei Raumtemperatur 1-2 Stunden setzen lassen.",
-        "group": ""
+        "group": "Lemon Cream Cheese Icing zubereiten"
       },
       {
-        "text": "Tipp: Die Glasur bleibt durch den Frischkäse länger feucht. Wer eine schneller trocknende Glasur bevorzugt, kann stattdessen Puderzucker mit Zitronensaft und Vanille verrühren.",
-        "group": ""
-      },
-      {
-        "text": "Aufbewahrung:",
-        "group": ""
-      },
-      {
-        "text": "Die glutenfreien Lemon Brownies bleiben 3-4 Tage frisch in einem locker abgedeckten Behälter an einem kühlen, trockenen Ort.",
-        "group": ""
-      },
-      {
-        "text": "Nicht luftdicht lagern, da die Glasur sonst weich und klebrig wird.",
-        "group": ""
+        "text": "**Tipp:** Die Glasur bleibt durch den Frischkäse länger feucht. Wer eine schneller trocknende Glasur bevorzugt, kann stattdessen Puderzucker mit Zitronensaft und Vanille verrühren.",
+        "group": "Lemon Cream Cheese Icing zubereiten"
       }
     ],
     "category": "Dessert",
-    "servings": 1
+    "servings": 16
   },
   {
     "id": "AirfryLasagneWrap",
@@ -3432,16 +3373,13 @@
         "name": "Ketjap Manis",
         "group": "",
         "original": "Ketjap Manis"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Prinzessbohnen in Wasser auftauen dann gut abtropfen.",
-        "group": "",
-        "original": "Prinzessbohnen in Wasser auftauen dann gut abtropfen."
       }
     ],
     "instructions": [
+      {
+        "text": "Prinzessbohnen in Wasser auftauen dann gut abtropfen.",
+        "group": ""
+      },
       {
         "text": "Rindfleisch in streifen schneiden und weich klopfen.",
         "group": ""
@@ -3694,16 +3632,13 @@
         "name": "BBQ-Sauce nach Wahl",
         "group": "",
         "original": "BBQ-Sauce nach Wahl"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Den Backofen auf 150°C vorheizen.",
-        "group": "",
-        "original": "Den Backofen auf 150°C vorheizen."
       }
     ],
     "instructions": [
+      {
+        "text": "Den Backofen auf 150°C vorheizen.",
+        "group": ""
+      },
       {
         "text": "Mit einem Messer die Hot Dogs im Kreuzmuster einschneiden, ohne sie komplett zu durchtrennen.",
         "group": ""
@@ -3971,16 +3906,13 @@
         "name": "Kokosmilch",
         "group": "",
         "original": "1 Tasse Kokosmilch"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Einen Topf auf mittlerer bis hoher Hitze erhitzen.",
-        "group": "",
-        "original": "Einen Topf auf mittlerer bis hoher Hitze erhitzen."
       }
     ],
     "instructions": [
+      {
+        "text": "Einen Topf auf mittlerer bis hoher Hitze erhitzen.",
+        "group": ""
+      },
       {
         "text": "Das Öl hinzufügen und den Knoblauch sowie die Zwiebeln darin 1 Minute anbraten, bis sie duften.",
         "group": ""
@@ -4700,23 +4632,17 @@
         "name": "Salz",
         "group": "",
         "original": "Salz"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Die Zwiebel und die Pertsilie klein hacken.",
-        "group": "",
-        "original": "Die Zwiebel und die Pertsilie klein hacken."
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Den Parmesan fein reiben.",
-        "group": "",
-        "original": "Den Parmesan fein reiben."
       }
     ],
     "instructions": [
+      {
+        "text": "Die Zwiebel und die Pertsilie klein hacken.",
+        "group": ""
+      },
+      {
+        "text": "Den Parmesan fein reiben.",
+        "group": ""
+      },
       {
         "text": "Die Steinpilze in dünne Scheiben schneiden.",
         "group": ""
@@ -4920,13 +4846,16 @@
         "name": "Frühlingszwiebeln oder Schnittlauch (zum Garnieren)",
         "group": "Toppings und Beilage",
         "original": "Frühlingszwiebeln oder Schnittlauch (zum Garnieren)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Gekochter Reis (zum Servieren)",
+        "group": "Toppings und Beilage",
+        "original": "Gekochter Reis (zum Servieren)"
       }
     ],
     "instructions": [
-      {
-        "text": "Gekochter Reis (zum Servieren)",
-        "group": ""
-      },
       {
         "text": "In einer Schüssel das Hähnchen mit Sojasauce, Sake, Mirin, Sesamöl, Knoblauch, Ingwer, Salz, weißem Pfeffer und Eiweiß vermengen.",
         "group": ""
@@ -5129,22 +5058,15 @@
         "name": "Honig",
         "group": "Optionale Chipotle-Sauce (für 12 Portionen)",
         "original": "35 g Honig"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Eier und Eiweiß mit Salz verquirlen.",
-        "group": "Eier zubereiten",
-        "original": "Eier und Eiweiß mit Salz verquirlen."
       }
     ],
     "instructions": [
       {
-        "text": "In einer heißen Pfanne oder einer runden Backform portionsweise stocken lassen.",
+        "text": "Eier und Eiweiß mit Salz verquirlen.",
         "group": ""
       },
       {
-        "text": "Fleisch-Patties formen und braten:",
+        "text": "In einer heißen Pfanne oder einer runden Backform portionsweise stocken lassen.",
         "group": ""
       },
       {
@@ -5160,15 +5082,7 @@
         "group": ""
       },
       {
-        "text": "Bacon knusprig braten:",
-        "group": ""
-      },
-      {
         "text": "Die Baconscheiben in einer Pfanne knusprig braten.",
-        "group": ""
-      },
-      {
-        "text": "McMuffins zusammenbauen:",
         "group": ""
       },
       {
@@ -5185,10 +5099,6 @@
       },
       {
         "text": "Mit der oberen Muffinhälfte abschließen.",
-        "group": ""
-      },
-      {
-        "text": "Lagerung und Aufwärmen:",
         "group": ""
       },
       {
@@ -5223,183 +5133,155 @@
       {
         "amount": null,
         "unit": "",
-        "name": "Zubereitungszeit: ca. 45 Minuten",
-        "group": "",
-        "original": "Zubereitungszeit: ca. 45 Minuten"
+        "name": "ca. 7 festkochende Kartoffeln",
+        "group": "Für die Suppe",
+        "original": "ca. 7 festkochende Kartoffeln"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "Karotte",
+        "group": "Für die Suppe",
+        "original": "1 Karotte"
+      },
+      {
+        "amount": 0.3333333333333333,
+        "unit": "",
+        "name": "Knollensellerie",
+        "group": "Für die Suppe",
+        "original": "1/3 Knollensellerie"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "Knoblauchzehe",
+        "group": "Für die Suppe",
+        "original": "1 Knoblauchzehe"
+      },
+      {
+        "amount": 1.0,
+        "unit": "große",
+        "name": "oder 2 kleine Zwiebeln",
+        "group": "Für die Suppe",
+        "original": "1 große oder 2 kleine Zwiebeln"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Öl zum Anschwitzen",
+        "group": "Für die Suppe",
+        "original": "Öl zum Anschwitzen"
+      },
+      {
+        "amount": 1.0,
+        "unit": "Prise",
+        "name": "Zucker",
+        "group": "Für die Suppe",
+        "original": "1 Prise Zucker"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Suppe",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Suppe",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "unit": "Prise",
+        "name": "Muskatnuss, frisch gemahlen",
+        "group": "Für die Suppe",
+        "original": "1 Prise Muskatnuss, frisch gemahlen"
+      },
+      {
+        "amount": 3.0,
+        "unit": "TL",
+        "name": "Majoran",
+        "group": "Für die Suppe",
+        "original": "3 TL Majoran"
+      },
+      {
+        "amount": 1.0,
+        "unit": "l",
+        "name": "Gemüsebrühe",
+        "group": "Für die Suppe",
+        "original": "1 l Gemüsebrühe"
+      },
+      {
+        "amount": 1.0,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Für die Suppe",
+        "original": "1 EL Butter"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "ca. 100 ml Sahne",
+        "group": "Für die Suppe",
+        "original": "ca. 100 ml Sahne"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "ca. 50g Speck (optional)",
+        "group": "Für die Einlage (pro 2 Portionen)",
+        "original": "ca. 50g Speck (optional)"
+      },
+      {
+        "amount": 1.0,
+        "unit": "Toastbrot",
+        "name": "oder 1/2 Brötchen",
+        "group": "Für die Einlage (pro 2 Portionen)",
+        "original": "1 Toastbrot oder 1/2 Brötchen"
+      },
+      {
+        "amount": 0.25,
+        "unit": "Stange",
+        "name": "Porree",
+        "group": "Für die Einlage (pro 2 Portionen)",
+        "original": "1/4 Stange Porree"
       }
     ],
     "instructions": [
       {
-        "text": "ca. 7 festkochende Kartoffeln",
-        "group": ""
+        "text": "Kartoffeln schälen und in grobe Stücke schneiden. Knollensellerie schälen und in ähnlich große Stücke wie die Kartoffeln schneiden. Karotte halbieren und grob würfeln. Zwiebel schälen und grob schneiden. Knoblauch leicht zerdrücken und schälen.",
+        "group": "Vorbereitung"
       },
       {
-        "text": "1 Karotte",
-        "group": ""
+        "text": "Öl in einem großen Topf erhitzen. Karotte, Sellerie, Zwiebel und Knoblauch hineingeben. Eine Prise Zucker hinzufügen. Das Gemüse 3-4 Minuten anschwitzen, bis es glasig ist.",
+        "group": "Suppe kochen"
       },
       {
-        "text": "1/3 Knollensellerie",
-        "group": ""
+        "text": "Die Kartoffelstücke zum Gemüse geben. Großzügig mit Salz würzen. Pfeffer, Majoran und frisch gemahlene Muskatnuss hinzufügen. Alles weitere 2-3 Minuten anschwitzen.",
+        "group": "Suppe kochen"
       },
       {
-        "text": "1 Knoblauchzehe",
-        "group": ""
+        "text": "Mit Gemüsebrühe ablöschen. Aufkochen lassen und dann bei mittlerer Hitze ca. 20-30 Minuten köcheln, bis Kartoffeln und Gemüse weich sind.",
+        "group": "Suppe kochen"
       },
       {
-        "text": "1 große oder 2 kleine Zwiebeln",
-        "group": ""
+        "text": "Butter und Sahne zur Suppe geben. Nochmals kurz aufkochen lassen. Topf vom Herd nehmen und die Suppe mit einem Pürierstab fein pürieren.",
+        "group": "Suppe kochen"
       },
       {
-        "text": "Öl zum Anschwitzen",
-        "group": ""
+        "text": "Speck in einer Pfanne ohne zusätzliches Fett knusprig anbraten. Brot in kleine Würfel schneiden. Porree in feine Ringe schneiden.",
+        "group": "Für die Einlage"
       },
       {
-        "text": "1 Prise Zucker",
-        "group": ""
-      },
-      {
-        "text": "Salz und Pfeffer",
-        "group": ""
-      },
-      {
-        "text": "1 Prise Muskatnuss (frisch gemahlen)",
-        "group": ""
-      },
-      {
-        "text": "3 TL Majoran",
-        "group": ""
-      },
-      {
-        "text": "1 l Gemüsebrühe",
-        "group": ""
-      },
-      {
-        "text": "1 EL Butter",
-        "group": ""
-      },
-      {
-        "text": "ca. 100 ml Sahne",
-        "group": ""
-      },
-      {
-        "text": "Für die Einlage (pro 2 Portionen):",
-        "group": ""
-      },
-      {
-        "text": "ca. 50 g Speck (optional)",
-        "group": ""
-      },
-      {
-        "text": "1 Toastbrot oder 1/2 Brötchen",
-        "group": ""
-      },
-      {
-        "text": "1/4 Stange Porree",
-        "group": ""
-      },
-      {
-        "text": "Kartoffeln schälen und in grobe Stücke schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Knollensellerie schälen und in ähnlich große Stücke wie die Kartoffeln schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Karotte halbieren und grob würfeln.",
-        "group": ""
-      },
-      {
-        "text": "Zwiebel schälen und grob schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Knoblauch leicht zerdrücken und schälen.",
-        "group": ""
-      },
-      {
-        "text": "Öl in einem großen Topf erhitzen.",
-        "group": ""
-      },
-      {
-        "text": "Karotte, Sellerie, Zwiebel und Knoblauch hineingeben.",
-        "group": ""
-      },
-      {
-        "text": "Eine Prise Zucker hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "Das Gemüse 3-4 Minuten anschwitzen, bis es glasig ist.",
-        "group": ""
-      },
-      {
-        "text": "Die Kartoffelstücke zum Gemüse geben.",
-        "group": ""
-      },
-      {
-        "text": "Großzügig mit Salz würzen.",
-        "group": ""
-      },
-      {
-        "text": "Pfeffer, Majoran und frisch gemahlene Muskatnuss hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "Alles weitere 2-3 Minuten anschwitzen.",
-        "group": ""
-      },
-      {
-        "text": "Mit Gemüsebrühe ablöschen.",
-        "group": ""
-      },
-      {
-        "text": "Aufkochen lassen und dann bei mittlerer Hitze ca. 20-30 Minuten köcheln, bis Kartoffeln und Gemüse weich sind.",
-        "group": ""
-      },
-      {
-        "text": "Butter und Sahne zur Suppe geben.",
-        "group": ""
-      },
-      {
-        "text": "Nochmals kurz aufkochen lassen.",
-        "group": ""
-      },
-      {
-        "text": "Topf vom Herd nehmen und die Suppe mit einem Pürierstab fein pürieren.",
-        "group": ""
-      },
-      {
-        "text": "Für die Einlage:",
-        "group": ""
-      },
-      {
-        "text": "Speck in einer Pfanne ohne zusätzliches Fett knusprig anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Brot in kleine Würfel schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Porree in feine Ringe schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Die Brotwürfel zum Speck geben und im ausgetretenen Fett rösten.",
-        "group": ""
-      },
-      {
-        "text": "Den Porree hinzufügen und kurz mitbraten.",
-        "group": ""
-      },
-      {
-        "text": "Bei Bedarf etwas Butter hinzugeben.",
-        "group": ""
+        "text": "Die Brotwürfel zum Speck geben und im ausgetretenen Fett rösten. Den Porree hinzufügen und kurz mitbraten. Bei Bedarf etwas Butter hinzugeben.",
+        "group": "Für die Einlage"
       },
       {
         "text": "Die Suppe in Schüsseln füllen und mit der Speck-Croûton-Porree-Einlage toppen.",
-        "group": ""
+        "group": "Fertigstellung"
       }
     ],
     "category": "Amerikanisch & Fusion",
@@ -5408,88 +5290,99 @@
   {
     "id": "CheesyGarlicPotatoBites",
     "title": "Cheesy Garlic Potato Bites",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
-    "ingredients": [],
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheese-garlic-potato.jpg",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "Kartoffeln",
+        "group": "Hauptzutaten",
+        "original": "2 Kartoffeln"
+      },
+      {
+        "amount": 2.0,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Hauptzutaten",
+        "original": "2 EL Butter"
+      },
+      {
+        "amount": 0.3333333333333333,
+        "unit": "Tasse",
+        "name": "Parmesan, gerieben",
+        "group": "Hauptzutaten",
+        "original": "1/3 Tasse Parmesan, gerieben"
+      },
+      {
+        "amount": 0.75,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Hauptzutaten",
+        "original": "3/4 TL Salz"
+      },
+      {
+        "amount": 0.5,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "Hauptzutaten",
+        "original": "1/2 TL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "unit": "TL",
+        "name": "Petersilie, gehackt",
+        "group": "Hauptzutaten",
+        "original": "1 TL Petersilie, gehackt"
+      },
+      {
+        "amount": 2.0,
+        "unit": "EL",
+        "name": "Maisstärke",
+        "group": "Hauptzutaten",
+        "original": "2 EL Maisstärke"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "Ei",
+        "group": "Hauptzutaten",
+        "original": "1 Ei"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Mozzarella-Käse, in Würfel geschnitten",
+        "group": "Hauptzutaten",
+        "original": "Mozzarella-Käse, in Würfel geschnitten"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Hauptzutaten",
+        "original": "Öl zum Frittieren"
+      }
+    ],
     "instructions": [
       {
-        "text": "Knusprig, käsig und voller Geschmack! Perfekt als Snack oder Beilage.",
-        "group": ""
+        "text": "Kartoffeln schälen und in Scheiben schneiden. In Salzwasser kochen, bis sie weich sind (eine Gabel sollte sie leicht durchstechen können).",
+        "group": "Kartoffeln vorbereiten"
       },
       {
-        "text": "2 Kartoffeln",
-        "group": ""
-      },
-      {
-        "text": "2 EL Butter",
-        "group": ""
-      },
-      {
-        "text": "1/3 Tasse Parmesan (gerieben)",
-        "group": ""
-      },
-      {
-        "text": "3/4 TL Salz",
-        "group": ""
-      },
-      {
-        "text": "1/2 TL Knoblauchpulver",
-        "group": ""
-      },
-      {
-        "text": "1 TL Petersilie (gehackt)",
-        "group": ""
-      },
-      {
-        "text": "2 EL Maisstärke",
-        "group": ""
-      },
-      {
-        "text": "1 Ei",
-        "group": ""
-      },
-      {
-        "text": "Mozzarella-Käse (in Würfel geschnitten)",
-        "group": ""
-      },
-      {
-        "text": "Öl zum Frittieren",
-        "group": ""
-      },
-      {
-        "text": "Kartoffeln schälen und in Scheiben schneiden.",
-        "group": ""
-      },
-      {
-        "text": "In Salzwasser kochen, bis sie weich sind (eine Gabel sollte sie leicht durchstechen können).",
-        "group": ""
-      },
-      {
-        "text": "Kartoffeln mit Butter zu einer glatten Masse zerstampfen.",
-        "group": ""
-      },
-      {
-        "text": "Parmesan, Salz, Knoblauchpulver, Petersilie, Maisstärke und Ei hinzufügen und gut vermengen.",
-        "group": ""
+        "text": "Kartoffeln mit Butter zu einer glatten Masse zerstampfen. Parmesan, Salz, Knoblauchpulver, Petersilie, Maisstärke und Ei hinzufügen und gut vermengen.",
+        "group": "Kartoffelmasse zubereiten"
       },
       {
         "text": "Eine kleine Portion der Kartoffelmischung nehmen, einen Würfel Mozzarella in die Mitte geben und zu einer Kugel formen.",
-        "group": ""
+        "group": "Bällchen formen"
       },
       {
-        "text": "Öl auf 175°C erhitzen.",
-        "group": ""
-      },
-      {
-        "text": "Die Kartoffelbällchen portionsweise frittieren, bis sie goldbraun und knusprig sind.",
-        "group": ""
-      },
-      {
-        "text": "Auf Küchenpapier abtropfen lassen.",
-        "group": ""
+        "text": "Öl auf 175°C erhitzen. Die Kartoffelbällchen portionsweise frittieren, bis sie goldbraun und knusprig sind. Auf Küchenpapier abtropfen lassen.",
+        "group": "Frittieren"
       },
       {
         "text": "Heiß servieren, optional mit zusätzlichem Parmesan oder einer Dip-Sauce.",
-        "group": ""
+        "group": "Servieren"
       }
     ],
     "category": "Snacks & Fingerfood",
@@ -5734,63 +5627,122 @@
     "id": "HackfleischBohnen",
     "title": "Hackfleisch Bohnen mit Reis",
     "image": "https://radiatortwo.github.io/rezepte/pics/hack_bohnen.jpg",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Jasmin Reis",
+        "group": "Hauptzutaten",
+        "original": "Jasmin Reis"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Hauptzutaten",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Hackfleisch",
+        "group": "Hauptzutaten",
+        "original": "Hackfleisch"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Bohnen",
+        "group": "Hauptzutaten",
+        "original": "Bohnen"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "2-3 Knoblauchzehen",
+        "group": "Hauptzutaten",
+        "original": "2-3 Knoblauchzehen"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Hauptzutaten",
+        "original": "Frühlingszwiebeln"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Öl zum Anbraten",
+        "group": "Hauptzutaten",
+        "original": "Öl zum Anbraten"
+      },
+      {
+        "amount": 250.0,
+        "unit": "ml",
+        "name": "Gemüsebrühe",
+        "group": "Für die Soße",
+        "original": "250 ml Gemüsebrühe"
+      },
+      {
+        "amount": 2.0,
+        "unit": "EL",
+        "name": "Sojasoße, hell",
+        "group": "Für die Soße",
+        "original": "2 EL Sojasoße, hell"
+      },
+      {
+        "amount": 1.0,
+        "unit": "TL",
+        "name": "Zucker",
+        "group": "Für die Soße",
+        "original": "1 TL Zucker"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Chilipulver oder 1/2 TL Gochujang",
+        "group": "Für die Soße",
+        "original": "Chilipulver oder 1/2 TL Gochujang"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Soße",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "1-2 EL Soßenbinder",
+        "group": "Für die Soße",
+        "original": "1-2 EL Soßenbinder"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Austernsoße zum Abschmecken",
+        "group": "Für die Soße",
+        "original": "Austernsoße zum Abschmecken"
+      }
+    ],
     "instructions": [
       {
-        "text": "Jasmin Reis im Reiskocher mit Salz kochen.",
-        "group": ""
+        "text": "Jasmin Reis im Reiskocher mit Salz kochen. Bohnen bissfest garen.",
+        "group": "Reis und Bohnen vorbereiten"
       },
       {
-        "text": "Soße zubereiten:",
-        "group": ""
+        "text": "Gemüsebrühe, helle Sojasoße, Zucker, Chilipulver oder Gochujang und etwas Pfeffer vermengen. Soßenbinder einrühren. Mit Austernsoße abschmecken.",
+        "group": "Soße zubereiten"
       },
       {
-        "text": "250 ml Gemüsebrühe",
-        "group": ""
+        "text": "Knoblauch pressen und Frühlingszwiebeln schneiden. Öl in Pfanne erhitzen und Hackfleisch zusammen mit Knoblauch anbraten.",
+        "group": "Hackfleisch braten"
       },
       {
-        "text": "2 EL Sojasoße Hell",
-        "group": ""
-      },
-      {
-        "text": "1 TL Zucker",
-        "group": ""
-      },
-      {
-        "text": "Chilipulver oder 1/2 teelöffel Gochujang",
-        "group": ""
-      },
-      {
-        "text": "Etwas Pfeffer",
-        "group": ""
-      },
-      {
-        "text": "1-2 EL Soßenbinder",
-        "group": ""
-      },
-      {
-        "text": "Mit Austernsoße abschmecken",
-        "group": ""
-      },
-      {
-        "text": "Bohnen Bissfest garen.",
-        "group": ""
-      },
-      {
-        "text": "Knoblauch pressen und Frühlingszwiebeln schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Öl in Pfanne erhitzen und Hackfleisch zusammen mit Knoblauch anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Soße dazu geben.",
-        "group": ""
-      },
-      {
-        "text": "Bohnen und Frühlingszwiebeln dazu geben und unter Rühren 3-4 Minuten durch garen.",
-        "group": ""
+        "text": "Soße zum Hackfleisch geben. Bohnen und Frühlingszwiebeln dazugeben und unter Rühren 3-4 Minuten durchgaren. Mit dem Reis servieren.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Amerikanisch & Fusion",
@@ -6110,179 +6062,128 @@
         "amount": null,
         "unit": "",
         "name": "6-8 Kolben Zuckermais",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "6-8 Kolben Zuckermais"
       },
       {
         "amount": 3.0,
-        "unit": "Esslöffel",
+        "unit": "EL",
         "name": "Öl",
-        "group": "",
-        "original": "3 Esslöffel Öl"
+        "group": "Hauptzutaten",
+        "original": "3 EL Öl"
       },
       {
-        "amount": 75.0,
-        "unit": "g",
-        "name": "geriebener Feta Käse",
-        "group": "",
-        "original": "75 g geriebener Feta Käse"
+        "amount": null,
+        "unit": "",
+        "name": "75g geriebener Feta Käse",
+        "group": "Hauptzutaten",
+        "original": "75g geriebener Feta Käse"
       },
       {
         "amount": 1.0,
         "unit": "Jalapeno",
-        "name": "(20 g)",
-        "group": "",
-        "original": "1 Jalapeno (20 g)"
+        "name": "(20g)",
+        "group": "Hauptzutaten",
+        "original": "1 Jalapeno (20g)"
       },
       {
         "amount": 4.0,
         "unit": "Stangen",
         "name": "Frühlingszwiebeln",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "4 Stangen Frühlingszwiebeln"
       },
       {
         "amount": 1.0,
         "unit": "Handvoll",
         "name": "Petersilie",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1 Handvoll Petersilie"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Limone",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1 Limone"
       },
       {
         "amount": 3.0,
         "unit": "mittlere",
-        "name": "Konbauchzehen",
-        "group": "",
-        "original": "3 mittlere Konbauchzehen"
-      },
-      {
-        "amount": 100.0,
-        "unit": "g",
-        "name": "Mayonnaise",
-        "group": "",
-        "original": "100 g Mayonnaise"
-      },
-      {
-        "amount": 50.0,
-        "unit": "g",
-        "name": "Sour Cream",
-        "group": "",
-        "original": "50 g Sour Cream"
-      },
-      {
-        "amount": 2.0,
-        "unit": "g",
-        "name": "Schwarzer Pfeffer",
-        "group": "",
-        "original": "2 g Schwarzer Pfeffer"
-      },
-      {
-        "amount": 2.0,
-        "unit": "g",
-        "name": "Chili Pulver",
-        "group": "",
-        "original": "2 g Chili Pulver"
+        "name": "Knoblauchzehen",
+        "group": "Hauptzutaten",
+        "original": "3 mittlere Knoblauchzehen"
       },
       {
         "amount": null,
         "unit": "",
-        "name": "Den Mais reinigen.",
-        "group": "",
-        "original": "Den Mais reinigen."
+        "name": "100g Mayonnaise",
+        "group": "Hauptzutaten",
+        "original": "100g Mayonnaise"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "50g Sour Cream",
+        "group": "Hauptzutaten",
+        "original": "50g Sour Cream"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "2g Schwarzer Pfeffer",
+        "group": "Hauptzutaten",
+        "original": "2g Schwarzer Pfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "2g Chili Pulver",
+        "group": "Hauptzutaten",
+        "original": "2g Chili Pulver"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Geriebener Feta Käse",
+        "group": "Zum Garnieren",
+        "original": "Geriebener Feta Käse"
       }
     ],
     "instructions": [
       {
-        "text": "Eine Schüssel nehmen und in die Schüssel eine kleinere Schüssel verkehrtherum hineinstellen.",
-        "group": ""
+        "text": "Den Mais reinigen. Eine Schüssel nehmen und in die Schüssel eine kleinere Schüssel verkehrt herum hineinstellen. Die Spitze von den Maiskolben abschneiden, auf die kleine Schüssel stellen und festhalten. Mit einem Messer so dicht am Kolben wie möglich den Mais vom Kolben schneiden.",
+        "group": "Mais vorbereiten"
       },
       {
-        "text": "Die Spitze von den Maiskoblen abschneiden, auf die kleine Schüssel stellen und festhalten.",
-        "group": ""
+        "text": "Das Öl in einer gusseisernen Pfanne stark erhitzen. Den Mais dazugeben und alle 60-90 Sekunden durchmischen. Der Mais soll etwas Farbe bekommen. Wenn der Mais anfängt zu platzen, ist er fast fertig.",
+        "group": "Mais rösten"
       },
       {
-        "text": "Mit einem Messer so dicht am kolben wie möglich den Mais vom Kolben schneiden.",
-        "group": ""
+        "text": "Den Jalapeno in feine Würfel schneiden. Die Spitzen und die Knollen von den Frühlingszwiebeln abschneiden und den übrigen Teil in kleine Stücke schneiden. Die Petersilie fein hacken. Alles zu dem Mais geben.",
+        "group": "Zutaten vorbereiten"
       },
       {
-        "text": "Das Öl in einer Gusseisernen Pfanne stark erhitzen.",
-        "group": ""
+        "text": "Mit einer Reibe die Limonenschale in die Schüssel reiben. Dann die Limone auspressen und den Limonensaft dazugeben. Den Knoblauch mit einer Knoblauchpresse hineinpressen.",
+        "group": "Fertigstellung"
       },
       {
-        "text": "Den Mais dazu geben und alle 60-90 Sekunden durchmischen.",
-        "group": ""
-      },
-      {
-        "text": "Der Mais soll etwas Farbe bekommen.",
-        "group": ""
-      },
-      {
-        "text": "Wenn der Mais anfängt zu platzen ist es fast fertig.",
-        "group": ""
-      },
-      {
-        "text": "Den Jalapeno in feine Würfel schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Die Spitzen und die Knollen von den Frühlingszwiebeln abschneiden und den übrigen Teil in kleine Stücke schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Die Petersilie fein Hacken.",
-        "group": ""
-      },
-      {
-        "text": "Alles zu dem Mais geben.",
-        "group": ""
-      },
-      {
-        "text": "Mit einer Reibe die Limonenschale in die Schüssel reiben.",
-        "group": ""
-      },
-      {
-        "text": "Dann die Limone auspressen und den Limonensaft dazu geben.",
-        "group": ""
-      },
-      {
-        "text": "Den Knoblauch mit einer Knoblauchpresse hineinpressen.",
-        "group": ""
-      },
-      {
-        "text": "Die Mayonnaise, den Sour Cream, Schwarzen Pfeffer, Chili Pulver und den Feta Käse hinzugeben.",
-        "group": ""
-      },
-      {
-        "text": "Alles gut durchmischen während der Mais noch heiß ist.",
-        "group": ""
+        "text": "Die Mayonnaise, den Sour Cream, schwarzen Pfeffer, Chili Pulver und den Feta Käse hinzugeben. Alles gut durchmischen, während der Mais noch heiß ist.",
+        "group": "Fertigstellung"
       },
       {
         "text": "Zum Servieren mit etwas geriebenem Feta Käse bestreuen.",
-        "group": ""
+        "group": "Fertigstellung"
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 6
   },
   {
     "id": "BalsamicBourbonShortRibs",
     "title": "Balsamic Bourbon Short Ribs",
-    "image": "https://radiatortwo.github.io/rezepte/pics/",
+    "image": "https://radiatortwo.github.io/rezepte/pics/balsamic_bourbon_shortribs.webp",
     "ingredients": [
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Für 4 Portionen",
-        "group": "",
-        "original": "Für 4 Portionen"
-      },
       {
         "amount": 2.0,
         "unit": "EL",
@@ -6300,23 +6201,23 @@
       {
         "amount": null,
         "unit": "",
-        "name": "Koscheres Salz nach Geschmack",
+        "name": "Koscheres Salz",
         "group": "Für die Short Ribs",
-        "original": "Koscheres Salz nach Geschmack"
+        "original": "Koscheres Salz"
       },
       {
         "amount": 1.0,
-        "unit": "Zwiebel",
-        "name": "(fein gewürfelt)",
+        "unit": "",
+        "name": "Zwiebel, fein gewürfelt",
         "group": "Für die Short Ribs",
-        "original": "1 Zwiebel (fein gewürfelt)"
+        "original": "1 Zwiebel, fein gewürfelt"
       },
       {
         "amount": 6.0,
-        "unit": "Knoblauchzehen",
-        "name": "(gehackt)",
+        "unit": "",
+        "name": "Knoblauchzehen, gehackt",
         "group": "Für die Short Ribs",
-        "original": "6 Knoblauchzehen (gehackt)"
+        "original": "6 Knoblauchzehen, gehackt"
       },
       {
         "amount": 120.0,
@@ -6408,99 +6309,40 @@
         "name": "Sahne",
         "group": "Für die Meerrettich-Sauce",
         "original": "60 ml Sahne"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Den Backofen auf 165°C vorheizen.",
-        "group": "Für die Meerrettich-Sauce",
-        "original": "Den Backofen auf 165°C vorheizen."
       }
     ],
     "instructions": [
       {
-        "text": "Olivenöl in einem großen Schmortopf oder Dutch Oven bei mittlerer Hitze erhitzen.",
-        "group": ""
+        "text": "Den Backofen auf 165°C vorheizen.",
+        "group": "Vorbereitung"
       },
       {
-        "text": "Die Short Ribs trocken tupfen und großzügig mit koscherem Salz würzen.",
-        "group": ""
+        "text": "Olivenöl in einem großen Schmortopf oder Dutch Oven bei mittlerer Hitze erhitzen. Die Short Ribs trocken tupfen und großzügig mit koscherem Salz würzen. Die Short Ribs in einer einzigen Schicht in den Schmortopf legen und von allen Seiten scharf anbraten, bis sie goldbraun sind. Danach auf einen Teller legen und beiseitestellen.",
+        "group": "Short Ribs anbraten"
       },
       {
-        "text": "Die Short Ribs in einer einzigen Schicht in den Schmortopf legen und von allen Seiten scharf anbraten, bis sie goldbraun sind.",
-        "group": ""
+        "text": "Die Hitze auf mittlere bis niedrige Stufe reduzieren und das überschüssige Fett bis auf 2 EL entfernen. Die gehackte Zwiebel dazugeben und 4-5 Minuten anschwitzen, bis sie weich und goldbraun ist. Knoblauch hinzufügen und eine weitere Minute anbraten.",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "Danach auf einen Teller legen und beiseitestellen.",
-        "group": ""
+        "text": "Den Bourbon vorsichtig in den Schmortopf gießen und die Pfanne damit ablöschen, dabei den Bodensatz mit einem Holzlöffel lösen. Balsamico-Essig, braunen Zucker, Worcestershire-Sauce, Lorbeerblätter und 1 TL koscheres Salz hinzufügen. Die Rinderbrühe eingießen und die Short Ribs zurück in den Topf legen.",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "Die Hitze auf mittlere bis niedrige Stufe reduzieren und das überschüssige Fett bis auf 2 EL entfernen.",
-        "group": ""
+        "text": "Den Deckel aufsetzen und im Ofen für 2,5 bis 3 Stunden schmoren, bis das Fleisch extrem zart ist und vom Knochen fällt. Während des Schmorens jede Stunde überschüssiges Fett abschöpfen und das Fleisch mit der Sauce übergießen.",
+        "group": "Schmoren"
       },
       {
-        "text": "Die gehackte Zwiebel dazugeben und 4-5 Minuten anschwitzen, bis sie weich und goldbraun ist.",
-        "group": ""
+        "text": "In einer kleinen Schüssel Sauerrahm, Meerrettich, Dijon-Senf, Zitronensaft, Salz und Pfeffer verrühren. Die Sahne unterrühren, bis eine cremige Konsistenz entsteht. Bis zum Servieren im Kühlschrank aufbewahren.",
+        "group": "Meerrettich-Sauce zubereiten"
       },
       {
-        "text": "Knoblauch hinzufügen und eine weitere Minute anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Den Bourbon vorsichtig in den Schmortopf gießen und die Pfanne damit ablöschen, dabei den Bodensatz mit einem Holzlöffel lösen.",
-        "group": ""
-      },
-      {
-        "text": "Balsamico-Essig, braunen Zucker, Worcestershire-Sauce, Lorbeerblätter und 1 TL koscheres Salz hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "Die Rinderbrühe eingießen und die Short Ribs zurück in den Topf legen.",
-        "group": ""
-      },
-      {
-        "text": "Den Deckel aufsetzen und im Ofen für 2,5 bis 3 Stunden schmoren, bis das Fleisch extrem zart ist und vom Knochen fällt.",
-        "group": ""
-      },
-      {
-        "text": "Während des Schmorens jede Stunde überschüssiges Fett abschöpfen und das Fleisch mit der Sauce übergießen.",
-        "group": ""
-      },
-      {
-        "text": "Meerrettich-Sauce zubereiten:",
-        "group": ""
-      },
-      {
-        "text": "In einer kleinen Schüssel Sauerrahm, Meerrettich, Dijon-Senf, Zitronensaft, Salz und Pfeffer verrühren.",
-        "group": ""
-      },
-      {
-        "text": "Die Sahne unterrühren, bis eine cremige Konsistenz entsteht.",
-        "group": ""
-      },
-      {
-        "text": "Bis zum Servieren im Kühlschrank aufbewahren.",
-        "group": ""
-      },
-      {
-        "text": "Sobald die Short Ribs fertig sind, das überschüssige Fett aus der Sauce entfernen.",
-        "group": ""
-      },
-      {
-        "text": "Die reduzierte Sauce über das Fleisch geben.",
-        "group": ""
-      },
-      {
-        "text": "Mit der Meerrettich-Sauce servieren.",
-        "group": ""
-      },
-      {
-        "text": "Perfekt mit Kartoffelpüree oder geröstetem Gemüse.",
-        "group": ""
+        "text": "Sobald die Short Ribs fertig sind, das überschüssige Fett aus der Sauce entfernen. Die reduzierte Sauce über das Fleisch geben. Mit der Meerrettich-Sauce servieren. Perfekt mit Kartoffelpüree oder geröstetem Gemüse.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "MayakEggs",
@@ -6921,159 +6763,105 @@
     "id": "SpeckGarnelenPasta",
     "title": "Spaghetti mit Garnelen und Speck in Sahnesauce",
     "image": "https://radiatortwo.github.io/rezepte/pics/spaghetti-garnelen-speck.webp",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": "",
+        "name": "250g Spaghetti",
+        "group": "Hauptzutaten",
+        "original": "250g Spaghetti"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "500g Garnelen, geschält und entdarmt",
+        "group": "Hauptzutaten",
+        "original": "500g Garnelen, geschält und entdarmt"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "150g Speck, gewürfelt",
+        "group": "Hauptzutaten",
+        "original": "150g Speck, gewürfelt"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "Zwiebel, fein gehackt",
+        "group": "Hauptzutaten",
+        "original": "1 Zwiebel, fein gehackt"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "Knoblauchzehen, fein gehackt",
+        "group": "Hauptzutaten",
+        "original": "2 Knoblauchzehen, fein gehackt"
+      },
+      {
+        "amount": 300.0,
+        "unit": "ml",
+        "name": "Kochsahne",
+        "group": "Hauptzutaten",
+        "original": "300 ml Kochsahne"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Olivenöl",
+        "group": "Hauptzutaten",
+        "original": "Olivenöl"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Butter",
+        "group": "Hauptzutaten",
+        "original": "Butter"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Hauptzutaten",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Schwarzer Pfeffer",
+        "group": "Hauptzutaten",
+        "original": "Schwarzer Pfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Paprika",
+        "group": "Hauptzutaten",
+        "original": "Paprika"
+      }
+    ],
     "instructions": [
       {
-        "text": "Ein herzhaftes Pasta-Gericht mit knusprigem Speck, saftigen Garnelen und einer cremigen Sauce.",
-        "group": ""
+        "text": "Einen großen Topf mit gesalzenem Wasser zum Kochen bringen. 250g Spaghetti nach Packungsanleitung al dente kochen. Abgießen und beiseite stellen.",
+        "group": "Spaghetti kochen"
       },
       {
-        "text": "250 g Spaghetti",
-        "group": ""
+        "text": "Eine Pfanne erhitzen und Olivenöl sowie ein Stück Butter hinzufügen. Die Garnelen mit Salz und schwarzem Pfeffer würzen. Garnelen 2-3 Minuten anbraten, bis sie rosa und durchgegart sind. Garnelen aus der Pfanne nehmen und beiseite stellen.",
+        "group": "Garnelen braten"
       },
       {
-        "text": "500 g Garnelen, geschält und entdarmt",
-        "group": ""
+        "text": "In derselben Pfanne den gewürfelten Speck 2-4 Minuten knusprig anbraten. Die gehackte Zwiebel hinzufügen und weitere 2-4 Minuten glasig dünsten. Knoblauch dazugeben und 2 Minuten anbraten. Mit Paprika würzen.",
+        "group": "Speck und Gemüse anbraten"
       },
       {
-        "text": "150 g Speck, gewürfelt",
-        "group": ""
-      },
-      {
-        "text": "1 Zwiebel, fein gehackt",
-        "group": ""
-      },
-      {
-        "text": "2 Knoblauchzehen, fein gehackt",
-        "group": ""
-      },
-      {
-        "text": "300 ml Kochsahne",
-        "group": ""
-      },
-      {
-        "text": "Olivenöl",
-        "group": ""
-      },
-      {
-        "text": "Butter",
-        "group": ""
-      },
-      {
-        "text": "Salz zum Abschmecken",
-        "group": ""
-      },
-      {
-        "text": "Schwarzer Pfeffer zum Abschmecken",
-        "group": ""
-      },
-      {
-        "text": "Paprika zum Würzen",
-        "group": ""
-      },
-      {
-        "text": "Spaghetti kochen:",
-        "group": ""
-      },
-      {
-        "text": "Einen großen Topf mit gesalzenem Wasser zum Kochen bringen.",
-        "group": ""
-      },
-      {
-        "text": "250 g Spaghetti nach Packungsanleitung al dente kochen.",
-        "group": ""
-      },
-      {
-        "text": "Abgießen und beiseite stellen.",
-        "group": ""
-      },
-      {
-        "text": "Garnelen braten:",
-        "group": ""
-      },
-      {
-        "text": "Eine Pfanne erhitzen und Olivenöl sowie einen Stück Butter hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "Die Garnelen mit Salz und schwarzem Pfeffer würzen.",
-        "group": ""
-      },
-      {
-        "text": "Garnelen 2-3 Minuten anbraten, bis sie rosa und durchgegart sind.",
-        "group": ""
-      },
-      {
-        "text": "Garnelen aus der Pfanne nehmen und beiseite stellen.",
-        "group": ""
-      },
-      {
-        "text": "Nochmals etwa 1 Minute anbraten, falls nötig.",
-        "group": ""
-      },
-      {
-        "text": "Speck und Gemüse anbraten:",
-        "group": ""
-      },
-      {
-        "text": "In derselben Pfanne den gewürfelten Speck 2-4 Minuten knusprig anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Die gehackte Zwiebel hinzufügen und weitere 2-4 Minuten glasig dünsten.",
-        "group": ""
-      },
-      {
-        "text": "Knoblauch dazugeben und 2 Minuten anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Mit Paprika würzen.",
-        "group": ""
-      },
-      {
-        "text": "Sauce zubereiten und vollenden:",
-        "group": ""
-      },
-      {
-        "text": "300 ml Kochsahne in die Pfanne gießen und gut verrühren.",
-        "group": ""
-      },
-      {
-        "text": "Die Sauce 2 Minuten köcheln lassen.",
-        "group": ""
-      },
-      {
-        "text": "Die gebratenen Garnelen zurück in die Pfanne geben.",
-        "group": ""
-      },
-      {
-        "text": "Die gekochten Spaghetti hinzufügen und alles gut vermischen.",
-        "group": ""
-      },
-      {
-        "text": "Mit Salz und schwarzem Pfeffer abschmecken.",
-        "group": ""
-      },
-      {
-        "text": "Tipps:",
-        "group": ""
-      },
-      {
-        "text": "Die Garnelen nicht zu lange braten, damit sie saftig bleiben.",
-        "group": ""
-      },
-      {
-        "text": "Der Speck gibt dem Gericht eine würzige Note und zusätzliche Knusprigkeit.",
-        "group": ""
-      },
-      {
-        "text": "Für extra Geschmack können Sie frische Kräuter wie Petersilie zum Garnieren verwenden.",
-        "group": ""
+        "text": "300 ml Kochsahne in die Pfanne gießen und gut verrühren. Die Sauce 2 Minuten köcheln lassen. Die gebratenen Garnelen zurück in die Pfanne geben. Die gekochten Spaghetti hinzufügen und alles gut vermischen. Mit Salz und schwarzem Pfeffer abschmecken.",
+        "group": "Sauce zubereiten und vollenden"
       }
     ],
     "category": "Europäisch & Italienisch",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "BesterNudelsalat",
@@ -7460,68 +7248,61 @@
     "id": "MooGrob_FrittierterSchweinebauch",
     "title": "Moo Grob (Frittierter Schweinebauch)",
     "image": "https://radiatortwo.github.io/rezepte/pics/moogrob.jpg",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Schweinebauch",
+        "group": "Hauptzutaten",
+        "original": "Schweinebauch"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz (1 EL pro Liter Wasser)",
+        "group": "Hauptzutaten",
+        "original": "Salz (1 EL pro Liter Wasser)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Klarer Essig (1 EL pro Liter Wasser)",
+        "group": "Hauptzutaten",
+        "original": "Klarer Essig (1 EL pro Liter Wasser)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Hauptzutaten",
+        "original": "Öl zum Frittieren"
+      }
+    ],
     "instructions": [
       {
-        "text": "Schweinebauch in etwa 2 bis 3 cm dicke Stücke schneiden.",
-        "group": ""
+        "text": "Schweinebauch in etwa 2 bis 3 cm dicke Stücke schneiden. Einen Topf mit Wasser aufsetzen, damit genug Wasser darin ist, um das Fleisch komplett zu bedecken. Für jeden Liter Wasser einen Esslöffel Salz und einen Esslöffel klaren Essig hinzufügen.",
+        "group": "Vorbereitung"
       },
       {
-        "text": "Einen Topf mit Wasser aufsetzen, damit genug Wasser darin ist um das Fleisch komplett zu bedecken.",
-        "group": ""
+        "text": "Das Fleisch in dem Wasser für 5 bis 10 Minuten kochen. Aufpassen, dass es nicht zu sehr gekocht wird. Es sollte nur die Außenseite durch sein. Das Fleisch gut abtrocknen.",
+        "group": "Kochen"
       },
       {
-        "text": "Für jeden Liter Wasser einen Esslöffel Salz und einen Esslöffel klaren Essig hinzufügen.",
-        "group": ""
+        "text": "Öl auf mittlerer Stufe erhitzen. Das Fleisch etwa 10 Minuten frittieren. (Deckel aufsetzen!) Wenn das Fleisch goldbraun wird, herausnehmen.",
+        "group": "Erstes Frittieren"
       },
       {
-        "text": "Das Fleisch in dem Wasser für 5 bis 10 Minuten kochen.",
-        "group": ""
-      },
-      {
-        "text": "Aufpassen, dass es nicht zu sehr gekocht wird. Es sollte nur die Außenseite durch sein.",
-        "group": ""
-      },
-      {
-        "text": "Das Fleisch gut abtrocknen.",
-        "group": ""
-      },
-      {
-        "text": "Öl auf Mittlerer Stufe erhitzen.",
-        "group": ""
-      },
-      {
-        "text": "Das Fleisch etwa 10 Minuten frittieren.(Deckel aufsetzen!!)",
-        "group": ""
-      },
-      {
-        "text": "Wenn das Fleisch Gold Braun wird herausnehmen.",
-        "group": ""
-      },
-      {
-        "text": "Das Öl auf Hohe Stufe erhitzen. (Öl soll beinahe rauchen)",
-        "group": ""
-      },
-      {
-        "text": "Vorsichtig das Fleisch hinein legen und etwa eine Minute frittieren.",
-        "group": ""
-      },
-      {
-        "text": "Dann herausnehmen und zum trocknen/kühlen hinlegen.",
-        "group": ""
-      },
-      {
-        "text": "Das Fleisch kann so im Kühlschrank gelagert werden, bis es benötigt wird.",
-        "group": ""
+        "text": "Das Öl auf hohe Stufe erhitzen. (Öl soll beinahe rauchen) Vorsichtig das Fleisch hineinlegen und etwa eine Minute frittieren. Dann herausnehmen und zum Trocknen/Kühlen hinlegen.",
+        "group": "Zweites Frittieren"
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "FrenchBreadSnack",
     "title": "Easy French Bread Snack",
-    "image": "https://radiatortwo.github.io/rezepte/pics/guinness-cake.webp",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 150.0,
@@ -7648,16 +7429,13 @@
         "name": "Etwas Butter",
         "group": "",
         "original": "Etwas Butter"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Eier in eine Schüssel schlagen.",
-        "group": "",
-        "original": "Eier in eine Schüssel schlagen."
       }
     ],
     "instructions": [
+      {
+        "text": "Eier in eine Schüssel schlagen.",
+        "group": ""
+      },
       {
         "text": "Zucker und Vanillezucker dazugeben und mit einem Schneebesen fest schlagen.",
         "group": ""
@@ -7743,23 +7521,17 @@
         "name": "1-2 Esslöffel Ahornsirup",
         "group": "Für BBQ Marinade",
         "original": "1-2 Esslöffel Ahornsirup"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Die Haut von den Oberkeulen abtrennen und dann abtrocknen.",
-        "group": "Für BBQ Marinade",
-        "original": "Die Haut von den Oberkeulen abtrennen und dann abtrocknen."
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Die gesäuberten Oberkeulen ein wenig salzen.",
-        "group": "Für BBQ Marinade",
-        "original": "Die gesäuberten Oberkeulen ein wenig salzen."
       }
     ],
     "instructions": [
+      {
+        "text": "Die Haut von den Oberkeulen abtrennen und dann abtrocknen.",
+        "group": ""
+      },
+      {
+        "text": "Die gesäuberten Oberkeulen ein wenig salzen.",
+        "group": ""
+      },
       {
         "text": "Gut mit dem Texas Chicken Gewürz einreiben und danach noch etwas mit dem Brathähnchen Gewürz bestreuen.",
         "group": ""
@@ -8046,119 +7818,105 @@
     "id": "KaeseReispapierNudeln",
     "title": "Käse-Reispapier-Nudeln",
     "image": "https://radiatortwo.github.io/rezepte/pics/kaese-reispapier.png",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Reispapier",
+        "group": "Für die Nudeln",
+        "original": "Reispapier"
+      },
+      {
+        "amount": 1.0,
+        "unit": "Mozzarella",
+        "name": "(reicht für mindestens 3 Nudeln)",
+        "group": "Für die Nudeln",
+        "original": "1 Mozzarella (reicht für mindestens 3 Nudeln)"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Für die Sauce",
+        "original": "2 Frühlingszwiebeln"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "Für die Sauce",
+        "original": "2 Knoblauchzehen"
+      },
+      {
+        "amount": 1.0,
+        "unit": "TL",
+        "name": "Gochujang (alternativ 1 EL Tomatenmark)",
+        "group": "Für die Sauce",
+        "original": "1 TL Gochujang (alternativ 1 EL Tomatenmark)"
+      },
+      {
+        "amount": 1.0,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Für die Sauce",
+        "original": "1 EL brauner Zucker"
+      },
+      {
+        "amount": 4.0,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die Sauce",
+        "original": "4 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "unit": "EL",
+        "name": "Gochugaru (koreanische Chiliflocken)",
+        "group": "Für die Sauce",
+        "original": "1 EL Gochugaru (koreanische Chiliflocken)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Sauce",
+        "original": "Salz"
+      },
+      {
+        "amount": 500.0,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Für die Sauce",
+        "original": "500 ml Wasser"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Öl zum Anbraten",
+        "group": "Für die Sauce",
+        "original": "Öl zum Anbraten"
+      }
+    ],
     "instructions": [
       {
-        "text": "Je länger die Nudeln in der Sauce kochen, desto dicker wird sie.",
-        "group": ""
+        "text": "Reispapier kurz in lauwarmem Wasser einweichen. Ein Stück Mozzarella in die Mitte legen und das Reispapier wie eine Nudelrolle aufrollen. Falls nötig, ein zweites Blatt Reispapier verwenden, um die Rolle stabiler zu machen.",
+        "group": "Reispapier-Nudeln vorbereiten"
       },
       {
-        "text": "Es kann passieren, dass sie aufplatzen und der Käse herausläuft.",
-        "group": ""
+        "text": "Frühlingszwiebeln in feine Ringe schneiden (grünes Teil zur Seite legen). Knoblauch fein hacken.",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "Die Nudeln sind empfindlich und können beim Hochheben leicht reißen.",
-        "group": ""
+        "text": "In einem Topf mit etwas Öl Frühlingszwiebeln und Knoblauch anbraten. Gochujang (oder Tomatenmark), braunen Zucker, Sojasauce, Gochugaru und Salz hinzufügen. Mit 500 ml Wasser aufgießen und gut verrühren.",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "Alternativ kann auch geriebener Mozzarella oder ein Käse nach Wahl verwendet werden.",
-        "group": ""
-      },
-      {
-        "text": "Für die Nudeln:",
-        "group": ""
-      },
-      {
-        "text": "Reispapier",
-        "group": ""
-      },
-      {
-        "text": "1 Mozzarella (reicht für mindestens 3 Nudeln)",
-        "group": ""
-      },
-      {
-        "text": "Für die Sauce:",
-        "group": ""
-      },
-      {
-        "text": "2 Frühlingszwiebeln",
-        "group": ""
-      },
-      {
-        "text": "2 Knoblauchzehen",
-        "group": ""
-      },
-      {
-        "text": "1 TL Gochujang (alternativ 1 EL Tomatenmark)",
-        "group": ""
-      },
-      {
-        "text": "1 EL brauner Zucker",
-        "group": ""
-      },
-      {
-        "text": "4 EL Sojasauce",
-        "group": ""
-      },
-      {
-        "text": "1 EL Gochugaru (koreanische Chiliflocken)",
-        "group": ""
-      },
-      {
-        "text": "Salz nach Geschmack",
-        "group": ""
-      },
-      {
-        "text": "500 ml Wasser",
-        "group": ""
-      },
-      {
-        "text": "Reispapier kurz in lauwarmem Wasser einweichen.",
-        "group": ""
-      },
-      {
-        "text": "Ein Stück Mozzarella in die Mitte legen und das Reispapier wie eine Nudelrolle aufrollen.",
-        "group": ""
-      },
-      {
-        "text": "Falls nötig, ein zweites Blatt Reispapier verwenden, um die Rolle stabiler zu machen.",
-        "group": ""
-      },
-      {
-        "text": "Frühlingszwiebeln in feine Ringe schneiden (grünes Teil zur Seite legen).",
-        "group": ""
-      },
-      {
-        "text": "Knoblauch fein hacken.",
-        "group": ""
-      },
-      {
-        "text": "In einem Topf mit etwas Öl Frühlingszwiebeln und Knoblauch anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Gochujang (oder Tomatenmark), braunen Zucker, Sojasauce, Gochugaru und Salz hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "Mit 500 ml Wasser aufgießen und gut verrühren.",
-        "group": ""
-      },
-      {
-        "text": "Die vorbereiteten Reispapier-Nudeln in die Sauce geben.",
-        "group": ""
-      },
-      {
-        "text": "Bei mittlerer Hitze ca. 5 Minuten köcheln lassen, bis die Sauce eindickt.",
-        "group": ""
-      },
-      {
-        "text": "Mit dem grünen Teil der Frühlingszwiebeln bestreuen und servieren.",
-        "group": ""
+        "text": "Die vorbereiteten Reispapier-Nudeln in die Sauce geben. Bei mittlerer Hitze ca. 5 Minuten köcheln lassen, bis die Sauce eindickt. Mit dem grünen Teil der Frühlingszwiebeln bestreuen und servieren.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Snacks & Fingerfood",
-    "servings": 1
+    "servings": 3
   },
   {
     "id": "WuerzigeRindStreifen",
@@ -8995,16 +8753,13 @@
         "name": "1-2 EL BBQ Rub nach Wahl",
         "group": "Für die Füllung",
         "original": "1-2 EL BBQ Rub nach Wahl"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Den Grill auf 150 Grad aufheizen.",
-        "group": "Für die Füllung",
-        "original": "Den Grill auf 150 Grad aufheizen."
       }
     ],
     "instructions": [
+      {
+        "text": "Den Grill auf 150 Grad aufheizen.",
+        "group": ""
+      },
       {
         "text": "Aus der Bratwurst einen Scheibe schneiden.",
         "group": ""
@@ -9055,131 +8810,114 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/chili_garlic_noodles.jpg",
     "ingredients": [
       {
-        "amount": 200.0,
-        "unit": "g",
-        "name": "Nudeln",
-        "group": "",
-        "original": "200 g Nudeln"
+        "amount": null,
+        "unit": "",
+        "name": "200g Nudeln",
+        "group": "Hauptzutaten",
+        "original": "200g Nudeln"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "neutrales Öl",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "60 ml neutrales Öl"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Chiliflocken",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "3 EL Chiliflocken"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sojasauce",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "2 EL Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "schwarzer Essig",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1 EL schwarzer Essig"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Zucker",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1 EL Zucker"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Knoblauchzehen, fein gehackt",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "4 Knoblauchzehen, fein gehackt"
       },
       {
         "amount": 0.5,
         "unit": "Stück",
         "name": "Ingwer (ca. 1,5 cm), fein gehackt",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1/2 Stück Ingwer (ca. 1,5 cm), fein gehackt"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Frühlingszwiebeln, in Ringe geschnitten (weiß und grün getrennt)",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "4 Frühlingszwiebeln, in Ringe geschnitten (weiß und grün getrennt)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Hackfleisch",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "250g Hackfleisch"
       },
       {
         "amount": null,
         "unit": "",
+        "name": "Salz",
+        "group": "Hauptzutaten",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
         "name": "Sesamsamen nach Belieben",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "Sesamsamen nach Belieben"
       }
     ],
     "instructions": [
       {
         "text": "Nudeln nach Packungsanweisung garen, abgießen und etwas Nudelwasser aufbewahren.",
-        "group": ""
+        "group": "Nudeln kochen"
       },
       {
-        "text": "Öl in einer kleinen Pfanne erhitzen.",
-        "group": ""
+        "text": "Öl in einer kleinen Pfanne erhitzen. Knoblauch, Ingwer und die weißen Teile der Frühlingszwiebeln kurz anschwitzen, bis sie duften. Chiliflocken einrühren und das Öl 1-2 Minuten sanft ziehen lassen. Beiseitestellen.",
+        "group": "Chili-Knoblauch-Öl zubereiten"
       },
       {
-        "text": "Knoblauch, Ingwer und die weißen Teile der Frühlingszwiebeln kurz anschwitzen, bis sie duften.",
-        "group": ""
+        "text": "In einer größeren Pfanne das Hackfleisch anbraten, bis es krümelig und goldbraun ist. Leicht salzen.",
+        "group": "Hackfleisch braten"
       },
       {
-        "text": "Chiliflocken einrühren und das Öl 1-2 Minuten sanft ziehen lassen.",
-        "group": ""
-      },
-      {
-        "text": "Beiseitestellen.",
-        "group": ""
-      },
-      {
-        "text": "In einer größeren Pfanne das Schweinehack anbraten, bis es krümelig und goldbraun ist.",
-        "group": ""
-      },
-      {
-        "text": "Leicht salzen.",
-        "group": ""
-      },
-      {
-        "text": "In einer Schüssel Sojasauce, schwarzen Essig und Zucker verrühren.",
-        "group": ""
-      },
-      {
-        "text": "Nudeln, Sauce, Chili-Knoblauch-Öl und etwas Nudelwasser zum Fleisch geben.",
-        "group": ""
-      },
-      {
-        "text": "Gut vermengen, bis die Nudeln gleichmäßig überzogen sind.",
-        "group": ""
+        "text": "In einer Schüssel Sojasauce, schwarzen Essig und Zucker verrühren. Nudeln, Sauce, Chili-Knoblauch-Öl und etwas Nudelwasser zum Fleisch geben. Gut vermengen, bis die Nudeln gleichmäßig überzogen sind.",
+        "group": "Sauce und Fertigstellung"
       },
       {
         "text": "Mit den grünen Frühlingszwiebelringen und Sesamsamen bestreuen.",
-        "group": ""
+        "group": "Sauce und Fertigstellung"
       }
     ],
     "category": "Asiatische Küche",
-    "servings": 1
+    "servings": 2
   },
   {
     "id": "AsiaRindfleischMarinade",
@@ -11065,104 +10803,77 @@
       {
         "amount": null,
         "unit": "",
-        "name": "500g Gemischtes Hackfleisch mit hohem Fettanteil (20%)",
-        "group": "",
-        "original": "500g Gemischtes Hackfleisch mit hohem Fettanteil (20%)"
+        "name": "500g gemischtes Hackfleisch mit hohem Fettanteil (20%)",
+        "group": "Hauptzutaten",
+        "original": "500g gemischtes Hackfleisch mit hohem Fettanteil (20%)"
       },
       {
         "amount": 15.0,
         "unit": "",
         "name": "Cannelloni",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "15 Cannelloni"
       },
       {
         "amount": null,
         "unit": "",
         "name": "100g geriebener Cheddar Käse",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "100g geriebener Cheddar Käse"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 EL Ankerkraut Rote Sau oder ähnliches Gewürz",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1-2 EL Ankerkraut Rote Sau oder ähnliches Gewürz"
       },
       {
         "amount": null,
         "unit": "",
-        "name": "2-3 cm Breite Cheddar Käse Scheiben",
-        "group": "",
-        "original": "2-3 cm Breite Cheddar Käse Scheiben"
+        "name": "2-3 cm breite Cheddar Käse Scheiben",
+        "group": "Hauptzutaten",
+        "original": "2-3 cm breite Cheddar Käse Scheiben"
       },
       {
         "amount": 30.0,
         "unit": "Scheiben",
         "name": "Bacon",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "30 Scheiben Bacon"
       },
       {
         "amount": null,
         "unit": "",
         "name": "BBQ Soße",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "BBQ Soße"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Grill auf 180 Grad erhitzen.",
-        "group": "",
-        "original": "Grill auf 180 Grad erhitzen."
       }
     ],
     "instructions": [
       {
-        "text": "Das Hackfleisch mit dem Gewürz gut durchmischen.",
-        "group": ""
+        "text": "Grill auf 180°C erhitzen.",
+        "group": "Vorbereitung"
       },
       {
-        "text": "Den geriebenen Cheddar unter das Hacklfeisch mischen",
-        "group": ""
+        "text": "Das Hackfleisch mit dem Gewürz gut durchmischen. Den geriebenen Cheddar unter das Hackfleisch mischen. Die Cannelloni mit dem Hackfleisch füllen.",
+        "group": "Füllung vorbereiten"
       },
       {
-        "text": "Die Cannelloni mit dem Hackfleisch füllen.",
-        "group": ""
+        "text": "Die gefüllten Cannelloni mit 2 Bacon-Scheiben komplett umwickeln. Dabei das eine Ende komplett mit Bacon umwickeln und das andere frei lassen. Den Bacon außen noch etwas mit dem Gewürz einreiben.",
+        "group": "Mit Bacon umwickeln"
       },
       {
-        "text": "Die gefüllte Cannelloni mit dem 2 Bacon Scheiben komplett umwickeln.",
-        "group": ""
+        "text": "Für mindestens 30 Minuten auf den Grill legen. Zwischendurch nachsehen, ob die Cannelloni durch sind. 10 Minuten bevor sie fertig sind, mit etwas BBQ Soße bestreichen.",
+        "group": "Grillen"
       },
       {
-        "text": "Dabei das eine Ende komplett mit Bacon umwickeln und das andere frei lassen.",
-        "group": ""
-      },
-      {
-        "text": "Den Bacon außen noch etwas mit dem Gewürz einreiben.",
-        "group": ""
-      },
-      {
-        "text": "Dann für mindestens 30 Minuten auf den Grill legen.",
-        "group": ""
-      },
-      {
-        "text": "Zwischendurch nachsehen ob die Cannelloni durch sind.",
-        "group": ""
-      },
-      {
-        "text": "10 Minuten bevor Sie fertig sind mit etwas BBQ Soße bestreichen.",
-        "group": ""
-      },
-      {
-        "text": "Wenn Sie fertig sind eine Scheibe Cheddar Käse um das offene Ende wickeln.",
-        "group": ""
+        "text": "Wenn sie fertig sind, eine Scheibe Cheddar Käse um das offene Ende wickeln.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Snacks & Fingerfood",
-    "servings": 1
+    "servings": 15
   },
   {
     "id": "GuinnessCake",
@@ -11280,16 +10991,13 @@
         "name": "Salz",
         "group": "Für das Topping",
         "original": "1 Prise Salz"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Den Backofen auf 160°C Umluft vorheizen.",
-        "group": "Für das Topping",
-        "original": "Den Backofen auf 160°C Umluft vorheizen."
       }
     ],
     "instructions": [
+      {
+        "text": "Den Backofen auf 160°C Umluft vorheizen.",
+        "group": ""
+      },
       {
         "text": "Eine 23 cm Springform mit geschmolzener Butter einfetten und optional mit etwas Kakaopulver bestäuben.",
         "group": ""
