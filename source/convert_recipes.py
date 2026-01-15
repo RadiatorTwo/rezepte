@@ -10,7 +10,7 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional
 
-def parse_ingredient(line: str) -> Optional[Dict]:
+def parse_ingredient(line: str, group: str = "") -> Optional[Dict]:
     """
     Parst eine Zutat-Zeile und extrahiert Menge, Einheit und Name.
     Beispiele:
@@ -21,19 +21,19 @@ def parse_ingredient(line: str) -> Optional[Dict]:
     line = line.strip()
     if not line:
         return None
-    
+
     # Pattern für Brüche (1/2, 1/4, etc.)
     fraction_pattern = r'(\d+)/(\d+)'
     # Pattern für Dezimalzahlen und ganze Zahlen
     number_pattern = r'(\d+(?:[.,]\d+)?)'
     # Pattern für Einheiten (optional)
     unit_pattern = r'([A-Za-zäöüÄÖÜß]+\.?)'
-    
+
     # Versuche Menge zu extrahieren
     amount = None
     unit = ""
     name = line
-    
+
     # Prüfe auf Bruch
     fraction_match = re.match(rf'^{fraction_pattern}\s+', line)
     if fraction_match:
@@ -50,7 +50,7 @@ def parse_ingredient(line: str) -> Optional[Dict]:
             rest = line[number_match.end():].strip()
         else:
             rest = line
-    
+
     if amount is not None:
         # Versuche Einheit zu extrahieren
         unit_match = re.match(rf'^{unit_pattern}\s+', rest)
@@ -59,18 +59,19 @@ def parse_ingredient(line: str) -> Optional[Dict]:
             name = rest[unit_match.end():].strip()
         else:
             name = rest
-    
+
     return {
         'amount': amount,
         'unit': unit,
         'name': name,
+        'group': group,
         'original': line
     }
 
 def parse_recipe_markdown(content: str, filename: str) -> Dict:
     """Parst eine Markdown-Rezept-Datei."""
     lines = content.split('\n')
-    
+
     recipe = {
         'id': Path(filename).stem,
         'title': '',
@@ -80,13 +81,13 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
         'category': '',
         'servings': 1  # Default-Portionen
     }
-    
+
     # Titel extrahieren (erste # Überschrift)
     for line in lines:
-        if line.startswith('# '):
+        if line.startswith('# ') and not line.startswith('## '):
             recipe['title'] = line[2:].strip()
             break
-    
+
     # Bild extrahieren
     image_pattern = r'!\[.*?\]\((.*?)\)'
     for line in lines:
@@ -94,48 +95,17 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
         if match:
             recipe['image'] = match.group(1)
             break
-    
-    # Inhalt in Zutaten und Anweisungen aufteilen
-    # Annahme: Zeilen mit Mengenangaben sind Zutaten, der Rest sind Anweisungen
-    in_ingredients = False
-    ingredients_section = []
-    instructions_section = []
-    
-    for line in lines:
-        line = line.strip()
-        
-        # Überspringe Titel und Bilder
-        if line.startswith('#') or line.startswith('!'):
-            in_ingredients = True
-            continue
-        
-        if not line:
-            continue
 
-        # Überspringe Metadaten-Zeilen
-        if line.lower().startswith('portionen:') or line.lower().startswith('zutaten:'):
-            continue
+    # Prüfe ob neues Format (mit ## Zutaten und ## Zubereitung)
+    has_new_format = '## Zutaten' in content and '## Zubereitung' in content
 
-        # Entferne Backslashes am Zeilenende
-        line = line.rstrip('\\').strip()
-        
-        # Versuche zu erkennen, ob es eine Zutat ist
-        # Zutaten beginnen typischerweise mit einer Zahl oder enthalten Mengenangaben
-        if in_ingredients and (re.match(r'^\d', line) or 'Prise' in line or 'TL' in line or 'EL' in line):
-            ingredients_section.append(line)
-        elif in_ingredients and ingredients_section:
-            # Wenn wir schon Zutaten haben und die Zeile keine Zutat ist, ist es eine Anweisung
-            instructions_section.append(line)
-    
-    # Parse Zutaten
-    for ing_line in ingredients_section:
-        ingredient = parse_ingredient(ing_line)
-        if ingredient:
-            recipe['ingredients'].append(ingredient)
-    
-    # Anweisungen übernehmen
-    recipe['instructions'] = instructions_section
-    
+    if has_new_format:
+        # Neues Format: Parse mit Abschnitten und Gruppen
+        recipe['ingredients'], recipe['instructions'] = parse_new_format(lines)
+    else:
+        # Altes Format: Fallback auf heuristische Erkennung
+        recipe['ingredients'], recipe['instructions'] = parse_old_format(lines)
+
     # Versuche Portionen zu erkennen
     # Priorität 1: Dedizierte "Portionen: X" Zeile
     servings_match = re.search(r'^Portionen:\s*(\d+)', content, re.MULTILINE | re.IGNORECASE)
@@ -147,8 +117,97 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
         servings_match = re.search(r'(?:für|ergibt)\s+(\d+)\s+(?:personen|portionen)', full_text)
         if servings_match:
             recipe['servings'] = int(servings_match.group(1))
-    
+
     return recipe
+
+
+def parse_new_format(lines: List[str]) -> tuple:
+    """Parst das neue Markdown-Format mit ## Zutaten und ## Zubereitung."""
+    ingredients = []
+    instructions = []
+
+    section = None  # None, 'ingredients', 'instructions'
+    current_group = ""
+
+    for line in lines:
+        line_stripped = line.strip()
+
+        # Abschnittswechsel erkennen
+        if line_stripped.lower() == '## zutaten':
+            section = 'ingredients'
+            continue
+        elif line_stripped.lower() == '## zubereitung':
+            section = 'instructions'
+            continue
+        elif line_stripped.startswith('## '):
+            # Anderer Abschnitt - ignorieren
+            section = None
+            continue
+
+        # Leere Zeilen überspringen
+        if not line_stripped:
+            continue
+
+        # Gruppen-Überschrift (### Gruppenname)
+        if line_stripped.startswith('### ') and section == 'ingredients':
+            current_group = line_stripped[4:].strip()
+            continue
+
+        # Entferne Backslashes am Zeilenende
+        line_clean = line_stripped.rstrip('\\').strip()
+
+        if section == 'ingredients':
+            ingredient = parse_ingredient(line_clean, current_group)
+            if ingredient:
+                ingredients.append(ingredient)
+        elif section == 'instructions':
+            if line_clean:
+                instructions.append(line_clean)
+
+    return ingredients, instructions
+
+
+def parse_old_format(lines: List[str]) -> tuple:
+    """Parst das alte Markdown-Format mit heuristischer Erkennung."""
+    ingredients = []
+    instructions = []
+
+    in_ingredients = False
+    ingredients_section = []
+
+    for line in lines:
+        line = line.strip()
+
+        # Überspringe Titel und Bilder
+        if line.startswith('#') or line.startswith('!'):
+            in_ingredients = True
+            continue
+
+        if not line:
+            continue
+
+        # Überspringe Metadaten-Zeilen
+        if line.lower().startswith('portionen:') or line.lower().startswith('zutaten:'):
+            continue
+
+        # Entferne Backslashes am Zeilenende
+        line = line.rstrip('\\').strip()
+
+        # Versuche zu erkennen, ob es eine Zutat ist
+        # Zutaten beginnen typischerweise mit einer Zahl oder enthalten Mengenangaben
+        if in_ingredients and (re.match(r'^\d', line) or 'Prise' in line or 'TL' in line or 'EL' in line):
+            ingredients_section.append(line)
+        elif in_ingredients and ingredients_section:
+            # Wenn wir schon Zutaten haben und die Zeile keine Zutat ist, ist es eine Anweisung
+            instructions.append(line)
+
+    # Parse Zutaten
+    for ing_line in ingredients_section:
+        ingredient = parse_ingredient(ing_line)
+        if ingredient:
+            ingredients.append(ingredient)
+
+    return ingredients, instructions
 
 def parse_index_markdown(content: str) -> Dict[str, List[str]]:
     """Parst die index.md und extrahiert Kategorien."""

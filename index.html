@@ -317,6 +317,21 @@
             padding-bottom: 0.5rem;
         }
 
+        .ingredient-group {
+            margin-top: 1.5rem;
+        }
+
+        .ingredient-group:first-child {
+            margin-top: 0;
+        }
+
+        .ingredient-group-title {
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+
         .ingredient-item {
             padding: 0.75rem;
             border-left: 3px solid var(--primary-light);
@@ -656,20 +671,42 @@
             const container = document.getElementById('ingredientsList');
             const factor = currentPortions / originalPortions;
 
-            container.innerHTML = currentRecipe.ingredients.map(ing => {
-                let display = '';
-                
-                if (ing.amount !== null) {
-                    const adjustedAmount = ing.amount * factor;
-                    // Formatiere die Menge schön
-                    const formatted = formatAmount(adjustedAmount);
-                    display = `<span class="ingredient-amount">${formatted} ${ing.unit}</span> ${ing.name}`;
-                } else {
-                    display = ing.original;
+            // Gruppiere Zutaten nach group
+            const groups = {};
+            currentRecipe.ingredients.forEach(ing => {
+                const groupName = ing.group || '';
+                if (!groups[groupName]) {
+                    groups[groupName] = [];
+                }
+                groups[groupName].push(ing);
+            });
+
+            // Rendere Zutaten nach Gruppen
+            let html = '';
+            for (const [groupName, ingredients] of Object.entries(groups)) {
+                if (groupName) {
+                    html += `<div class="ingredient-group">`;
+                    html += `<div class="ingredient-group-title">${groupName}</div>`;
                 }
 
-                return `<div class="ingredient-item">${display}</div>`;
-            }).join('');
+                ingredients.forEach(ing => {
+                    let display = '';
+                    if (ing.amount !== null) {
+                        const adjustedAmount = ing.amount * factor;
+                        const formatted = formatAmount(adjustedAmount);
+                        display = `<span class="ingredient-amount">${formatted} ${ing.unit}</span> ${ing.name}`;
+                    } else {
+                        display = ing.original;
+                    }
+                    html += `<div class="ingredient-item">${display}</div>`;
+                });
+
+                if (groupName) {
+                    html += `</div>`;
+                }
+            }
+
+            container.innerHTML = html;
         }
 
         // Menge formatieren (z.B. 0.5 -> ½, 0.25 -> ¼)
