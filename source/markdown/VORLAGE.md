@@ -20,7 +20,11 @@ Pfeffer
 
 ## Zubereitung
 
+### Hauptgericht
 Schritt 1 der Zubereitung.
 Schritt 2 der Zubereitung.
-Schritt 3 der Zubereitung.
+
+### Für die Sauce
+Schritt 1 für die Sauce.
+Schritt 2 für die Sauce.
 Mit Beilage servieren.

@@ -127,7 +127,8 @@ def parse_new_format(lines: List[str]) -> tuple:
     instructions = []
 
     section = None  # None, 'ingredients', 'instructions'
-    current_group = ""
+    current_ingredient_group = ""
+    current_instruction_group = ""
 
     for line in lines:
         line_stripped = line.strip()
@@ -135,9 +136,11 @@ def parse_new_format(lines: List[str]) -> tuple:
         # Abschnittswechsel erkennen
         if line_stripped.lower() == '## zutaten':
             section = 'ingredients'
+            current_ingredient_group = ""
             continue
         elif line_stripped.lower() == '## zubereitung':
             section = 'instructions'
+            current_instruction_group = ""
             continue
         elif line_stripped.startswith('## '):
             # Anderer Abschnitt - ignorieren
@@ -149,20 +152,27 @@ def parse_new_format(lines: List[str]) -> tuple:
             continue
 
         # Gruppen-Überschrift (### Gruppenname)
-        if line_stripped.startswith('### ') and section == 'ingredients':
-            current_group = line_stripped[4:].strip()
+        if line_stripped.startswith('### '):
+            group_name = line_stripped[4:].strip()
+            if section == 'ingredients':
+                current_ingredient_group = group_name
+            elif section == 'instructions':
+                current_instruction_group = group_name
             continue
 
         # Entferne Backslashes am Zeilenende
         line_clean = line_stripped.rstrip('\\').strip()
 
         if section == 'ingredients':
-            ingredient = parse_ingredient(line_clean, current_group)
+            ingredient = parse_ingredient(line_clean, current_ingredient_group)
             if ingredient:
                 ingredients.append(ingredient)
         elif section == 'instructions':
             if line_clean:
-                instructions.append(line_clean)
+                instructions.append({
+                    'text': line_clean,
+                    'group': current_instruction_group
+                })
 
     return ingredients, instructions
 
@@ -199,7 +209,7 @@ def parse_old_format(lines: List[str]) -> tuple:
             ingredients_section.append(line)
         elif in_ingredients and ingredients_section:
             # Wenn wir schon Zutaten haben und die Zeile keine Zutat ist, ist es eine Anweisung
-            instructions.append(line)
+            instructions.append({'text': line, 'group': ''})
 
     # Parse Zutaten
     for ing_line in ingredients_section:

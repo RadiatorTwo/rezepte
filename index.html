@@ -345,6 +345,21 @@
             color: var(--primary);
         }
 
+        .instruction-group {
+            margin-top: 1.5rem;
+        }
+
+        .instruction-group:first-child {
+            margin-top: 0;
+        }
+
+        .instruction-group-title {
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+            font-size: 1.1rem;
+        }
+
         .instruction-item {
             padding: 1rem;
             margin-bottom: 0.75rem;
@@ -741,9 +756,50 @@
         // Anweisungen anzeigen
         function updateInstructions() {
             const container = document.getElementById('instructionsList');
-            container.innerHTML = currentRecipe.instructions.map((instruction, index) => 
-                `<div class="instruction-item"><strong>Schritt ${index + 1}:</strong> ${instruction}</div>`
-            ).join('');
+
+            // Prüfe ob instructions das neue Format haben (Objekte mit text/group)
+            const hasNewFormat = currentRecipe.instructions.length > 0 &&
+                                 typeof currentRecipe.instructions[0] === 'object';
+
+            if (!hasNewFormat) {
+                // Altes Format: einfache Strings
+                container.innerHTML = currentRecipe.instructions.map((instruction, index) =>
+                    `<div class="instruction-item"><strong>Schritt ${index + 1}:</strong> ${instruction}</div>`
+                ).join('');
+                return;
+            }
+
+            // Neues Format: Gruppiere nach group
+            const groups = {};
+            currentRecipe.instructions.forEach(instr => {
+                const groupName = instr.group || '';
+                if (!groups[groupName]) {
+                    groups[groupName] = [];
+                }
+                groups[groupName].push(instr.text);
+            });
+
+            // Rendere nach Gruppen
+            let html = '';
+            let stepCounter = 1;
+
+            for (const [groupName, steps] of Object.entries(groups)) {
+                if (groupName) {
+                    html += `<div class="instruction-group">`;
+                    html += `<div class="instruction-group-title">${groupName}</div>`;
+                }
+
+                steps.forEach(step => {
+                    html += `<div class="instruction-item"><strong>Schritt ${stepCounter}:</strong> ${step}</div>`;
+                    stepCounter++;
+                });
+
+                if (groupName) {
+                    html += `</div>`;
+                }
+            }
+
+            container.innerHTML = html;
         }
 
         // Modal bei Klick außerhalb schließen
