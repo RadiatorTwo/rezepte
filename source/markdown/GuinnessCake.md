@@ -24,10 +24,10 @@ Portionen: 1
 200 ml Schlagsahne
 1 EL Vanilleextrakt
 1 Prise Salz
-Den Backofen auf 160°C Umluft vorheizen.
 
 ## Zubereitung
 
+Den Backofen auf 160°C Umluft vorheizen.
 Eine 23 cm Springform mit geschmolzener Butter einfetten und optional mit etwas Kakaopulver bestäuben.
 Guinness und Butter in einen großen Topf geben und bei mittlerer bis niedriger Hitze erhitzen, bis die Butter geschmolzen ist.
 Vom Herd nehmen und das Kakaopulver sowie den Feinkristallzucker unterrühren, bis alles gut vermischt ist.

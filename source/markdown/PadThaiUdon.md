@@ -16,10 +16,9 @@ Portionen: 1
 250g Prinzess oder Brechbohnen
 Maisstärke
 Ketjap Manis
-Prinzessbohnen in Wasser auftauen dann gut abtropfen.
 
 ## Zubereitung
-
+Prinzessbohnen in Wasser auftauen dann gut abtropfen.
 Rindfleisch in streifen schneiden und weich klopfen.
 Das Fleisch mit Ketjap Manis marinieren.
 Etwas Maisstärke dazu geben.

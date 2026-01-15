@@ -18,10 +18,9 @@ Portionen: 1
 1 Tasse Wasser
 1 EL brauner Zucker
 1 Tasse Kokosmilch
-Einen Topf auf mittlerer bis hoher Hitze erhitzen.
 
 ## Zubereitung
-
+Einen Topf auf mittlerer bis hoher Hitze erhitzen.
 Das Öl hinzufügen und den Knoblauch sowie die Zwiebeln darin 1 Minute anbraten, bis sie duften.
 Das Fleisch hinzufügen und von allen Seiten scharf anbraten, bis es goldbraun ist.
 Essig, Sojasauce, Lorbeerblätter, Pfefferkörner, Hühnerbrühwürfel und Wasser dazugeben.

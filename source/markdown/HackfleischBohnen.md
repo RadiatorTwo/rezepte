@@ -6,20 +6,34 @@ Portionen: 1
 
 ## Zutaten
 
+### Hauptzutaten
+Jasmin Reis
+Salz
+Hackfleisch
+Bohnen
+2-3 Knoblauchzehen
+Frühlingszwiebeln
+Öl zum Anbraten
+
+### Für die Soße
+250 ml Gemüsebrühe
+2 EL Sojasoße, hell
+1 TL Zucker
+Chilipulver oder 1/2 TL Gochujang
+Pfeffer
+1-2 EL Soßenbinder
+Austernsoße zum Abschmecken
 
 ## Zubereitung
 
-Jasmin Reis im Reiskocher mit Salz kochen.
-Soße zubereiten:
-250 ml Gemüsebrühe
-2 EL Sojasoße Hell
-1 TL Zucker
-Chilipulver oder 1/2 teelöffel Gochujang
-Etwas Pfeffer
-1-2 EL Soßenbinder
-Mit Austernsoße abschmecken
-Bohnen Bissfest garen.
-Knoblauch pressen und Frühlingszwiebeln schneiden.
-Öl in Pfanne erhitzen und Hackfleisch zusammen mit Knoblauch anbraten.
-Soße dazu geben.
-Bohnen und Frühlingszwiebeln dazu geben und unter Rühren 3-4 Minuten durch garen.
+### Reis und Bohnen vorbereiten
+Jasmin Reis im Reiskocher mit Salz kochen. Bohnen bissfest garen.
+
+### Soße zubereiten
+Gemüsebrühe, helle Sojasoße, Zucker, Chilipulver oder Gochujang und etwas Pfeffer vermengen. Soßenbinder einrühren. Mit Austernsoße abschmecken.
+
+### Hackfleisch braten
+Knoblauch pressen und Frühlingszwiebeln schneiden. Öl in Pfanne erhitzen und Hackfleisch zusammen mit Knoblauch anbraten.
+
+### Fertigstellung
+Soße zum Hackfleisch geben. Bohnen und Frühlingszwiebeln dazugeben und unter Rühren 3-4 Minuten durchgaren. Mit dem Reis servieren.

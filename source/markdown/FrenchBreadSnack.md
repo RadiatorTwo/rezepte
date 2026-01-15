@@ -1,6 +1,6 @@
 # Easy French Bread Snack
 
-![](https://radiatortwo.github.io/rezepte/pics/guinness-cake.webp)
+![](https://radiatortwo.github.io/rezepte/pics/)
 
 Portionen: 1
 

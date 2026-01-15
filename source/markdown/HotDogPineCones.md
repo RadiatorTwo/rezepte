@@ -10,10 +10,10 @@ Portionen: 1
 2 EL Senf (als Bindemittel)
 beliebige BBQ Allzweck-Gewürzmischung
 BBQ-Sauce nach Wahl
-Den Backofen auf 150°C vorheizen.
 
 ## Zubereitung
 
+Den Backofen auf 150°C vorheizen.
 Mit einem Messer die Hot Dogs im Kreuzmuster einschneiden, ohne sie komplett zu durchtrennen.
 Die Hot Dogs rundherum mit Senf bestreichen.
 Auf einem Rost mit etwas Abstand platzieren und von oben und unten mit der Gewürzmischung bestreuen.

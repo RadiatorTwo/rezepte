@@ -12,10 +12,10 @@ Portionen: 1
 125 g Grieß
 450-500 ml heiße Milch
 Etwas Butter
-Eier in eine Schüssel schlagen.
 
 ## Zubereitung
 
+Eier in eine Schüssel schlagen.
 Zucker und Vanillezucker dazugeben und mit einem Schneebesen fest schlagen.
 Den Grieß gleichmäßig unter die Eier heben.
 Die Mischung in eine mit Butter eingefettete, Mikrowellenfeste Glasschüssel geben.

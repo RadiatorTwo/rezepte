@@ -15,11 +15,10 @@ Portionen: 1
 Petersilie
 Olivenöl
 Salz
-Die Zwiebel und die Pertsilie klein hacken.
-Den Parmesan fein reiben.
 
 ## Zubereitung
-
+Die Zwiebel und die Pertsilie klein hacken.
+Den Parmesan fein reiben.
 Die Steinpilze in dünne Scheiben schneiden.
 3 Esslöffel Olivenöl und die Steinpilze mit etwas Salz in eine Kalte Pfanne geben und bei mittlerer Hitze die Pfanne erhitzen.
 Wenn die Pfanne auf Temperatur ist die hälfte der Pertsilie dazugeben.

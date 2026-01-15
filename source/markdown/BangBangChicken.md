@@ -27,10 +27,9 @@ Neutrales Öl (zum Frittieren, z. B. Rapsöl)
 1 TL Zitronensaft
 ### Toppings und Beilage
 Frühlingszwiebeln oder Schnittlauch (zum Garnieren)
+Gekochter Reis (zum Servieren)
 
 ## Zubereitung
-
-Gekochter Reis (zum Servieren)
 In einer Schüssel das Hähnchen mit Sojasauce, Sake, Mirin, Sesamöl, Knoblauch, Ingwer, Salz, weißem Pfeffer und Eiweiß vermengen.
 Mindestens 1 Stunde oder über Nacht im Kühlschrank marinieren.
 In einer kleinen Schüssel Mayonnaise, Thai-Süßchilisauce, Sriracha und Zitronensaft vermengen.

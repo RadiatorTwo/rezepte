@@ -14,10 +14,9 @@ Portionen: 1
 200 g Joghurt (10 %)
 Salz und Pfeffer nach Geschmack
 2 EL Maggi
-Die gekochten Eier schälen und grob hacken.
 
 ## Zubereitung
-
+Die gekochten Eier schälen und grob hacken.
 In einer Schüssel Senf, Cornichon-Saft, Joghurt, Maggi, Salz und Pfeffer verrühren.
 Die gehackten Eier, Cornichon-Würfel und den Schnittlauch unter das Dressing mischen.
 Gut durchziehen lassen.

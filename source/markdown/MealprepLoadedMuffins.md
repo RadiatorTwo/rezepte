@@ -32,24 +32,18 @@ Salz nach Geschmack
 ½ TL schwarzer Pfeffer
 1 TL Knoblauchpulver
 35 g Honig
-### Eier zubereiten
-Eier und Eiweiß mit Salz verquirlen.
 
 ## Zubereitung
-
+Eier und Eiweiß mit Salz verquirlen.
 In einer heißen Pfanne oder einer runden Backform portionsweise stocken lassen.
-Fleisch-Patties formen und braten:
 Hackfleisch mit allen Gewürzen vermengen.
 In 6 gleich große Patties formen.
 In einer Pfanne oder auf dem Grill braten, bis sie gut durchgegart sind.
-Bacon knusprig braten:
 Die Baconscheiben in einer Pfanne knusprig braten.
-McMuffins zusammenbauen:
 Die englischen Muffins toasten.
 Auf die untere Hälfte eine Scheibe Cheddar, ein Patty, eine Eiportion und den knusprigen Bacon legen.
 Nach Belieben mit Chipotle-Sauce bestreichen.
 Mit der oberen Muffinhälfte abschließen.
-Lagerung und Aufwärmen:
 Die fertigen McMuffins in Folie einwickeln und einfrieren.
 Am Vorabend im Kühlschrank auftauen lassen.
 Folie entfernen.

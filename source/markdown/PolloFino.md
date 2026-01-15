@@ -14,11 +14,10 @@ Ankerkraut Brathähnchen oder ähnliche Gewürzmischung
 ### Für BBQ Marinade
 30 ml Bullseye Classic BBQ Soße
 1-2 Esslöffel Ahornsirup
-Die Haut von den Oberkeulen abtrennen und dann abtrocknen.
-Die gesäuberten Oberkeulen ein wenig salzen.
 
 ## Zubereitung
-
+Die Haut von den Oberkeulen abtrennen und dann abtrocknen.
+Die gesäuberten Oberkeulen ein wenig salzen.
 Gut mit dem Texas Chicken Gewürz einreiben und danach noch etwas mit dem Brathähnchen Gewürz bestreuen.
 Das ganze so für mindestens eine halbe stunde marinieren lassen.
 1 oder 2 Esslöffel Öl dazu geben und gut durchmischen.

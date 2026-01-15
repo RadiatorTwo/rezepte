@@ -16,10 +16,10 @@ Zahnstocher
 Geriebener Cheddar
 Gewürfelte Jalapeno oder Spitzpaprika
 1-2 EL BBQ Rub nach Wahl
-Den Grill auf 150 Grad aufheizen.
 
 ## Zubereitung
 
+Den Grill auf 150 Grad aufheizen.
 Aus der Bratwurst einen Scheibe schneiden.
 Die Scheibe Wurst mit der flachen Seite nach unten hinlegen und mit einer Scheibe Bacon umwickeln.
 Durch den Bacon und die Wurst einen Zahnstocher stecken sodass es fest hält.
