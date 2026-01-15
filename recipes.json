@@ -275,7 +275,7 @@
   {
     "id": "CheeseburgerTaco",
     "title": "Cheeseburger Tacos",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheeseburger-taco.png",
     "ingredients": [],
     "instructions": [
       {
@@ -551,7 +551,7 @@
   {
     "id": "SweetSourFriedEggs",
     "title": "Sweet & Sour Fried Eggs",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/sweet_sour_fried_eggs.webp",
     "ingredients": [
       {
         "amount": 4.0,
@@ -683,7 +683,7 @@
   {
     "id": "BBQChickenNudelsalat",
     "title": "BBQ-Hähnchen-Nudelsalat",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bbq-chicken-nudelsalat.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -993,7 +993,7 @@
   {
     "id": "GarlicBreadTortilla",
     "title": "Cheesy Garlic Bread Tortilla",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 2.0,
@@ -1101,7 +1101,7 @@
   {
     "id": "BrezelFlammkuchen",
     "title": "Flammkuchen Brezel",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": null,
@@ -1177,7 +1177,7 @@
   {
     "id": "AirfryerRavioli",
     "title": "Airfryer Ravioli",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 340.0,
@@ -1638,7 +1638,7 @@
   {
     "id": "Lapskaus",
     "title": "Norwegischer Rindereintopf (Lapskaus)",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 1.2,
@@ -1809,7 +1809,7 @@
   {
     "id": "BBQNudelsalat",
     "title": "BBQ-Nudelsalat",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 500.0,
@@ -1954,7 +1954,7 @@
   {
     "id": "AirfryLangos",
     "title": "Langos AirFryer Edition",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 6.0,
@@ -2082,7 +2082,7 @@
   {
     "id": "Eiersalat",
     "title": "Eiersalat",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 10.0,
@@ -2480,7 +2480,7 @@
   {
     "id": "FilipinoPorkTocino",
     "title": "Filipino Pork Tocino",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 500.0,
@@ -2600,7 +2600,7 @@
   {
     "id": "Austernsosse",
     "title": "Austernsoße",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": null,
@@ -2666,7 +2666,7 @@
   {
     "id": "KartoffelPops",
     "title": "Garlic Butter Potato Pops",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 2.0,
@@ -2946,7 +2946,7 @@
   {
     "id": "ChickenBalls",
     "title": "Sweet and Sour Chicken Balls",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": null,
@@ -3067,7 +3067,7 @@
   {
     "id": "LemonBrownies",
     "title": "Lemon Brownies",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [],
     "instructions": [
       {
@@ -3241,7 +3241,7 @@
   {
     "id": "AirfryLasagneWrap",
     "title": "Airfryer Lasagne Wrap",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3430,7 +3430,7 @@
   {
     "id": "PadThaiUdon",
     "title": "Pad Thai mit Udon Nudeln und Rindfleisch",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": null,
@@ -3582,7 +3582,7 @@
   {
     "id": "PepperCornSauce",
     "title": "Peppercorn-Soße – Flambierte Pfefferkornsoße mit Röstaromen",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3734,7 +3734,7 @@
   {
     "id": "HotDogPineCones",
     "title": "Hot Dog Pinecones",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3955,7 +3955,7 @@
   {
     "id": "FilipinoPorkAdobo",
     "title": "Filipino Coconut Pork Adobo",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 2.0,
@@ -4196,7 +4196,7 @@
   {
     "id": "RaspberryBaconJamBurger",
     "title": "Raspberry Bacon Jam Burger",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 450.0,
@@ -4869,7 +4869,7 @@
   {
     "id": "BangBangChicken",
     "title": "Bang Bang Chicken",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 500.0,
@@ -5043,7 +5043,7 @@
   {
     "id": "MealprepLoadedMuffins",
     "title": "Loaded Breakfast McMuffins",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": null,
@@ -5477,7 +5477,7 @@
   {
     "id": "CheesyGarlicPotatoBites",
     "title": "Cheesy Garlic Potato Bites",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [],
     "instructions": [
       {
@@ -5567,7 +5567,7 @@
   {
     "id": "HokkienMee",
     "title": "Hokkien Mee",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 500.0,
@@ -5868,7 +5868,7 @@
   {
     "id": "CinnamonPullApartBread",
     "title": "Cinnamon Pull Apart Bread",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 3.0,
@@ -6343,7 +6343,7 @@
   {
     "id": "BalsamicBourbonShortRibs",
     "title": "Balsamic Bourbon Short Ribs",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": null,
@@ -6694,7 +6694,7 @@
   {
     "id": "AsiaGarnelenNudelsalat",
     "title": "Asiatischer Garnelen Nudelsalat",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
         "amount": 400.0,
@@ -6989,7 +6989,7 @@
   {
     "id": "SpeckGarnelenPasta",
     "title": "Spaghetti mit Garnelen und Speck in Sahnesauce",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/spaghetti-garnelen-speck.webp",
     "ingredients": [],
     "instructions": [
       {
@@ -7147,7 +7147,7 @@
   {
     "id": "BesterNudelsalat",
     "title": "Bester Nudelsalat",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/best-nudelsalat.webp",
     "ingredients": [
       {
         "amount": 300.0,
@@ -7590,7 +7590,7 @@
   {
     "id": "FrenchBreadSnack",
     "title": "Easy French Bread Snack",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/guinness-cake.webp",
     "ingredients": [
       {
         "amount": 150.0,
@@ -7862,75 +7862,9 @@
     "servings": 1
   },
   {
-    "id": "BologneseKnoblauchbrot",
-    "title": "Überbackenes Bolognese-Knoblauchbrot aus dem Airfryer",
-    "image": "",
-    "ingredients": [],
-    "instructions": [
-      {
-        "text": "Eine perfekte Möglichkeit, übrig gebliebene Bolognese zu verwerten.",
-        "group": ""
-      },
-      {
-        "text": "Übrig gebliebene Bolognese",
-        "group": ""
-      },
-      {
-        "text": "4 Scheiben Brot",
-        "group": ""
-      },
-      {
-        "text": "2 EL Knoblauchbutter",
-        "group": ""
-      },
-      {
-        "text": "Weiße Sauce (z. B. Béchamel oder eine fertige Lasagne-Weiße-Sauce)",
-        "group": ""
-      },
-      {
-        "text": "100 g geriebener Käse (Mozzarella, Cheddar oder eine Mischung)",
-        "group": ""
-      },
-      {
-        "text": "Beide Seiten der Brotscheiben mit Knoblauchbutter bestreichen.",
-        "group": ""
-      },
-      {
-        "text": "Im Airfryer bei 200°C für ca. 3-5 Minuten pro Seite backen, bis sie goldbraun und knusprig sind.",
-        "group": ""
-      },
-      {
-        "text": "Eine Scheibe Brot mit Bolognese belegen.",
-        "group": ""
-      },
-      {
-        "text": "Etwas weiße Sauce darauf verteilen und mit Käse bestreuen.",
-        "group": ""
-      },
-      {
-        "text": "Eine zweite Scheibe Brot darauflegen.",
-        "group": ""
-      },
-      {
-        "text": "Oben erneut weiße Sauce und Käse verteilen.",
-        "group": ""
-      },
-      {
-        "text": "Im Airfryer bei 200°C für 5-7 Minuten backen, bis der Käse geschmolzen und goldbraun ist.",
-        "group": ""
-      },
-      {
-        "text": "Servieren und genießen.",
-        "group": ""
-      }
-    ],
-    "category": "Airfryer Rezepte",
-    "servings": 1
-  },
-  {
     "id": "AirfryApplePancakes",
     "title": "Apple Pancakes Air Fryer Edition",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/apple-pancakes.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -8180,7 +8114,7 @@
   {
     "id": "KaeseReispapierNudeln",
     "title": "Käse-Reispapier-Nudeln",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaese-reispapier.png",
     "ingredients": [],
     "instructions": [
       {
@@ -8592,7 +8526,7 @@
   {
     "id": "NaughtySandwich",
     "title": "Naughty Sandwich",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/naughty-sandwich.png",
     "ingredients": [
       {
         "amount": 0.5,
@@ -8899,7 +8833,7 @@
   {
     "id": "AirfryLachsroellchen",
     "title": "Lachsröllchen Airfryer Edition",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/lachsrollen-airfryer.jpg",
     "ingredients": [
       {
         "amount": 200.0,
@@ -8987,29 +8921,38 @@
   {
     "id": "BBQLeberkas",
     "title": "BBQ Leberkäse Braten",
-    "image": "",
-    "ingredients": [],
+    "image": "https://radiatortwo.github.io/rezepte/pics/bbq-leberkas.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "unit": "kg",
+        "name": "Rinderhackfleisch",
+        "group": "",
+        "original": "1 kg Rinderhackfleisch"
+      },
+      {
+        "amount": 1.0,
+        "unit": "kg",
+        "name": "rohes Leberkäsbrät",
+        "group": "",
+        "original": "1 kg rohes Leberkäsbrät"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "BBQ-Rub nach Wahl",
+        "group": "",
+        "original": "BBQ-Rub nach Wahl"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "BBQ-Sauce nach Wahl",
+        "group": "",
+        "original": "BBQ-Sauce nach Wahl"
+      }
+    ],
     "instructions": [
-      {
-        "text": "Ein herzhaft-würziger Leberkäsebraten mit BBQ-Aroma.",
-        "group": ""
-      },
-      {
-        "text": "1 kg Rinderhackfleisch",
-        "group": ""
-      },
-      {
-        "text": "1 kg rohes Leberkäsbrät",
-        "group": ""
-      },
-      {
-        "text": "BBQ-Rub nach Wahl",
-        "group": ""
-      },
-      {
-        "text": "BBQ-Sauce nach Wahl",
-        "group": ""
-      },
       {
         "text": "Das Hackfleisch mit dem BBQ-Rub würzen und gut durchkneten.",
         "group": ""
@@ -9310,7 +9253,7 @@
   {
     "id": "AsiaRindfleischMarinade",
     "title": "Rindfleisch-Marinade (Asiatisch)",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rindfleisch-marinade-asia.jpg",
     "ingredients": [
       {
         "amount": 1.0,
@@ -9986,7 +9929,7 @@
   {
     "id": "MapleBaconPartyRibs",
     "title": "Maple Bacon Party Ribs",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/maple-bacon-party-ribs.png",
     "ingredients": [
       {
         "amount": 1.0,
@@ -10223,7 +10166,7 @@
   {
     "id": "ChickenTerriyakiSandwich",
     "title": "Chicken Teriyaki Sandwich",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/teriyaki-chicken-sub.jpg",
     "ingredients": [
       {
         "amount": null,
@@ -10507,7 +10450,7 @@
   {
     "id": "AirfryBangBangChicken",
     "title": "Bang Bang Chicken Airfryer Edition",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-chicken.jpg",
     "ingredients": [
       {
         "amount": 400.0,
@@ -10621,7 +10564,7 @@
   {
     "id": "LaugenbriocheCheeseburger",
     "title": "Laugenbrioche Bacon Cheeseburger mit Jalapeno-Honig Soße",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.png",
     "ingredients": [
       {
         "amount": null,
@@ -10908,7 +10851,7 @@
   {
     "id": "BangBangShrimp",
     "title": "Bang Bang Shrimp aus dem Airfryer",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp.jpg",
     "ingredients": [
       {
         "amount": 400.0,
@@ -11160,7 +11103,7 @@
   {
     "id": "GuinnessCake",
     "title": "Guinness Schokoladenkuchen mit Frischkäse-Frosting",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/guinness-cake.webp",
     "ingredients": [
       {
         "amount": 240.0,
