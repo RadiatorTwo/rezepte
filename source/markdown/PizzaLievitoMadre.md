@@ -23,10 +23,9 @@ Geriebener Schnittfester Mozarella
 Schinken
 Salami
 Zwiebeln
-Die Hefe im Wasser auflösen.
 
 ## Zubereitung
-
+Die Hefe im Wasser auflösen.
 Alle Zutaten für den Teig in eine Schüssel geben und den Teig gut durchkneten.
 Den Teig über nacht gehen lassen.
 Vor dem Ausrollen den Teig nochmal gut durchkneten.

@@ -10,10 +10,9 @@ Portionen: 1
 1 Tasse Panko-Paniermehl
 2 Eier
 Sauce nach Wahl (z. B. Marinara oder Aioli)
-Die Eier in einer Schüssel verquirlen.
 
 ## Zubereitung
-
+Die Eier in einer Schüssel verquirlen.
 Die Ravioli erst in das Ei tauchen, dann im Panko-Paniermehl wenden, bis sie vollständig bedeckt sind.
 Diesen Schritt für alle Ravioli wiederholen.
 Den Airfryer auf 195°C vorheizen.
