@@ -276,273 +276,235 @@
     "id": "CheeseburgerTaco",
     "title": "Cheeseburger Tacos",
     "image": "https://radiatortwo.github.io/rezepte/pics/cheeseburger-taco.png",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "unit": "EL",
+        "name": "Mayonnaise",
+        "group": "Burger Sauce",
+        "original": "3 EL Mayonnaise"
+      },
+      {
+        "amount": 1.0,
+        "unit": "EL",
+        "name": "Ketchup",
+        "group": "Burger Sauce",
+        "original": "1 EL Ketchup"
+      },
+      {
+        "amount": 1.0,
+        "unit": "TL",
+        "name": "Senf",
+        "group": "Burger Sauce",
+        "original": "1 TL Senf"
+      },
+      {
+        "amount": 4.0,
+        "unit": "",
+        "name": "Mini-Tortillas",
+        "group": "Tacos",
+        "original": "4 Mini-Tortillas"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "240g Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)",
+        "group": "Tacos",
+        "original": "240g Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Tacos",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Tacos",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": 4.0,
+        "unit": "Scheiben",
+        "name": "amerikanischer Käse",
+        "group": "Tacos",
+        "original": "4 Scheiben amerikanischer Käse"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Geraspelter Eisbergsalat",
+        "group": "Tacos",
+        "original": "Geraspelter Eisbergsalat"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Gehackte Tomaten (optional)",
+        "group": "Tacos",
+        "original": "Gehackte Tomaten (optional)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Gewürzgurken, in Scheiben",
+        "group": "Tacos",
+        "original": "Gewürzgurken, in Scheiben"
+      }
+    ],
     "instructions": [
       {
-        "text": "Einfach, lecker und die perfekte Fusion aus Burger und Taco.",
-        "group": ""
+        "text": "Mayonnaise, Ketchup und Senf in einer Schüssel vermengen. Beiseitestellen.",
+        "group": "Burger Sauce vorbereiten"
       },
       {
-        "text": "Burger Sauce:",
-        "group": ""
+        "text": "Das gewürzte Hackfleisch in 4 Portionen teilen und zu dünnen Patties formen. Eine heiße Pfanne oder Grillplatte leicht einfetten.",
+        "group": "Tacos zubereiten"
       },
       {
-        "text": "3 EL Mayonnaise",
-        "group": ""
-      },
-      {
-        "text": "1 EL Ketchup",
-        "group": ""
-      },
-      {
-        "text": "1 TL Senf",
-        "group": ""
-      },
-      {
-        "text": "Tacos:",
-        "group": ""
-      },
-      {
-        "text": "4 Mini-Tortillas",
-        "group": ""
-      },
-      {
-        "text": "240 g Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)",
-        "group": ""
-      },
-      {
-        "text": "Salz und Pfeffer nach Geschmack",
-        "group": ""
-      },
-      {
-        "text": "4 Scheiben amerikanischer Käse",
-        "group": ""
-      },
-      {
-        "text": "Geraspelter Eisbergsalat",
-        "group": ""
-      },
-      {
-        "text": "Gehackte Tomaten (optional)",
-        "group": ""
-      },
-      {
-        "text": "Gewürzgurken (in Scheiben)",
-        "group": ""
-      },
-      {
-        "text": "Burger Sauce vorbereiten:",
-        "group": ""
-      },
-      {
-        "text": "Mayonnaise, Ketchup und Senf in einer Schüssel vermengen.",
-        "group": ""
-      },
-      {
-        "text": "Beiseitestellen.",
-        "group": ""
-      },
-      {
-        "text": "Tacos vorbereiten:",
-        "group": ""
-      },
-      {
-        "text": "Das gewürzte Hackfleisch in 4 Portionen teilen und zu dünnen Patties formen.",
-        "group": ""
-      },
-      {
-        "text": "Eine heiße Pfanne oder Grillplatte leicht einfetten.",
-        "group": ""
-      },
-      {
-        "text": "Die Mini-Tortillas hineinlegen und die rohen Burger-Patties direkt darauf platzieren.",
-        "group": ""
-      },
-      {
-        "text": "Mit einem Spatel fest andrücken und bei mittlerer Hitze braten, bis das Fleisch durch ist.",
-        "group": ""
+        "text": "Die Mini-Tortillas hineinlegen und die rohen Burger-Patties direkt darauf platzieren. Mit einem Spatel fest andrücken und bei mittlerer Hitze braten, bis das Fleisch durch ist.",
+        "group": "Tacos zubereiten"
       },
       {
         "text": "Wenden, eine Scheibe Käse auf jedes Patty legen und schmelzen lassen.",
-        "group": ""
+        "group": "Tacos zubereiten"
       },
       {
         "text": "Die Cheeseburger-Tacos mit Salat, gehackten Tomaten, Pickles und der Burger Sauce toppen.",
-        "group": ""
+        "group": "Tacos zubereiten"
       }
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 4
   },
   {
     "id": "SpaghettiAlfredo",
     "title": "Spaghetti Alfredo mit Garnelen in Cremiger Parmesan-Sauce",
     "image": "https://radiatortwo.github.io/rezepte/pics/SpaghettiAlfredo.jpg",
-    "ingredients": [],
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": "",
+        "name": "450g Garnelen, geschält und entdarmt",
+        "group": "Hauptzutaten",
+        "original": "450g Garnelen, geschält und entdarmt"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "200g Nudeln",
+        "group": "Hauptzutaten",
+        "original": "200g Nudeln"
+      },
+      {
+        "amount": 1.0,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Hauptzutaten",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": 2.0,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Hauptzutaten",
+        "original": "2 EL Butter"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "Schalotte, fein gehackt",
+        "group": "Hauptzutaten",
+        "original": "1 Schalotte, fein gehackt"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "Knoblauchzehe, fein gehackt",
+        "group": "Hauptzutaten",
+        "original": "1 Knoblauchzehe, fein gehackt"
+      },
+      {
+        "amount": 80.0,
+        "unit": "ml",
+        "name": "Weißwein (alternativ: Saft von 1/2 Zitrone)",
+        "group": "Hauptzutaten",
+        "original": "80 ml Weißwein (alternativ: Saft von 1/2 Zitrone)"
+      },
+      {
+        "amount": 470.0,
+        "unit": "ml",
+        "name": "schwere Schlagsahne",
+        "group": "Hauptzutaten",
+        "original": "470 ml schwere Schlagsahne"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "70g Parmesankäse, frisch gerieben",
+        "group": "Hauptzutaten",
+        "original": "70g Parmesankäse, frisch gerieben"
+      },
+      {
+        "amount": 1.0,
+        "unit": "TL",
+        "name": "Salz (für Nudelwasser)",
+        "group": "Hauptzutaten",
+        "original": "1 TL Salz (für Nudelwasser)"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz und schwarzer Pfeffer zum Abschmecken",
+        "group": "Hauptzutaten",
+        "original": "Salz und schwarzer Pfeffer zum Abschmecken"
+      },
+      {
+        "amount": 0.25,
+        "unit": "TL",
+        "name": "süßer Paprika",
+        "group": "Hauptzutaten",
+        "original": "1/4 TL süßer Paprika"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Frische Petersilie zum Garnieren",
+        "group": "Hauptzutaten",
+        "original": "Frische Petersilie zum Garnieren"
+      }
+    ],
     "instructions": [
       {
-        "text": "Ein köstliches Pasta-Gericht mit saftigen Garnelen in einer reichhaltigen, cremigen Sauce.",
-        "group": ""
+        "text": "Einen großen Topf mit Wasser zum Kochen bringen und 1 TL Salz hinzufügen. 200g Nudeln nach Packungsanleitung kochen. Nudeln abgießen, aber nicht abspülen (die Stärke hilft der Sauce, besser an den Nudeln zu haften).",
+        "group": "Nudeln kochen"
       },
       {
-        "text": "450 g Garnelen, geschält und entdarmt",
-        "group": ""
+        "text": "Eine Pfanne auf mittlerer bis hoher Hitze vorheizen und 1 EL Olivenöl hinzufügen. Die Garnelen leicht mit Salz, schwarzem Pfeffer und Paprika würzen. Garnelen 1-2 Minuten pro Seite braten, bis sie vollständig durchgegart sind. Garnelen auf einem separaten Teller beiseite stellen.",
+        "group": "Garnelen braten"
       },
       {
-        "text": "200 g Nudeln",
-        "group": ""
+        "text": "In derselben Pfanne bei mittlerer bis hoher Hitze 2 EL Butter schmelzen. Die gehackte Schalotte hinzufügen und goldbraun dünsten. Knoblauch dazugeben und eine weitere Minute anbraten.",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "1 EL Olivenöl",
-        "group": ""
+        "text": "Mit 80 ml Weißwein (oder Zitronensaft) ablöschen und 2 Minuten köcheln lassen. 470 ml Sahne einrühren und 2-3 Minuten köcheln lassen. Mit Salz, schwarzem Pfeffer und 1/4 TL süßem Paprika abschmecken.",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "2 EL Butter",
-        "group": ""
+        "text": "Pfanne von der Hitze nehmen. 70g frisch geriebenen Parmesankäse einrühren, bis die Sauce cremig und glatt ist.",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "1 Schalotte, fein gehackt",
-        "group": ""
+        "text": "**Wichtig:** Nicht mehr kochen, nachdem der Käse hinzugefügt wurde, sonst trennt sich der Käse von der Sahne!",
+        "group": "Sauce zubereiten"
       },
       {
-        "text": "1 Knoblauchzehe, fein gehackt",
-        "group": ""
-      },
-      {
-        "text": "80 ml Weißwein (alternativ: Saft von 1/2 Zitrone)",
-        "group": ""
-      },
-      {
-        "text": "470 ml schwere Schlagsahne",
-        "group": ""
-      },
-      {
-        "text": "70 g Parmesankäse, frisch gerieben",
-        "group": ""
-      },
-      {
-        "text": "1 TL Salz (für Nudelwasser)",
-        "group": ""
-      },
-      {
-        "text": "Salz und schwarzer Pfeffer zum Abschmecken",
-        "group": ""
-      },
-      {
-        "text": "1/4 TL süßer Paprika",
-        "group": ""
-      },
-      {
-        "text": "Frische Petersilie zum Garnieren",
-        "group": ""
-      },
-      {
-        "text": "Nudeln kochen:",
-        "group": ""
-      },
-      {
-        "text": "Einen großen Topf mit Wasser zum Kochen bringen und 1 TL Salz hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "200 g Nudeln nach Packungsanleitung kochen.",
-        "group": ""
-      },
-      {
-        "text": "Nudeln abgießen, aber nicht abspülen (die Stärke hilft der Sauce, besser an den Nudeln zu haften).",
-        "group": ""
-      },
-      {
-        "text": "Garnelen braten:",
-        "group": ""
-      },
-      {
-        "text": "Eine Pfanne auf mittlerer bis hoher Hitze vorheizen und 1 EL Olivenöl hinzufügen.",
-        "group": ""
-      },
-      {
-        "text": "Die Garnelen leicht mit Salz, schwarzem Pfeffer und Paprika würzen.",
-        "group": ""
-      },
-      {
-        "text": "Garnelen 1-2 Minuten pro Seite braten, bis sie vollständig durchgegart sind.",
-        "group": ""
-      },
-      {
-        "text": "Garnelen auf einem separaten Teller beiseite stellen.",
-        "group": ""
-      },
-      {
-        "text": "Sauce zubereiten:",
-        "group": ""
-      },
-      {
-        "text": "In derselben Pfanne bei mittlerer bis hoher Hitze 2 EL Butter schmelzen.",
-        "group": ""
-      },
-      {
-        "text": "Die gehackte Schalotte hinzufügen und goldbraun dünsten.",
-        "group": ""
-      },
-      {
-        "text": "Knoblauch dazugeben und eine weitere Minute anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Mit 80 ml Weißwein (oder Zitronensaft) ablöschen und 2 Minuten köcheln lassen.",
-        "group": ""
-      },
-      {
-        "text": "470 ml Sahne einrühren und 2-3 Minuten köcheln lassen.",
-        "group": ""
-      },
-      {
-        "text": "Mit Salz, schwarzem Pfeffer und 1/4 TL süßem Paprika abschmecken.",
-        "group": ""
-      },
-      {
-        "text": "Pfanne von der Hitze nehmen.",
-        "group": ""
-      },
-      {
-        "text": "70 g frisch geriebenen Parmesankäse einrühren, bis die Sauce cremig und glatt ist.",
-        "group": ""
-      },
-      {
-        "text": "Wichtig: Nicht mehr kochen, nachdem der Käse hinzugefügt wurde, sonst trennt sich der Käse von der Sahne!",
-        "group": ""
-      },
-      {
-        "text": "Fertigstellung:",
-        "group": ""
-      },
-      {
-        "text": "Die abgetropften Nudeln in die Sauce geben und gut vermischen.",
-        "group": ""
-      },
-      {
-        "text": "Die gebratenen Garnelen unterheben.",
-        "group": ""
-      },
-      {
-        "text": "Mit frischer Petersilie garnieren und servieren.",
-        "group": ""
-      },
-      {
-        "text": "Tipps:",
-        "group": ""
-      },
-      {
-        "text": "Für eine alkoholfreie Variante den Weißwein durch den Saft einer halben Zitrone ersetzen.",
-        "group": ""
-      },
-      {
-        "text": "Die Garnelen nicht zu lange braten, damit sie saftig bleiben.",
-        "group": ""
-      },
-      {
-        "text": "Den Parmesankäse immer erst nach dem Abschalten der Hitze hinzufügen, um eine glatte Sauce zu gewährleisten.",
-        "group": ""
+        "text": "Die abgetropften Nudeln in die Sauce geben und gut vermischen. Die gebratenen Garnelen unterheben. Mit frischer Petersilie garnieren und servieren.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Europäisch & Italienisch",
@@ -686,18 +648,18 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/bbq-chicken-nudelsalat.webp",
     "ingredients": [
       {
-        "amount": 400.0,
-        "unit": "g",
-        "name": "Gemelli",
+        "amount": null,
+        "unit": "",
+        "name": "400g Gemelli",
         "group": "Für den Salat",
-        "original": "400 g Gemelli"
+        "original": "400g Gemelli"
       },
       {
-        "amount": 300.0,
-        "unit": "g",
-        "name": "Hähnchenbrustfilet",
+        "amount": null,
+        "unit": "",
+        "name": "300g Hähnchenbrustfilet",
         "group": "Für den Salat",
-        "original": "300 g Hähnchenbrustfilet"
+        "original": "300g Hähnchenbrustfilet"
       },
       {
         "amount": 1.0,
@@ -714,11 +676,11 @@
         "original": "1/2 Bund glatte Petersilie"
       },
       {
-        "amount": 200.0,
-        "unit": "g",
-        "name": "Bacon (dicke Scheiben)",
+        "amount": null,
+        "unit": "",
+        "name": "200g Bacon (dicke Scheiben)",
         "group": "Für den Salat",
-        "original": "200 g Bacon (dicke Scheiben)"
+        "original": "200g Bacon (dicke Scheiben)"
       },
       {
         "amount": 50.0,
@@ -765,16 +727,23 @@
       {
         "amount": null,
         "unit": "",
-        "name": "Salz und Pfeffer",
+        "name": "Salz",
         "group": "Für die Marinade",
-        "original": "Salz und Pfeffer"
+        "original": "Salz"
       },
       {
-        "amount": 200.0,
-        "unit": "g",
-        "name": "griechischer Joghurt",
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Marinade",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "200g griechischer Joghurt",
         "group": "Für das Dressing",
-        "original": "200 g griechischer Joghurt"
+        "original": "200g griechischer Joghurt"
       },
       {
         "amount": 50.0,
@@ -800,90 +769,58 @@
       {
         "amount": null,
         "unit": "",
-        "name": "Salz und Pfeffer",
+        "name": "Salz",
         "group": "Für das Dressing",
-        "original": "Salz und Pfeffer"
+        "original": "Salz"
       },
       {
         "amount": null,
         "unit": "",
-        "name": "Für die Marinade: Knoblauch schälen und fein hacken.",
+        "name": "Pfeffer",
         "group": "Für das Dressing",
-        "original": "Für die Marinade: Knoblauch schälen und fein hacken."
+        "original": "Pfeffer"
       }
     ],
     "instructions": [
       {
-        "text": "Mit Olivenöl, Zitronensaft, Barbecue Sauce, Paprika und Cayennepfeffer glatt rühren.",
-        "group": ""
+        "text": "Für die Marinade Knoblauch schälen und fein hacken. Mit Olivenöl, Zitronensaft, Barbecue Sauce, Paprika und Cayennepfeffer glatt rühren. Mit Salz und Pfeffer abschmecken.",
+        "group": "Marinade und Hähnchen vorbereiten"
       },
       {
-        "text": "Mit Salz und Pfeffer abschmecken.",
-        "group": ""
+        "text": "Hähnchenbrustfilets parieren, in die Marinade geben und für mindestens 30 Minuten abgedeckt im Kühlschrank ziehen lassen.",
+        "group": "Marinade und Hähnchen vorbereiten"
       },
       {
-        "text": "Hähnchenbrustfilets parieren, in die Marinade geben und für mind. 30 Minuten abgedeckt im Kühlschrank ziehen lassen.",
-        "group": ""
+        "text": "Nudeln in Salzwasser nach Packungsanweisung etwa 1 Minute kürzer als al dente garen. Bis auf zwei fingerbreit Wasser im Topf abgießen und abkühlen lassen.",
+        "group": "Nudeln und Dressing"
       },
       {
-        "text": "Nudeln in Salzwasser nach Packungsanweisung etwa 1 Minute kürzer als al dente garen.",
-        "group": ""
+        "text": "Für das Dressing Joghurt mit Barbecue Sauce, Essig und Ahornsirup verrühren und mit Salz und Pfeffer abschmecken. Kalt stellen.",
+        "group": "Nudeln und Dressing"
       },
       {
-        "text": "Bis auf zwei fingerbreit Wasser im Topf abgießen und abkühlen lassen.",
-        "group": ""
+        "text": "Zwiebel schälen und fein würfeln. Petersilie waschen, Blätter von den Stängeln zupfen und grob zerrupfen. Bacon in ca. 1 cm große Würfel schneiden.",
+        "group": "Salat vorbereiten"
       },
       {
-        "text": "Wendeplatte in die direkte Zone des Gasgrills legen und Grill auf mittlere direkte und indirekte Hitze (ca. 180 °C) vorbereiten.",
-        "group": ""
+        "text": "Wendeplatte in die direkte Zone des Gasgrills legen und Grill auf mittlere direkte und indirekte Hitze (ca. 180°C) vorbereiten.",
+        "group": "Grillen"
       },
       {
-        "text": "Für das Dressing: Joghurt mit Barbecue Sauce, Essig und Ahornsirup verrühren und mit Salz und Pfeffer abschmecken.",
-        "group": ""
+        "text": "Bacon auf der Wendeplatte 10-15 Minuten bei niedriger direkter Hitze (160°C) unter Wenden knusprig braten.",
+        "group": "Grillen"
       },
       {
-        "text": "Kalt stellen.",
-        "group": ""
+        "text": "Hähnchen aus der Marinade nehmen und auf dem Rost ca. 5 Minuten bei direkter Hitze von beiden Seiten scharf angrillen. Auf niedrige Hitze runterdrehen und Fleisch auf der indirekten Zone ca. 10 Minuten auf die gewünschte Kerntemperatur garziehen lassen.",
+        "group": "Grillen"
       },
       {
-        "text": "Für den Salat: Zwiebel schälen und fein würfeln.",
-        "group": ""
-      },
-      {
-        "text": "Petersilie waschen, Blätter von den Stängeln zupfen und grob zerrupfen.",
-        "group": ""
-      },
-      {
-        "text": "Bacon in ca. 1 cm große Würfel schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Bacon auf der Wendeplatte 10-15 Minuten bei niedriger direkter Hitze (160 °C) unter Wenden knusprig braten.",
-        "group": ""
-      },
-      {
-        "text": "Hähnchen aus der Marinade nehmen und auf dem Rost ca. 5 Minuten bei direkter Hitze von beiden Seiten scharf angrillen.",
-        "group": ""
-      },
-      {
-        "text": "Auf niedrige Hitze runterdrehen und Fleisch auf der indirekten Zone ca. 10 Minuten auf die gewünschte Kerntemperatur garziehen lassen.",
-        "group": ""
-      },
-      {
-        "text": "Hähnchen in feine Streifen schneiden.",
-        "group": ""
-      },
-      {
-        "text": "In einer Salatschüssel Nudeln mit Zwiebeln, Petersilie und Dressing mischen.",
-        "group": ""
-      },
-      {
-        "text": "Bacon und Hähnchen unterheben und sofort servieren.",
-        "group": ""
+        "text": "Hähnchen in feine Streifen schneiden. In einer Salatschüssel Nudeln mit Zwiebeln, Petersilie und Dressing mischen. Bacon und Hähnchen unterheben und sofort servieren.",
+        "group": "Fertigstellung"
       }
     ],
     "category": "Beilagen & Extras",
-    "servings": 6
+    "servings": 4
   },
   {
     "id": "PulledBeef",
@@ -1104,13 +1041,6 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "Eine knusprige Brezel mit cremigem Flammkuchen-Belag.",
-        "group": "",
-        "original": "Eine knusprige Brezel mit cremigem Flammkuchen-Belag."
-      },
-      {
         "amount": 1.0,
         "unit": "",
         "name": "Laugenbrezel",
@@ -1144,16 +1074,13 @@
         "name": "Schnittlauch (gehackt)",
         "group": "",
         "original": "1 TL Schnittlauch (gehackt)"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Den Ofen auf 200°C Umluft vorheizen.",
-        "group": "",
-        "original": "Den Ofen auf 200°C Umluft vorheizen."
       }
     ],
     "instructions": [
+      {
+        "text": "Den Ofen auf 200°C Umluft vorheizen.",
+        "group": ""
+      },
       {
         "text": "Die Laugenbrezel mit Crème fraîche bestreichen.",
         "group": ""
@@ -1206,16 +1133,13 @@
         "name": "Sauce nach Wahl (z. B. Marinara oder Aioli)",
         "group": "",
         "original": "Sauce nach Wahl (z. B. Marinara oder Aioli)"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Die Eier in einer Schüssel verquirlen.",
-        "group": "",
-        "original": "Die Eier in einer Schüssel verquirlen."
       }
     ],
     "instructions": [
+      {
+        "text": "Die Eier in einer Schüssel verquirlen.",
+        "group": ""
+      },
       {
         "text": "Die Ravioli erst in das Ei tauchen, dann im Panko-Paniermehl wenden, bis sie vollständig bedeckt sind.",
         "group": ""
@@ -1422,16 +1346,13 @@
         "name": "Zwiebeln",
         "group": "Belag",
         "original": "Zwiebeln"
-      },
-      {
-        "amount": null,
-        "unit": "",
-        "name": "Die Hefe im Wasser auflösen.",
-        "group": "Belag",
-        "original": "Die Hefe im Wasser auflösen."
       }
     ],
     "instructions": [
+      {
+        "text": "Die Hefe im Wasser auflösen.",
+        "group": ""
+      },
       {
         "text": "Alle Zutaten für den Teig in eine Schüssel geben und den Teig gut durchkneten.",
         "group": ""
@@ -1485,151 +1406,161 @@
         "amount": null,
         "unit": "",
         "name": "400g Udon Nudeln",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "400g Udon Nudeln"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Rindfleisch",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "250g Rindfleisch"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Paprika",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1 Paprika"
       },
       {
         "amount": 1.0,
         "unit": "",
-        "name": "Karotten",
-        "group": "",
-        "original": "1 Karotten"
-      },
-      {
-        "amount": 1.0,
-        "unit": "",
-        "name": "Frühlingszwiebel",
-        "group": "",
-        "original": "1 Frühlingszwiebel"
+        "name": "Karotte",
+        "group": "Hauptzutaten",
+        "original": "1 Karotte"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Mehl",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "1 EL Mehl"
       },
       {
         "amount": 2.0,
         "unit": "Zehen",
         "name": "Knoblauch",
-        "group": "",
+        "group": "Hauptzutaten",
         "original": "2 Zehen Knoblauch"
       },
       {
         "amount": 1.0,
         "unit": "Bund",
-        "name": "Frühlingszwiebel",
-        "group": "",
-        "original": "1 Bund Frühlingszwiebel"
+        "name": "Frühlingszwiebeln",
+        "group": "Hauptzutaten",
+        "original": "1 Bund Frühlingszwiebeln"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Sesam Öl zum Anbraten",
+        "group": "Hauptzutaten",
+        "original": "Sesam Öl zum Anbraten"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Hauptzutaten",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Hauptzutaten",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": 150.0,
+        "unit": "ml",
+        "name": "Sojasoße",
+        "group": "Für die Soße",
+        "original": "150 ml Sojasoße"
+      },
+      {
+        "amount": 100.0,
+        "unit": "ml",
+        "name": "Ahorn Sirup",
+        "group": "Für die Soße",
+        "original": "100 ml Ahorn Sirup"
+      },
+      {
+        "amount": 100.0,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Für die Soße",
+        "original": "100 ml Wasser"
+      },
+      {
+        "amount": 4.0,
+        "unit": "TL",
+        "name": "Speisestärke",
+        "group": "Für die Soße",
+        "original": "4 TL Speisestärke"
+      },
+      {
+        "amount": 2.0,
+        "unit": "TL",
+        "name": "Fünf Gewürzpulver",
+        "group": "Für die Soße",
+        "original": "2 TL Fünf Gewürzpulver"
+      },
+      {
+        "amount": 0.5,
+        "unit": "TL",
+        "name": "Cayenne Pfeffer",
+        "group": "Für die Soße",
+        "original": "1/2 TL Cayenne Pfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Zum Garnieren",
+        "original": "Frühlingszwiebeln"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Sesam",
+        "group": "Zum Garnieren",
+        "original": "Sesam"
       }
     ],
     "instructions": [
       {
-        "text": "Sesam Öl zum Anbraten",
-        "group": ""
+        "text": "Fleisch trockentupfen, dann in dünne Streifen schneiden. Mit Salz und Pfeffer in einer Schüssel würzen und mit dem Mehl gut vermischen.",
+        "group": "Vorbereitung"
       },
       {
-        "text": "Soße:",
-        "group": ""
-      },
-      {
-        "text": "150 ml Sojasoße",
-        "group": ""
-      },
-      {
-        "text": "100 ml Ahorn Sirup",
-        "group": ""
-      },
-      {
-        "text": "100 ml Wasser",
-        "group": ""
-      },
-      {
-        "text": "4 TL Speisestärke",
-        "group": ""
-      },
-      {
-        "text": "2 TL Fünf Gewürzpulver",
-        "group": ""
-      },
-      {
-        "text": "1/2 TL Cayenne Pfeffer",
-        "group": ""
-      },
-      {
-        "text": "Fleisch trockentupfen dann in dünne Streifen schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Mit Salz und Pfeffer in einer Schüssel würzen mit dem Mehl gut vermischen.",
-        "group": ""
-      },
-      {
-        "text": "Paprika entkernen und in dünne Streifen schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Karotte schälen und in dünne Streifen schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Knoblauch schälen und in dünne Streifen schneiden.",
-        "group": ""
-      },
-      {
-        "text": "Frühlingszwiebeln in Röllchen schneiden.",
-        "group": ""
+        "text": "Paprika entkernen und in dünne Streifen schneiden. Karotte schälen und in dünne Streifen schneiden. Knoblauch schälen und in dünne Streifen schneiden. Frühlingszwiebeln in Röllchen schneiden.",
+        "group": "Vorbereitung"
       },
       {
         "text": "Sojasoße, Ahorn Sirup, Wasser, Speisestärke, Gewürzpulver und Cayenne Pfeffer im Mixer gut mischen.",
-        "group": ""
+        "group": "Soße zubereiten"
       },
       {
-        "text": "Fleisch in Sesamöl scharf anbraten.",
-        "group": ""
+        "text": "Fleisch in Sesamöl scharf anbraten. Fleisch herausnehmen und in Schüssel legen.",
+        "group": "Braten und Fertigstellung"
       },
       {
-        "text": "Fleisch rasunehmen und in Schüssel legen.",
-        "group": ""
+        "text": "Mehr Sesamöl in die Pfanne geben, dann Karotten anbraten. Paprika und Knoblauch dazugeben.",
+        "group": "Braten und Fertigstellung"
       },
       {
-        "text": "Mehr Sesamöl in die Pfanne dann Karotten anbraten.",
-        "group": ""
+        "text": "Fleisch zurück in die Pfanne geben. Nudeln dazugeben und alles scharf anbraten.",
+        "group": "Braten und Fertigstellung"
       },
       {
-        "text": "Paprika und Knoblauch dazu geben.",
-        "group": ""
+        "text": "Soße hinzugeben und kurz aufkochen, bis die Soße andickt.",
+        "group": "Braten und Fertigstellung"
       },
       {
-        "text": "Fleisch zurück in die Pfanne geben.",
-        "group": ""
-      },
-      {
-        "text": "Nudeln dazugeben alles scharf anbraten.",
-        "group": ""
-      },
-      {
-        "text": "Soße hinzugeben kurz aufkochen bis Soße andickt.",
-        "group": ""
-      },
-      {
-        "text": "Zum Servieren mit etwas frühlingszwiebeln und Sesam bestreuen.",
-        "group": ""
+        "text": "Zum Servieren mit etwas Frühlingszwiebeln und Sesam bestreuen.",
+        "group": "Braten und Fertigstellung"
       }
     ],
     "category": "Asiatische Küche",
@@ -10162,6 +10093,139 @@
     ],
     "category": "Soßen",
     "servings": 1
+  },
+  {
+    "id": "SoffritoBolognese",
+    "title": "Soffrito Bolognese",
+    "image": "https://radiatortwo.github.io/rezepte/pics/soffrito-bolognese.webp",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": "",
+        "name": "125g Butter",
+        "group": "Für das Soffritto",
+        "original": "125g Butter"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "wenig Olivenöl",
+        "group": "Für das Soffritto",
+        "original": "wenig Olivenöl"
+      },
+      {
+        "amount": 2.0,
+        "unit": "große",
+        "name": "Zwiebeln",
+        "group": "Für das Soffritto",
+        "original": "2 große Zwiebeln"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "Möhren",
+        "group": "Für das Soffritto",
+        "original": "3 Möhren"
+      },
+      {
+        "amount": 3.0,
+        "unit": "Stangen",
+        "name": "Staudensellerie",
+        "group": "Für das Soffritto",
+        "original": "3 Stangen Staudensellerie"
+      },
+      {
+        "amount": 1.0,
+        "unit": "kg",
+        "name": "Rinderhackfleisch",
+        "group": "Für den Sugo",
+        "original": "1 kg Rinderhackfleisch"
+      },
+      {
+        "amount": 1.0,
+        "unit": "Schuss",
+        "name": "Weißwein",
+        "group": "Für den Sugo",
+        "original": "1 Schuss Weißwein"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "250-500 ml Milch (abhängig von der Saucenmenge)",
+        "group": "Für den Sugo",
+        "original": "250-500 ml Milch (abhängig von der Saucenmenge)"
+      },
+      {
+        "amount": 1.5,
+        "unit": "Dosen",
+        "name": "Tomaten (à 400g, idealerweise San Marzano Eiertomaten)",
+        "group": "Für den Sugo",
+        "original": "1,5 Dosen Tomaten (à 400g, idealerweise San Marzano Eiertomaten)"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "Knoblauchzehen, in Scheiben geschnitten",
+        "group": "Für den Sugo",
+        "original": "3 Knoblauchzehen, in Scheiben geschnitten"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "Peperoncini, zerstampft",
+        "group": "Für den Sugo",
+        "original": "3 Peperoncini, zerstampft"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Meersalz",
+        "group": "Für den Sugo",
+        "original": "Meersalz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Pfeffer, schwarz",
+        "group": "Für den Sugo",
+        "original": "Pfeffer, schwarz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "600g Spaghetti",
+        "group": "Außerdem",
+        "original": "600g Spaghetti"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Butter und etwas Olivenöl in eine Pfanne geben. Zwiebeln, Möhren und Staudensellerie putzen bzw. schälen und ganz fein hacken. Das Gemüse auf möglichst niedriger Flamme langsam für mindestens 30 Minuten darin garen, bis es schön glasig und weich geworden ist. Wichtig: Das Gemüse soll nicht braten, sondern nur dünsten - also nicht zu heiß werden lassen.",
+        "group": "Das Soffritto"
+      },
+      {
+        "text": "Währenddessen das Rinderhackfleisch in einer weiteren Pfanne scharf braten, bis es kräftig Farbe annimmt. Mit einem Schuss Weißwein ablöschen, sodass sich alles Angebackene vom Boden lösen lässt. Je nach Saucenmenge ca. 250-500 ml Milch hinzugeben, die sich um das Hackfleisch legt und diesem einen ganz milden Geschmack verleiht.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "Sobald das Fleisch mit Weißwein und Milch aufkocht, die Dosentomaten hinzugeben. Wenn alles wieder aufgekocht ist, das Soffritto hinzufügen. Den in Scheiben geschnittenen Knoblauch und die zerstampften Peperoncini ebenfalls hinzugeben. Mit Meersalz und frisch gemahlenem schwarzem Pfeffer abschmecken.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "Die Bolognese mindestens 2 Stunden, idealerweise ca. 5 Stunden köcheln lassen. Bei Bedarf immer mal etwas Wasser oder leichte Brühe nachgießen, damit nichts anbrennt. Optional etwa 1 Stunde vor der Mahlzeit langsam aufwärmen.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "**Tipp:** Man kann auch noch ein wenig frisch gehackte Möhre und Staudensellerie nachschieben, um mehr Biss an das Gemüse zu bekommen.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "In der Zwischenzeit die Spaghetti nach Packungsanweisung bissfest kochen und anschließend abgießen. Die Spaghetti auf Tellern anrichten und die Bolognese darüber verteilen. Heiß servieren.",
+        "group": "Fertigstellung"
+      }
+    ],
+    "category": "",
+    "servings": 6
   },
   {
     "id": "ChickenTerriyakiSandwich",
