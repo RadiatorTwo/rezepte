@@ -2,69 +2,115 @@
   {
     "id": "KfcSliders",
     "title": "KFC Zinger Sliders",
-    "image": "",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kfc-zinger-sliders.webp",
     "ingredients": [
       {
-        "amount": 475.0,
-        "unit": "g",
-        "name": "Hähnchenbrust (roh, in 5 Streifen à ca. 95 g geschnitten)",
-        "original": "475 g Hähnchenbrust (roh, in 5 Streifen à ca. 95 g geschnitten)"
+        "amount": null,
+        "unit": "",
+        "name": "475g Hähnchenbrust (roh, in 5 Streifen à ca. 95g geschnitten)",
+        "group": "Für das Hähnchen",
+        "original": "475g Hähnchenbrust (roh, in 5 Streifen à ca. 95g geschnitten)"
       },
       {
-        "amount": 50.0,
-        "unit": "g",
-        "name": "Cornflakes (zerkleinert)",
-        "original": "50 g Cornflakes (zerkleinert)"
+        "amount": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für das Hähnchen",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Knoblauchpulver",
+        "group": "Für das Hähnchen",
+        "original": "Knoblauchpulver"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Paprika",
+        "group": "Für das Hähnchen",
+        "original": "Paprika"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Cayennepfeffer",
+        "group": "Für das Hähnchen",
+        "original": "Cayennepfeffer"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "50g Cornflakes (zerkleinert)",
+        "group": "Für das Hähnchen",
+        "original": "50g Cornflakes (zerkleinert)"
       },
       {
         "amount": 2.0,
         "unit": "Eier",
         "name": "(verquirlt, nicht alles wird verwendet)",
+        "group": "Für das Hähnchen",
         "original": "2 Eier (verquirlt, nicht alles wird verwendet)"
       },
       {
-        "amount": 120.0,
-        "unit": "g",
-        "name": "Weizenmehl",
-        "original": "120 g Weizenmehl"
+        "amount": null,
+        "unit": "",
+        "name": "120g Weizenmehl",
+        "group": "Für das Hähnchen",
+        "original": "120g Weizenmehl"
       },
       {
-        "amount": 100.0,
-        "unit": "g",
-        "name": "fettarmer griechischer Joghurt",
-        "original": "100 g fettarmer griechischer Joghurt"
+        "amount": null,
+        "unit": "",
+        "name": "100g fettarmer griechischer Joghurt",
+        "group": "Für das Hähnchen",
+        "original": "100g fettarmer griechischer Joghurt"
       },
       {
         "amount": 1.5,
         "unit": "TL",
         "name": "Backpulver",
+        "group": "Für das Hähnchen",
         "original": "1,5 TL Backpulver"
       },
       {
-        "amount": 75.0,
-        "unit": "g",
-        "name": "fettarmer griechischer Joghurt",
-        "original": "75 g fettarmer griechischer Joghurt"
+        "amount": null,
+        "unit": "",
+        "name": "75g fettarmer griechischer Joghurt",
+        "group": "Für die Zinger-Sauce",
+        "original": "75g fettarmer griechischer Joghurt"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Paprikapulver",
+        "group": "Für die Zinger-Sauce",
         "original": "1 TL Paprikapulver"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Sriracha",
+        "group": "Für die Zinger-Sauce",
         "original": "1 TL Sriracha"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Salatblätter",
+        "group": "Weitere Zutaten",
+        "original": "Salatblätter"
+      },
+      {
+        "amount": null,
+        "unit": "",
+        "name": "Mini-Tortillas oder kleine Burger-Brötchen",
+        "group": "Weitere Zutaten",
+        "original": "Mini-Tortillas oder kleine Burger-Brötchen"
       }
     ],
     "instructions": [
-      "Salz, Knoblauchpulver, Paprika, Cayennepfeffer (nach Geschmack)",
-      "Für die Zinger-Sauce:",
-      "Weitere Zutaten:",
-      "Salatblätter",
-      "Mini-Tortillas oder kleine Burger-Brötchen",
       "Die Hähnchenstreifen mit Salz, Knoblauchpulver, Paprika und Cayennepfeffer würzen.",
       "Mehl und Backpulver vermischen.",
       "Hähnchen erst in Mehl wenden, dann in verquirltem Ei tauchen, danach in den zerkleinerten Cornflakes panieren.",
@@ -78,7 +124,7 @@
       "Servieren und genießen."
     ],
     "category": "Amerikanisch & Fusion",
-    "servings": 1
+    "servings": 5
   },
   {
     "id": "BeefJerky",
@@ -89,60 +135,70 @@
         "amount": 500.0,
         "unit": "Gramm",
         "name": "Flanksteak oder Tafelspitz",
+        "group": "",
         "original": "500 Gramm Flanksteak oder Tafelspitz"
       },
       {
         "amount": 250.0,
         "unit": "ml",
         "name": "Ananassaft (Direktsaft und nicht das Zuckerwasser aus der Dose)",
+        "group": "",
         "original": "250 ml Ananassaft (Direktsaft und nicht das Zuckerwasser aus der Dose)"
       },
       {
         "amount": 90.0,
         "unit": "gr",
         "name": "Brauner Zucker",
+        "group": "",
         "original": "90 gr Brauner Zucker"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Esslöffel",
+        "group": "",
         "original": "2 Esslöffel"
       },
       {
         "amount": 2.0,
         "unit": "Esslöffel",
         "name": "Sojasauce",
+        "group": "",
         "original": "2 Esslöffel Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "Esslöffel",
         "name": "Salz",
+        "group": "",
         "original": "1 Esslöffel Salz"
       },
       {
         "amount": 2.0,
         "unit": "Teelöffel",
         "name": "granulierte Rinderbrühe",
+        "group": "",
         "original": "2 Teelöffel granulierte Rinderbrühe"
       },
       {
         "amount": 0.25,
         "unit": "Teelöffel",
         "name": "Zwiebelpulver",
+        "group": "",
         "original": "1/4 Teelöffel Zwiebelpulver"
       },
       {
         "amount": 0.25,
         "unit": "Teelöffel",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "1/4 Teelöffel Knoblauchpulver"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 Esslöffel Liquid Smoke",
+        "group": "",
         "original": "1-2 Esslöffel Liquid Smoke"
       }
     ],
@@ -168,36 +224,42 @@
         "amount": 3.0,
         "unit": "EL",
         "name": "Mayonnaise",
+        "group": "",
         "original": "3 EL Mayonnaise"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Ketchup",
+        "group": "",
         "original": "1 EL Ketchup"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Senf",
+        "group": "",
         "original": "1 TL Senf"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Mini-Tortillas",
+        "group": "",
         "original": "4 Mini-Tortillas"
       },
       {
         "amount": 240.0,
         "unit": "g",
         "name": "Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)",
+        "group": "",
         "original": "240 g Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)"
       },
       {
         "amount": 4.0,
         "unit": "Scheiben",
         "name": "amerikanischer Käse",
+        "group": "",
         "original": "4 Scheiben amerikanischer Käse"
       }
     ],
@@ -230,108 +292,126 @@
         "amount": 450.0,
         "unit": "g",
         "name": "Garnelen, geschält und entdarmt",
+        "group": "",
         "original": "450 g Garnelen, geschält und entdarmt"
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "Nudeln",
+        "group": "",
         "original": "200 g Nudeln"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Olivenöl",
+        "group": "",
         "original": "1 EL Olivenöl"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Butter",
+        "group": "",
         "original": "2 EL Butter"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Schalotte, fein gehackt",
+        "group": "",
         "original": "1 Schalotte, fein gehackt"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Knoblauchzehe, fein gehackt",
+        "group": "",
         "original": "1 Knoblauchzehe, fein gehackt"
       },
       {
         "amount": 80.0,
         "unit": "ml",
         "name": "Weißwein (alternativ: Saft von 1/2 Zitrone)",
+        "group": "",
         "original": "80 ml Weißwein (alternativ: Saft von 1/2 Zitrone)"
       },
       {
         "amount": 470.0,
         "unit": "ml",
         "name": "schwere Schlagsahne",
+        "group": "",
         "original": "470 ml schwere Schlagsahne"
       },
       {
         "amount": 70.0,
         "unit": "g",
         "name": "Parmesankäse, frisch gerieben",
+        "group": "",
         "original": "70 g Parmesankäse, frisch gerieben"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz (für Nudelwasser)",
+        "group": "",
         "original": "1 TL Salz (für Nudelwasser)"
       },
       {
         "amount": 0.25,
         "unit": "TL",
         "name": "süßer Paprika",
+        "group": "",
         "original": "1/4 TL süßer Paprika"
       },
       {
         "amount": null,
         "unit": "",
         "name": "Einen großen Topf mit Wasser zum Kochen bringen und 1 TL Salz hinzufügen.",
+        "group": "",
         "original": "Einen großen Topf mit Wasser zum Kochen bringen und 1 TL Salz hinzufügen."
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "Nudeln nach Packungsanleitung kochen.",
+        "group": "",
         "original": "200 g Nudeln nach Packungsanleitung kochen."
       },
       {
         "amount": null,
         "unit": "",
         "name": "Eine Pfanne auf mittlerer bis hoher Hitze vorheizen und 1 EL Olivenöl hinzufügen.",
+        "group": "",
         "original": "Eine Pfanne auf mittlerer bis hoher Hitze vorheizen und 1 EL Olivenöl hinzufügen."
       },
       {
         "amount": null,
         "unit": "",
         "name": "In derselben Pfanne bei mittlerer bis hoher Hitze 2 EL Butter schmelzen.",
+        "group": "",
         "original": "In derselben Pfanne bei mittlerer bis hoher Hitze 2 EL Butter schmelzen."
       },
       {
         "amount": 470.0,
         "unit": "ml",
         "name": "Sahne einrühren und 2-3 Minuten köcheln lassen.",
+        "group": "",
         "original": "470 ml Sahne einrühren und 2-3 Minuten köcheln lassen."
       },
       {
         "amount": null,
         "unit": "",
         "name": "Mit Salz, schwarzem Pfeffer und 1/4 TL süßem Paprika abschmecken.",
+        "group": "",
         "original": "Mit Salz, schwarzem Pfeffer und 1/4 TL süßem Paprika abschmecken."
       },
       {
         "amount": 70.0,
         "unit": "g",
         "name": "frisch geriebenen Parmesankäse einrühren, bis die Sauce cremig und glatt ist.",
+        "group": "",
         "original": "70 g frisch geriebenen Parmesankäse einrühren, bis die Sauce cremig und glatt ist."
       }
     ],
@@ -371,54 +451,63 @@
         "amount": 4.0,
         "unit": "",
         "name": "Eier",
+        "group": "",
         "original": "4 Eier"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Knoblauch (gehackt)",
+        "group": "",
         "original": "1 TL Knoblauch (gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Ingwer (gehackt)",
+        "group": "",
         "original": "1 TL Ingwer (gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Frühlingszwiebeln (gehackt)",
+        "group": "",
         "original": "1 TL Frühlingszwiebeln (gehackt)"
       },
       {
         "amount": 50.0,
         "unit": "ml",
         "name": "Wasser",
+        "group": "",
         "original": "50 ml Wasser"
       },
       {
         "amount": 4.0,
         "unit": "TL",
         "name": "Ketchup",
+        "group": "",
         "original": "4 TL Ketchup"
       },
       {
         "amount": 3.0,
         "unit": "TL",
         "name": "helle Sojasauce",
+        "group": "",
         "original": "3 TL helle Sojasauce"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Weißweinessig",
+        "group": "",
         "original": "2 TL Weißweinessig"
       },
       {
         "amount": 3.0,
         "unit": "TL",
         "name": "Zucker",
+        "group": "",
         "original": "3 TL Zucker"
       }
     ],
@@ -452,90 +541,105 @@
         "amount": 400.0,
         "unit": "g",
         "name": "Gemelli",
+        "group": "",
         "original": "400 g Gemelli"
       },
       {
         "amount": 300.0,
         "unit": "g",
         "name": "Hähnchenbrustfilet",
+        "group": "",
         "original": "300 g Hähnchenbrustfilet"
       },
       {
         "amount": 1.0,
         "unit": "rote",
         "name": "Zwiebel",
+        "group": "",
         "original": "1 rote Zwiebel"
       },
       {
         "amount": 0.5,
         "unit": "Bund",
         "name": "glatte Petersilie",
+        "group": "",
         "original": "1/2 Bund glatte Petersilie"
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "Bacon (dicke Scheiben)",
+        "group": "",
         "original": "200 g Bacon (dicke Scheiben)"
       },
       {
         "amount": 50.0,
         "unit": "ml",
         "name": "Olivenöl",
+        "group": "",
         "original": "50 ml Olivenöl"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Barbecue Sauce",
+        "group": "",
         "original": "3 EL Barbecue Sauce"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Zitronensaft",
+        "group": "",
         "original": "2 EL Zitronensaft"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "edelsüßes Paprikapulver",
+        "group": "",
         "original": "2 TL edelsüßes Paprikapulver"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Cayennepfeffer",
+        "group": "",
         "original": "1 TL Cayennepfeffer"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Knoblauchzehen",
+        "group": "",
         "original": "2 Knoblauchzehen"
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "griechischer Joghurt",
+        "group": "",
         "original": "200 g griechischer Joghurt"
       },
       {
         "amount": 50.0,
         "unit": "ml",
         "name": "Barbecue Sauce",
+        "group": "",
         "original": "50 ml Barbecue Sauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Weißweinessig",
+        "group": "",
         "original": "1 EL Weißweinessig"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Ahornsirup",
+        "group": "",
         "original": "1 TL Ahornsirup"
       }
     ],
@@ -575,48 +679,56 @@
         "amount": 2.5,
         "unit": "kg",
         "name": "Rindernacken",
+        "group": "",
         "original": "2,5 kg Rindernacken"
       },
       {
         "amount": 250.0,
         "unit": "ml",
         "name": "Apfelessig",
+        "group": "",
         "original": "250 ml Apfelessig"
       },
       {
         "amount": 125.0,
         "unit": "ml",
         "name": "Olivenöl",
+        "group": "",
         "original": "125 ml Olivenöl"
       },
       {
         "amount": 125.0,
         "unit": "ml",
         "name": "Bier",
+        "group": "",
         "original": "125 ml Bier"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Worcestershire Sauce",
+        "group": "",
         "original": "4 EL Worcestershire Sauce"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Paprikapulver",
+        "group": "",
         "original": "2 EL Paprikapulver"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "2 TL Salz"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "gemahlener Schwarzer Pfeffer",
+        "group": "",
         "original": "2 TL gemahlener Schwarzer Pfeffer"
       }
     ],
@@ -643,36 +755,42 @@
         "amount": 2.0,
         "unit": "",
         "name": "Tortillas",
+        "group": "",
         "original": "2 Tortillas"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Knoblauchbutter (siehe unten)",
+        "group": "",
         "original": "3 EL Knoblauchbutter (siehe unten)"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "geriebener Käse (Mozzarella, Cheddar oder eine Mischung)",
+        "group": "",
         "original": "150 g geriebener Käse (Mozzarella, Cheddar oder eine Mischung)"
       },
       {
         "amount": 50.0,
         "unit": "g",
         "name": "Butter (geschmolzen)",
+        "group": "",
         "original": "50 g Butter (geschmolzen)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Knoblauchpulver oder 1 Knoblauchzehe (gepresst)",
+        "group": "",
         "original": "1 TL Knoblauchpulver oder 1 Knoblauchzehe (gepresst)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "gehackte Petersilie",
+        "group": "",
         "original": "1 TL gehackte Petersilie"
       }
     ],
@@ -705,30 +823,35 @@
         "amount": 1.0,
         "unit": "",
         "name": "Laugenbrezel",
+        "group": "",
         "original": "1 Laugenbrezel"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Crème fraîche",
+        "group": "",
         "original": "2 EL Crème fraîche"
       },
       {
         "amount": 50.0,
         "unit": "g",
         "name": "Speckwürfel",
+        "group": "",
         "original": "50 g Speckwürfel"
       },
       {
         "amount": 0.5,
         "unit": "rote",
         "name": "Zwiebel (in feine Streifen geschnitten)",
+        "group": "",
         "original": "1/2 rote Zwiebel (in feine Streifen geschnitten)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Schnittlauch (gehackt)",
+        "group": "",
         "original": "1 TL Schnittlauch (gehackt)"
       }
     ],
@@ -751,18 +874,21 @@
         "amount": 340.0,
         "unit": "g",
         "name": "Ravioli (frisch oder gekühlt)",
+        "group": "",
         "original": "340 g Ravioli (frisch oder gekühlt)"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Panko-Paniermehl",
+        "group": "",
         "original": "1 Tasse Panko-Paniermehl"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Eier",
+        "group": "",
         "original": "2 Eier"
       }
     ],
@@ -788,48 +914,56 @@
         "amount": 0.5,
         "unit": "Stk.",
         "name": "Spitzkohl",
+        "group": "",
         "original": "1/2 Stk. Spitzkohl"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 Möhren",
+        "group": "",
         "original": "1-2 Möhren"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL  Salz"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "Pfeffer",
+        "group": "",
         "original": "1 Prise Pfeffer"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sauerrahm oder Schmand",
+        "group": "",
         "original": "2 EL Sauerrahm oder Schmand"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Brauner Zucker",
+        "group": "",
         "original": "1 EL Brauner Zucker"
       },
       {
         "amount": null,
         "unit": "",
         "name": "3-4 EL Mayonnaise",
+        "group": "",
         "original": "3-4 EL Mayonnaise"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Scharfer Senf",
+        "group": "",
         "original": "1 TL Scharfer Senf"
       }
     ],
@@ -851,48 +985,56 @@
         "amount": 100.0,
         "unit": "Gramm",
         "name": "Sauerteig aus Weizenmehl",
+        "group": "",
         "original": "100 Gramm Sauerteig aus Weizenmehl"
       },
       {
         "amount": 500.0,
         "unit": "Gramm",
         "name": "Weizenmehl Typ 00 oder Typ 550",
+        "group": "",
         "original": "500 Gramm Weizenmehl Typ 00 oder Typ 550"
       },
       {
         "amount": 20.0,
         "unit": "Gramm",
         "name": "frische Hefe",
+        "group": "",
         "original": "20 Gramm frische Hefe"
       },
       {
         "amount": 240.0,
         "unit": "ml",
         "name": "warmes Wasser",
+        "group": "",
         "original": "240 ml warmes Wasser"
       },
       {
         "amount": 12.0,
         "unit": "Gramm",
         "name": "Olivenöl",
+        "group": "",
         "original": "12 Gramm Olivenöl"
       },
       {
         "amount": 10.0,
         "unit": "Gramm",
         "name": "Salz",
+        "group": "",
         "original": "10 Gramm Salz"
       },
       {
         "amount": 300.0,
         "unit": "ml",
         "name": "eingekochte Tomaten",
+        "group": "",
         "original": "300 ml eingekochte Tomaten"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Italienische Kräuter",
+        "group": "",
         "original": "1 Teelöffel Italienische Kräuter"
       }
     ],
@@ -929,84 +1071,98 @@
         "amount": null,
         "unit": "",
         "name": "400g Udon Nudeln",
+        "group": "",
         "original": "400g Udon Nudeln"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Rindfleisch",
+        "group": "",
         "original": "250g Rindfleisch"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Paprika",
+        "group": "",
         "original": "1 Paprika"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Karotten",
+        "group": "",
         "original": "1 Karotten"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Frühlingszwiebel",
+        "group": "",
         "original": "1 Frühlingszwiebel"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Mehl",
+        "group": "",
         "original": "1 EL Mehl"
       },
       {
         "amount": 2.0,
         "unit": "Zehen",
         "name": "Knoblauch",
+        "group": "",
         "original": "2 Zehen Knoblauch"
       },
       {
         "amount": 1.0,
         "unit": "Bund",
         "name": "Frühlingszwiebel",
+        "group": "",
         "original": "1 Bund Frühlingszwiebel"
       },
       {
         "amount": 150.0,
         "unit": "ml",
         "name": "Sojasoße",
+        "group": "",
         "original": "150 ml Sojasoße"
       },
       {
         "amount": 100.0,
         "unit": "ml",
         "name": "Ahorn Sirup",
+        "group": "",
         "original": "100 ml Ahorn Sirup"
       },
       {
         "amount": 100.0,
         "unit": "ml",
         "name": "Wasser",
+        "group": "",
         "original": "100 ml Wasser"
       },
       {
         "amount": 4.0,
         "unit": "TL",
         "name": "Speisestärke",
+        "group": "",
         "original": "4 TL Speisestärke"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Fünf Gewürzpulver",
+        "group": "",
         "original": "2 TL Fünf Gewürzpulver"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Cayenne Pfeffer",
+        "group": "",
         "original": "1/2 TL Cayenne Pfeffer"
       }
     ],
@@ -1041,90 +1197,105 @@
         "amount": 1.2,
         "unit": "kg",
         "name": "Rindfleisch (Schmorqualität, z. B. Rinderwade oder Short Rib), gewürfelt",
+        "group": "",
         "original": "1,2 kg Rindfleisch (Schmorqualität, z. B. Rinderwade oder Short Rib), gewürfelt"
       },
       {
         "amount": 2.0,
         "unit": "große",
         "name": "Zwiebeln (oder 1 große Lauchstange), gehackt",
+        "group": "",
         "original": "2 große Zwiebeln (oder 1 große Lauchstange), gehackt"
       },
       {
         "amount": 600.0,
         "unit": "g",
         "name": "Kartoffeln, geschält und gewürfelt",
+        "group": "",
         "original": "600 g Kartoffeln, geschält und gewürfelt"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Karotten, geschält und in Stücke geschnitten",
+        "group": "",
         "original": "4 Karotten, geschält und in Stücke geschnitten"
       },
       {
         "amount": 3.0,
         "unit": "Stangen",
         "name": "Sellerie, gewürfelt",
+        "group": "",
         "original": "3 Stangen Sellerie, gewürfelt"
       },
       {
         "amount": 1.0,
         "unit": "kleine",
         "name": "Steckrübe (oder Kohlrübe), geschält und gewürfelt",
+        "group": "",
         "original": "1 kleine Steckrübe (oder Kohlrübe), geschält und gewürfelt"
       },
       {
         "amount": 800.0,
         "unit": "ml",
         "name": "kräftige Rinderbrühe",
+        "group": "",
         "original": "800 ml kräftige Rinderbrühe"
       },
       {
         "amount": 300.0,
         "unit": "ml",
         "name": "Rotwein (optional, alternativ mehr Brühe)",
+        "group": "",
         "original": "300 ml Rotwein (optional, alternativ mehr Brühe)"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Butter",
+        "group": "",
         "original": "4 EL Butter"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Mehl",
+        "group": "",
         "original": "3 EL Mehl"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Senf (optional)",
+        "group": "",
         "original": "1 EL Senf (optional)"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Lorbeerblätter",
+        "group": "",
         "original": "2 Lorbeerblätter"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "fein gehackter Thymian",
+        "group": "",
         "original": "2 TL fein gehackter Thymian"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Butter und etwas Olivenöl in einer Pfanne auf mittlerer bis hoher Hitze erhitzen.",
+        "group": "",
         "original": "1 EL Butter und etwas Olivenöl in einer Pfanne auf mittlerer bis hoher Hitze erhitzen."
       },
       {
         "amount": 2.0,
         "unit": "Minuten",
         "name": "anschwitzen, damit der Mehlgeschmack verschwindet.",
+        "group": "",
         "original": "2 Minuten anschwitzen, damit der Mehlgeschmack verschwindet."
       }
     ],
@@ -1161,78 +1332,91 @@
         "amount": 500.0,
         "unit": "g",
         "name": "Nudeln",
+        "group": "",
         "original": "500 g Nudeln"
       },
       {
         "amount": 250.0,
         "unit": "g",
         "name": "Mayonnaise",
+        "group": "",
         "original": "250 g Mayonnaise"
       },
       {
         "amount": 125.0,
         "unit": "g",
         "name": "BBQ-Sauce",
+        "group": "",
         "original": "125 g BBQ-Sauce"
       },
       {
         "amount": 1.0,
         "unit": "rote",
         "name": "oder gelbe Paprika",
+        "group": "",
         "original": "1 rote oder gelbe Paprika"
       },
       {
         "amount": 2.0,
         "unit": "Stangen",
         "name": "Sellerie",
+        "group": "",
         "original": "2 Stangen Sellerie"
       },
       {
         "amount": 0.5,
         "unit": "",
         "name": "Gurke",
+        "group": "",
         "original": "1/2 Gurke"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Möhren",
+        "group": "",
         "original": "2 Möhren"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Frühlingszwiebeln",
+        "group": "",
         "original": "2 Frühlingszwiebeln"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Zwiebel",
+        "group": "",
         "original": "1 Zwiebel"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Knoblauchzehe",
+        "group": "",
         "original": "1 Knoblauchzehe"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Essig",
+        "group": "",
         "original": "2 EL Essig"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Chilipulver",
+        "group": "",
         "original": "1 TL Chilipulver"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "mittelalter Gouda",
+        "group": "",
         "original": "100 g mittelalter Gouda"
       }
     ],
@@ -1260,54 +1444,63 @@
         "amount": 6.0,
         "unit": "",
         "name": "Portionen",
+        "group": "",
         "original": "6 Portionen"
       },
       {
         "amount": 275.0,
         "unit": "g",
         "name": "Mehl",
+        "group": "",
         "original": "275 g Mehl"
       },
       {
         "amount": 75.0,
         "unit": "g",
         "name": "neutrales Proteinpulver",
+        "group": "",
         "original": "75 g neutrales Proteinpulver"
       },
       {
         "amount": 180.0,
         "unit": "ml",
         "name": "Wasser (je nach Proteinpulver variieren)",
+        "group": "",
         "original": "180 ml Wasser (je nach Proteinpulver variieren)"
       },
       {
         "amount": 8.0,
         "unit": "g",
         "name": "frische Hefe",
+        "group": "",
         "original": "8 g frische Hefe"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "Salz",
+        "group": "",
         "original": "1 Prise Salz"
       },
       {
         "amount": 250.0,
         "unit": "g",
         "name": "Magerquark oder vegane Skyr-Alternative",
+        "group": "",
         "original": "250 g Magerquark oder vegane Skyr-Alternative"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "griechischer Joghurt oder Soja-Joghurt",
+        "group": "",
         "original": "100 g griechischer Joghurt oder Soja-Joghurt"
       },
       {
         "amount": 2.0,
         "unit": "Knoblauchzehen",
         "name": "(gepresst)",
+        "group": "",
         "original": "2 Knoblauchzehen (gepresst)"
       }
     ],
@@ -1339,42 +1532,49 @@
         "amount": 10.0,
         "unit": "gekochte",
         "name": "Eier",
+        "group": "",
         "original": "10 gekochte Eier"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "mittelscharfer Senf",
+        "group": "",
         "original": "3 EL mittelscharfer Senf"
       },
       {
         "amount": 50.0,
         "unit": "ml",
         "name": "Cornichon-Saft",
+        "group": "",
         "original": "50 ml Cornichon-Saft"
       },
       {
         "amount": 10.0,
         "unit": "Cornichons",
         "name": "(in kleine Würfel geschnitten)",
+        "group": "",
         "original": "10 Cornichons (in kleine Würfel geschnitten)"
       },
       {
         "amount": 0.25,
         "unit": "Bund",
         "name": "Schnittlauch (gehackt)",
+        "group": "",
         "original": "1/4 Bund Schnittlauch (gehackt)"
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "Joghurt (10 %)",
+        "group": "",
         "original": "200 g Joghurt (10 %)"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Maggi",
+        "group": "",
         "original": "2 EL Maggi"
       }
     ],
@@ -1398,96 +1598,112 @@
         "amount": 400.0,
         "unit": "gr",
         "name": "Hähnchenbrustfilet",
+        "group": "",
         "original": "400 gr Hähnchenbrustfilet"
       },
       {
         "amount": 1.0,
         "unit": "Stück",
         "name": "frischer Ingwer (ca. 2 cm)",
+        "group": "",
         "original": "1 Stück frischer Ingwer (ca. 2 cm)"
       },
       {
         "amount": 50.0,
         "unit": "ml",
         "name": "Kokosmilch",
+        "group": "",
         "original": "50 ml Kokosmilch"
       },
       {
         "amount": 4.0,
         "unit": "Esslöffel",
         "name": "helle Sojasauce",
+        "group": "",
         "original": "4 Esslöffel helle Sojasauce"
       },
       {
         "amount": 0.5,
         "unit": "Teelöffel",
         "name": "Sambal Oelek",
+        "group": "",
         "original": "1/2 Teelöffel Sambal Oelek"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "gemahlener Koriander",
+        "group": "",
         "original": "1 Teelöffel gemahlener Koriander"
       },
       {
         "amount": 2.0,
         "unit": "Teelöffel",
         "name": "Brauner Zucker",
+        "group": "",
         "original": "2 Teelöffel Brauner Zucker"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "Salz",
+        "group": "",
         "original": "1 Prise Salz"
       },
       {
         "amount": 1.0,
         "unit": "Stück",
         "name": "frischer Ingwer (ca. 2 cm)",
+        "group": "",
         "original": "1 Stück frischer Ingwer (ca. 2 cm)"
       },
       {
         "amount": 100.0,
         "unit": "gr",
         "name": "geröstete ungesalzene Erdnüsse",
+        "group": "",
         "original": "100 gr geröstete ungesalzene Erdnüsse"
       },
       {
         "amount": 250.0,
         "unit": "ml",
         "name": "Kokosmilch",
+        "group": "",
         "original": "250 ml Kokosmilch"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Sambal Oelek",
+        "group": "",
         "original": "1 Teelöffel Sambal Oelek"
       },
       {
         "amount": 2.0,
         "unit": "Teelöffel",
         "name": "Brauner Zucker",
+        "group": "",
         "original": "2 Teelöffel Brauner Zucker"
       },
       {
         "amount": 2.0,
         "unit": "Esslöffel",
         "name": "Limettensaft",
+        "group": "",
         "original": "2 Esslöffel Limettensaft"
       },
       {
         "amount": 2.0,
         "unit": "Esslöffel",
         "name": "Öl",
+        "group": "",
         "original": "2 Esslöffel Öl"
       },
       {
         "amount": null,
         "unit": "",
         "name": "Prise Salz",
+        "group": "",
         "original": "Prise Salz"
       }
     ],
@@ -1521,42 +1737,49 @@
         "amount": 200.0,
         "unit": "gr",
         "name": "Tteokbokki Reiskuchen [Link](https://asia4friends.de/reiskuchen-scheiben-tteokbokki-matamun-600g)",
+        "group": "",
         "original": "200 gr Tteokbokki Reiskuchen [Link](https://asia4friends.de/reiskuchen-scheiben-tteokbokki-matamun-600g)"
       },
       {
         "amount": 300.0,
         "unit": "gr",
         "name": "Hackfleisch",
+        "group": "",
         "original": "300 gr Hackfleisch"
       },
       {
         "amount": 50.0,
         "unit": "gr",
         "name": "Gewürfelter Speck",
+        "group": "",
         "original": "50 gr Gewürfelter Speck"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 Esslöffel Gochujang (Fermentierte Chili Paste) [Link](https://asia4friends.de/gochujang-chilipaste-sempio)",
+        "group": "",
         "original": "1-2 Esslöffel Gochujang (Fermentierte Chili Paste) [Link](https://asia4friends.de/gochujang-chilipaste-sempio)"
       },
       {
         "amount": 1.0,
         "unit": "frische",
         "name": "Knoblauchzehe",
+        "group": "",
         "original": "1 frische Knoblauchzehe"
       },
       {
         "amount": 100.0,
         "unit": "gr",
         "name": "Brechbohnen oder Prinzessbohnen",
+        "group": "",
         "original": "100 gr Brechbohnen oder Prinzessbohnen"
       },
       {
         "amount": 250.0,
         "unit": "ml",
         "name": "Rinderbrühe",
+        "group": "",
         "original": "250 ml Rinderbrühe"
       }
     ],
@@ -1589,60 +1812,70 @@
         "amount": 500.0,
         "unit": "g",
         "name": "Schweineschulter (in 1/4 cm dicke Scheiben geschnitten)",
+        "group": "",
         "original": "500 g Schweineschulter (in 1/4 cm dicke Scheiben geschnitten)"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "brauner Zucker",
+        "group": "",
         "original": "3 EL brauner Zucker"
       },
       {
         "amount": 120.0,
         "unit": "ml",
         "name": "Ananassaft",
+        "group": "",
         "original": "120 ml Ananassaft"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sojasauce (am besten natriumarm)",
+        "group": "",
         "original": "2 EL Sojasauce (am besten natriumarm)"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Essig",
+        "group": "",
         "original": "1 EL Essig"
       },
       {
         "amount": 3.0,
         "unit": "Knoblauchzehen",
         "name": "(gehackt)",
+        "group": "",
         "original": "3 Knoblauchzehen (gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL Salz"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "schwarzer Pfeffer",
+        "group": "",
         "original": "1/2 TL schwarzer Pfeffer"
       },
       {
         "amount": null,
         "unit": "",
         "name": "Optional: 1/2 TL rote Lebensmittelfarbe für die traditionelle Optik",
+        "group": "",
         "original": "Optional: 1/2 TL rote Lebensmittelfarbe für die traditionelle Optik"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Öl",
+        "group": "",
         "original": "1 EL Öl"
       }
     ],
@@ -1671,30 +1904,35 @@
         "amount": 300.0,
         "unit": "ml",
         "name": "Gemüsebrühe",
+        "group": "",
         "original": "300 ml Gemüsebrühe"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sojasoße Hell",
+        "group": "",
         "original": "2 EL Sojasoße Hell"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Austernsoße",
+        "group": "",
         "original": "2 EL Austernsoße"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zucker",
+        "group": "",
         "original": "1 TL Zucker"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 EL Soßenbinder",
+        "group": "",
         "original": "1-2 EL Soßenbinder"
       }
     ],
@@ -1714,48 +1952,56 @@
         "amount": 2.0,
         "unit": "große",
         "name": "Kartoffeln (geschält und gewürfelt)",
+        "group": "",
         "original": "2 große Kartoffeln (geschält und gewürfelt)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Knoblauchgranulat",
+        "group": "",
         "original": "1 TL Knoblauchgranulat"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zwiebelgranulat",
+        "group": "",
         "original": "1 TL Zwiebelgranulat"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Paprika",
+        "group": "",
         "original": "1 TL Paprika"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Maisstärke (mehr nach Bedarf)",
+        "group": "",
         "original": "4 EL Maisstärke (mehr nach Bedarf)"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Butter",
+        "group": "",
         "original": "100 g Butter"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Knoblauchgranulat",
+        "group": "",
         "original": "2 TL Knoblauchgranulat"
       },
       {
         "amount": 1.0,
         "unit": "Handvoll",
         "name": "frische Petersilie (gehackt)",
+        "group": "",
         "original": "1 Handvoll frische Petersilie (gehackt)"
       }
     ],
@@ -1790,72 +2036,84 @@
         "amount": 0.5,
         "unit": "Stk.",
         "name": "Spitzkohl",
+        "group": "",
         "original": "1/2 Stk. Spitzkohl"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Karotten",
+        "group": "",
         "original": "2 Karotten"
       },
       {
         "amount": 1.0,
         "unit": "ganze",
         "name": "Fenchel Knolle",
+        "group": "",
         "original": "1 ganze Fenchel Knolle"
       },
       {
         "amount": 1.0,
         "unit": "große",
         "name": "rote Zwiebel",
+        "group": "",
         "original": "1 große rote Zwiebel"
       },
       {
         "amount": 2.0,
         "unit": "mittlere",
         "name": "Knoblauchzehen",
+        "group": "",
         "original": "2 mittlere Knoblauchzehen"
       },
       {
         "amount": 30.0,
         "unit": "g",
         "name": "Salz",
+        "group": "",
         "original": "30 g Salz"
       },
       {
         "amount": 20.0,
         "unit": "g",
         "name": "Zucker",
+        "group": "",
         "original": "20 g Zucker"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "Mayonnaise",
+        "group": "",
         "original": "150 g Mayonnaise"
       },
       {
         "amount": 30.0,
         "unit": "g",
         "name": "groben Senf",
+        "group": "",
         "original": "30 g groben Senf"
       },
       {
         "amount": 30.0,
         "unit": "g",
         "name": "Apfelessig",
+        "group": "",
         "original": "30 g Apfelessig"
       },
       {
         "amount": 30.0,
         "unit": "g",
         "name": "Zucker",
+        "group": "",
         "original": "30 g Zucker"
       },
       {
         "amount": 2.0,
         "unit": "g",
         "name": "Schwarzer Pfeffer",
+        "group": "",
         "original": "2 g Schwarzer Pfeffer"
       }
     ],
@@ -1886,60 +2144,70 @@
         "amount": 2.0,
         "unit": "große",
         "name": "Hähnchenbrustfilets (in mundgerechte Stücke geschnitten)",
+        "group": "",
         "original": "2 große Hähnchenbrustfilets (in mundgerechte Stücke geschnitten)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL Salz"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "MSG (Mononatriumglutamat, optional)",
+        "group": "",
         "original": "1/2 TL MSG (Mononatriumglutamat, optional)"
       },
       {
         "amount": 1.0,
         "unit": "gehäufter",
         "name": "TL Maisstärke",
+        "group": "",
         "original": "1 gehäufter TL Maisstärke"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "selbsttreibendes Mehl",
+        "group": "",
         "original": "150 g selbsttreibendes Mehl"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Natron",
+        "group": "",
         "original": "1/2 TL Natron"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL Salz"
       },
       {
         "amount": 100.0,
         "unit": "ml",
         "name": "Wasser",
+        "group": "",
         "original": "100 ml Wasser"
       },
       {
         "amount": 100.0,
         "unit": "ml",
         "name": "Milch",
+        "group": "",
         "original": "100 ml Milch"
       },
       {
         "amount": null,
         "unit": "",
         "name": "5-6 Minuten frittieren, bis die Hähnchenbällchen goldbraun und knusprig sind.",
+        "group": "",
         "original": "5-6 Minuten frittieren, bis die Hähnchenbällchen goldbraun und knusprig sind."
       }
     ],
@@ -1967,78 +2235,91 @@
         "amount": 250.0,
         "unit": "g",
         "name": "(1¼ Tassen) Zucker (Fein- oder Kristallzucker)",
+        "group": "",
         "original": "250 g (1¼ Tassen) Zucker (Fein- oder Kristallzucker)"
       },
       {
         "amount": 170.0,
         "unit": "g",
         "name": "(1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt",
+        "group": "",
         "original": "170 g (1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt"
       },
       {
         "amount": 2.0,
         "unit": "große",
         "name": "Eier (US) / 2 mittelgroße Eier (UK), zimmerwarm",
+        "group": "",
         "original": "2 große Eier (US) / 2 mittelgroße Eier (UK), zimmerwarm"
       },
       {
         "amount": 2.0,
         "unit": "große",
         "name": "Eigelbe (US) / 2 mittelgroße Eigelbe (UK), zimmerwarm",
+        "group": "",
         "original": "2 große Eigelbe (US) / 2 mittelgroße Eigelbe (UK), zimmerwarm"
       },
       {
         "amount": null,
         "unit": "",
         "name": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)",
+        "group": "",
         "original": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)"
       },
       {
         "amount": 45.0,
         "unit": "g",
         "name": "(3 EL) frisch gepresster Zitronensaft",
+        "group": "",
         "original": "45 g (3 EL) frisch gepresster Zitronensaft"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "(1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)",
+        "group": "",
         "original": "150 g (1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "½ TL Xanthan (nur ¼ TL, wenn im Mehl bereits enthalten)",
+        "group": "",
         "original": "½ TL Xanthan (nur ¼ TL, wenn im Mehl bereits enthalten)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "¼ TL Salz",
+        "group": "",
         "original": "¼ TL Salz"
       },
       {
         "amount": 120.0,
         "unit": "g",
         "name": "(1 Tasse) Puderzucker, gesiebt",
+        "group": "",
         "original": "120 g (1 Tasse) Puderzucker, gesiebt"
       },
       {
         "amount": 55.0,
         "unit": "g",
         "name": "(¼ Tasse) Vollfett-Frischkäse, zimmerwarm",
+        "group": "",
         "original": "55 g (¼ Tasse) Vollfett-Frischkäse, zimmerwarm"
       },
       {
         "amount": 10.0,
         "unit": "g",
         "name": "(2 TL) frisch gepresster Zitronensaft",
+        "group": "",
         "original": "10 g (2 TL) frisch gepresster Zitronensaft"
       },
       {
         "amount": null,
         "unit": "",
         "name": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)",
+        "group": "",
         "original": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)"
       }
     ],
@@ -2082,102 +2363,119 @@
         "amount": 1.0,
         "unit": "",
         "name": "Tortilla-Wrap",
+        "group": "",
         "original": "1 Tortilla-Wrap"
       },
       {
         "amount": 30.0,
         "unit": "g",
         "name": "weiße Lasagne-Sauce",
+        "group": "",
         "original": "30 g weiße Lasagne-Sauce"
       },
       {
         "amount": 50.0,
         "unit": "g",
         "name": "geriebener Mozzarella-Cheddar-Mix",
+        "group": "",
         "original": "50 g geriebener Mozzarella-Cheddar-Mix"
       },
       {
         "amount": 0.2,
         "unit": "der",
         "name": "Bolognese",
+        "group": "",
         "original": "1/5 der Bolognese"
       },
       {
         "amount": 0.5,
         "unit": "EL",
         "name": "Olivenöl",
+        "group": "",
         "original": "1/2 EL Olivenöl"
       },
       {
         "amount": 1.0,
         "unit": "Zwiebel",
         "name": "(gehackt)",
+        "group": "",
         "original": "1 Zwiebel (gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "Karotte",
         "name": "(gehackt)",
+        "group": "",
         "original": "1 Karotte (gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "Stange",
         "name": "Sellerie (gehackt)",
+        "group": "",
         "original": "1 Stange Sellerie (gehackt)"
       },
       {
         "amount": 2.0,
         "unit": "Knoblauchzehen",
         "name": "(gepresst)",
+        "group": "",
         "original": "2 Knoblauchzehen (gepresst)"
       },
       {
         "amount": 500.0,
         "unit": "g",
         "name": "Rinderhackfleisch (5 % Fett)",
+        "group": "",
         "original": "500 g Rinderhackfleisch (5 % Fett)"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Tomatenmark",
+        "group": "",
         "original": "1 EL Tomatenmark"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Worcestersauce",
+        "group": "",
         "original": "1 EL Worcestersauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "italienische Kräuter",
+        "group": "",
         "original": "1 EL italienische Kräuter"
       },
       {
         "amount": 1.0,
         "unit": "Dose",
         "name": "gehackte Tomaten",
+        "group": "",
         "original": "1 Dose gehackte Tomaten"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Rinderbrühwürfel",
+        "group": "",
         "original": "1 Rinderbrühwürfel"
       },
       {
         "amount": 0.25,
         "unit": "Dose",
         "name": "Wasser",
+        "group": "",
         "original": "1/4 Dose Wasser"
       },
       {
         "amount": 5.0,
         "unit": "Minuten",
         "name": "abkühlen lassen, dann halbieren und genießen.",
+        "group": "",
         "original": "5 Minuten abkühlen lassen, dann halbieren und genießen."
       }
     ],
@@ -2211,48 +2509,56 @@
         "amount": null,
         "unit": "",
         "name": "400g Udon Nudeln",
+        "group": "",
         "original": "400g Udon Nudeln"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Rindfleisch",
+        "group": "",
         "original": "250g Rindfleisch"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Eier",
+        "group": "",
         "original": "2 Eier"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Paprika",
+        "group": "",
         "original": "1 Paprika"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Karotte",
+        "group": "",
         "original": "1 Karotte"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Lauch",
+        "group": "",
         "original": "1 Lauch"
       },
       {
         "amount": 2.0,
         "unit": "Zehen",
         "name": "Knoblauch",
+        "group": "",
         "original": "2 Zehen Knoblauch"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Prinzess oder Brechbohnen",
+        "group": "",
         "original": "250g Prinzess oder Brechbohnen"
       }
     ],
@@ -2289,42 +2595,49 @@
         "amount": 1.0,
         "unit": "EL",
         "name": "grüne Pfefferkörner (in Lake, abgetropft)",
+        "group": "",
         "original": "1 EL grüne Pfefferkörner (in Lake, abgetropft)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "schwarze Pfefferkörner (grob zerkleinert)",
+        "group": "",
         "original": "1 TL schwarze Pfefferkörner (grob zerkleinert)"
       },
       {
         "amount": 1.0,
         "unit": "kleine",
         "name": "Schalotte (fein gehackt)",
+        "group": "",
         "original": "1 kleine Schalotte (fein gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Butter",
+        "group": "",
         "original": "1 EL Butter"
       },
       {
         "amount": 50.0,
         "unit": "ml",
         "name": "Brandy oder Cognac",
+        "group": "",
         "original": "50 ml Brandy oder Cognac"
       },
       {
         "amount": 200.0,
         "unit": "ml",
         "name": "Rinder- oder Gemüsefond",
+        "group": "",
         "original": "200 ml Rinder- oder Gemüsefond"
       },
       {
         "amount": 150.0,
         "unit": "ml",
         "name": "Double Cream oder Schlagsahne",
+        "group": "",
         "original": "150 ml Double Cream oder Schlagsahne"
       }
     ],
@@ -2362,12 +2675,14 @@
         "amount": 1.0,
         "unit": "Packung",
         "name": "(16 Stück) Hot Dogs",
+        "group": "",
         "original": "1 Packung (16 Stück) Hot Dogs"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Senf (als Bindemittel)",
+        "group": "",
         "original": "2 EL Senf (als Bindemittel)"
       }
     ],
@@ -2400,72 +2715,84 @@
         "amount": 230.0,
         "unit": "Gramm",
         "name": "Kabeljau",
+        "group": "",
         "original": "230 Gramm Kabeljau"
       },
       {
         "amount": 120.0,
         "unit": "Gramm",
         "name": "Tintenfisch",
+        "group": "",
         "original": "120 Gramm Tintenfisch"
       },
       {
         "amount": 120.0,
         "unit": "Gramm",
         "name": "Garnelen",
+        "group": "",
         "original": "120 Gramm Garnelen"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Knoblauchzehen",
+        "group": "",
         "original": "2 Knoblauchzehen"
       },
       {
         "amount": 1.0,
         "unit": "Viertel",
         "name": "Zwiebel",
+        "group": "",
         "original": "1 Viertel Zwiebel"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Salz",
+        "group": "",
         "original": "1 Teelöffel Salz"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Zucker",
+        "group": "",
         "original": "1 Teelöffel Zucker"
       },
       {
         "amount": 0.25,
         "unit": "Teelöffel",
         "name": "Weißer Pfeffer",
+        "group": "",
         "original": "1/4 Teelöffel Weißer Pfeffer"
       },
       {
         "amount": 1.0,
         "unit": "Esslöffel",
         "name": "Öl",
+        "group": "",
         "original": "1 Esslöffel Öl"
       },
       {
         "amount": 30.0,
         "unit": "Gramm",
         "name": "Mehl",
+        "group": "",
         "original": "30 Gramm Mehl"
       },
       {
         "amount": 30.0,
         "unit": "Gramm",
         "name": "Kartoffelstärke",
+        "group": "",
         "original": "30 Gramm Kartoffelstärke"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Eiweiß",
+        "group": "",
         "original": "1 Eiweiß"
       }
     ],
@@ -2491,72 +2818,84 @@
         "amount": 2.0,
         "unit": "EL",
         "name": "Pflanzenöl",
+        "group": "",
         "original": "2 EL Pflanzenöl"
       },
       {
         "amount": 500.0,
         "unit": "g",
         "name": "Schweinebauch (in Stücke geschnitten)",
+        "group": "",
         "original": "500 g Schweinebauch (in Stücke geschnitten)"
       },
       {
         "amount": 0.5,
         "unit": "Zwiebel",
         "name": "(gehackt)",
+        "group": "",
         "original": "1/2 Zwiebel (gehackt)"
       },
       {
         "amount": 4.0,
         "unit": "Knoblauchzehen",
         "name": "(gehackt)",
+        "group": "",
         "original": "4 Knoblauchzehen (gehackt)"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Weißweinessig",
+        "group": "",
         "original": "1/4 Tasse Weißweinessig"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Sojasauce",
+        "group": "",
         "original": "1/4 Tasse Sojasauce"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Lorbeerblätter",
+        "group": "",
         "original": "2 Lorbeerblätter"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "schwarze Pfefferkörner",
+        "group": "",
         "original": "2 TL schwarze Pfefferkörner"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Hühnerbrühwürfel",
+        "group": "",
         "original": "1 Hühnerbrühwürfel"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Wasser",
+        "group": "",
         "original": "1 Tasse Wasser"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "brauner Zucker",
+        "group": "",
         "original": "1 EL brauner Zucker"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Kokosmilch",
+        "group": "",
         "original": "1 Tasse Kokosmilch"
       }
     ],
@@ -2583,48 +2922,56 @@
         "amount": null,
         "unit": "",
         "name": "463g Mehl",
+        "group": "",
         "original": "463g Mehl"
       },
       {
         "amount": 1.0,
         "unit": "großes",
         "name": "Ei",
+        "group": "",
         "original": "1 großes Ei"
       },
       {
         "amount": null,
         "unit": "",
         "name": "14g Trockenhefe",
+        "group": "",
         "original": "14g Trockenhefe"
       },
       {
         "amount": null,
         "unit": "",
         "name": "31g Zucker",
+        "group": "",
         "original": "31g Zucker"
       },
       {
         "amount": null,
         "unit": "",
         "name": "9g Salz",
+        "group": "",
         "original": "9g Salz"
       },
       {
         "amount": null,
         "unit": "",
         "name": "41g geschmolzene Butter",
+        "group": "",
         "original": "41g geschmolzene Butter"
       },
       {
         "amount": null,
         "unit": "",
         "name": "30g Milchpulver",
+        "group": "",
         "original": "30g Milchpulver"
       },
       {
         "amount": null,
         "unit": "",
         "name": "220g Lauwarmes Wasser",
+        "group": "",
         "original": "220g Lauwarmes Wasser"
       }
     ],
@@ -2652,30 +2999,35 @@
         "amount": 450.0,
         "unit": "g",
         "name": "Bacon (gewürfelt)",
+        "group": "",
         "original": "450 g Bacon (gewürfelt)"
       },
       {
         "amount": 1.0,
         "unit": "weiße",
         "name": "Zwiebel (gewürfelt)",
+        "group": "",
         "original": "1 weiße Zwiebel (gewürfelt)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "2-3 EL Apfelessig",
+        "group": "",
         "original": "2-3 EL Apfelessig"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "frische Himbeeren",
+        "group": "",
         "original": "1 Tasse frische Himbeeren"
       },
       {
         "amount": 4.0,
         "unit": "Rindfleischbällchen",
         "name": "(je 110 g, 75/25 Mischung)",
+        "group": "",
         "original": "4 Rindfleischbällchen (je 110 g, 75/25 Mischung)"
       }
     ],
@@ -2723,48 +3075,56 @@
         "amount": 200.0,
         "unit": "ml",
         "name": "warmes Wasser",
+        "group": "",
         "original": "200 ml warmes Wasser"
       },
       {
         "amount": 10.0,
         "unit": "gr",
         "name": "Trockenhefe",
+        "group": "",
         "original": "10 gr Trockenhefe"
       },
       {
         "amount": 4.0,
         "unit": "Teelöffel",
         "name": "Zucker",
+        "group": "",
         "original": "4 Teelöffel Zucker"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "Pflanzliches Öl",
+        "group": "",
         "original": "60 ml Pflanzliches Öl"
       },
       {
         "amount": 200.0,
         "unit": "ml",
         "name": "Warme Milch",
+        "group": "",
         "original": "200 ml Warme Milch"
       },
       {
         "amount": 0.5,
         "unit": "Teelöffel",
         "name": "Salz",
+        "group": "",
         "original": "1/2 Teelöffel Salz"
       },
       {
         "amount": 600.0,
         "unit": "gr",
         "name": "Mehl",
+        "group": "",
         "original": "600 gr Mehl"
       },
       {
         "amount": 100.0,
         "unit": "gr",
         "name": "Butter",
+        "group": "",
         "original": "100 gr Butter"
       }
     ],
@@ -2802,102 +3162,119 @@
         "amount": 1.0,
         "unit": "EL",
         "name": "Erdnussöl",
+        "group": "",
         "original": "1 EL Erdnussöl"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "grüne Currypaste",
+        "group": "",
         "original": "1 TL grüne Currypaste"
       },
       {
         "amount": 0.5,
         "unit": "EL",
         "name": "Brauner Zucker",
+        "group": "",
         "original": "0,5 EL Brauner Zucker"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Austernsoße",
+        "group": "",
         "original": "3 EL Austernsoße"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Sojasoße",
+        "group": "",
         "original": "1 EL Sojasoße"
       },
       {
         "amount": 300.0,
         "unit": "ml",
         "name": "Kokosmilch",
+        "group": "",
         "original": "300 ml Kokosmilch"
       },
       {
         "amount": 0.25,
         "unit": "TL",
         "name": "Koriander",
+        "group": "",
         "original": "0.25 TL Koriander"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Langkorn Reis",
+        "group": "",
         "original": "1 Tasse Langkorn Reis"
       },
       {
         "amount": 200.0,
         "unit": "ml",
         "name": "Grüne Curry Soße",
+        "group": "",
         "original": "200 ml Grüne Curry Soße"
       },
       {
         "amount": 200.0,
         "unit": "gr",
         "name": "Schwein, Rind oder Hähnchen",
+        "group": "",
         "original": "200 gr Schwein, Rind oder Hähnchen"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Spitzpaprika",
+        "group": "",
         "original": "1 Spitzpaprika"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Zwiebel",
+        "group": "",
         "original": "1 Zwiebel"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Karotte",
+        "group": "",
         "original": "1 Karotte"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Knoblauchzehe",
+        "group": "",
         "original": "1 Knoblauchzehe"
       },
       {
         "amount": 100.0,
         "unit": "gr",
         "name": "Brechbohnen",
+        "group": "",
         "original": "100 gr Brechbohnen"
       },
       {
         "amount": 150.0,
         "unit": "gr",
         "name": "Brokkoli",
+        "group": "",
         "original": "150 gr Brokkoli"
       },
       {
         "amount": 2.0,
         "unit": "Esslöffel",
         "name": "Sojasoße",
+        "group": "",
         "original": "2 Esslöffel Sojasoße"
       }
     ],
@@ -2927,42 +3304,49 @@
         "amount": 400.0,
         "unit": "g",
         "name": "Steinpilze",
+        "group": "",
         "original": "400 g Steinpilze"
       },
       {
         "amount": 300.0,
         "unit": "g",
         "name": "Carnaroli Risottoreis (Alternativ Arborio oder Vialone Nano)",
+        "group": "",
         "original": "300 g Carnaroli Risottoreis (Alternativ Arborio oder Vialone Nano)"
       },
       {
         "amount": 50.0,
         "unit": "g",
         "name": "Butter",
+        "group": "",
         "original": "50 g Butter"
       },
       {
         "amount": 50.0,
         "unit": "g",
         "name": "Parmesan Reggiano",
+        "group": "",
         "original": "50 g Parmesan Reggiano"
       },
       {
         "amount": 0.5,
         "unit": "",
         "name": "Zwiebel",
+        "group": "",
         "original": "1/2 Zwiebel"
       },
       {
         "amount": 1000.0,
         "unit": "ml",
         "name": "Gemüsebrühe",
+        "group": "",
         "original": "1000 ml Gemüsebrühe"
       },
       {
         "amount": 3.0,
         "unit": "Esslöffel",
         "name": "Olivenöl und die Steinpilze mit etwas Salz in eine Kalte Pfanne geben und bei mittlerer Hitze die Pfanne erhitzen.",
+        "group": "",
         "original": "3 Esslöffel Olivenöl und die Steinpilze mit etwas Salz in eine Kalte Pfanne geben und bei mittlerer Hitze die Pfanne erhitzen."
       }
     ],
@@ -3003,90 +3387,105 @@
         "amount": 500.0,
         "unit": "g",
         "name": "Hähnchenschenkel (in mundgerechte Stücke geschnitten)",
+        "group": "",
         "original": "500 g Hähnchenschenkel (in mundgerechte Stücke geschnitten)"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sojasauce",
+        "group": "",
         "original": "2 EL Sojasauce"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sake",
+        "group": "",
         "original": "2 EL Sake"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Mirin",
+        "group": "",
         "original": "1 EL Mirin"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Sesamöl",
+        "group": "",
         "original": "1 TL Sesamöl"
       },
       {
         "amount": 2.0,
         "unit": "Knoblauchzehen",
         "name": "(fein gehackt)",
+        "group": "",
         "original": "2 Knoblauchzehen (fein gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Ingwer (fein gehackt)",
+        "group": "",
         "original": "1 TL Ingwer (fein gehackt)"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1/2 TL Salz"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "weißer Pfeffer",
+        "group": "",
         "original": "1/2 TL weißer Pfeffer"
       },
       {
         "amount": 1.0,
         "unit": "Eiweiß",
         "name": "(leicht verquirlt)",
+        "group": "",
         "original": "1 Eiweiß (leicht verquirlt)"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Kartoffelstärke (für die knusprige Kruste)",
+        "group": "",
         "original": "100 g Kartoffelstärke (für die knusprige Kruste)"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Mayonnaise",
+        "group": "",
         "original": "4 EL Mayonnaise"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Thai-Süßchilisauce",
+        "group": "",
         "original": "2 EL Thai-Süßchilisauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Sriracha oder Chilisauce",
+        "group": "",
         "original": "1 EL Sriracha oder Chilisauce"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zitronensaft",
+        "group": "",
         "original": "1 TL Zitronensaft"
       }
     ],
@@ -3120,114 +3519,133 @@
         "amount": 6.0,
         "unit": "",
         "name": "Eier",
+        "group": "",
         "original": "6 Eier"
       },
       {
         "amount": 300.0,
         "unit": "g",
         "name": "Eiweiß",
+        "group": "",
         "original": "300 g Eiweiß"
       },
       {
         "amount": 960.0,
         "unit": "g",
         "name": "extra mageres Rinderhack",
+        "group": "",
         "original": "960 g extra mageres Rinderhack"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL Salz"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "1 TL Knoblauchpulver"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zwiebelpulver",
+        "group": "",
         "original": "1 TL Zwiebelpulver"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "geräuchertes Paprikapulver",
+        "group": "",
         "original": "1 TL geräuchertes Paprikapulver"
       },
       {
         "amount": null,
         "unit": "",
         "name": "½ TL Salbei",
+        "group": "",
         "original": "½ TL Salbei"
       },
       {
         "amount": null,
         "unit": "",
         "name": "½ TL Thymian",
+        "group": "",
         "original": "½ TL Thymian"
       },
       {
         "amount": null,
         "unit": "",
         "name": "½ TL Oregano",
+        "group": "",
         "original": "½ TL Oregano"
       },
       {
         "amount": 6.0,
         "unit": "Scheiben",
         "name": "Bacon (kurz geschnitten, alternativ Puten- oder Rinderbacon)",
+        "group": "",
         "original": "6 Scheiben Bacon (kurz geschnitten, alternativ Puten- oder Rinderbacon)"
       },
       {
         "amount": 6.0,
         "unit": "englische",
         "name": "Frühstücks-Muffins",
+        "group": "",
         "original": "6 englische Frühstücks-Muffins"
       },
       {
         "amount": 6.0,
         "unit": "Scheiben",
         "name": "Cheddar-Käse",
+        "group": "",
         "original": "6 Scheiben Cheddar-Käse"
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "leichte Mayonnaise",
+        "group": "",
         "original": "200 g leichte Mayonnaise"
       },
       {
         "amount": null,
         "unit": "",
         "name": "2-4 TL Chipotle in Adobo-Sauce",
+        "group": "",
         "original": "2-4 TL Chipotle in Adobo-Sauce"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL Salz"
       },
       {
         "amount": null,
         "unit": "",
         "name": "½ TL schwarzer Pfeffer",
+        "group": "",
         "original": "½ TL schwarzer Pfeffer"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "1 TL Knoblauchpulver"
       },
       {
         "amount": 35.0,
         "unit": "g",
         "name": "Honig",
+        "group": "",
         "original": "35 g Honig"
       }
     ],
@@ -3270,72 +3688,84 @@
         "amount": 1.0,
         "unit": "",
         "name": "Karotte",
+        "group": "",
         "original": "1 Karotte"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "",
         "name": "Knollensellerie",
+        "group": "",
         "original": "1/3 Knollensellerie"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Knoblauchzehe",
+        "group": "",
         "original": "1 Knoblauchzehe"
       },
       {
         "amount": 1.0,
         "unit": "große",
         "name": "oder 2 kleine Zwiebeln",
+        "group": "",
         "original": "1 große oder 2 kleine Zwiebeln"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "Zucker",
+        "group": "",
         "original": "1 Prise Zucker"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "Muskatnuss (frisch gemahlen)",
+        "group": "",
         "original": "1 Prise Muskatnuss (frisch gemahlen)"
       },
       {
         "amount": 3.0,
         "unit": "TL",
         "name": "Majoran",
+        "group": "",
         "original": "3 TL Majoran"
       },
       {
         "amount": 1.0,
         "unit": "l",
         "name": "Gemüsebrühe",
+        "group": "",
         "original": "1 l Gemüsebrühe"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Butter",
+        "group": "",
         "original": "1 EL Butter"
       },
       {
         "amount": 1.0,
         "unit": "Toastbrot",
         "name": "oder 1/2 Brötchen",
+        "group": "",
         "original": "1 Toastbrot oder 1/2 Brötchen"
       },
       {
         "amount": 0.25,
         "unit": "Stange",
         "name": "Porree",
+        "group": "",
         "original": "1/4 Stange Porree"
       },
       {
         "amount": null,
         "unit": "",
         "name": "Eine Prise Zucker hinzufügen.",
+        "group": "",
         "original": "Eine Prise Zucker hinzufügen."
       }
     ],
@@ -3383,48 +3813,56 @@
         "amount": 2.0,
         "unit": "",
         "name": "Kartoffeln",
+        "group": "",
         "original": "2 Kartoffeln"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Butter",
+        "group": "",
         "original": "2 EL Butter"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "Tasse",
         "name": "Parmesan (gerieben)",
+        "group": "",
         "original": "1/3 Tasse Parmesan (gerieben)"
       },
       {
         "amount": 0.75,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "3/4 TL Salz"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "1/2 TL Knoblauchpulver"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Petersilie (gehackt)",
+        "group": "",
         "original": "1 TL Petersilie (gehackt)"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Maisstärke",
+        "group": "",
         "original": "2 EL Maisstärke"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Ei",
+        "group": "",
         "original": "1 Ei"
       }
     ],
@@ -3453,78 +3891,91 @@
         "amount": 500.0,
         "unit": "g",
         "name": "Hokkien-Nudeln",
+        "group": "",
         "original": "500 g Hokkien-Nudeln"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "1/2 EL helle Sojasauce",
+        "group": "",
         "original": "1 1/2 EL helle Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "1/2 EL Austernsauce",
+        "group": "",
         "original": "1 1/2 EL Austernsauce"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "dunkle Sojasauce",
+        "group": "",
         "original": "2 EL dunkle Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "weißer Zucker",
+        "group": "",
         "original": "1 EL weißer Zucker"
       },
       {
         "amount": 0.5,
         "unit": "EL",
         "name": "Maisstärke",
+        "group": "",
         "original": "1/2 EL Maisstärke"
       },
       {
         "amount": 120.0,
         "unit": "ml",
         "name": "Wasser",
+        "group": "",
         "original": "120 ml Wasser"
       },
       {
         "amount": 250.0,
         "unit": "g",
         "name": "Schweinebauch, dünn geschnitten",
+        "group": "",
         "original": "250 g Schweinebauch, dünn geschnitten"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Knoblauchzehen, fein gehackt",
+        "group": "",
         "original": "2 Knoblauchzehen, fein gehackt"
       },
       {
         "amount": null,
         "unit": "",
         "name": "10-12 Garnelen, geschält und entdarmt",
+        "group": "",
         "original": "10-12 Garnelen, geschält und entdarmt"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Wombok (chinesischer Kohl), dünn geschnitten",
+        "group": "",
         "original": "1 Tasse Wombok (chinesischer Kohl), dünn geschnitten"
       },
       {
         "amount": 1.0,
         "unit": "Bund",
         "name": "Kailan (oder Pak Choi), grob gehackt",
+        "group": "",
         "original": "1 Bund Kailan (oder Pak Choi), grob gehackt"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "Hühnerbrühe",
+        "group": "",
         "original": "60 ml Hühnerbrühe"
       }
     ],
@@ -3559,48 +4010,56 @@
         "amount": 300.0,
         "unit": "g",
         "name": "Pasta z.B. Penne",
+        "group": "",
         "original": "300 g Pasta z.B. Penne"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Flusskrebsfleisch",
+        "group": "",
         "original": "100 g Flusskrebsfleisch"
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "geschälte Riesen Garnelen",
+        "group": "",
         "original": "200 g geschälte Riesen Garnelen"
       },
       {
         "amount": 250.0,
         "unit": "g",
         "name": "Passierte Tomaten",
+        "group": "",
         "original": "250 g Passierte Tomaten"
       },
       {
         "amount": null,
         "unit": "",
         "name": "50-100 ml Sauce Hollandaise",
+        "group": "",
         "original": "50-100 ml Sauce Hollandaise"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Sambal Oelek",
+        "group": "",
         "original": "1 EL Sambal Oelek"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL Salz"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Pfeffer",
+        "group": "",
         "original": "1/2 TL Pfeffer"
       }
     ],
@@ -3624,24 +4083,28 @@
         "amount": 250.0,
         "unit": "ml",
         "name": "Gemüsebrühe",
+        "group": "",
         "original": "250 ml Gemüsebrühe"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sojasoße Hell",
+        "group": "",
         "original": "2 EL Sojasoße Hell"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zucker",
+        "group": "",
         "original": "1 TL Zucker"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 EL Soßenbinder",
+        "group": "",
         "original": "1-2 EL Soßenbinder"
       }
     ],
@@ -3667,84 +4130,98 @@
         "amount": 3.0,
         "unit": "Tassen",
         "name": "Weizenmehl (all-purpose flour)",
+        "group": "",
         "original": "3 Tassen Weizenmehl (all-purpose flour)"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Zucker",
+        "group": "",
         "original": "1/4 Tasse Zucker"
       },
       {
         "amount": 1.0,
         "unit": "Päckchen",
         "name": "(2 1/4 TL) Trockenhefe",
+        "group": "",
         "original": "1 Päckchen (2 1/4 TL) Trockenhefe"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1/2 TL Salz"
       },
       {
         "amount": 0.5,
         "unit": "Tasse",
         "name": "Vollmilch (leicht erwärmt)",
+        "group": "",
         "original": "1/2 Tasse Vollmilch (leicht erwärmt)"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "ungesalzene Butter (geschmolzen)",
+        "group": "",
         "original": "1/4 Tasse ungesalzene Butter (geschmolzen)"
       },
       {
         "amount": 2.0,
         "unit": "große",
         "name": "Eier (zimmerwarm)",
+        "group": "",
         "original": "2 große Eier (zimmerwarm)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Vanilleextrakt",
+        "group": "",
         "original": "1 TL Vanilleextrakt"
       },
       {
         "amount": 0.5,
         "unit": "Tasse",
         "name": "ungesalzene Butter (weich)",
+        "group": "",
         "original": "1/2 Tasse ungesalzene Butter (weich)"
       },
       {
         "amount": 0.75,
         "unit": "Tasse",
         "name": "brauner Zucker",
+        "group": "",
         "original": "3/4 Tasse brauner Zucker"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Zimt",
+        "group": "",
         "original": "2 EL Zimt"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Puderzucker",
+        "group": "",
         "original": "1 Tasse Puderzucker"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Milch",
+        "group": "",
         "original": "2 EL Milch"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Vanilleextrakt",
+        "group": "",
         "original": "1/2 TL Vanilleextrakt"
       }
     ],
@@ -3784,66 +4261,77 @@
         "amount": 500.0,
         "unit": "g",
         "name": "Russet-Kartoffeln",
+        "group": "",
         "original": "500 g Russet-Kartoffeln"
       },
       {
         "amount": 3.0,
         "unit": "Tassen",
         "name": "Kartoffelstärke",
+        "group": "",
         "original": "3 Tassen Kartoffelstärke"
       },
       {
         "amount": 0.5,
         "unit": "Tasse",
         "name": "warmes Wasser",
+        "group": "",
         "original": "1/2 Tasse warmes Wasser"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1/2 TL Salz"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Knoblauchzehen, gehackt",
+        "group": "",
         "original": "4 Knoblauchzehen, gehackt"
       },
       {
         "amount": 1.0,
         "unit": "Stange",
         "name": "Frühlingszwiebel, in Ringe geschnitten",
+        "group": "",
         "original": "1 Stange Frühlingszwiebel, in Ringe geschnitten"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "normale Sojasauce",
+        "group": "",
         "original": "2 EL normale Sojasauce"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "chinesischer schwarzer Essig",
+        "group": "",
         "original": "2 EL chinesischer schwarzer Essig"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Gochugaru (koreanisches Chilipulver)",
+        "group": "",
         "original": "2 EL Gochugaru (koreanisches Chilipulver)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zucker",
+        "group": "",
         "original": "1 TL Zucker"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Öl (zum Übergießen der Sauce)",
+        "group": "",
         "original": "2 EL Öl (zum Übergießen der Sauce)"
       }
     ],
@@ -3870,72 +4358,84 @@
         "amount": null,
         "unit": "",
         "name": "6-8 Kolben Zuckermais",
+        "group": "",
         "original": "6-8 Kolben Zuckermais"
       },
       {
         "amount": 3.0,
         "unit": "Esslöffel",
         "name": "Öl",
+        "group": "",
         "original": "3 Esslöffel Öl"
       },
       {
         "amount": 75.0,
         "unit": "g",
         "name": "geriebener Feta Käse",
+        "group": "",
         "original": "75 g geriebener Feta Käse"
       },
       {
         "amount": 1.0,
         "unit": "Jalapeno",
         "name": "(20 g)",
+        "group": "",
         "original": "1 Jalapeno (20 g)"
       },
       {
         "amount": 4.0,
         "unit": "Stangen",
         "name": "Frühlingszwiebeln",
+        "group": "",
         "original": "4 Stangen Frühlingszwiebeln"
       },
       {
         "amount": 1.0,
         "unit": "Handvoll",
         "name": "Petersilie",
+        "group": "",
         "original": "1 Handvoll Petersilie"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Limone",
+        "group": "",
         "original": "1 Limone"
       },
       {
         "amount": 3.0,
         "unit": "mittlere",
         "name": "Konbauchzehen",
+        "group": "",
         "original": "3 mittlere Konbauchzehen"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Mayonnaise",
+        "group": "",
         "original": "100 g Mayonnaise"
       },
       {
         "amount": 50.0,
         "unit": "g",
         "name": "Sour Cream",
+        "group": "",
         "original": "50 g Sour Cream"
       },
       {
         "amount": 2.0,
         "unit": "g",
         "name": "Schwarzer Pfeffer",
+        "group": "",
         "original": "2 g Schwarzer Pfeffer"
       },
       {
         "amount": 2.0,
         "unit": "g",
         "name": "Chili Pulver",
+        "group": "",
         "original": "2 g Chili Pulver"
       }
     ],
@@ -3971,114 +4471,133 @@
         "amount": 2.0,
         "unit": "EL",
         "name": "Olivenöl",
+        "group": "",
         "original": "2 EL Olivenöl"
       },
       {
         "amount": 8.0,
         "unit": "",
         "name": "Rinder-Short Ribs",
+        "group": "",
         "original": "8 Rinder-Short Ribs"
       },
       {
         "amount": 1.0,
         "unit": "Zwiebel",
         "name": "(fein gewürfelt)",
+        "group": "",
         "original": "1 Zwiebel (fein gewürfelt)"
       },
       {
         "amount": 6.0,
         "unit": "Knoblauchzehen",
         "name": "(gehackt)",
+        "group": "",
         "original": "6 Knoblauchzehen (gehackt)"
       },
       {
         "amount": 120.0,
         "unit": "ml",
         "name": "Bourbon",
+        "group": "",
         "original": "120 ml Bourbon"
       },
       {
         "amount": 120.0,
         "unit": "ml",
         "name": "Balsamico-Essig",
+        "group": "",
         "original": "120 ml Balsamico-Essig"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "brauner Zucker",
+        "group": "",
         "original": "2 EL brauner Zucker"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Worcestershire-Sauce",
+        "group": "",
         "original": "1 EL Worcestershire-Sauce"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Lorbeerblätter",
+        "group": "",
         "original": "4 Lorbeerblätter"
       },
       {
         "amount": 360.0,
         "unit": "ml",
         "name": "Rinderbrühe",
+        "group": "",
         "original": "360 ml Rinderbrühe"
       },
       {
         "amount": 120.0,
         "unit": "ml",
         "name": "Sauerrahm",
+        "group": "",
         "original": "120 ml Sauerrahm"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Meerrettich",
+        "group": "",
         "original": "2 EL Meerrettich"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Dijon-Senf",
+        "group": "",
         "original": "2 TL Dijon-Senf"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Zitronensaft",
+        "group": "",
         "original": "2 TL Zitronensaft"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "koscheres Salz",
+        "group": "",
         "original": "1/2 TL koscheres Salz"
       },
       {
         "amount": 0.125,
         "unit": "TL",
         "name": "schwarzer Pfeffer",
+        "group": "",
         "original": "1/8 TL schwarzer Pfeffer"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "Sahne",
+        "group": "",
         "original": "60 ml Sahne"
       },
       {
         "amount": null,
         "unit": "",
         "name": "Die Hitze auf mittlere bis niedrige Stufe reduzieren und das überschüssige Fett bis auf 2 EL entfernen.",
+        "group": "",
         "original": "Die Hitze auf mittlere bis niedrige Stufe reduzieren und das überschüssige Fett bis auf 2 EL entfernen."
       },
       {
         "amount": null,
         "unit": "",
         "name": "Balsamico-Essig, braunen Zucker, Worcestershire-Sauce, Lorbeerblätter und 1 TL koscheres Salz hinzufügen.",
+        "group": "",
         "original": "Balsamico-Essig, braunen Zucker, Worcestershire-Sauce, Lorbeerblätter und 1 TL koscheres Salz hinzufügen."
       }
     ],
@@ -4117,66 +4636,77 @@
         "amount": 6.0,
         "unit": "",
         "name": "Eier",
+        "group": "",
         "original": "6 Eier"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Salz",
+        "group": "",
         "original": "1 Teelöffel Salz"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Essig",
+        "group": "",
         "original": "1 Teelöffel Essig"
       },
       {
         "amount": 120.0,
         "unit": "ml",
         "name": "Sojasoße",
+        "group": "",
         "original": "120 ml Sojasoße"
       },
       {
         "amount": 120.0,
         "unit": "ml",
         "name": "Wasser oder Dashi Brühe",
+        "group": "",
         "original": "120 ml Wasser oder Dashi Brühe"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "Honig oder Ahornsirup oder Agavensirup",
+        "group": "",
         "original": "60 ml Honig oder Ahornsirup oder Agavensirup"
       },
       {
         "amount": 1.0,
         "unit": "Bund",
         "name": "Frühlingszwiebeln",
+        "group": "",
         "original": "1 Bund Frühlingszwiebeln"
       },
       {
         "amount": 0.5,
         "unit": "",
         "name": "Zwiebel",
+        "group": "",
         "original": "1/2 Zwiebel"
       },
       {
         "amount": 2.0,
         "unit": "Jalapenos",
         "name": "oder Chilischoten",
+        "group": "",
         "original": "2 Jalapenos oder Chilischoten"
       },
       {
         "amount": 3.0,
         "unit": "",
         "name": "Knoblauchzehen",
+        "group": "",
         "original": "3 Knoblauchzehen"
       },
       {
         "amount": 1.0,
         "unit": "Esslöffel",
         "name": "geröstete Sesam Samen",
+        "group": "",
         "original": "1 Esslöffel geröstete Sesam Samen"
       }
     ],
@@ -4202,66 +4732,77 @@
         "amount": 400.0,
         "unit": "Gramm",
         "name": "Garnelen (geschält und entdarmt)",
+        "group": "",
         "original": "400 Gramm Garnelen (geschält und entdarmt)"
       },
       {
         "amount": 300.0,
         "unit": "Gramm",
         "name": "Maccaroni oder Farfalle",
+        "group": "",
         "original": "300 Gramm Maccaroni oder Farfalle"
       },
       {
         "amount": 250.0,
         "unit": "Gramm",
         "name": "Cherry Tomaten",
+        "group": "",
         "original": "250 Gramm Cherry Tomaten"
       },
       {
         "amount": 100.0,
         "unit": "Milliliter",
         "name": "Sweet Chili Sauce",
+        "group": "",
         "original": "100 Milliliter Sweet Chili Sauce"
       },
       {
         "amount": 75.0,
         "unit": "Milliliter",
         "name": "Sojasauce",
+        "group": "",
         "original": "75 Milliliter Sojasauce"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 Knoblauchzehen",
+        "group": "",
         "original": "1-2 Knoblauchzehen"
       },
       {
         "amount": 1.0,
         "unit": "Stück",
         "name": "Ingwer",
+        "group": "",
         "original": "1 Stück Ingwer"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Limette",
+        "group": "",
         "original": "1 Limette"
       },
       {
         "amount": 1.0,
         "unit": "kleine",
         "name": "Salatgurke",
+        "group": "",
         "original": "1 kleine Salatgurke"
       },
       {
         "amount": 1.0,
         "unit": "gelbe",
         "name": "Paprika",
+        "group": "",
         "original": "1 gelbe Paprika"
       },
       {
         "amount": 1.0,
         "unit": "Bund",
         "name": "Frühlingszwiebeln",
+        "group": "",
         "original": "1 Bund Frühlingszwiebeln"
       }
     ],
@@ -4296,42 +4837,49 @@
         "amount": 2.0,
         "unit": "Zehen",
         "name": "Knoblauch",
+        "group": "",
         "original": "2 Zehen Knoblauch"
       },
       {
         "amount": 1.0,
         "unit": "Esslöffel",
         "name": "Austern Soße",
+        "group": "",
         "original": "1 Esslöffel Austern Soße"
       },
       {
         "amount": 2.0,
         "unit": "Teelöffel",
         "name": "Helle Soja Soße",
+        "group": "",
         "original": "2 Teelöffel Helle Soja Soße"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Dunkle Soja Soße",
+        "group": "",
         "original": "1 Teelöffel Dunkle Soja Soße"
       },
       {
         "amount": 1.0,
         "unit": "Teelöffel",
         "name": "Zucker",
+        "group": "",
         "original": "1 Teelöffel Zucker"
       },
       {
         "amount": 1.0,
         "unit": "Esslöffel",
         "name": "Öl",
+        "group": "",
         "original": "1 Esslöffel Öl"
       },
       {
         "amount": 50.0,
         "unit": "ml",
         "name": "Wasser hinzufügen und den gesamten Wok Pfanne durchmischen um den Klebrigen Zucker zu lösen.",
+        "group": "",
         "original": "50 ml Wasser hinzufügen und den gesamten Wok Pfanne durchmischen um den Klebrigen Zucker zu lösen."
       }
     ],
@@ -4362,48 +4910,56 @@
         "amount": 250.0,
         "unit": "g",
         "name": "Spaghetti",
+        "group": "",
         "original": "250 g Spaghetti"
       },
       {
         "amount": 500.0,
         "unit": "g",
         "name": "Garnelen, geschält und entdarmt",
+        "group": "",
         "original": "500 g Garnelen, geschält und entdarmt"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "Speck, gewürfelt",
+        "group": "",
         "original": "150 g Speck, gewürfelt"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Zwiebel, fein gehackt",
+        "group": "",
         "original": "1 Zwiebel, fein gehackt"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Knoblauchzehen, fein gehackt",
+        "group": "",
         "original": "2 Knoblauchzehen, fein gehackt"
       },
       {
         "amount": 300.0,
         "unit": "ml",
         "name": "Kochsahne",
+        "group": "",
         "original": "300 ml Kochsahne"
       },
       {
         "amount": 250.0,
         "unit": "g",
         "name": "Spaghetti nach Packungsanleitung al dente kochen.",
+        "group": "",
         "original": "250 g Spaghetti nach Packungsanleitung al dente kochen."
       },
       {
         "amount": 300.0,
         "unit": "ml",
         "name": "Kochsahne in die Pfanne gießen und gut verrühren.",
+        "group": "",
         "original": "300 ml Kochsahne in die Pfanne gießen und gut verrühren."
       }
     ],
@@ -4449,84 +5005,98 @@
         "amount": 300.0,
         "unit": "g",
         "name": "Nudeln (Hütchennudeln)",
+        "group": "",
         "original": "300 g Nudeln (Hütchennudeln)"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "Maiskörner (TK)",
+        "group": "",
         "original": "150 g Maiskörner (TK)"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "Erbsen (TK)",
+        "group": "",
         "original": "150 g Erbsen (TK)"
       },
       {
         "amount": 1.0,
         "unit": "Peperoni",
         "name": "(rot)",
+        "group": "",
         "original": "1 Peperoni (rot)"
       },
       {
         "amount": 80.0,
         "unit": "g",
         "name": "Kochschinken (in Scheiben)",
+        "group": "",
         "original": "80 g Kochschinken (in Scheiben)"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Cornichons",
+        "group": "",
         "original": "100 g Cornichons"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Perlzwiebeln (im Glas)",
+        "group": "",
         "original": "100 g Perlzwiebeln (im Glas)"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Mayonnaise",
+        "group": "",
         "original": "4 EL Mayonnaise"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Saure Sahne",
+        "group": "",
         "original": "4 EL Saure Sahne"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Ketchup",
+        "group": "",
         "original": "2 EL Ketchup"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sherryessig",
+        "group": "",
         "original": "2 EL Sherryessig"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Essiggurkenwasser",
+        "group": "",
         "original": "2 EL Essiggurkenwasser"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Paprikapulver",
+        "group": "",
         "original": "1/2 TL Paprikapulver"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "vom Gurkenwasser aufbewahren.",
+        "group": "",
         "original": "2 EL vom Gurkenwasser aufbewahren."
       }
     ],
@@ -4556,60 +5126,70 @@
         "amount": null,
         "unit": "",
         "name": "16-20 Reispapierblätter",
+        "group": "",
         "original": "16-20 Reispapierblätter"
       },
       {
         "amount": 300.0,
         "unit": "g",
         "name": "Hähnchenbrust",
+        "group": "",
         "original": "300 g Hähnchenbrust"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Karotten",
+        "group": "",
         "original": "2 Karotten"
       },
       {
         "amount": 0.5,
         "unit": "",
         "name": "Kohlkopf",
+        "group": "",
         "original": "1/2 Kohlkopf"
       },
       {
         "amount": 1.0,
         "unit": "Bund",
         "name": "Frühlingszwiebeln",
+        "group": "",
         "original": "1 Bund Frühlingszwiebeln"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Knoblauchzehen",
+        "group": "",
         "original": "2 Knoblauchzehen"
       },
       {
         "amount": 1.0,
         "unit": "Stück",
         "name": "Ingwer (ca. 7 g)",
+        "group": "",
         "original": "1 Stück Ingwer (ca. 7 g)"
       },
       {
         "amount": 5.0,
         "unit": "EL",
         "name": "Sojasauce",
+        "group": "",
         "original": "5 EL Sojasauce"
       },
       {
         "amount": 5.0,
         "unit": "EL",
         "name": "Sesamöl",
+        "group": "",
         "original": "5 EL Sesamöl"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "süße Sojasauce",
+        "group": "",
         "original": "3 EL süße Sojasauce"
       }
     ],
@@ -4644,42 +5224,49 @@
         "amount": null,
         "unit": "",
         "name": "230g Sour Cream",
+        "group": "",
         "original": "230g Sour Cream"
       },
       {
         "amount": null,
         "unit": "",
         "name": "110g Sriracha",
+        "group": "",
         "original": "110g Sriracha"
       },
       {
         "amount": null,
         "unit": "",
         "name": "110g Honig",
+        "group": "",
         "original": "110g Honig"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Knoblauch-Chili-Öl",
+        "group": "",
         "original": "2 EL Knoblauch-Chili-Öl"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Ranch-Gewürzmischung",
+        "group": "",
         "original": "4 EL Ranch-Gewürzmischung"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Frischer gehackter Dill",
+        "group": "",
         "original": "4 EL Frischer gehackter Dill"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Rote Pfefferflocken",
+        "group": "",
         "original": "2 TL Rote Pfefferflocken"
       }
     ],
@@ -4710,30 +5297,35 @@
         "amount": 150.0,
         "unit": "g",
         "name": "gewürfelter Schinken",
+        "group": "",
         "original": "150 g gewürfelter Schinken"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "gewürfelter Mozzarella",
+        "group": "",
         "original": "150 g gewürfelter Mozzarella"
       },
       {
         "amount": 2.0,
         "unit": "Tomaten",
         "name": "(entkernt und gewürfelt)",
+        "group": "",
         "original": "2 Tomaten (entkernt und gewürfelt)"
       },
       {
         "amount": 200.0,
         "unit": "g",
         "name": "cremiger Frischkäse",
+        "group": "",
         "original": "200 g cremiger Frischkäse"
       },
       {
         "amount": 1.0,
         "unit": "Baguette",
         "name": "oder französisches Brot",
+        "group": "",
         "original": "1 Baguette oder französisches Brot"
       }
     ],
@@ -4759,30 +5351,35 @@
         "amount": 2.0,
         "unit": "Große",
         "name": "Eier",
+        "group": "",
         "original": "2 Große Eier"
       },
       {
         "amount": 40.0,
         "unit": "g",
         "name": "Zucker",
+        "group": "",
         "original": "40 g Zucker"
       },
       {
         "amount": 8.0,
         "unit": "g",
         "name": "Vanillezucker oder Frische Vanille",
+        "group": "",
         "original": "8 g Vanillezucker oder Frische Vanille"
       },
       {
         "amount": 125.0,
         "unit": "g",
         "name": "Grieß",
+        "group": "",
         "original": "125 g Grieß"
       },
       {
         "amount": null,
         "unit": "",
         "name": "450-500 ml heiße Milch",
+        "group": "",
         "original": "450-500 ml heiße Milch"
       }
     ],
@@ -4809,30 +5406,35 @@
         "amount": null,
         "unit": "",
         "name": "6-8 Pollo Fino - Hähnchen Oberkeulen ohne Knochen",
+        "group": "",
         "original": "6-8 Pollo Fino - Hähnchen Oberkeulen ohne Knochen"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 Esslöffel Öl",
+        "group": "",
         "original": "1-2 Esslöffel Öl"
       },
       {
         "amount": 30.0,
         "unit": "ml",
         "name": "Bullseye Classic BBQ Soße",
+        "group": "",
         "original": "30 ml Bullseye Classic BBQ Soße"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 Esslöffel Ahornsirup",
+        "group": "",
         "original": "1-2 Esslöffel Ahornsirup"
       },
       {
         "amount": 1.0,
         "unit": "oder",
         "name": "2 Esslöffel Öl dazu geben und gut durchmischen.",
+        "group": "",
         "original": "1 oder 2 Esslöffel Öl dazu geben und gut durchmischen."
       }
     ],
@@ -4862,18 +5464,21 @@
         "amount": 4.0,
         "unit": "Scheiben",
         "name": "Brot",
+        "group": "",
         "original": "4 Scheiben Brot"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Knoblauchbutter",
+        "group": "",
         "original": "2 EL Knoblauchbutter"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "geriebener Käse (Mozzarella, Cheddar oder eine Mischung)",
+        "group": "",
         "original": "100 g geriebener Käse (Mozzarella, Cheddar oder eine Mischung)"
       }
     ],
@@ -4900,18 +5505,21 @@
         "amount": 1.0,
         "unit": "Apfel",
         "name": "(geschält und in kleine Würfel geschnitten)",
+        "group": "",
         "original": "1 Apfel (geschält und in kleine Würfel geschnitten)"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Ei",
+        "group": "",
         "original": "1 Ei"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Zucker",
+        "group": "",
         "original": "1 EL Zucker"
       }
     ],
@@ -4936,102 +5544,119 @@
         "amount": 680.0,
         "unit": "g",
         "name": "Schweinebauch",
+        "group": "",
         "original": "680 g Schweinebauch"
       },
       {
         "amount": 3.0,
         "unit": "Frühlingszwiebeln",
         "name": "(weißer Teil)",
+        "group": "",
         "original": "3 Frühlingszwiebeln (weißer Teil)"
       },
       {
         "amount": 3.0,
         "unit": "Scheiben",
         "name": "Ingwer",
+        "group": "",
         "original": "3 Scheiben Ingwer"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Shaoxing-Wein",
+        "group": "",
         "original": "1/4 Tasse Shaoxing-Wein"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "neutrales Öl",
+        "group": "",
         "original": "2 EL neutrales Öl"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Kandiszucker (oder Rock Sugar)",
+        "group": "",
         "original": "2 EL Kandiszucker (oder Rock Sugar)"
       },
       {
         "amount": 3.0,
         "unit": "Frühlingszwiebeln",
         "name": "(weißer Teil)",
+        "group": "",
         "original": "3 Frühlingszwiebeln (weißer Teil)"
       },
       {
         "amount": 3.0,
         "unit": "Scheiben",
         "name": "Ingwer",
+        "group": "",
         "original": "3 Scheiben Ingwer"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Sternanis",
+        "group": "",
         "original": "2 Sternanis"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Zimtstange",
+        "group": "",
         "original": "1 Zimtstange"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Lorbeerblätter",
+        "group": "",
         "original": "2 Lorbeerblätter"
       },
       {
         "amount": 3.0,
         "unit": "getrocknete",
         "name": "Chilis",
+        "group": "",
         "original": "3 getrocknete Chilis"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Shaoxing-Wein",
+        "group": "",
         "original": "1/4 Tasse Shaoxing-Wein"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "helle Sojasauce",
+        "group": "",
         "original": "3 EL helle Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "dunkle Sojasauce",
+        "group": "",
         "original": "1 EL dunkle Sojasauce"
       },
       {
         "amount": 2.5,
         "unit": "Tassen",
         "name": "Wasser",
+        "group": "",
         "original": "2,5 Tassen Wasser"
       },
       {
         "amount": null,
         "unit": "",
         "name": "5-7 Minuten kochen lassen.",
+        "group": "",
         "original": "5-7 Minuten kochen lassen."
       }
     ],
@@ -5065,48 +5690,56 @@
         "amount": 1.0,
         "unit": "Mozzarella",
         "name": "(reicht für mindestens 3 Nudeln)",
+        "group": "",
         "original": "1 Mozzarella (reicht für mindestens 3 Nudeln)"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Frühlingszwiebeln",
+        "group": "",
         "original": "2 Frühlingszwiebeln"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Knoblauchzehen",
+        "group": "",
         "original": "2 Knoblauchzehen"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Gochujang (alternativ 1 EL Tomatenmark)",
+        "group": "",
         "original": "1 TL Gochujang (alternativ 1 EL Tomatenmark)"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "brauner Zucker",
+        "group": "",
         "original": "1 EL brauner Zucker"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Sojasauce",
+        "group": "",
         "original": "4 EL Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Gochugaru (koreanische Chiliflocken)",
+        "group": "",
         "original": "1 EL Gochugaru (koreanische Chiliflocken)"
       },
       {
         "amount": 500.0,
         "unit": "ml",
         "name": "Wasser",
+        "group": "",
         "original": "500 ml Wasser"
       }
     ],
@@ -5137,78 +5770,91 @@
         "amount": 750.0,
         "unit": "g",
         "name": "dünn geschnittene Rindfleischstreifen",
+        "group": "",
         "original": "750 g dünn geschnittene Rindfleischstreifen"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1 TL Salz"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Sojasauce",
+        "group": "",
         "original": "1/4 Tasse Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Austernsauce",
+        "group": "",
         "original": "1 EL Austernsauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Chilipulver",
+        "group": "",
         "original": "1 EL Chilipulver"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Öl",
+        "group": "",
         "original": "3 EL Öl"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Öl",
+        "group": "",
         "original": "2 EL Öl"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "Tasse",
         "name": "Chiliflocken",
+        "group": "",
         "original": "1/3 Tasse Chiliflocken"
       },
       {
         "amount": 0.5,
         "unit": "Tasse",
         "name": "zerstoßene frittierte Zwiebeln",
+        "group": "",
         "original": "1/2 Tasse zerstoßene frittierte Zwiebeln"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "Tasse",
         "name": "gehackter Knoblauch",
+        "group": "",
         "original": "1/3 Tasse gehackter Knoblauch"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Sojasauce",
+        "group": "",
         "original": "1/4 Tasse Sojasauce"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Austernsauce",
+        "group": "",
         "original": "2 EL Austernsauce"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "süße Chilisauce",
+        "group": "",
         "original": "1/4 Tasse süße Chilisauce"
       }
     ],
@@ -5237,84 +5883,98 @@
         "amount": 1.0,
         "unit": "EL",
         "name": "Erdnussöl",
+        "group": "",
         "original": "1 EL Erdnussöl"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "rote Currypaste",
+        "group": "",
         "original": "2 EL rote Currypaste"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Brauner Zucker",
+        "group": "",
         "original": "2 TL Brauner Zucker"
       },
       {
         "amount": 200.0,
         "unit": "ml",
         "name": "Kokosmilch",
+        "group": "",
         "original": "200 ml Kokosmilch"
       },
       {
         "amount": 0.25,
         "unit": "TL",
         "name": "Koriander",
+        "group": "",
         "original": "0.25 TL Koriander"
       },
       {
         "amount": 0.25,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "0.25 TL Salz"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Langkorn Reis",
+        "group": "",
         "original": "1 Tasse Langkorn Reis"
       },
       {
         "amount": 200.0,
         "unit": "ml",
         "name": "Rote Curry Soße",
+        "group": "",
         "original": "200 ml Rote Curry Soße"
       },
       {
         "amount": 200.0,
         "unit": "gr",
         "name": "Schwein, Rind oder Hähnchen",
+        "group": "",
         "original": "200 gr Schwein, Rind oder Hähnchen"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Spitzpaprika",
+        "group": "",
         "original": "1 Spitzpaprika"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Zwiebel",
+        "group": "",
         "original": "1 Zwiebel"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Karotte",
+        "group": "",
         "original": "1 Karotte"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Knoblauchzehe",
+        "group": "",
         "original": "1 Knoblauchzehe"
       },
       {
         "amount": 2.0,
         "unit": "Esslöffel",
         "name": "Sojasoße",
+        "group": "",
         "original": "2 Esslöffel Sojasoße"
       }
     ],
@@ -5344,84 +6004,98 @@
         "amount": 0.5,
         "unit": "Tasse",
         "name": "Mayonnaise",
+        "group": "",
         "original": "1/2 Tasse Mayonnaise"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Chili Crunch",
+        "group": "",
         "original": "2 EL Chili Crunch"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Zitronensaft",
+        "group": "",
         "original": "1 EL Zitronensaft"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 Knoblauchzehen (fein gehackt)",
+        "group": "",
         "original": "1-2 Knoblauchzehen (fein gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "1/2 TL Honig",
+        "group": "",
         "original": "1 1/2 TL Honig"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "Salz",
+        "group": "",
         "original": "1 Prise Salz"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "schwarzer Pfeffer",
+        "group": "",
         "original": "1 Prise schwarzer Pfeffer"
       },
       {
         "amount": 4.0,
         "unit": "Scheiben",
         "name": "Brot (z. B. Sauerteig- oder Weißbrot)",
+        "group": "",
         "original": "4 Scheiben Brot (z. B. Sauerteig- oder Weißbrot)"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Butter",
+        "group": "",
         "original": "2 EL Butter"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Chili Crunch Aioli",
+        "group": "",
         "original": "4 EL Chili Crunch Aioli"
       },
       {
         "amount": 4.0,
         "unit": "Scheiben",
         "name": "Wurst nach Wahl (z. B. Pastrami, Salami oder Kochschinken)",
+        "group": "",
         "original": "4 Scheiben Wurst nach Wahl (z. B. Pastrami, Salami oder Kochschinken)"
       },
       {
         "amount": 4.0,
         "unit": "Scheiben",
         "name": "Bacon",
+        "group": "",
         "original": "4 Scheiben Bacon"
       },
       {
         "amount": 4.0,
         "unit": "Scheiben",
         "name": "Käse (Cheddar, Gouda oder eine andere Sorte)",
+        "group": "",
         "original": "4 Scheiben Käse (Cheddar, Gouda oder eine andere Sorte)"
       },
       {
         "amount": 1.0,
         "unit": "große",
         "name": "Tomate (in Scheiben geschnitten)",
+        "group": "",
         "original": "1 große Tomate (in Scheiben geschnitten)"
       }
     ],
@@ -5457,72 +6131,84 @@
         "amount": 500.0,
         "unit": "g",
         "name": "Rinderhackfleisch (5 % Fett)",
+        "group": "",
         "original": "500 g Rinderhackfleisch (5 % Fett)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 EL mexikanische Gewürzmischung",
+        "group": "",
         "original": "1-2 EL mexikanische Gewürzmischung"
       },
       {
         "amount": 1.0,
         "unit": "Zwiebel",
         "name": "(gewürfelt)",
+        "group": "",
         "original": "1 Zwiebel (gewürfelt)"
       },
       {
         "amount": 3.0,
         "unit": "Paprika",
         "name": "(gewürfelt)",
+        "group": "",
         "original": "3 Paprika (gewürfelt)"
       },
       {
         "amount": 4.0,
         "unit": "TL",
         "name": "Knoblauchpüree oder 4 Knoblauchzehen",
+        "group": "",
         "original": "4 TL Knoblauchpüree oder 4 Knoblauchzehen"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Tomatenmark",
+        "group": "",
         "original": "1 EL Tomatenmark"
       },
       {
         "amount": 500.0,
         "unit": "ml",
         "name": "Passata",
+        "group": "",
         "original": "500 ml Passata"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Rinderbrühwürfel",
+        "group": "",
         "original": "1 Rinderbrühwürfel"
       },
       {
         "amount": 500.0,
         "unit": "g",
         "name": "gekochter Reis (z. B. Mikrowellenreis)",
+        "group": "",
         "original": "500 g gekochter Reis (z. B. Mikrowellenreis)"
       },
       {
         "amount": 200.0,
         "unit": "ml",
         "name": "Milch",
+        "group": "",
         "original": "200 ml Milch"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Käse (z. B. mexikanischer Käse oder 8 Käsescheiben mit 75 ml Milch)",
+        "group": "",
         "original": "100 g Käse (z. B. mexikanischer Käse oder 8 Käsescheiben mit 75 ml Milch)"
       },
       {
         "amount": 20.0,
         "unit": "g",
         "name": "Mozzarella (optional)",
+        "group": "",
         "original": "20 g Mozzarella (optional)"
       }
     ],
@@ -5549,30 +6235,35 @@
         "amount": 200.0,
         "unit": "g",
         "name": "geräucherter Lachs",
+        "group": "",
         "original": "200 g geräucherter Lachs"
       },
       {
         "amount": 1.0,
         "unit": "Rolle",
         "name": "Blätterteig",
+        "group": "",
         "original": "1 Rolle Blätterteig"
       },
       {
         "amount": 150.0,
         "unit": "g",
         "name": "Kräuterfrischkäse",
+        "group": "",
         "original": "150 g Kräuterfrischkäse"
       },
       {
         "amount": 2.0,
         "unit": "Frühlingszwiebeln",
         "name": "(fein gehackt)",
+        "group": "",
         "original": "2 Frühlingszwiebeln (fein gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Eigelb",
+        "group": "",
         "original": "1 Eigelb"
       }
     ],
@@ -5599,12 +6290,14 @@
         "amount": 1.0,
         "unit": "kg",
         "name": "Rinderhackfleisch",
+        "group": "",
         "original": "1 kg Rinderhackfleisch"
       },
       {
         "amount": 1.0,
         "unit": "kg",
         "name": "rohes Leberkäsbrät",
+        "group": "",
         "original": "1 kg rohes Leberkäsbrät"
       }
     ],
@@ -5634,18 +6327,21 @@
         "amount": 1.0,
         "unit": "Becher",
         "name": "Schmand",
+        "group": "",
         "original": "1 Becher Schmand"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 EL BBQ Rub nach Wahl",
+        "group": "",
         "original": "1-2 EL BBQ Rub nach Wahl"
       },
       {
         "amount": 10.0,
         "unit": "Minuten",
         "name": "bevor sie fertig sind etwas BBQ Soße oben drauf tropfen.",
+        "group": "",
         "original": "10 Minuten bevor sie fertig sind etwas BBQ Soße oben drauf tropfen."
       }
     ],
@@ -5675,60 +6371,70 @@
         "amount": 200.0,
         "unit": "g",
         "name": "Nudeln",
+        "group": "",
         "original": "200 g Nudeln"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "neutrales Öl",
+        "group": "",
         "original": "60 ml neutrales Öl"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Chiliflocken",
+        "group": "",
         "original": "3 EL Chiliflocken"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Sojasauce",
+        "group": "",
         "original": "2 EL Sojasauce"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "schwarzer Essig",
+        "group": "",
         "original": "1 EL schwarzer Essig"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Zucker",
+        "group": "",
         "original": "1 EL Zucker"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Knoblauchzehen, fein gehackt",
+        "group": "",
         "original": "4 Knoblauchzehen, fein gehackt"
       },
       {
         "amount": 0.5,
         "unit": "Stück",
         "name": "Ingwer (ca. 1,5 cm), fein gehackt",
+        "group": "",
         "original": "1/2 Stück Ingwer (ca. 1,5 cm), fein gehackt"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Frühlingszwiebeln, in Ringe geschnitten (weiß und grün getrennt)",
+        "group": "",
         "original": "4 Frühlingszwiebeln, in Ringe geschnitten (weiß und grün getrennt)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Hackfleisch",
+        "group": "",
         "original": "250g Hackfleisch"
       }
     ],
@@ -5758,48 +6464,56 @@
         "amount": 1.0,
         "unit": "EL",
         "name": "Sojasoße",
+        "group": "",
         "original": "1 EL Sojasoße"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Fischsoße",
+        "group": "",
         "original": "1 TL Fischsoße"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Austernsoße",
+        "group": "",
         "original": "1 TL Austernsoße"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "brauner Zucker",
+        "group": "",
         "original": "1 TL brauner Zucker"
       },
       {
         "amount": 1.0,
         "unit": "kleine",
         "name": "Knoblauchzehe (sehr fein gehackt)",
+        "group": "",
         "original": "1 kleine Knoblauchzehe (sehr fein gehackt)"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "frisch geriebener Ingwer",
+        "group": "",
         "original": "1 TL frisch geriebener Ingwer"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Erdnussöl (oder neutrales Öl)",
+        "group": "",
         "original": "1 TL Erdnussöl (oder neutrales Öl)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "Prise Chiliflocken (nach Geschmack)",
+        "group": "",
         "original": "Prise Chiliflocken (nach Geschmack)"
       }
     ],
@@ -5825,60 +6539,70 @@
         "amount": 2.0,
         "unit": "Tomaten",
         "name": "(150g)",
+        "group": "",
         "original": "2 Tomaten (150g)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "100g Lauch (Porree)",
+        "group": "",
         "original": "100g Lauch (Porree)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "240g Zucchini",
+        "group": "",
         "original": "240g Zucchini"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Parikapulver",
+        "group": "",
         "original": "1 TL Parikapulver"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Paprika Rosenscharf",
+        "group": "",
         "original": "0,5 TL Paprika Rosenscharf"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Oregano",
+        "group": "",
         "original": "1 TL Oregano"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Geriebene Zitronenschalen",
+        "group": "",
         "original": "1 TL Geriebene Zitronenschalen"
       },
       {
         "amount": null,
         "unit": "",
         "name": "200g Nudeln (z.B. Farfalle)",
+        "group": "",
         "original": "200g Nudeln (z.B. Farfalle)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "240ml Gemüsebrühe",
+        "group": "",
         "original": "240ml Gemüsebrühe"
       },
       {
         "amount": null,
         "unit": "",
         "name": "500g Garnelen",
+        "group": "",
         "original": "500g Garnelen"
       }
     ],
@@ -5908,72 +6632,84 @@
         "amount": 200.0,
         "unit": "g",
         "name": "Ketchup",
+        "group": "",
         "original": "200 g Ketchup"
       },
       {
         "amount": 30.0,
         "unit": "ml",
         "name": "Wasser",
+        "group": "",
         "original": "30 ml Wasser"
       },
       {
         "amount": 5.0,
         "unit": "g",
         "name": "Zwiebelpulver",
+        "group": "",
         "original": "5 g Zwiebelpulver"
       },
       {
         "amount": 5.0,
         "unit": "g",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "5 g Knoblauchpulver"
       },
       {
         "amount": 5.0,
         "unit": "g",
         "name": "Zucker",
+        "group": "",
         "original": "5 g Zucker"
       },
       {
         "amount": 5.0,
         "unit": "g",
         "name": "Paprikapulver süß",
+        "group": "",
         "original": "5 g Paprikapulver süß"
       },
       {
         "amount": 20.0,
         "unit": "ml",
         "name": "Ananas Saft",
+        "group": "",
         "original": "20 ml Ananas Saft"
       },
       {
         "amount": 30.0,
         "unit": "ml",
         "name": "Apfelessig",
+        "group": "",
         "original": "30 ml Apfelessig"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Worcestersauce",
+        "group": "",
         "original": "1 EL Worcestersauce"
       },
       {
         "amount": 3.0,
         "unit": "EL",
         "name": "Liquid Smoke",
+        "group": "",
         "original": "3 EL Liquid Smoke"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Mononatriumglutamat",
+        "group": "",
         "original": "1 EL Mononatriumglutamat"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zuckercouleur",
+        "group": "",
         "original": "1 TL Zuckercouleur"
       }
     ],
@@ -5993,30 +6729,35 @@
         "amount": null,
         "unit": "",
         "name": "4-6 Kleine Tortilla Fladen (10-12 cm)",
+        "group": "",
         "original": "4-6 Kleine Tortilla Fladen (10-12 cm)"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "Cheddar Käse",
+        "group": "",
         "original": "100 g Cheddar Käse"
       },
       {
         "amount": 60.0,
         "unit": "g",
         "name": "Alabama White BBQ Soße",
+        "group": "",
         "original": "60 g Alabama White BBQ Soße"
       },
       {
         "amount": 100.0,
         "unit": "g",
         "name": "[Cole Slaw](https://radiatortwo.github.io/rezepte/ColeSlaw)",
+        "group": "",
         "original": "100 g [Cole Slaw](https://radiatortwo.github.io/rezepte/ColeSlaw)"
       },
       {
         "amount": 120.0,
         "unit": "g",
         "name": "[Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)",
+        "group": "",
         "original": "120 g [Pulled Beef](https://radiatortwo.github.io/rezepte/PulledBeef)"
       }
     ],
@@ -6040,60 +6781,70 @@
         "amount": 1.0,
         "unit": "Gewürfelte",
         "name": "Zucchini",
+        "group": "",
         "original": "1 Gewürfelte Zucchini"
       },
       {
         "amount": 1.0,
         "unit": "Spitzpaprika",
         "name": "Streifen",
+        "group": "",
         "original": "1 Spitzpaprika Streifen"
       },
       {
         "amount": null,
         "unit": "",
         "name": "200g Hackfleisch",
+        "group": "",
         "original": "200g Hackfleisch"
       },
       {
         "amount": 1.0,
         "unit": "gehackte",
         "name": "Zwiebel oder klein geschnittener Lauch",
+        "group": "",
         "original": "1 gehackte Zwiebel oder klein geschnittener Lauch"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Rapsöl",
+        "group": "",
         "original": "1 EL Rapsöl"
       },
       {
         "amount": 0.5,
         "unit": "Packung",
         "name": "Schupfnudeln",
+        "group": "",
         "original": "1/2 Packung Schupfnudeln"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 EL Schmand",
+        "group": "",
         "original": "1-2 EL Schmand"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Tomatenmark",
+        "group": "",
         "original": "1 EL Tomatenmark"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250ml Rinder oder Gemüsebrühe",
+        "group": "",
         "original": "250ml Rinder oder Gemüsebrühe"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250ml Rinder/Gemüsebrühe mit Schmand und Paprikapulver mischen und aufkochen.",
+        "group": "",
         "original": "250ml Rinder/Gemüsebrühe mit Schmand und Paprikapulver mischen und aufkochen."
       }
     ],
@@ -6120,54 +6871,63 @@
         "amount": 2.0,
         "unit": "EL",
         "name": "Olivenöl",
+        "group": "",
         "original": "2 EL Olivenöl"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Zwiebel",
+        "group": "",
         "original": "1 Zwiebel"
       },
       {
         "amount": 2.0,
         "unit": "Zehen",
         "name": "Knoblauch",
+        "group": "",
         "original": "2 Zehen Knoblauch"
       },
       {
         "amount": 450.0,
         "unit": "g",
         "name": "Rinderhackfleisch",
+        "group": "",
         "original": "450 g Rinderhackfleisch"
       },
       {
         "amount": 3.0,
         "unit": "Reife",
         "name": "Tomaten oder 1 Dose passierte Tomaten",
+        "group": "",
         "original": "3 Reife Tomaten oder 1 Dose passierte Tomaten"
       },
       {
         "amount": 4.0,
         "unit": "",
         "name": "Eier",
+        "group": "",
         "original": "4 Eier"
       },
       {
         "amount": null,
         "unit": "",
         "name": "2-3 EL frischer Koriander",
+        "group": "",
         "original": "2-3 EL frischer Koriander"
       },
       {
         "amount": 0.25,
         "unit": "TL",
         "name": "Cayennepfeffer oder Chilipulver",
+        "group": "",
         "original": "1/4 TL Cayennepfeffer oder Chilipulver"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Paprika Edelsüß",
+        "group": "",
         "original": "1 TL Paprika Edelsüß"
       }
     ],
@@ -6200,30 +6960,35 @@
         "amount": 1.0,
         "unit": "Rack",
         "name": "Baby Back Ribs (in einzelne Rippchen geschnitten)",
+        "group": "",
         "original": "1 Rack Baby Back Ribs (in einzelne Rippchen geschnitten)"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Butter",
+        "group": "",
         "original": "4 EL Butter"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "Ahornsirup",
+        "group": "",
         "original": "60 ml Ahornsirup"
       },
       {
         "amount": 60.0,
         "unit": "ml",
         "name": "BBQ-Sauce",
+        "group": "",
         "original": "60 ml BBQ-Sauce"
       },
       {
         "amount": 60.0,
         "unit": "g",
         "name": "brauner Zucker",
+        "group": "",
         "original": "60 g brauner Zucker"
       }
     ],
@@ -6261,84 +7026,98 @@
         "amount": 80.0,
         "unit": "g",
         "name": "Mayonnaise",
+        "group": "",
         "original": "80 g Mayonnaise"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Senf",
+        "group": "",
         "original": "1 TL Senf"
       },
       {
         "amount": 0.5,
         "unit": "EL",
         "name": "Gurkenwasser",
+        "group": "",
         "original": "1/2 EL Gurkenwasser"
       },
       {
         "amount": 1.0,
         "unit": "Eingelegte",
         "name": "Gurke",
+        "group": "",
         "original": "1 Eingelegte Gurke"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Zitronensaft",
+        "group": "",
         "original": "1 TL Zitronensaft"
       },
       {
         "amount": 0.5,
         "unit": "EL",
         "name": "fein geriebene Röstzwiebeln",
+        "group": "",
         "original": "1/2 EL fein geriebene Röstzwiebeln"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "1/2 TL Knoblauchpulver"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "EL",
         "name": "Thymian",
+        "group": "",
         "original": "1/3 EL Thymian"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "EL",
         "name": "getrocknete Petersilie",
+        "group": "",
         "original": "1/3 EL getrocknete Petersilie"
       },
       {
         "amount": 0.5,
         "unit": "EL",
         "name": "Oregano",
+        "group": "",
         "original": "1/2 EL Oregano"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "EL",
         "name": "Parika rosenscharf",
+        "group": "",
         "original": "1/3 EL Parika rosenscharf"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "EL",
         "name": "Parika Edelsüß",
+        "group": "",
         "original": "1/3 EL Parika Edelsüß"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "EL",
         "name": "geschroteter Schwarzer Pfeffer",
+        "group": "",
         "original": "1/3 EL geschroteter Schwarzer Pfeffer"
       },
       {
         "amount": 0.3333333333333333,
         "unit": "EL",
         "name": "Maisstärke",
+        "group": "",
         "original": "1/3 EL Maisstärke"
       }
     ],
@@ -6362,30 +7141,35 @@
         "amount": 4.0,
         "unit": "",
         "name": "Sandwich-Baguettes",
+        "group": "",
         "original": "4 Sandwich-Baguettes"
       },
       {
         "amount": 400.0,
         "unit": "g",
         "name": "Hähnchengeschnetzeltes",
+        "group": "",
         "original": "400 g Hähnchengeschnetzeltes"
       },
       {
         "amount": 5.0,
         "unit": "EL",
         "name": "Teriyaki-Sauce",
+        "group": "",
         "original": "5 EL Teriyaki-Sauce"
       },
       {
         "amount": 8.0,
         "unit": "Scheiben",
         "name": "Cheddar-Sandwich-Käse",
+        "group": "",
         "original": "8 Scheiben Cheddar-Sandwich-Käse"
       },
       {
         "amount": 4.0,
         "unit": "EL",
         "name": "Frischkäse",
+        "group": "",
         "original": "4 EL Frischkäse"
       }
     ],
@@ -6419,48 +7203,56 @@
         "amount": null,
         "unit": "",
         "name": "400g Udon Nudeln",
+        "group": "",
         "original": "400g Udon Nudeln"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Rindfleisch",
+        "group": "",
         "original": "250g Rindfleisch"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Eier",
+        "group": "",
         "original": "2 Eier"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Paprika",
+        "group": "",
         "original": "1 Paprika"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Karotte",
+        "group": "",
         "original": "1 Karotte"
       },
       {
         "amount": 1.0,
         "unit": "",
         "name": "Lauch",
+        "group": "",
         "original": "1 Lauch"
       },
       {
         "amount": 2.0,
         "unit": "Zehen",
         "name": "Knoblauch",
+        "group": "",
         "original": "2 Zehen Knoblauch"
       },
       {
         "amount": null,
         "unit": "",
         "name": "250g Prinzess oder Brechbohnen",
+        "group": "",
         "original": "250g Prinzess oder Brechbohnen"
       }
     ],
@@ -6497,60 +7289,70 @@
         "amount": 400.0,
         "unit": "g",
         "name": "Hähnchenbrustfilets",
+        "group": "",
         "original": "400 g Hähnchenbrustfilets"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Paprikapulver",
+        "group": "",
         "original": "1 EL Paprikapulver"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Kreuzkümmel",
+        "group": "",
         "original": "1 EL Kreuzkümmel"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "schwarzer Pfeffer",
+        "group": "",
         "original": "2 TL schwarzer Pfeffer"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Muskatnuss",
+        "group": "",
         "original": "2 TL Muskatnuss"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "1 EL Knoblauchpulver"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Öl",
+        "group": "",
         "original": "1 EL Öl"
       },
       {
         "amount": null,
         "unit": "",
         "name": "4-5 EL Mayonnaise",
+        "group": "",
         "original": "4-5 EL Mayonnaise"
       },
       {
         "amount": null,
         "unit": "",
         "name": "4-5 EL süß-scharfe Chilisauce",
+        "group": "",
         "original": "4-5 EL süß-scharfe Chilisauce"
       },
       {
         "amount": null,
         "unit": "",
         "name": "Das Hähnchen mit der Gewürzmischung und 1 EL Öl vermengen.",
+        "group": "",
         "original": "Das Hähnchen mit der Gewürzmischung und 1 EL Öl vermengen."
       }
     ],
@@ -6578,66 +7380,77 @@
         "amount": 3.0,
         "unit": "EL",
         "name": "Mayonnaise",
+        "group": "",
         "original": "3 EL Mayonnaise"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Chilisoße",
+        "group": "",
         "original": "1 EL Chilisoße"
       },
       {
         "amount": null,
         "unit": "",
         "name": "4-5 Jalapenos (gehackt)",
+        "group": "",
         "original": "4-5 Jalapenos (gehackt)"
       },
       {
         "amount": null,
         "unit": "",
         "name": "3-4 Cornichons + 1 EL Gurkenwasser",
+        "group": "",
         "original": "3-4 Cornichons + 1 EL Gurkenwasser"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "flüssiger Honig",
+        "group": "",
         "original": "1 TL flüssiger Honig"
       },
       {
         "amount": 250.0,
         "unit": "g",
         "name": "Rinderhack",
+        "group": "",
         "original": "250 g Rinderhack"
       },
       {
         "amount": 3.0,
         "unit": "",
         "name": "Laugenbrioche-Brote",
+        "group": "",
         "original": "3 Laugenbrioche-Brote"
       },
       {
         "amount": 3.0,
         "unit": "Scheiben",
         "name": "Speck",
+        "group": "",
         "original": "3 Scheiben Speck"
       },
       {
         "amount": 1.0,
         "unit": "große",
         "name": "Zwiebel",
+        "group": "",
         "original": "1 große Zwiebel"
       },
       {
         "amount": 3.0,
         "unit": "Scheiben",
         "name": "Cheddar",
+        "group": "",
         "original": "3 Scheiben Cheddar"
       },
       {
         "amount": 1.0,
         "unit": "Tomate",
         "name": "(in Scheiben geschnitten)",
+        "group": "",
         "original": "1 Tomate (in Scheiben geschnitten)"
       }
     ],
@@ -6677,42 +7490,49 @@
         "amount": 225.0,
         "unit": "g",
         "name": "Hähnchenfleisch",
+        "group": "",
         "original": "225 g Hähnchenfleisch"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Maisstärke",
+        "group": "",
         "original": "1/4 Tasse Maisstärke"
       },
       {
         "amount": 0.25,
         "unit": "TL",
         "name": "Knoblauchpulver",
+        "group": "",
         "original": "1/4 TL Knoblauchpulver"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "ungesalzene Butter",
+        "group": "",
         "original": "2 EL ungesalzene Butter"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Honig",
+        "group": "",
         "original": "2 EL Honig"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Sojasauce",
+        "group": "",
         "original": "1 EL Sojasauce"
       },
       {
         "amount": 0.5,
         "unit": "Inch",
         "name": "(ca. 1,3 cm) Ingwer, gerieben",
+        "group": "",
         "original": "1/2 Inch (ca. 1,3 cm) Ingwer, gerieben"
       }
     ],
@@ -6740,78 +7560,91 @@
         "amount": 400.0,
         "unit": "g",
         "name": "rohe Garnelen, geschält und entdarmt",
+        "group": "",
         "original": "400 g rohe Garnelen, geschält und entdarmt"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Knoblauchgranulat",
+        "group": "",
         "original": "1/2 TL Knoblauchgranulat"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "schwarzer Pfeffer",
+        "group": "",
         "original": "1/2 TL schwarzer Pfeffer"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "Zwiebelgranulat",
+        "group": "",
         "original": "1/2 TL Zwiebelgranulat"
       },
       {
         "amount": 0.5,
         "unit": "TL",
         "name": "mittelscharfes Chilipulver",
+        "group": "",
         "original": "1/2 TL mittelscharfes Chilipulver"
       },
       {
         "amount": 0.25,
         "unit": "TL",
         "name": "Salz",
+        "group": "",
         "original": "1/4 TL Salz"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Maisstärke",
+        "group": "",
         "original": "1/4 Tasse Maisstärke"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "Eiweiße",
+        "group": "",
         "original": "2 Eiweiße"
       },
       {
         "amount": 1.0,
         "unit": "Tasse",
         "name": "Panko-Paniermehl",
+        "group": "",
         "original": "1 Tasse Panko-Paniermehl"
       },
       {
         "amount": 0.25,
         "unit": "Tasse",
         "name": "Kewpie-Mayonnaise",
+        "group": "",
         "original": "1/4 Tasse Kewpie-Mayonnaise"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "süße Chilisauce",
+        "group": "",
         "original": "1 EL süße Chilisauce"
       },
       {
         "amount": 2.0,
         "unit": "TL",
         "name": "Sriracha",
+        "group": "",
         "original": "2 TL Sriracha"
       },
       {
         "amount": 1.0,
         "unit": "TL",
         "name": "Sojasauce",
+        "group": "",
         "original": "1 TL Sojasauce"
       }
     ],
@@ -6842,42 +7675,49 @@
         "amount": null,
         "unit": "",
         "name": "500g Gemischtes Hackfleisch mit hohem Fettanteil (20%)",
+        "group": "",
         "original": "500g Gemischtes Hackfleisch mit hohem Fettanteil (20%)"
       },
       {
         "amount": 15.0,
         "unit": "",
         "name": "Cannelloni",
+        "group": "",
         "original": "15 Cannelloni"
       },
       {
         "amount": null,
         "unit": "",
         "name": "100g geriebener Cheddar Käse",
+        "group": "",
         "original": "100g geriebener Cheddar Käse"
       },
       {
         "amount": null,
         "unit": "",
         "name": "1-2 EL Ankerkraut Rote Sau oder ähnliches Gewürz",
+        "group": "",
         "original": "1-2 EL Ankerkraut Rote Sau oder ähnliches Gewürz"
       },
       {
         "amount": null,
         "unit": "",
         "name": "2-3 cm Breite Cheddar Käse Scheiben",
+        "group": "",
         "original": "2-3 cm Breite Cheddar Käse Scheiben"
       },
       {
         "amount": 30.0,
         "unit": "Scheiben",
         "name": "Bacon",
+        "group": "",
         "original": "30 Scheiben Bacon"
       },
       {
         "amount": 10.0,
         "unit": "Minuten",
         "name": "bevor Sie fertig sind mit etwas BBQ Soße bestreichen.",
+        "group": "",
         "original": "10 Minuten bevor Sie fertig sind mit etwas BBQ Soße bestreichen."
       }
     ],
@@ -6906,96 +7746,112 @@
         "amount": 240.0,
         "unit": "ml",
         "name": "Guinness Stout",
+        "group": "",
         "original": "240 ml Guinness Stout"
       },
       {
         "amount": 140.0,
         "unit": "g",
         "name": "gesalzene Butter",
+        "group": "",
         "original": "140 g gesalzene Butter"
       },
       {
         "amount": 70.0,
         "unit": "g",
         "name": "Kakaopulver + 2 EL schwarzes Kakaopulver",
+        "group": "",
         "original": "70 g Kakaopulver + 2 EL schwarzes Kakaopulver"
       },
       {
         "amount": 300.0,
         "unit": "g",
         "name": "dunkler brauner Zucker",
+        "group": "",
         "original": "300 g dunkler brauner Zucker"
       },
       {
         "amount": 55.0,
         "unit": "g",
         "name": "goldener Feinkristallzucker",
+        "group": "",
         "original": "55 g goldener Feinkristallzucker"
       },
       {
         "amount": 180.0,
         "unit": "ml",
         "name": "saure Sahne oder Crème fraîche",
+        "group": "",
         "original": "180 ml saure Sahne oder Crème fraîche"
       },
       {
         "amount": 2.0,
         "unit": "große",
         "name": "Eier",
+        "group": "",
         "original": "2 große Eier"
       },
       {
         "amount": 4.0,
         "unit": "g",
         "name": "Meersalzflocken",
+        "group": "",
         "original": "4 g Meersalzflocken"
       },
       {
         "amount": 2.0,
         "unit": "EL",
         "name": "Vanilleextrakt",
+        "group": "",
         "original": "2 EL Vanilleextrakt"
       },
       {
         "amount": 250.0,
         "unit": "g",
         "name": "Weizenmehl",
+        "group": "",
         "original": "250 g Weizenmehl"
       },
       {
         "amount": 2.0,
         "unit": "",
         "name": "1/2 TL Backpulver",
+        "group": "",
         "original": "2 1/2 TL Backpulver"
       },
       {
         "amount": 140.0,
         "unit": "g",
         "name": "Puderzucker",
+        "group": "",
         "original": "140 g Puderzucker"
       },
       {
         "amount": 300.0,
         "unit": "g",
         "name": "Mascarpone (zimmerwarm)",
+        "group": "",
         "original": "300 g Mascarpone (zimmerwarm)"
       },
       {
         "amount": 200.0,
         "unit": "ml",
         "name": "Schlagsahne",
+        "group": "",
         "original": "200 ml Schlagsahne"
       },
       {
         "amount": 1.0,
         "unit": "EL",
         "name": "Vanilleextrakt",
+        "group": "",
         "original": "1 EL Vanilleextrakt"
       },
       {
         "amount": 1.0,
         "unit": "Prise",
         "name": "Salz",
+        "group": "",
         "original": "1 Prise Salz"
       }
     ],
