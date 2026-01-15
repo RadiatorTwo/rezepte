@@ -1,15 +1,27 @@
-name: Update recipes.json
+name: Update recipes and deploy
 
 on:
   push:
     branches:
       - main
-    paths:
-      - 'source/markdown/**'
+
+# Permissions für Pages Deployment
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Nur ein Deployment gleichzeitig
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  update-recipes:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -23,10 +35,22 @@ jobs:
       - name: Generate recipes.json
         run: python source/convert_recipes.py source/markdown recipes.json
 
-      - name: Commit and push if changed
+      - name: Commit recipes.json if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add recipes.json
           git diff --staged --quiet || git commit -m "Update recipes.json [automated]"
           git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
