@@ -1,6 +1,6 @@
 # Filipino Coconut Pork Adobo
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/coconut-pork-adobo.webp)
 
 Portionen: 1
 

@@ -1,6 +1,6 @@
 # Sweet and Sour Chicken Balls
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/chicken_balls.webp)
 
 Portionen: 1
 

@@ -1,6 +1,6 @@
 # Easy French Bread Snack
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/french-bread-snack.webp)
 
 Portionen: 1
 

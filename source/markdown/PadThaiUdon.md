@@ -1,6 +1,6 @@
 # Pad Thai mit Udon Nudeln und Rindfleisch
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/pad-thai-udon-nudeln.webp)
 
 Portionen: 1
 

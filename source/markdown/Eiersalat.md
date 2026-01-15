@@ -1,6 +1,6 @@
 # Eiersalat
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/eiersalat.webp)
 
 Portionen: 1
 

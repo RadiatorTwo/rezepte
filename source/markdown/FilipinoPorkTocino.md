@@ -1,6 +1,6 @@
 # Filipino Pork Tocino
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/pork-tocino.webp)
 
 Portionen: 1
 

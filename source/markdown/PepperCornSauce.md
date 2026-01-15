@@ -1,6 +1,6 @@
 # Peppercorn-Soße – Flambierte Pfefferkornsoße mit Röstaromen
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/peppercorn.webp)
 
 Portionen: 1
 

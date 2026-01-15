@@ -1,6 +1,6 @@
 # Flammkuchen Brezel
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/flammkuchen-brezeln.jpg)
 
 Portionen: 1
 

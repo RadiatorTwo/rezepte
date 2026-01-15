@@ -1,6 +1,6 @@
 # Hokkien Mee
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/hokkien-mee.webp)
 
 Portionen: 1
 

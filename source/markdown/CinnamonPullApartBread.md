@@ -1,6 +1,6 @@
 # Cinnamon Pull Apart Bread
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/cinnamon-pull-apart-bread.jpg)
 
 Portionen: 1
 

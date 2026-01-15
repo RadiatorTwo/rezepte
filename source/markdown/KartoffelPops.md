@@ -1,6 +1,6 @@
 # Garlic Butter Potato Pops
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/garlic_potato_pops.jpg)
 
 Portionen: 1
 

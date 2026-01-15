@@ -1,6 +1,6 @@
 # Bang Bang Chicken
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/bang-bang-chicken.webp)
 
 Portionen: 1
 

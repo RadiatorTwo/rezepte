@@ -1,6 +1,6 @@
 # Hot Dog Pinecones
 
-![](https://radiatortwo.github.io/rezepte/pics/)
+![](https://radiatortwo.github.io/rezepte/pics/hotdog_pinecone.webp)
 
 Portionen: 1
 
