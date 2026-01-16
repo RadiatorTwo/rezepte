@@ -5,9 +5,9 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/kfc-zinger-sliders.webp",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "475g Hähnchenbrust (roh, in 5 Streifen à ca. 95g geschnitten)",
+        "amount": 475.0,
+        "unit": "g",
+        "name": "Hähnchenbrust (roh, in 5 Streifen à ca. 95g geschnitten)",
         "group": "Für das Hähnchen",
         "original": "475g Hähnchenbrust (roh, in 5 Streifen à ca. 95g geschnitten)"
       },
@@ -40,9 +40,9 @@
         "original": "Cayennepfeffer"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "50g Cornflakes (zerkleinert)",
+        "amount": 50.0,
+        "unit": "g",
+        "name": "Cornflakes (zerkleinert)",
         "group": "Für das Hähnchen",
         "original": "50g Cornflakes (zerkleinert)"
       },
@@ -54,16 +54,16 @@
         "original": "2 Eier (verquirlt, nicht alles wird verwendet)"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "120g Weizenmehl",
+        "amount": 120.0,
+        "unit": "g",
+        "name": "Weizenmehl",
         "group": "Für das Hähnchen",
         "original": "120g Weizenmehl"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "100g fettarmer griechischer Joghurt",
+        "amount": 100.0,
+        "unit": "g",
+        "name": "fettarmer griechischer Joghurt",
         "group": "Für das Hähnchen",
         "original": "100g fettarmer griechischer Joghurt"
       },
@@ -75,9 +75,9 @@
         "original": "1,5 TL Backpulver"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "75g fettarmer griechischer Joghurt",
+        "amount": 75.0,
+        "unit": "g",
+        "name": "fettarmer griechischer Joghurt",
         "group": "Für die Zinger-Sauce",
         "original": "75g fettarmer griechischer Joghurt"
       },
@@ -306,9 +306,9 @@
         "original": "4 Mini-Tortillas"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "240g Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)",
+        "amount": 240.0,
+        "unit": "g",
+        "name": "Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)",
         "group": "Tacos",
         "original": "240g Rinderhackfleisch oder Burger-Patties (in 4 Portionen geteilt)"
       },
@@ -386,16 +386,16 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/SpaghettiAlfredo.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "450g Garnelen, geschält und entdarmt",
+        "amount": 450.0,
+        "unit": "g",
+        "name": "Garnelen, geschält und entdarmt",
         "group": "Hauptzutaten",
         "original": "450g Garnelen, geschält und entdarmt"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g Nudeln",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "Nudeln",
         "group": "Hauptzutaten",
         "original": "200g Nudeln"
       },
@@ -442,9 +442,9 @@
         "original": "470 ml schwere Schlagsahne"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "70g Parmesankäse, frisch gerieben",
+        "amount": 70.0,
+        "unit": "g",
+        "name": "Parmesankäse, frisch gerieben",
         "group": "Hauptzutaten",
         "original": "70g Parmesankäse, frisch gerieben"
       },
@@ -648,16 +648,16 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/bbq-chicken-nudelsalat.webp",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "400g Gemelli",
+        "amount": 400.0,
+        "unit": "g",
+        "name": "Gemelli",
         "group": "Für den Salat",
         "original": "400g Gemelli"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "300g Hähnchenbrustfilet",
+        "amount": 300.0,
+        "unit": "g",
+        "name": "Hähnchenbrustfilet",
         "group": "Für den Salat",
         "original": "300g Hähnchenbrustfilet"
       },
@@ -676,9 +676,9 @@
         "original": "1/2 Bund glatte Petersilie"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g Bacon (dicke Scheiben)",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "Bacon (dicke Scheiben)",
         "group": "Für den Salat",
         "original": "200g Bacon (dicke Scheiben)"
       },
@@ -739,9 +739,9 @@
         "original": "Pfeffer"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g griechischer Joghurt",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "griechischer Joghurt",
         "group": "Für das Dressing",
         "original": "200g griechischer Joghurt"
       },
@@ -1403,16 +1403,16 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/udonnudeln.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "400g Udon Nudeln",
+        "amount": 400.0,
+        "unit": "g",
+        "name": "Udon Nudeln",
         "group": "Hauptzutaten",
         "original": "400g Udon Nudeln"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Rindfleisch",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Rindfleisch",
         "group": "Hauptzutaten",
         "original": "250g Rindfleisch"
       },
@@ -1586,9 +1586,9 @@
         "original": "2 große Zwiebeln (oder 1 große Lauchstange), gehackt"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "600g Kartoffeln, geschält und gewürfelt",
+        "amount": 600.0,
+        "unit": "g",
+        "name": "Kartoffeln, geschält und gewürfelt",
         "group": "Hauptzutaten",
         "original": "600g Kartoffeln, geschält und gewürfelt"
       },
@@ -1875,16 +1875,16 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/langos-airfryer.webp",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "275g Mehl",
+        "amount": 275.0,
+        "unit": "g",
+        "name": "Mehl",
         "group": "Teig",
         "original": "275g Mehl"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "75g neutrales Proteinpulver",
+        "amount": 75.0,
+        "unit": "g",
+        "name": "neutrales Proteinpulver",
         "group": "Teig",
         "original": "75g neutrales Proteinpulver"
       },
@@ -1896,9 +1896,9 @@
         "original": "180 ml Wasser (je nach Proteinpulver variieren)"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "8g frische Hefe",
+        "amount": 8.0,
+        "unit": "g",
+        "name": "frische Hefe",
         "group": "Teig",
         "original": "8g frische Hefe"
       },
@@ -1910,16 +1910,16 @@
         "original": "1 Prise Salz"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Magerquark oder vegane Skyr-Alternative",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Magerquark oder vegane Skyr-Alternative",
         "group": "Knoblauch-Creme",
         "original": "250g Magerquark oder vegane Skyr-Alternative"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "100g griechischer Joghurt oder Soja-Joghurt",
+        "amount": 100.0,
+        "unit": "g",
+        "name": "griechischer Joghurt oder Soja-Joghurt",
         "group": "Knoblauch-Creme",
         "original": "100g griechischer Joghurt oder Soja-Joghurt"
       },
@@ -2956,9 +2956,9 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/lemon-brownies.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g (1¼ Tassen) Zucker (Fein- oder Kristallzucker)",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "(1¼ Tassen) Zucker (Fein- oder Kristallzucker)",
         "group": "Lemon Brownies",
         "original": "250g (1¼ Tassen) Zucker (Fein- oder Kristallzucker)"
       },
@@ -2970,9 +2970,9 @@
         "original": "Abrieb von 2 Bio-Zitronen"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "170g (1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt",
+        "amount": 170.0,
+        "unit": "g",
+        "name": "(1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt",
         "group": "Lemon Brownies",
         "original": "170g (1½ Stangen) ungesalzene Butter, geschmolzen und leicht abgekühlt"
       },
@@ -2998,16 +2998,16 @@
         "original": "½ TL Vanillepaste (oder 1 TL Vanilleextrakt)"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "45g (3 EL) frisch gepresster Zitronensaft",
+        "amount": 45.0,
+        "unit": "g",
+        "name": "(3 EL) frisch gepresster Zitronensaft",
         "group": "Lemon Brownies",
         "original": "45g (3 EL) frisch gepresster Zitronensaft"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "150g (1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)",
+        "amount": 150.0,
+        "unit": "g",
+        "name": "(1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)",
         "group": "Lemon Brownies",
         "original": "150g (1¼ Tassen) glutenfreie Mehlmischung (z. B. Doves Farm Freee ohne Xanthan)"
       },
@@ -3026,23 +3026,23 @@
         "original": "¼ TL Salz"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "120g (1 Tasse) Puderzucker, gesiebt",
+        "amount": 120.0,
+        "unit": "g",
+        "name": "(1 Tasse) Puderzucker, gesiebt",
         "group": "Lemon Cream Cheese Icing",
         "original": "120g (1 Tasse) Puderzucker, gesiebt"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "55g (¼ Tasse) Vollfett-Frischkäse, zimmerwarm",
+        "amount": 55.0,
+        "unit": "g",
+        "name": "(¼ Tasse) Vollfett-Frischkäse, zimmerwarm",
         "group": "Lemon Cream Cheese Icing",
         "original": "55g (¼ Tasse) Vollfett-Frischkäse, zimmerwarm"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "10g (2 TL) frisch gepresster Zitronensaft",
+        "amount": 10.0,
+        "unit": "g",
+        "name": "(2 TL) frisch gepresster Zitronensaft",
         "group": "Lemon Cream Cheese Icing",
         "original": "10g (2 TL) frisch gepresster Zitronensaft"
       },
@@ -3305,16 +3305,16 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/pad-thai-udon-nudeln.webp",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "400g Udon Nudeln",
+        "amount": 400.0,
+        "unit": "g",
+        "name": "Udon Nudeln",
         "group": "",
         "original": "400g Udon Nudeln"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Rindfleisch",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Rindfleisch",
         "group": "",
         "original": "250g Rindfleisch"
       },
@@ -3354,9 +3354,9 @@
         "original": "2 Zehen Knoblauch"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Prinzess oder Brechbohnen",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Prinzess oder Brechbohnen",
         "group": "",
         "original": "250g Prinzess oder Brechbohnen"
       },
@@ -3955,9 +3955,9 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/burger_buns.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "463g Mehl",
+        "amount": 463.0,
+        "unit": "g",
+        "name": "Mehl",
         "group": "",
         "original": "463g Mehl"
       },
@@ -3969,44 +3969,44 @@
         "original": "1 großes Ei"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "14g Trockenhefe",
+        "amount": 14.0,
+        "unit": "g",
+        "name": "Trockenhefe",
         "group": "",
         "original": "14g Trockenhefe"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "31g Zucker",
+        "amount": 31.0,
+        "unit": "g",
+        "name": "Zucker",
         "group": "",
         "original": "31g Zucker"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "9g Salz",
+        "amount": 9.0,
+        "unit": "g",
+        "name": "Salz",
         "group": "",
         "original": "9g Salz"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "41g geschmolzene Butter",
+        "amount": 41.0,
+        "unit": "g",
+        "name": "geschmolzene Butter",
         "group": "",
         "original": "41g geschmolzene Butter"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "30g Milchpulver",
+        "amount": 30.0,
+        "unit": "g",
+        "name": "Milchpulver",
         "group": "",
         "original": "30g Milchpulver"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "220g Lauwarmes Wasser",
+        "amount": 220.0,
+        "unit": "g",
+        "name": "Lauwarmes Wasser",
         "group": "",
         "original": "220g Lauwarmes Wasser"
       }
@@ -4062,9 +4062,9 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/raspbacon-jam-cheeseburger.webp",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "450g Bacon, gewürfelt",
+        "amount": 450.0,
+        "unit": "g",
+        "name": "Bacon, gewürfelt",
         "group": "Für die Raspberry Bacon Jam",
         "original": "450g Bacon, gewürfelt"
       },
@@ -4415,9 +4415,9 @@
         "original": "200 ml Grüne Curry Soße"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g Schwein, Rind oder Hähnchen",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "Schwein, Rind oder Hähnchen",
         "group": "Für das Curry",
         "original": "200g Schwein, Rind oder Hähnchen"
       },
@@ -4450,16 +4450,16 @@
         "original": "1 Knoblauchzehe"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "100g Brechbohnen",
+        "amount": 100.0,
+        "unit": "g",
+        "name": "Brechbohnen",
         "group": "Für das Curry",
         "original": "100g Brechbohnen"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "150g Brokkoli",
+        "amount": 150.0,
+        "unit": "g",
+        "name": "Brokkoli",
         "group": "Für das Curry",
         "original": "150g Brokkoli"
       },
@@ -6028,9 +6028,9 @@
         "original": "3 EL Öl"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "75g geriebener Feta Käse",
+        "amount": 75.0,
+        "unit": "g",
+        "name": "geriebener Feta Käse",
         "group": "Hauptzutaten",
         "original": "75g geriebener Feta Käse"
       },
@@ -6070,30 +6070,30 @@
         "original": "3 mittlere Knoblauchzehen"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "100g Mayonnaise",
+        "amount": 100.0,
+        "unit": "g",
+        "name": "Mayonnaise",
         "group": "Hauptzutaten",
         "original": "100g Mayonnaise"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "50g Sour Cream",
+        "amount": 50.0,
+        "unit": "g",
+        "name": "Sour Cream",
         "group": "Hauptzutaten",
         "original": "50g Sour Cream"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "2g Schwarzer Pfeffer",
+        "amount": 2.0,
+        "unit": "g",
+        "name": "Schwarzer Pfeffer",
         "group": "Hauptzutaten",
         "original": "2g Schwarzer Pfeffer"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "2g Chili Pulver",
+        "amount": 2.0,
+        "unit": "g",
+        "name": "Chili Pulver",
         "group": "Hauptzutaten",
         "original": "2g Chili Pulver"
       },
@@ -6720,23 +6720,23 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/spaghetti-garnelen-speck.webp",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Spaghetti",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Spaghetti",
         "group": "Hauptzutaten",
         "original": "250g Spaghetti"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "500g Garnelen, geschält und entdarmt",
+        "amount": 500.0,
+        "unit": "g",
+        "name": "Garnelen, geschält und entdarmt",
         "group": "Hauptzutaten",
         "original": "500g Garnelen, geschält und entdarmt"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "150g Speck, gewürfelt",
+        "amount": 150.0,
+        "unit": "g",
+        "name": "Speck, gewürfelt",
         "group": "Hauptzutaten",
         "original": "150g Speck, gewürfelt"
       },
@@ -7129,23 +7129,23 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/burger_remoulade.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "230g Sour Cream",
+        "amount": 230.0,
+        "unit": "g",
+        "name": "Sour Cream",
         "group": "",
         "original": "230g Sour Cream"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "110g Sriracha",
+        "amount": 110.0,
+        "unit": "g",
+        "name": "Sriracha",
         "group": "",
         "original": "110g Sriracha"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "110g Honig",
+        "amount": 110.0,
+        "unit": "g",
+        "name": "Honig",
         "group": "",
         "original": "110g Honig"
       },
@@ -8076,9 +8076,9 @@
         "original": "200 ml Rote Curry Soße"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g Schwein, Rind oder Hähnchen",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "Schwein, Rind oder Hähnchen",
         "group": "Für das Curry",
         "original": "200g Schwein, Rind oder Hähnchen"
       },
@@ -8765,9 +8765,9 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/chili_garlic_noodles.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g Nudeln",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "Nudeln",
         "group": "Hauptzutaten",
         "original": "200g Nudeln"
       },
@@ -8828,9 +8828,9 @@
         "original": "4 Frühlingszwiebeln, in Ringe geschnitten (weiß und grün getrennt)"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Hackfleisch",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Hackfleisch",
         "group": "Hauptzutaten",
         "original": "250g Hackfleisch"
       },
@@ -8986,16 +8986,16 @@
         "original": "2 Tomaten (150g)"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "100g Lauch (Porree)",
+        "amount": 100.0,
+        "unit": "g",
+        "name": "Lauch (Porree)",
         "group": "",
         "original": "100g Lauch (Porree)"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "240g Zucchini",
+        "amount": 240.0,
+        "unit": "g",
+        "name": "Zucchini",
         "group": "",
         "original": "240g Zucchini"
       },
@@ -9028,23 +9028,23 @@
         "original": "1 TL Geriebene Zitronenschalen"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g Nudeln (z.B. Farfalle)",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "Nudeln (z.B. Farfalle)",
         "group": "",
         "original": "200g Nudeln (z.B. Farfalle)"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "240ml Gemüsebrühe",
+        "amount": 240.0,
+        "unit": "ml",
+        "name": "Gemüsebrühe",
         "group": "",
         "original": "240ml Gemüsebrühe"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "500g Garnelen",
+        "amount": 500.0,
+        "unit": "g",
+        "name": "Garnelen",
         "group": "",
         "original": "500g Garnelen"
       },
@@ -9307,9 +9307,9 @@
         "original": "1 Spitzpaprika Streifen"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "200g Hackfleisch",
+        "amount": 200.0,
+        "unit": "g",
+        "name": "Hackfleisch",
         "group": "",
         "original": "200g Hackfleisch"
       },
@@ -9356,9 +9356,9 @@
         "original": "1 EL Tomatenmark"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250ml Rinder oder Gemüsebrühe",
+        "amount": 250.0,
+        "unit": "ml",
+        "name": "Rinder oder Gemüsebrühe",
         "group": "",
         "original": "250ml Rinder oder Gemüsebrühe"
       },
@@ -9793,9 +9793,9 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/soffrito-bolognese.webp",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "125g Butter",
+        "amount": 125.0,
+        "unit": "g",
+        "name": "Butter",
         "group": "Für das Soffritto",
         "original": "125g Butter"
       },
@@ -9884,9 +9884,9 @@
         "original": "Pfeffer, schwarz"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "600g Spaghetti",
+        "amount": 600.0,
+        "unit": "g",
+        "name": "Spaghetti",
         "group": "Außerdem",
         "original": "600g Spaghetti"
       }
@@ -10061,16 +10061,16 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/PadThai.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "400g Udon Nudeln",
+        "amount": 400.0,
+        "unit": "g",
+        "name": "Udon Nudeln",
         "group": "",
         "original": "400g Udon Nudeln"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Rindfleisch",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Rindfleisch",
         "group": "",
         "original": "250g Rindfleisch"
       },
@@ -10110,9 +10110,9 @@
         "original": "2 Zehen Knoblauch"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "250g Prinzess oder Brechbohnen",
+        "amount": 250.0,
+        "unit": "g",
+        "name": "Prinzess oder Brechbohnen",
         "group": "",
         "original": "250g Prinzess oder Brechbohnen"
       },
@@ -10756,9 +10756,9 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/shotgun_shells.jpg",
     "ingredients": [
       {
-        "amount": null,
-        "unit": "",
-        "name": "500g gemischtes Hackfleisch mit hohem Fettanteil (20%)",
+        "amount": 500.0,
+        "unit": "g",
+        "name": "gemischtes Hackfleisch mit hohem Fettanteil (20%)",
         "group": "Hauptzutaten",
         "original": "500g gemischtes Hackfleisch mit hohem Fettanteil (20%)"
       },
@@ -10770,9 +10770,9 @@
         "original": "15 Cannelloni"
       },
       {
-        "amount": null,
-        "unit": "",
-        "name": "100g geriebener Cheddar Käse",
+        "amount": 100.0,
+        "unit": "g",
+        "name": "geriebener Cheddar Käse",
         "group": "Hauptzutaten",
         "original": "100g geriebener Cheddar Käse"
       },
