@@ -17,46 +17,75 @@ def parse_ingredient(line: str, group: str = "") -> Optional[Dict]:
     - "1/2 Stk. Spitzkohl" -> {amount: 0.5, unit: "Stk.", name: "Spitzkohl"}
     - "2 EL Mayonnaise" -> {amount: 2, unit: "EL", name: "Mayonnaise"}
     - "1 Prise Salz" -> {amount: 1, unit: "Prise", name: "Salz"}
+    - "120g Weizenmehl" -> {amount: 120, unit: "g", name: "Weizenmehl"}
+    - "475g Hähnchenbrust" -> {amount: 475, unit: "g", name: "Hähnchenbrust"}
     """
     line = line.strip()
     if not line:
         return None
 
-    # Pattern für Brüche (1/2, 1/4, etc.)
-    fraction_pattern = r'(\d+)/(\d+)'
-    # Pattern für Dezimalzahlen und ganze Zahlen
-    number_pattern = r'(\d+(?:[.,]\d+)?)'
-    # Pattern für Einheiten (optional)
-    unit_pattern = r'([A-Za-zäöüÄÖÜß]+\.?)'
+    # Bekannte Einheiten (für zusammengeschriebene Formate wie "120g")
+    known_units = [
+        'kg', 'g', 'gr', 'mg',           # Gewicht
+        'l', 'L', 'ml', 'mL', 'cl',       # Volumen
+        'TL', 'EL', 'tl', 'el',           # Löffel
+        'Stk', 'stk', 'Stück', 'stück',   # Stück
+        'Prise', 'prise', 'Prisen',       # Prise
+        'Tasse', 'Tassen', 'Becher',      # Behälter
+        'Scheibe', 'Scheiben',            # Scheiben
+        'Zehe', 'Zehen',                  # Knoblauch etc.
+        'Bund', 'Zweig', 'Zweige',        # Kräuter
+        'Dose', 'Dosen', 'Pkg', 'Packung', # Verpackungen
+        'Blatt', 'Blätter',               # Blätter
+        'Handvoll',                       # Handvoll
+        'Eier', 'Ei',                     # Eier
+        'Gramm', 'gramm',                 # Ausgeschrieben
+    ]
 
     # Versuche Menge zu extrahieren
     amount = None
     unit = ""
     name = line
 
-    # Prüfe auf Bruch
-    fraction_match = re.match(rf'^{fraction_pattern}\s+', line)
+    # Pattern 1: Zahl direkt gefolgt von bekannter Einheit (ohne Leerzeichen): "120g", "500ml"
+    units_pattern = '|'.join(re.escape(u) for u in known_units)
+    compact_match = re.match(rf'^(\d+(?:[.,]\d+)?)\s*({units_pattern})\s+(.+)$', line, re.IGNORECASE)
+    if compact_match:
+        amount_str = compact_match.group(1).replace(',', '.')
+        amount = float(amount_str)
+        unit = compact_match.group(2)
+        name = compact_match.group(3).strip()
+        return {
+            'amount': amount,
+            'unit': unit,
+            'name': name,
+            'group': group,
+            'original': line
+        }
+
+    # Pattern 2: Brüche (1/2, 1/4, etc.) mit Leerzeichen
+    fraction_match = re.match(r'^(\d+)/(\d+)\s+(.*)$', line)
     if fraction_match:
         numerator = float(fraction_match.group(1))
         denominator = float(fraction_match.group(2))
         amount = numerator / denominator
-        rest = line[fraction_match.end():].strip()
+        rest = fraction_match.group(3).strip()
     else:
-        # Prüfe auf normale Zahl
-        number_match = re.match(rf'^{number_pattern}\s+', line)
+        # Pattern 3: Normale Zahl mit Leerzeichen
+        number_match = re.match(r'^(\d+(?:[.,]\d+)?)\s+(.*)$', line)
         if number_match:
             amount_str = number_match.group(1).replace(',', '.')
             amount = float(amount_str)
-            rest = line[number_match.end():].strip()
+            rest = number_match.group(2).strip()
         else:
             rest = line
 
     if amount is not None:
         # Versuche Einheit zu extrahieren
-        unit_match = re.match(rf'^{unit_pattern}\s+', rest)
+        unit_match = re.match(r'^([A-Za-zäöüÄÖÜß]+\.?)\s+(.*)$', rest)
         if unit_match:
             unit = unit_match.group(1)
-            name = rest[unit_match.end():].strip()
+            name = unit_match.group(2).strip()
         else:
             name = rest
 
@@ -287,8 +316,8 @@ def convert_recipes(recipes_dir: str, output_file: str):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(recipes, f, ensure_ascii=False, indent=2)
     
-    print(f"\n✓ {len(recipes)} Rezepte erfolgreich konvertiert!")
-    print(f"✓ Ausgabe gespeichert in: {output_file}")
+    print(f"\n[OK] {len(recipes)} Rezepte erfolgreich konvertiert!")
+    print(f"[OK] Ausgabe gespeichert in: {output_file}")
     
     # Statistik
     categories_count = {}
