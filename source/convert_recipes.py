@@ -10,6 +10,20 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Optional
 
+def parse_number(s: str) -> Optional[float]:
+    """Parst eine Zahl (Dezimal oder Bruch) und gibt float zurück."""
+    s = s.strip()
+    # Bruch: 1/2, 1/4, etc.
+    fraction_match = re.match(r'^(\d+)/(\d+)$', s)
+    if fraction_match:
+        return float(fraction_match.group(1)) / float(fraction_match.group(2))
+    # Dezimalzahl oder Ganzzahl
+    number_match = re.match(r'^(\d+(?:[.,]\d+)?)$', s)
+    if number_match:
+        return float(number_match.group(1).replace(',', '.'))
+    return None
+
+
 def parse_ingredient(line: str, group: str = "") -> Optional[Dict]:
     """
     Parst eine Zutat-Zeile und extrahiert Menge, Einheit und Name.
@@ -19,6 +33,8 @@ def parse_ingredient(line: str, group: str = "") -> Optional[Dict]:
     - "1 Prise Salz" -> {amount: 1, unit: "Prise", name: "Salz"}
     - "120g Weizenmehl" -> {amount: 120, unit: "g", name: "Weizenmehl"}
     - "475g Hähnchenbrust" -> {amount: 475, unit: "g", name: "Hähnchenbrust"}
+    - "1-2 EL Liquid Smoke" -> {amount: 1, amount_max: 2, unit: "EL", name: "Liquid Smoke"}
+    - "100-150g Mehl" -> {amount: 100, amount_max: 150, unit: "g", name: "Mehl"}
     """
     line = line.strip()
     if not line:
@@ -40,30 +56,74 @@ def parse_ingredient(line: str, group: str = "") -> Optional[Dict]:
         'Handvoll',                       # Handvoll
         'Eier', 'Ei',                     # Eier
         'Gramm', 'gramm',                 # Ausgeschrieben
+        'Esslöffel', 'Teelöffel',         # Ausgeschrieben
     ]
 
     # Versuche Menge zu extrahieren
     amount = None
+    amount_max = None
     unit = ""
     name = line
 
-    # Pattern 1: Zahl direkt gefolgt von bekannter Einheit (ohne Leerzeichen): "120g", "500ml"
     units_pattern = '|'.join(re.escape(u) for u in known_units)
-    compact_match = re.match(rf'^(\d+(?:[.,]\d+)?)\s*({units_pattern})\s+(.+)$', line, re.IGNORECASE)
-    if compact_match:
-        amount_str = compact_match.group(1).replace(',', '.')
-        amount = float(amount_str)
-        unit = compact_match.group(2)
-        name = compact_match.group(3).strip()
+
+    # Pattern für Zahlen (inkl. Brüche): \d+(?:[.,]\d+)?|\d+/\d+
+    num_pattern = r'(\d+(?:[.,]\d+)?|\d+/\d+)'
+
+    # Pattern 1: Bereich mit kompakter Einheit: "100-150g Mehl"
+    range_compact_match = re.match(
+        rf'^{num_pattern}\s*-\s*{num_pattern}\s*({units_pattern})\s+(.+)$',
+        line, re.IGNORECASE
+    )
+    if range_compact_match:
+        amount = parse_number(range_compact_match.group(1))
+        amount_max = parse_number(range_compact_match.group(2))
+        unit = range_compact_match.group(3)
+        name = range_compact_match.group(4).strip()
         return {
             'amount': amount,
+            'amount_max': amount_max,
             'unit': unit,
             'name': name,
             'group': group,
             'original': line
         }
 
-    # Pattern 2: Brüche (1/2, 1/4, etc.) mit Leerzeichen
+    # Pattern 2: Bereich mit Leerzeichen vor Einheit: "1-2 EL Liquid Smoke"
+    range_match = re.match(
+        rf'^{num_pattern}\s*-\s*{num_pattern}\s+([A-Za-zäöüÄÖÜß]+\.?)\s+(.+)$',
+        line
+    )
+    if range_match:
+        amount = parse_number(range_match.group(1))
+        amount_max = parse_number(range_match.group(2))
+        unit = range_match.group(3)
+        name = range_match.group(4).strip()
+        return {
+            'amount': amount,
+            'amount_max': amount_max,
+            'unit': unit,
+            'name': name,
+            'group': group,
+            'original': line
+        }
+
+    # Pattern 3: Zahl direkt gefolgt von bekannter Einheit (ohne Leerzeichen): "120g", "500ml"
+    compact_match = re.match(rf'^{num_pattern}\s*({units_pattern})\s+(.+)$', line, re.IGNORECASE)
+    if compact_match:
+        amount = parse_number(compact_match.group(1))
+        unit = compact_match.group(2)
+        name = compact_match.group(3).strip()
+        return {
+            'amount': amount,
+            'amount_max': None,
+            'unit': unit,
+            'name': name,
+            'group': group,
+            'original': line
+        }
+
+    # Pattern 4: Brüche (1/2, 1/4, etc.) mit Leerzeichen
     fraction_match = re.match(r'^(\d+)/(\d+)\s+(.*)$', line)
     if fraction_match:
         numerator = float(fraction_match.group(1))
@@ -71,7 +131,7 @@ def parse_ingredient(line: str, group: str = "") -> Optional[Dict]:
         amount = numerator / denominator
         rest = fraction_match.group(3).strip()
     else:
-        # Pattern 3: Normale Zahl mit Leerzeichen
+        # Pattern 5: Normale Zahl mit Leerzeichen
         number_match = re.match(r'^(\d+(?:[.,]\d+)?)\s+(.*)$', line)
         if number_match:
             amount_str = number_match.group(1).replace(',', '.')
@@ -91,6 +151,7 @@ def parse_ingredient(line: str, group: str = "") -> Optional[Dict]:
 
     return {
         'amount': amount,
+        'amount_max': amount_max,
         'unit': unit,
         'name': name,
         'group': group,

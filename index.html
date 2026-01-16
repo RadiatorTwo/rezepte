@@ -1424,7 +1424,15 @@
                     if (ing.amount !== null) {
                         const adjustedAmount = ing.amount * factor;
                         const formatted = formatAmount(adjustedAmount);
-                        display = `<span class="ingredient-amount">${formatted} ${ing.unit}</span> ${ing.name}`;
+
+                        // Prüfe ob es einen Bereich gibt (amount_max)
+                        if (ing.amount_max !== null && ing.amount_max !== undefined) {
+                            const adjustedMax = ing.amount_max * factor;
+                            const formattedMax = formatAmount(adjustedMax);
+                            display = `<span class="ingredient-amount">${formatted}-${formattedMax} ${ing.unit}</span> ${ing.name}`;
+                        } else {
+                            display = `<span class="ingredient-amount">${formatted} ${ing.unit}</span> ${ing.name}`;
+                        }
                     } else {
                         display = ing.original;
                     }
