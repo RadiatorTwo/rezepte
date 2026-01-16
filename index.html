@@ -15,21 +15,41 @@
         }
 
         :root {
-            /* Spicy Fiesta Palette - Light Mode */
-            --primary: #FF6F61;        /* Coral - Hauptfarbe */
-            --primary-dark: #D95D39;   /* Darker coral */
-            --primary-darker: #C94A2D; /* Deep coral */
-            --accent: #A83D2D;         /* Rust accent */
-            --accent-dark: #7A2A2A;    /* Deep rust */
+            /* Citrus Burst Palette - Light Mode */
+            --primary-lightest: #FFB74D;  /* Helles Orange */
+            --primary: #FF8C00;           /* Orange - Hauptfarbe */
+            --primary-dark: #FF6F00;      /* Dunkles Orange */
+            --primary-darker: #FF5722;    /* Rot-Orange */
+            --accent: #D84315;            /* Dunkles Rot-Orange */
 
-            --background: #FFF8F6;     /* Warm off-white */
-            --card-bg: #FFFFFF;
-            --text: #2D2926;           /* Warm dark */
-            --text-light: #5D534E;     /* Warm gray */
-            --text-muted: #8B817A;     /* Muted warm gray */
-            --border: #E8DDD8;         /* Warm border */
-            --shadow: rgba(45, 41, 38, 0.08);
-            --shadow-hover: rgba(45, 41, 38, 0.15);
+            /* Neumorphism Light Mode */
+            --background: #E8E0D8;        /* Warmes Beige für Neumorphism */
+            --card-bg: #E8E0D8;           /* Gleich wie Hintergrund */
+            --text: #2D2520;              /* Dunkelbraun */
+            --text-light: #4A4035;        /* Mittleres Braun */
+            --text-muted: #7A6E62;        /* Gedämpftes Braun */
+            --border: transparent;
+
+            /* Neumorphism Schatten */
+            --neu-shadow-light: #FFFFFF;
+            --neu-shadow-dark: #C5BAB0;
+            --neu-distance: 8px;
+            --neu-blur: 16px;
+            --neu-intensity: 1;
+
+            /* Neumorphism Box-Shadow Presets */
+            --neu-raised:
+                calc(var(--neu-distance) * -1) calc(var(--neu-distance) * -1) var(--neu-blur) var(--neu-shadow-light),
+                var(--neu-distance) var(--neu-distance) var(--neu-blur) var(--neu-shadow-dark);
+            --neu-raised-hover:
+                calc(var(--neu-distance) * -1.5) calc(var(--neu-distance) * -1.5) calc(var(--neu-blur) * 1.5) var(--neu-shadow-light),
+                calc(var(--neu-distance) * 1.5) calc(var(--neu-distance) * 1.5) calc(var(--neu-blur) * 1.5) var(--neu-shadow-dark);
+            --neu-inset:
+                inset calc(var(--neu-distance) * 0.5) calc(var(--neu-distance) * 0.5) var(--neu-blur) var(--neu-shadow-dark),
+                inset calc(var(--neu-distance) * -0.5) calc(var(--neu-distance) * -0.5) var(--neu-blur) var(--neu-shadow-light);
+            --neu-flat:
+                calc(var(--neu-distance) * -0.5) calc(var(--neu-distance) * -0.5) calc(var(--neu-blur) * 0.5) var(--neu-shadow-light),
+                calc(var(--neu-distance) * 0.5) calc(var(--neu-distance) * 0.5) calc(var(--neu-blur) * 0.5) var(--neu-shadow-dark);
 
             /* Spacing Scale (8px base) */
             --space-xs: 0.25rem;   /* 4px */
@@ -39,22 +59,22 @@
             --space-xl: 2rem;      /* 32px */
             --space-2xl: 3rem;     /* 48px */
 
-            /* Border Radius */
-            --radius-sm: 4px;
-            --radius-md: 8px;
-            --radius-lg: 12px;
-            --radius-xl: 16px;
+            /* Border Radius - Größer für Neumorphism */
+            --radius-sm: 8px;
+            --radius-md: 16px;
+            --radius-lg: 24px;
+            --radius-xl: 32px;
             --radius-full: 9999px;
 
             /* Typography Scale */
-            --font-size-xs: 0.75rem;   /* 12px - Labels, small text */
-            --font-size-sm: 0.875rem;  /* 14px - Secondary text */
-            --font-size-base: 1rem;    /* 16px - Body text */
-            --font-size-lg: 1.125rem;  /* 18px - Large body */
-            --font-size-xl: 1.25rem;   /* 20px - H4 */
-            --font-size-2xl: 1.5rem;   /* 24px - H3 */
-            --font-size-3xl: 2rem;     /* 32px - H2 */
-            --font-size-4xl: 2.5rem;   /* 40px - H1 */
+            --font-size-xs: 0.75rem;
+            --font-size-sm: 0.875rem;
+            --font-size-base: 1rem;
+            --font-size-lg: 1.125rem;
+            --font-size-xl: 1.25rem;
+            --font-size-2xl: 1.5rem;
+            --font-size-3xl: 2rem;
+            --font-size-4xl: 2.5rem;
 
             /* Font Weights */
             --font-normal: 400;
@@ -71,39 +91,45 @@
         /* Dark Mode - System preference (unless overridden by toggle) */
         @media (prefers-color-scheme: dark) {
             :root:not([data-theme="light"]) {
-                --primary: #FF8A7A;        /* Lighter coral for dark bg */
-                --primary-dark: #FF6F61;
-                --primary-darker: #D95D39;
-                --accent: #C94A2D;
-                --accent-dark: #A83D2D;
+                --primary-lightest: #FFB74D;
+                --primary: #FF8C00;
+                --primary-dark: #FF6F00;
+                --primary-darker: #FF5722;
+                --accent: #D84315;
 
-                --background: #1A1614;     /* Warm dark */
-                --card-bg: #2D2926;        /* Warm card dark */
-                --text: #F5EDE8;           /* Warm light */
-                --text-light: #C4B8B0;     /* Warm gray light */
-                --text-muted: #8B817A;
-                --border: #3D3632;         /* Warm border dark */
-                --shadow: rgba(0, 0, 0, 0.3);
-                --shadow-hover: rgba(0, 0, 0, 0.5);
+                /* Neumorphism Dark Mode */
+                --background: #1E1A16;
+                --card-bg: #1E1A16;
+                --text: #F5F0EB;
+                --text-light: #D5CFC8;
+                --text-muted: #9A918A;
+                --border: transparent;
+
+                /* Neumorphism Schatten Dark */
+                --neu-shadow-light: #2A2520;
+                --neu-shadow-dark: #0A0908;
             }
         }
 
         /* Dark Mode - Explicit toggle selection */
         [data-theme="dark"] {
-            --primary: #FF8A7A;        /* Lighter coral for dark bg */
-            --primary-dark: #FF6F61;
-            --primary-darker: #D95D39;
-            --accent: #C94A2D;
-            --accent-dark: #A83D2D;
+            --primary-lightest: #FFB74D;
+            --primary: #FF8C00;
+            --primary-dark: #FF6F00;
+            --primary-darker: #FF5722;
+            --accent: #D84315;
 
-            --background: #1A1614;     /* Warm dark */
-            --card-bg: #2D2926;        /* Warm card dark */
-            --text: #F5EDE8;           /* Warm light */
-            --text-light: #C4B8B0;     /* Warm gray light */
-            --text-muted: #8B817A;
-            --border: #3D3632;         /* Warm border dark */
-            --shadow: rgba(0, 0, 0, 0.3);
-            --shadow-hover: rgba(0, 0, 0, 0.5);
+            /* Neumorphism Dark Mode */
+            --background: #1E1A16;
+            --card-bg: #1E1A16;
+            --text: #F5F0EB;
+            --text-light: #D5CFC8;
+            --text-muted: #9A918A;
+            --border: transparent;
+
+            /* Neumorphism Schatten Dark */
+            --neu-shadow-light: #2A2520;
+            --neu-shadow-dark: #0A0908;
         }
 
         body {
@@ -114,13 +140,23 @@
             transition: background-color 0.3s ease, color 0.3s ease;
         }
 
-        /* Header */
+        /* Header - Neumorphism Style */
         header {
             position: relative;
-            background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
-            color: white;
+            background: var(--background);
+            color: var(--text);
             padding: var(--space-2xl) var(--space-lg);
-            box-shadow: 0 4px 20px var(--shadow);
+            margin-bottom: 0;
+        }
+
+        .header-content {
+            max-width: 600px;
+            margin: 0 auto;
+            background: linear-gradient(145deg, var(--primary), var(--primary-dark));
+            padding: var(--space-xl) var(--space-2xl);
+            border-radius: var(--radius-xl);
+            box-shadow: var(--neu-raised);
+            text-align: center;
         }
 
         header h1 {
@@ -128,47 +164,153 @@
             font-size: var(--font-size-4xl);
             font-weight: var(--font-bold);
             letter-spacing: -0.02em;
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
         }
 
         header p {
             text-align: center;
             opacity: 0.9;
+            color: white;
         }
 
-        /* Theme Toggle */
+        /* Theme Toggle - Auffälliger Stil */
         .theme-toggle {
             position: absolute;
-            top: 1rem;
-            right: 1rem;
-            width: 44px;
-            height: 44px;
-            border: none;
+            top: 1.5rem;
+            right: 1.5rem;
+            width: 56px;
+            height: 56px;
+            border: 3px solid var(--primary);
             border-radius: var(--radius-full);
-            background: rgba(255, 255, 255, 0.2);
+            background: linear-gradient(145deg, var(--primary-lightest), var(--primary));
             cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: background 0.3s;
+            box-shadow:
+                var(--neu-raised),
+                0 0 0 4px var(--background),
+                0 0 20px rgba(255, 140, 0, 0.3);
+            transition: all 0.3s ease;
         }
 
         .theme-toggle:hover {
-            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-3px) scale(1.05);
+            box-shadow:
+                var(--neu-raised-hover),
+                0 0 0 4px var(--background),
+                0 0 30px rgba(255, 140, 0, 0.5);
         }
 
-        .theme-toggle-icon::before {
-            content: '\2600\FE0F';
-            font-size: 1.25rem;
+        .theme-toggle:active {
+            transform: translateY(0) scale(0.95);
+            box-shadow:
+                var(--neu-inset),
+                0 0 0 4px var(--background);
         }
 
-        /* Dark mode icon (moon) */
-        [data-theme="dark"] .theme-toggle-icon::before {
-            content: '\1F319';
+        .theme-toggle-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px;
+            height: 28px;
+        }
+
+        /* Icon Styles */
+        .theme-toggle-icon svg {
+            width: 28px;
+            height: 28px;
+            color: white;
+            fill: white;
+            filter: drop-shadow(1px 1px 2px rgba(0,0,0,0.3));
+            transition: transform 0.4s ease, opacity 0.3s ease;
+            position: absolute;
+        }
+
+        .theme-toggle:hover .theme-toggle-icon svg {
+            transform: rotate(20deg) scale(1.1);
+        }
+
+        /* Light Mode: Sonne sichtbar, Mond versteckt */
+        .sun-icon {
+            opacity: 1;
+        }
+
+        .moon-icon {
+            opacity: 0;
+        }
+
+        /* Dark Mode: Mond sichtbar, Sonne versteckt */
+        [data-theme="dark"] .sun-icon {
+            opacity: 0;
+            transform: rotate(-90deg) scale(0.5);
+        }
+
+        [data-theme="dark"] .moon-icon {
+            opacity: 1;
+        }
+
+        [data-theme="dark"] .theme-toggle:hover .moon-icon {
+            transform: rotate(-20deg) scale(1.1);
         }
 
         @media (prefers-color-scheme: dark) {
-            :root:not([data-theme="light"]) .theme-toggle-icon::before {
-                content: '\1F319';
+            :root:not([data-theme="light"]) .sun-icon {
+                opacity: 0;
+                transform: rotate(-90deg) scale(0.5);
+            }
+
+            :root:not([data-theme="light"]) .moon-icon {
+                opacity: 1;
+            }
+
+            :root:not([data-theme="light"]) .theme-toggle:hover .moon-icon {
+                transform: rotate(-20deg) scale(1.1);
+            }
+        }
+
+        /* Dark Mode Button Stil */
+        [data-theme="dark"] .theme-toggle {
+            background: linear-gradient(145deg, #2A2520, #1E1A16);
+            border-color: var(--primary-lightest);
+            box-shadow:
+                var(--neu-raised),
+                0 0 0 4px var(--background),
+                0 0 20px rgba(255, 183, 77, 0.2);
+        }
+
+        [data-theme="dark"] .theme-toggle:hover {
+            box-shadow:
+                var(--neu-raised-hover),
+                0 0 0 4px var(--background),
+                0 0 30px rgba(255, 183, 77, 0.4);
+        }
+
+        [data-theme="dark"] .theme-toggle-icon svg {
+            fill: var(--primary-lightest);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root:not([data-theme="light"]) .theme-toggle {
+                background: linear-gradient(145deg, #2A2520, #1E1A16);
+                border-color: var(--primary-lightest);
+                box-shadow:
+                    var(--neu-raised),
+                    0 0 0 4px var(--background),
+                    0 0 20px rgba(255, 183, 77, 0.2);
+            }
+
+            :root:not([data-theme="light"]) .theme-toggle:hover {
+                box-shadow:
+                    var(--neu-raised-hover),
+                    0 0 0 4px var(--background),
+                    0 0 30px rgba(255, 183, 77, 0.4);
+            }
+
+            :root:not([data-theme="light"]) .theme-toggle-icon svg {
+                fill: var(--primary-lightest);
             }
         }
 
@@ -179,41 +321,42 @@
             padding: var(--space-xl) var(--space-lg);
         }
 
-        /* Suchbereich */
+        /* Suchbereich - Neumorphism */
         .search-section {
-            background: var(--card-bg);
+            background: var(--background);
             padding: var(--space-xl);
             border-radius: var(--radius-lg);
-            box-shadow: 0 2px 12px var(--shadow);
+            box-shadow: var(--neu-raised);
             margin-bottom: var(--space-xl);
-            border: 1px solid var(--border);
-            transition: background-color 0.3s ease, border-color 0.3s ease;
+            border: none;
+            transition: background-color 0.3s ease;
         }
 
         .search-box {
             display: flex;
             gap: var(--space-md);
-            margin-bottom: var(--space-md);
+            margin-bottom: var(--space-lg);
             flex-wrap: wrap;
         }
 
         .search-input {
             flex: 1;
             min-width: 250px;
-            padding: var(--space-sm) var(--space-md);
-            border: 2px solid var(--border);
-            border-radius: var(--radius-md);
+            padding: var(--space-md) var(--space-lg);
+            border: none;
+            border-radius: var(--radius-lg);
             font-size: var(--font-size-base);
             background: var(--background);
             color: var(--text);
-            transition: all 0.2s ease;
+            box-shadow: var(--neu-inset);
+            transition: all 0.3s ease;
         }
 
         .search-input:focus {
             outline: none;
-            border-color: var(--primary);
-            box-shadow: 0 0 0 3px rgba(255, 111, 97, 0.15);
-            transform: scale(1.01);
+            box-shadow:
+                var(--neu-inset),
+                0 0 0 3px var(--primary-lightest);
         }
 
         .search-input::placeholder {
@@ -222,36 +365,42 @@
 
         .filter-tabs {
             display: flex;
-            gap: var(--space-sm);
+            gap: var(--space-md);
             flex-wrap: wrap;
         }
 
         .filter-tab {
-            padding: var(--space-sm) var(--space-md);
-            border: 2px solid var(--border);
-            background: var(--card-bg);
+            padding: var(--space-sm) var(--space-lg);
+            border: none;
+            background: var(--background);
             border-radius: var(--radius-full);
             cursor: pointer;
-            transition: all 0.2s ease, background-color 0.3s ease;
+            box-shadow: var(--neu-flat);
+            transition: all 0.3s ease;
             font-size: var(--font-size-sm);
             font-weight: var(--font-medium);
             color: var(--text);
         }
 
         .filter-tab:hover {
-            border-color: var(--primary);
+            box-shadow: var(--neu-raised);
             color: var(--primary);
             transform: translateY(-2px);
         }
 
         .filter-tab:active {
+            box-shadow: var(--neu-inset);
             transform: translateY(0);
         }
 
         .filter-tab.active {
-            background: var(--primary);
+            background: linear-gradient(145deg, var(--primary), var(--primary-dark));
             color: white;
-            border-color: var(--primary);
+            box-shadow: var(--neu-raised);
+        }
+
+        .filter-tab.active:hover {
+            box-shadow: var(--neu-raised-hover);
         }
 
         /* Rezepte-Grid */
@@ -263,68 +412,41 @@
         }
 
         .recipe-card {
-            background: var(--card-bg);
+            background: var(--background);
             border-radius: var(--radius-lg);
             overflow: hidden;
-            /* Neumorphism: Outer shadow + subtle inner highlight */
-            box-shadow:
-                6px 6px 12px var(--shadow),
-                -4px -4px 10px rgba(255, 255, 255, 0.8);
-            transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+            box-shadow: var(--neu-raised);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
             cursor: pointer;
-            border: 1px solid var(--border);
+            border: none;
         }
 
         .recipe-card:hover {
-            transform: translateY(-6px);
-            box-shadow:
-                10px 10px 20px var(--shadow-hover),
-                -8px -8px 18px rgba(255, 255, 255, 0.9);
+            transform: translateY(-8px);
+            box-shadow: var(--neu-raised-hover);
         }
 
-        /* Dark mode card shadows */
-        [data-theme="dark"] .recipe-card {
-            box-shadow:
-                6px 6px 12px rgba(0, 0, 0, 0.4),
-                -4px -4px 10px rgba(255, 255, 255, 0.05);
-        }
-
-        [data-theme="dark"] .recipe-card:hover {
-            box-shadow:
-                10px 10px 20px rgba(0, 0, 0, 0.5),
-                -8px -8px 18px rgba(255, 255, 255, 0.08);
-        }
-
-        @media (prefers-color-scheme: dark) {
-            :root:not([data-theme="light"]) .recipe-card {
-                box-shadow:
-                    6px 6px 12px rgba(0, 0, 0, 0.4),
-                    -4px -4px 10px rgba(255, 255, 255, 0.05);
-            }
-
-            :root:not([data-theme="light"]) .recipe-card:hover {
-                box-shadow:
-                    10px 10px 20px rgba(0, 0, 0, 0.5),
-                    -8px -8px 18px rgba(255, 255, 255, 0.08);
-            }
+        .recipe-card:active {
+            transform: translateY(-4px);
+            box-shadow: var(--neu-flat);
         }
 
         .recipe-image {
             width: 100%;
             height: 220px;
             object-fit: cover;
-            background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+            background: linear-gradient(145deg, var(--primary), var(--primary-dark));
         }
 
         .recipe-placeholder {
             width: 100%;
             height: 220px;
-            background: linear-gradient(135deg, var(--primary-dark) 0%, var(--primary) 100%);
+            background: linear-gradient(145deg, var(--primary), var(--primary-dark));
             display: flex;
             align-items: center;
             justify-content: center;
             font-size: 4rem;
-            color: rgba(255, 255, 255, 0.6);
+            color: rgba(255, 255, 255, 0.7);
         }
 
         .recipe-content {
@@ -341,13 +463,16 @@
 
         .recipe-category {
             display: inline-block;
-            padding: 0.25rem 0.75rem;
-            background: var(--primary);
+            padding: 0.35rem 1rem;
+            background: linear-gradient(145deg, var(--primary), var(--primary-dark));
             color: white;
             border-radius: var(--radius-full);
             font-size: var(--font-size-xs);
-            font-weight: var(--font-medium);
+            font-weight: var(--font-semibold);
             margin-bottom: 0.5rem;
+            box-shadow:
+                2px 2px 4px var(--neu-shadow-dark),
+                -2px -2px 4px var(--neu-shadow-light);
         }
 
         .recipe-preview {
@@ -361,7 +486,7 @@
             overflow: hidden;
         }
 
-        /* Modal */
+        /* Modal - Neumorphism */
         .modal {
             display: none;
             position: fixed;
@@ -369,8 +494,8 @@
             left: 0;
             right: 0;
             bottom: 0;
-            background: rgba(0, 0, 0, 0.6);
-            backdrop-filter: blur(4px);
+            background: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(8px);
             z-index: 1000;
             overflow-y: auto;
             padding: var(--space-xl) var(--space-md);
@@ -389,15 +514,15 @@
         }
 
         .modal-content {
-            background: var(--card-bg);
+            background: var(--background);
             border-radius: var(--radius-xl);
             max-width: 900px;
             width: 100%;
             margin: var(--space-xl) auto;
-            box-shadow: 0 8px 32px var(--shadow-hover);
+            box-shadow: var(--neu-raised-hover);
             max-height: 90vh;
             overflow-y: auto;
-            border: 1px solid var(--border);
+            border: none;
             opacity: 0;
             transform: translateY(-20px) scale(0.95);
             transition: background-color 0.3s ease;
@@ -414,7 +539,7 @@
         .modal-header {
             position: relative;
             padding: var(--space-xl);
-            border-bottom: 1px solid var(--border);
+            background: linear-gradient(145deg, var(--primary), var(--primary-dark));
         }
 
         .modal-close {
@@ -422,23 +547,28 @@
             top: var(--space-md);
             right: var(--space-md);
             background: var(--background);
-            border: 1px solid var(--border);
+            border: none;
             font-size: 1.5rem;
             cursor: pointer;
-            color: var(--text-light);
-            width: 44px;
-            height: 44px;
+            color: var(--text);
+            width: 48px;
+            height: 48px;
             display: flex;
             align-items: center;
             justify-content: center;
             border-radius: var(--radius-full);
-            transition: all 0.2s ease;
+            box-shadow: var(--neu-raised);
+            transition: all 0.3s ease;
         }
 
         .modal-close:hover {
-            background: var(--primary);
-            color: white;
-            border-color: var(--primary);
+            box-shadow: var(--neu-raised-hover);
+            transform: scale(1.05);
+        }
+
+        .modal-close:active {
+            box-shadow: var(--neu-inset);
+            transform: scale(0.95);
         }
 
         .modal-image {
@@ -463,50 +593,55 @@
             align-items: center;
             gap: var(--space-md);
             margin: var(--space-lg) 0;
-            padding: var(--space-md);
+            padding: var(--space-lg);
             background: var(--background);
-            border-radius: var(--radius-md);
-            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--neu-inset);
+            border: none;
         }
 
         .portion-label {
-            font-weight: 600;
+            font-weight: var(--font-semibold);
+            color: var(--text);
         }
 
         .portion-buttons {
             display: flex;
-            gap: 0.5rem;
+            gap: var(--space-md);
             align-items: center;
         }
 
         .portion-btn {
-            width: 40px;
-            height: 40px;
-            border: 2px solid var(--primary);
-            background: var(--card-bg);
+            width: 44px;
+            height: 44px;
+            border: none;
+            background: var(--background);
             color: var(--primary);
             border-radius: var(--radius-full);
             cursor: pointer;
-            font-size: 1.2rem;
+            font-size: 1.3rem;
             font-weight: var(--font-bold);
-            transition: all 0.2s ease;
+            box-shadow: var(--neu-flat);
+            transition: all 0.3s ease;
         }
 
         .portion-btn:hover {
-            background: var(--primary);
-            color: white;
-            transform: scale(1.1);
+            box-shadow: var(--neu-raised);
+            color: var(--primary-dark);
+            transform: scale(1.05);
         }
 
         .portion-btn:active {
+            box-shadow: var(--neu-inset);
             transform: scale(0.95);
         }
 
         .portion-value {
-            font-size: 1.2rem;
-            font-weight: 600;
+            font-size: 1.3rem;
+            font-weight: var(--font-bold);
             min-width: 60px;
             text-align: center;
+            color: var(--primary);
         }
 
         .ingredients-section, .instructions-section {
@@ -516,10 +651,11 @@
         .section-title {
             font-size: var(--font-size-xl);
             font-weight: var(--font-semibold);
-            margin-bottom: var(--space-md);
+            margin-bottom: var(--space-lg);
             color: var(--primary);
-            border-bottom: 2px solid var(--primary);
             padding-bottom: var(--space-sm);
+            border-bottom: 3px solid var(--primary);
+            display: inline-block;
         }
 
         .ingredient-group {
@@ -531,22 +667,23 @@
         }
 
         .ingredient-group-title {
-            font-weight: 600;
+            font-weight: var(--font-semibold);
             color: var(--primary);
-            margin-bottom: 0.5rem;
+            margin-bottom: var(--space-sm);
             font-size: 1.1rem;
         }
 
         .ingredient-item {
-            padding: var(--space-sm) var(--space-md);
-            border-left: 3px solid var(--primary);
+            padding: var(--space-md);
             margin-bottom: var(--space-sm);
             background: var(--background);
-            border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+            border-radius: var(--radius-md);
+            box-shadow: var(--neu-flat);
+            border-left: 4px solid var(--primary);
         }
 
         .ingredient-amount {
-            font-weight: 600;
+            font-weight: var(--font-semibold);
             color: var(--primary);
         }
 
@@ -559,29 +696,43 @@
         }
 
         .instruction-group-title {
-            font-weight: 600;
+            font-weight: var(--font-semibold);
             color: var(--primary);
-            margin-bottom: 0.5rem;
+            margin-bottom: var(--space-sm);
             font-size: 1.1rem;
         }
 
         .instruction-item {
-            padding: var(--space-md);
+            padding: var(--space-lg);
             margin-bottom: var(--space-md);
             background: var(--background);
             border-radius: var(--radius-md);
+            box-shadow: var(--neu-flat);
             border-left: 4px solid var(--primary);
+        }
+
+        .instruction-item strong {
+            color: var(--primary);
         }
 
         .no-results {
             text-align: center;
-            padding: 3rem;
+            padding: var(--space-2xl);
             color: var(--text-light);
+            background: var(--background);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--neu-inset);
+            margin: var(--space-xl) 0;
         }
 
         .no-results-icon {
             font-size: 4rem;
-            margin-bottom: 1rem;
+            margin-bottom: var(--space-md);
+        }
+
+        .no-results h3 {
+            color: var(--text);
+            margin-bottom: var(--space-sm);
         }
 
         /* Modal Animations */
@@ -625,18 +776,35 @@
             }
         }
 
-        /* Responsive */
+        /* Responsive - Neumorphism angepasst */
         @media (max-width: 768px) {
+            :root {
+                --neu-distance: 6px;
+                --neu-blur: 12px;
+            }
+
             header {
                 padding: var(--space-lg) var(--space-md);
+            }
+
+            .header-content {
+                padding: var(--space-md) var(--space-lg);
             }
 
             header h1 {
                 font-size: var(--font-size-2xl);
             }
 
-            header p {
-                font-size: 0.85rem;
+            .theme-toggle {
+                width: 50px;
+                height: 50px;
+                top: 1rem;
+                right: 1rem;
+            }
+
+            .theme-toggle-icon svg {
+                width: 24px;
+                height: 24px;
             }
 
             .container {
@@ -654,17 +822,17 @@
 
             .search-input {
                 width: 100%;
-                font-size: 16px; /* Verhindert Zoom auf iOS */
+                font-size: 16px;
+                padding: var(--space-md);
             }
 
             .filter-tabs {
-                flex-wrap: wrap;
-                gap: 0.5rem;
+                gap: var(--space-sm);
             }
 
             .filter-tab {
                 flex-shrink: 0;
-                padding: 0.4rem 0.8rem;
+                padding: var(--space-sm) var(--space-md);
                 font-size: 0.85rem;
             }
 
@@ -677,22 +845,22 @@
             .recipe-card {
                 display: flex;
                 flex-direction: row;
-                border-radius: 8px;
+                border-radius: var(--radius-md);
             }
 
             .recipe-image, .recipe-placeholder {
-                width: 100px;
-                min-width: 100px;
-                height: 100px;
-                border-radius: 8px 0 0 8px;
+                width: 110px;
+                min-width: 110px;
+                height: 110px;
+                border-radius: var(--radius-md) 0 0 var(--radius-md);
             }
 
             .recipe-placeholder {
-                font-size: 2rem;
+                font-size: 2.5rem;
             }
 
             .recipe-content {
-                padding: 0.75rem;
+                padding: var(--space-md);
                 min-height: auto;
                 display: flex;
                 flex-direction: column;
@@ -706,7 +874,7 @@
 
             .recipe-category {
                 font-size: 0.7rem;
-                padding: 0.15rem 0.5rem;
+                padding: 0.2rem 0.6rem;
                 margin-bottom: 0.25rem;
             }
 
@@ -725,25 +893,21 @@
                 border-radius: 0;
                 min-height: 100vh;
                 max-height: none;
+                box-shadow: none;
             }
 
             .modal-header {
                 position: sticky;
                 top: 0;
-                background: var(--card-bg);
                 z-index: 10;
-                padding: 1rem;
-                border-bottom: 1px solid var(--border);
+                padding: var(--space-md);
             }
 
             .modal-close {
-                top: 0.5rem;
-                right: 0.5rem;
+                top: var(--space-sm);
+                right: var(--space-sm);
                 width: 44px;
                 height: 44px;
-                font-size: 1.5rem;
-                background: var(--background);
-                border-radius: 50%;
             }
 
             .modal-image {
@@ -751,26 +915,26 @@
             }
 
             .modal-body {
-                padding: 1rem;
+                padding: var(--space-md);
             }
 
             .modal-title {
-                font-size: 1.5rem;
-                margin-bottom: 0.5rem;
+                font-size: var(--font-size-2xl);
+                margin-bottom: var(--space-sm);
             }
 
             /* Portionen: Größere Touch-Targets */
             .portion-control {
-                margin: 1rem 0;
-                padding: 0.75rem;
+                margin: var(--space-md) 0;
+                padding: var(--space-md);
                 flex-wrap: wrap;
                 justify-content: center;
-                gap: 0.5rem;
+                gap: var(--space-sm);
             }
 
             .portion-btn {
-                width: 44px;
-                height: 44px;
+                width: 48px;
+                height: 48px;
                 font-size: 1.4rem;
             }
 
@@ -781,12 +945,12 @@
 
             /* Zutaten & Zubereitung */
             .ingredients-section, .instructions-section {
-                margin: 1rem 0;
+                margin: var(--space-md) 0;
             }
 
             .section-title {
-                font-size: 1.2rem;
-                margin-bottom: 0.75rem;
+                font-size: 1.1rem;
+                margin-bottom: var(--space-md);
             }
 
             .ingredient-group-title,
@@ -795,22 +959,35 @@
             }
 
             .ingredient-item {
-                padding: 0.5rem 0.75rem;
+                padding: var(--space-sm) var(--space-md);
                 font-size: 0.9rem;
             }
 
             .instruction-item {
-                padding: 0.75rem;
+                padding: var(--space-md);
                 font-size: 0.9rem;
+            }
+
+            .loading {
+                padding: var(--space-xl);
+            }
+
+            .no-results {
+                padding: var(--space-xl);
             }
         }
 
         /* Noch kleinere Screens */
         @media (max-width: 380px) {
+            :root {
+                --neu-distance: 4px;
+                --neu-blur: 8px;
+            }
+
             .recipe-image, .recipe-placeholder {
-                width: 80px;
-                min-width: 80px;
-                height: 80px;
+                width: 90px;
+                min-width: 90px;
+                height: 90px;
             }
 
             .recipe-title {
@@ -822,25 +999,53 @@
             }
         }
 
-        /* Loading */
+        /* Loading - Neumorphism */
         .loading {
             text-align: center;
-            padding: 3rem;
+            padding: var(--space-2xl);
+            background: var(--background);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--neu-raised);
         }
 
         .loading-spinner {
-            border: 4px solid var(--border);
-            border-top: 4px solid var(--primary);
-            border-radius: 50%;
-            width: 50px;
-            height: 50px;
+            width: 60px;
+            height: 60px;
+            border-radius: var(--radius-full);
+            background: var(--background);
+            box-shadow: var(--neu-inset);
+            position: relative;
+            margin: 0 auto var(--space-md);
+            animation: pulse 1.5s ease-in-out infinite;
+        }
+
+        .loading-spinner::after {
+            content: '';
+            position: absolute;
+            top: 8px;
+            left: 8px;
+            right: 8px;
+            bottom: 8px;
+            border-radius: var(--radius-full);
+            border: 3px solid transparent;
+            border-top-color: var(--primary);
+            border-right-color: var(--primary-dark);
             animation: spin 1s linear infinite;
-            margin: 0 auto;
+        }
+
+        .loading p {
+            color: var(--text-muted);
+            font-weight: var(--font-medium);
         }
 
         @keyframes spin {
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
+        }
+
+        @keyframes pulse {
+            0%, 100% { box-shadow: var(--neu-inset); }
+            50% { box-shadow: var(--neu-flat); }
         }
 
         /* Reduced Motion - Respektiere Nutzer-Praeferenz */
@@ -858,9 +1063,25 @@
 </head>
 <body>
     <header>
-        <h1>Rezepte</h1>
+        <div class="header-content">
+            <h1>Rezepte</h1>
+        </div>
         <button id="themeToggle" class="theme-toggle" aria-label="Toggle dark mode">
-            <span class="theme-toggle-icon"></span>
+            <span class="theme-toggle-icon">
+                <!-- Sun Icon -->
+                <svg class="sun-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="12" cy="12" r="5"/>
+                    <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+                    <style>
+                        .sun-icon path { stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+                        .sun-icon circle { fill: currentColor; }
+                    </style>
+                </svg>
+                <!-- Moon Icon -->
+                <svg class="moon-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+                </svg>
+            </span>
         </button>
     </header>
 
