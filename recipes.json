@@ -4301,6 +4301,109 @@
     "servings": 2
   },
   {
+    "id": "BananaBrownie",
+    "title": "Bananen Brownies (ohne Mehl)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/banana-brownies.jpg",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "reife",
+        "name": "Bananen (zerdrückt)",
+        "group": "Nasse Zutaten",
+        "original": "3 reife Bananen (zerdrückt)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Nussbutter (nach Wahl)",
+        "group": "Nasse Zutaten",
+        "original": "60ml Nussbutter (nach Wahl)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "geschmolzene Butter",
+        "group": "Nasse Zutaten",
+        "original": "60ml geschmolzene Butter"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ahornsirup",
+        "group": "Nasse Zutaten",
+        "original": "3 EL Ahornsirup"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Vanilleextrakt",
+        "group": "Nasse Zutaten",
+        "original": "1 TL Vanilleextrakt"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "ungesüßtes Kakaopulver",
+        "group": "Trockene Zutaten",
+        "original": "120g ungesüßtes Kakaopulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Natron",
+        "group": "Trockene Zutaten",
+        "original": "½ TL Natron"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Trockene Zutaten",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schokoladenstückchen",
+        "group": "Topping",
+        "original": "Schokoladenstückchen"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die zerdrückten Bananen mit Nussbutter, geschmolzener Butter, Ahornsirup und Vanilleextrakt in einer Schüssel vermischen.",
+        "group": "Teig"
+      },
+      {
+        "text": "Kakaopulver, Natron und Salz hinzufügen und alles gut verrühren.",
+        "group": "Teig"
+      },
+      {
+        "text": "Den Teig in eine Brownie-Form oder Muffin-Form geben.",
+        "group": "Backen"
+      },
+      {
+        "text": "Schokoladenstückchen auf der Oberfläche verteilen.",
+        "group": "Backen"
+      },
+      {
+        "text": "Bei 175°C für 15-20 Minuten backen.",
+        "group": "Backen"
+      }
+    ],
+    "category": "",
+    "servings": 12
+  },
+  {
     "id": "BurgerBuns",
     "title": "Burger Buns",
     "image": "https://radiatortwo.github.io/rezepte/pics/burger_buns.jpg",
