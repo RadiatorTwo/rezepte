@@ -4301,6 +4301,181 @@
     "servings": 2
   },
   {
+    "id": "KartoffelRoestiTacos",
+    "title": "Kartoffel-Rösti-Tacos",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffel-roesti-tacos.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "4-5 Kartoffeln",
+        "group": "Für die Rösti-Schalen",
+        "original": "4-5 Kartoffeln"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Für die Rösti-Schalen",
+        "original": "2 Eier"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "Für die Rösti-Schalen",
+        "original": "2 EL Mehl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "italienische Kräuter",
+        "group": "Für die Rösti-Schalen",
+        "original": "1 TL italienische Kräuter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Rösti-Schalen",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Rösti-Schalen",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Braten",
+        "group": "Für die Rösti-Schalen",
+        "original": "Öl zum Braten"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch",
+        "group": "Für die Füllung",
+        "original": "300g Hackfleisch"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ketchup oder Marinara-Sauce",
+        "group": "Für die Füllung",
+        "original": "2 EL Ketchup oder Marinara-Sauce"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Füllung",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Füllung",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Manchego-Käse oder Lieblingskäse (nach Belieben)",
+        "group": "Zum Toppen",
+        "original": "Manchego-Käse oder Lieblingskäse (nach Belieben)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Dill oder Koriander (optional)",
+        "group": "Zum Toppen",
+        "original": "Dill oder Koriander (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Öl in einer Pfanne erhitzen.",
+        "group": "Hackfleisch"
+      },
+      {
+        "text": "Hackfleisch hinzugeben und krümelig anbraten.",
+        "group": "Hackfleisch"
+      },
+      {
+        "text": "Mit Salz und Pfeffer würzen und beiseite stellen.",
+        "group": "Hackfleisch"
+      },
+      {
+        "text": "Kartoffeln schälen und fein reiben.",
+        "group": "Rösti-Masse"
+      },
+      {
+        "text": "Überschüssige Flüssigkeit gut ausdrücken.",
+        "group": "Rösti-Masse"
+      },
+      {
+        "text": "Eier, Mehl, italienische Kräuter, Salz und Pfeffer hinzufügen und gut vermengen.",
+        "group": "Rösti-Masse"
+      },
+      {
+        "text": "Öl in einer Pfanne erhitzen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Kartoffelmasse in die Pfanne geben und zu einem runden Fladen ausbreiten.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Von der Unterseite goldbraun braten, dann umdrehen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Soße gleichmäßig auf dem gesamten Rösti verteilen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Hackfleisch auf einer Hälfte des Röstis verteilen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Käse auf das Hackfleisch geben.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Den Rösti zusammenklappen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Umdrehen und fertig backen, bis beide Seiten knusprig sind.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Mit frischem Dill oder Koriander garnieren und servieren.",
+        "group": "Rösti-Tacos"
+      }
+    ],
+    "category": "Europäisch",
+    "servings": 4
+  },
+  {
     "id": "BananaBrownie",
     "title": "Bananen Brownies (ohne Mehl)",
     "image": "https://radiatortwo.github.io/rezepte/pics/banana-brownies.jpg",
