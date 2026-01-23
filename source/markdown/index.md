@@ -48,7 +48,7 @@
 * [Raspberry Bacon Jam Burger](https://radiatortwo.github.io/rezepte/RaspberryBaconJamBurger)
 * [KartoffelSuppe mit Speck](https://radiatortwo.github.io/rezepte/KartoffelSuppe)
 
-## Europäisch & Italienisch
+## Europäisch
 * [Pizza Lievito Madre](https://radiatortwo.github.io/rezepte/PizzaLievitoMadre)
 * [Steinpilz Risotto](https://radiatortwo.github.io/rezepte/SteinpilzRisotto)
 * [Garnelen-Pasta](https://radiatortwo.github.io/rezepte/GarnelenPasta)
@@ -59,6 +59,7 @@
 * [Spaghetti Alfredo mit Garnelen](https://radiatortwo.github.io/rezepte/SpaghettiAlfredo)
 * [Garnelen Pasta mit Speck](https://radiatortwo.github.io/rezepte/SpeckGarnelenPasta)
 * [Soffrito Bolognese](https://radiatortwo.github.io/rezepte/SoffritoBolognese)
+* [Kartoffel Rösti Tacos](https://radiatortwo.github.io/rezepte/KartoffelRoestiTacos)
 
 ## Snacks & Fingerfood
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
