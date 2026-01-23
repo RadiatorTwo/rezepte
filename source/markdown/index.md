@@ -27,6 +27,7 @@
 * [Chili Knoblauch Nudeln](https://radiatortwo.github.io/rezepte/ChiliGarlicNoodles)
 * [Rindfleisch Marinade](https://radiatortwo.github.io/rezepte/AsiaRindfleischMarinade)
 * [Garnelen Nudelsalat](https://radiatortwo.github.io/rezepte/AsiaGarnelenNudelsalat)
+* [Thai Shrimp Curry](https://radiatortwo.github.io/rezepte/ThaiShrimpCurry)
 
 ## Amerikanisch & Fusion
 * [Hackfleisch Bohnen mit Reis](https://radiatortwo.github.io/rezepte/HackfleischBohnen)
