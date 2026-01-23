@@ -8182,6 +8182,229 @@
     "servings": 2
   },
   {
+    "id": "ThaiShrimpCurry",
+    "title": "Thai Curry Shrimp",
+    "image": "https://radiatortwo.github.io/rezepte/pics/thai-curry-shrimp.jpg",
+    "ingredients": [
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "große Garnelen (geschält und entdarmt)",
+        "group": "Hauptzutaten",
+        "original": "450g große Garnelen (geschält und entdarmt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Hauptzutaten",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ mittelgroße Zwiebel (fein gehackt)",
+        "group": "Hauptzutaten",
+        "original": "½ mittelgroße Zwiebel (fein gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Paprika (in dünne Streifen geschnitten)",
+        "group": "Hauptzutaten",
+        "original": "1 rote Paprika (in dünne Streifen geschnitten)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Knoblauchzehen",
+        "name": "(gehackt)",
+        "group": "Hauptzutaten",
+        "original": "2 Knoblauchzehen (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "frischer Ingwer (gerieben)",
+        "group": "Hauptzutaten",
+        "original": "1 EL frischer Ingwer (gerieben)"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Kokosmilch (1 Dose)",
+        "group": "Für die Sauce",
+        "original": "400ml Kokosmilch (1 Dose)"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe (natriumarm)",
+        "group": "Für die Sauce",
+        "original": "120ml Hühnerbrühe (natriumarm)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Fischsauce",
+        "group": "Für die Sauce",
+        "original": "1 EL Fischsauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Für die Sauce",
+        "original": "1 EL brauner Zucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Salz (nach Geschmack anpassen)",
+        "group": "Für die Sauce",
+        "original": "½ TL Salz (nach Geschmack anpassen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Currypulver",
+        "group": "Gewürzmischung",
+        "original": "1 TL Currypulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Cayennepfeffer (oder weniger bei gewünschter Schärfe)",
+        "group": "Gewürzmischung",
+        "original": "½ TL Cayennepfeffer (oder weniger bei gewünschter Schärfe)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Paprikapulver",
+        "group": "Gewürzmischung",
+        "original": "½ TL Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Kreuzkümmel (Cumin)",
+        "group": "Gewürzmischung",
+        "original": "½ TL Kreuzkümmel (Cumin)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ TL Koriander (gemahlen)",
+        "group": "Gewürzmischung",
+        "original": "¼ TL Koriander (gemahlen)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ Tasse frisches Basilikum (gehackt)",
+        "group": "Zum Servieren",
+        "original": "¼ Tasse frisches Basilikum (gehackt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ Tasse frischer Koriander (gehackt, plus extra zum Garnieren)",
+        "group": "Zum Servieren",
+        "original": "¼ Tasse frischer Koriander (gehackt, plus extra zum Garnieren)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Limettensaft",
+        "group": "Zum Servieren",
+        "original": "1 EL Limettensaft"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Garnelen abspülen und trocken tupfen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Zwiebel fein hacken und Paprika in dünne Streifen schneiden.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Knoblauch hacken und Ingwer fein reiben.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Basilikum und Koriander grob hacken.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Alle Gewürze der Gewürzmischung in einer kleinen Schüssel vermengen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Olivenöl in einer großen Pfanne oder einem Wok bei mittlerer bis hoher Hitze erhitzen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Zwiebel und Paprika hinzugeben und 3-4 Minuten anbraten, bis sie weich werden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Knoblauch und Ingwer hinzufügen und eine weitere Minute unter Rühren braten.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gewürzmischung einrühren und 30 Sekunden anrösten, bis sie duftet.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Kokosmilch und Hühnerbrühe hinzugießen und gut verrühren.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Fischsauce, braunen Zucker und Salz einrühren.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Die Sauce zum Köcheln bringen und 5 Minuten einreduzieren lassen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Garnelen hinzufügen und 3-4 Minuten garen, bis sie rosa und durchgegart sind.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Pfanne vom Herd nehmen und Basilikum, Koriander und Limettensaft unterrühren.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Mit extra Koriander garnieren und mit Jasminreis servieren.",
+        "group": "Hauptgericht"
+      }
+    ],
+    "category": "",
+    "servings": 4
+  },
+  {
     "id": "PolloFino",
     "title": "Pollo Fino - Hähnchen Oberkeule ohne Knochen",
     "image": "https://radiatortwo.github.io/rezepte/pics/pollo_fino.jpg",
