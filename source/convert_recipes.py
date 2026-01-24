@@ -337,43 +337,76 @@ def parse_index_markdown(content: str) -> Dict[str, List[str]]:
     return categories
 
 def convert_recipes(recipes_dir: str, output_file: str):
-    """Konvertiert alle Rezepte in JSON."""
+    """Konvertiert alle Rezepte in JSON.
+
+    Neue Rezepte werden am Anfang eingefügt, bestehende behalten ihre Position.
+    """
     recipes_path = Path(recipes_dir)
-    
+
     if not recipes_path.exists():
         print(f"Fehler: Verzeichnis {recipes_dir} nicht gefunden!")
         sys.exit(1)
-    
-    recipes = []
+
+    # Bestehende Rezepte laden (falls vorhanden)
+    output_path = Path(output_file)
+    existing_recipes = []
+    existing_ids = set()
+
+    if output_path.exists():
+        try:
+            with open(output_path, 'r', encoding='utf-8') as f:
+                existing_recipes = json.load(f)
+                existing_ids = {r['id'] for r in existing_recipes}
+            print(f"[INFO] {len(existing_recipes)} bestehende Rezepte geladen")
+        except (json.JSONDecodeError, KeyError):
+            print("[WARN] Konnte bestehende recipes.json nicht lesen, starte neu")
+
     categories_map = {}
-    
+
     # Parse index.md für Kategorien
     index_file = recipes_path / 'index.md'
     if index_file.exists():
         with open(index_file, 'r', encoding='utf-8') as f:
             categories_map = parse_index_markdown(f.read())
-    
+
     # Alle .md Dateien durchgehen (außer index.md und VORLAGE.md)
     md_files = [f for f in recipes_path.glob('*.md') if f.name not in ('index.md', 'VORLAGE.md')]
-    
+
+    new_recipes = []
+    updated_recipes = []
+
     for md_file in md_files:
         print(f"Verarbeite {md_file.name}...")
-        
+
         with open(md_file, 'r', encoding='utf-8') as f:
             content = f.read()
-        
+
         recipe = parse_recipe_markdown(content, md_file.name)
-        
+
         # Kategorie zuordnen
         for category, recipe_ids in categories_map.items():
             if recipe['id'] in recipe_ids:
                 recipe['category'] = category
                 break
-        
-        recipes.append(recipe)
-    
+
+        # Unterscheide zwischen neuen und bestehenden Rezepten
+        if recipe['id'] in existing_ids:
+            updated_recipes.append(recipe)
+        else:
+            new_recipes.append(recipe)
+            print(f"  -> NEU: {recipe['title']}")
+
+    # Finale Reihenfolge: Neue Rezepte zuerst, dann bestehende in ihrer ursprünglichen Reihenfolge
+    # Bestehende Rezepte werden aktualisiert, aber behalten ihre Position
+    existing_order = {r['id']: i for i, r in enumerate(existing_recipes)}
+    updated_recipes.sort(key=lambda r: existing_order.get(r['id'], float('inf')))
+
+    recipes = new_recipes + updated_recipes
+
+    if new_recipes:
+        print(f"\n[NEU] {len(new_recipes)} neue Rezepte werden am Anfang eingefügt")
+
     # In JSON speichern
-    output_path = Path(output_file)
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(recipes, f, ensure_ascii=False, indent=2)
     

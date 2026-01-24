@@ -1,5 +1,808 @@
 [
   {
+    "id": "ChinakohlChickenSalat",
+    "title": "Chinakohl-Hähnchen-Salat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.jpg",
+    "ingredients": [
+      {
+        "amount": 350.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Chinakohl",
+        "group": "Hauptzutaten",
+        "original": "350g Chinakohl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-2 Gurken",
+        "group": "Hauptzutaten",
+        "original": "1-2 Gurken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "gekochte",
+        "name": "Hähnchenbrust",
+        "group": "Hauptzutaten",
+        "original": "1 gekochte Hähnchenbrust"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "gekochte",
+        "name": "Eier",
+        "group": "Hauptzutaten",
+        "original": "3 gekochte Eier"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Dose",
+        "name": "Mais",
+        "group": "Hauptzutaten",
+        "original": "1 Dose Mais"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Petersilie",
+        "group": "Hauptzutaten",
+        "original": "20g Petersilie"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sauerrahm",
+        "group": "Für das Dressing",
+        "original": "3 EL Sauerrahm"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Senf",
+        "group": "Für das Dressing",
+        "original": "1 TL Senf"
+      },
+      {
+        "amount": 0.6666666666666666,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz (nach Geschmack)",
+        "group": "Für das Dressing",
+        "original": "2/3 TL Salz (nach Geschmack)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schwarzer Pfeffer nach Geschmack",
+        "group": "Für das Dressing",
+        "original": "Schwarzer Pfeffer nach Geschmack"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-2 Knoblauchzehen",
+        "group": "Für das Dressing",
+        "original": "1-2 Knoblauchzehen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zitronensaft",
+        "group": "Für das Dressing",
+        "original": "1 EL Zitronensaft"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Chinakohl waschen, trocken schütteln und in feine Streifen schneiden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gurken waschen und in kleine Würfel schneiden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gekochte Hähnchenbrust in mundgerechte Stücke schneiden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gekochte Eier schälen und würfeln.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Mais abtropfen lassen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Petersilie waschen und fein hacken.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Alle Zutaten in eine große Salatschüssel geben.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Sauerrahm, Senf, Salz, schwarzen Pfeffer, gepressten Knoblauch und Zitronensaft gut vermischen.",
+        "group": "Für das Dressing"
+      },
+      {
+        "text": "Dressing über den Salat geben und alles gut vermengen.",
+        "group": "Für das Dressing"
+      },
+      {
+        "text": "Kurz durchziehen lassen und servieren.",
+        "group": "Für das Dressing"
+      }
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 4
+  },
+  {
+    "id": "KartoffelRoestiTacos",
+    "title": "Kartoffel-Rösti-Tacos",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffel-roesti-tacos.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "4-5 Kartoffeln",
+        "group": "Für die Rösti-Schalen",
+        "original": "4-5 Kartoffeln"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Für die Rösti-Schalen",
+        "original": "2 Eier"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "Für die Rösti-Schalen",
+        "original": "2 EL Mehl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "italienische Kräuter",
+        "group": "Für die Rösti-Schalen",
+        "original": "1 TL italienische Kräuter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Rösti-Schalen",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Rösti-Schalen",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Braten",
+        "group": "Für die Rösti-Schalen",
+        "original": "Öl zum Braten"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch",
+        "group": "Für die Füllung",
+        "original": "300g Hackfleisch"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ketchup oder Marinara-Sauce",
+        "group": "Für die Füllung",
+        "original": "2 EL Ketchup oder Marinara-Sauce"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Füllung",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Füllung",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Manchego-Käse oder Lieblingskäse (nach Belieben)",
+        "group": "Zum Toppen",
+        "original": "Manchego-Käse oder Lieblingskäse (nach Belieben)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Dill oder Koriander (optional)",
+        "group": "Zum Toppen",
+        "original": "Dill oder Koriander (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Öl in einer Pfanne erhitzen.",
+        "group": "Hackfleisch"
+      },
+      {
+        "text": "Hackfleisch hinzugeben und krümelig anbraten.",
+        "group": "Hackfleisch"
+      },
+      {
+        "text": "Mit Salz und Pfeffer würzen und beiseite stellen.",
+        "group": "Hackfleisch"
+      },
+      {
+        "text": "Kartoffeln schälen und fein reiben.",
+        "group": "Rösti-Masse"
+      },
+      {
+        "text": "Überschüssige Flüssigkeit gut ausdrücken.",
+        "group": "Rösti-Masse"
+      },
+      {
+        "text": "Eier, Mehl, italienische Kräuter, Salz und Pfeffer hinzufügen und gut vermengen.",
+        "group": "Rösti-Masse"
+      },
+      {
+        "text": "Öl in einer Pfanne erhitzen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Kartoffelmasse in die Pfanne geben und zu einem runden Fladen ausbreiten.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Von der Unterseite goldbraun braten, dann umdrehen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Soße gleichmäßig auf dem gesamten Rösti verteilen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Hackfleisch auf einer Hälfte des Röstis verteilen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Käse auf das Hackfleisch geben.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Den Rösti zusammenklappen.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Umdrehen und fertig backen, bis beide Seiten knusprig sind.",
+        "group": "Rösti-Tacos"
+      },
+      {
+        "text": "Mit frischem Dill oder Koriander garnieren und servieren.",
+        "group": "Rösti-Tacos"
+      }
+    ],
+    "category": "Europäisch",
+    "servings": 4
+  },
+  {
+    "id": "ThaiShrimpCurry",
+    "title": "Thai Curry Shrimp",
+    "image": "https://radiatortwo.github.io/rezepte/pics/thai-curry-shrimp.jpg",
+    "ingredients": [
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "große Garnelen (geschält und entdarmt)",
+        "group": "Hauptzutaten",
+        "original": "450g große Garnelen (geschält und entdarmt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Hauptzutaten",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ mittelgroße Zwiebel (fein gehackt)",
+        "group": "Hauptzutaten",
+        "original": "½ mittelgroße Zwiebel (fein gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Paprika (in dünne Streifen geschnitten)",
+        "group": "Hauptzutaten",
+        "original": "1 rote Paprika (in dünne Streifen geschnitten)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Karotte",
+        "name": "(in dünne breite Streifen geschnitten)",
+        "group": "Hauptzutaten",
+        "original": "1 Karotte (in dünne breite Streifen geschnitten)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Knoblauchzehen",
+        "name": "(gehackt)",
+        "group": "Hauptzutaten",
+        "original": "2 Knoblauchzehen (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "frischer Ingwer (gerieben)",
+        "group": "Hauptzutaten",
+        "original": "1 EL frischer Ingwer (gerieben)"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Kokosmilch (1 Dose)",
+        "group": "Für die Sauce",
+        "original": "400ml Kokosmilch (1 Dose)"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe (natriumarm)",
+        "group": "Für die Sauce",
+        "original": "120ml Hühnerbrühe (natriumarm)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Fischsauce",
+        "group": "Für die Sauce",
+        "original": "1 EL Fischsauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Für die Sauce",
+        "original": "1 EL brauner Zucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Salz (nach Geschmack anpassen)",
+        "group": "Für die Sauce",
+        "original": "½ TL Salz (nach Geschmack anpassen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Currypulver",
+        "group": "Gewürzmischung",
+        "original": "1 TL Currypulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Cayennepfeffer (oder weniger bei gewünschter Schärfe)",
+        "group": "Gewürzmischung",
+        "original": "½ TL Cayennepfeffer (oder weniger bei gewünschter Schärfe)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Paprikapulver",
+        "group": "Gewürzmischung",
+        "original": "½ TL Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Kreuzkümmel (Cumin)",
+        "group": "Gewürzmischung",
+        "original": "½ TL Kreuzkümmel (Cumin)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ TL Koriander (gemahlen)",
+        "group": "Gewürzmischung",
+        "original": "¼ TL Koriander (gemahlen)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ Tasse frisches Basilikum (gehackt)",
+        "group": "Zum Servieren",
+        "original": "¼ Tasse frisches Basilikum (gehackt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ Tasse frischer Koriander (gehackt, plus extra zum Garnieren)",
+        "group": "Zum Servieren",
+        "original": "¼ Tasse frischer Koriander (gehackt, plus extra zum Garnieren)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Limettensaft",
+        "group": "Zum Servieren",
+        "original": "1 EL Limettensaft"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Garnelen abspülen und trocken tupfen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Zwiebel fein hacken und Paprika in dünne Streifen schneiden.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Knoblauch hacken und Ingwer fein reiben.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Basilikum und Koriander grob hacken.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Alle Gewürze der Gewürzmischung in einer kleinen Schüssel vermengen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Olivenöl in einer großen Pfanne oder einem Wok bei mittlerer bis hoher Hitze erhitzen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Zwiebel, Paprika und Karotten hinzugeben und 3-4 Minuten anbraten, bis sie weich werden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Knoblauch und Ingwer hinzufügen und eine weitere Minute unter Rühren braten.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gewürzmischung einrühren und 30 Sekunden anrösten, bis sie duftet.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Kokosmilch und Hühnerbrühe hinzugießen und gut verrühren.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Fischsauce, braunen Zucker und Salz einrühren.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Die Sauce zum Köcheln bringen und 5 Minuten einreduzieren lassen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Garnelen hinzufügen und 3-4 Minuten garen, bis sie rosa und durchgegart sind.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Pfanne vom Herd nehmen und Basilikum, Koriander und Limettensaft unterrühren.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Mit extra Koriander garnieren und mit Jasminreis servieren.",
+        "group": "Hauptgericht"
+      }
+    ],
+    "category": "Asiatische Küche",
+    "servings": 4
+  },
+  {
+    "id": "BananaBrownie",
+    "title": "Bananen Brownies (ohne Mehl)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/banana-brownies.jpg",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "reife",
+        "name": "Bananen (zerdrückt)",
+        "group": "Nasse Zutaten",
+        "original": "3 reife Bananen (zerdrückt)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Nussbutter (nach Wahl)",
+        "group": "Nasse Zutaten",
+        "original": "60ml Nussbutter (nach Wahl)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "geschmolzene Butter",
+        "group": "Nasse Zutaten",
+        "original": "60ml geschmolzene Butter"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ahornsirup",
+        "group": "Nasse Zutaten",
+        "original": "3 EL Ahornsirup"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Vanilleextrakt",
+        "group": "Nasse Zutaten",
+        "original": "1 TL Vanilleextrakt"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "ungesüßtes Kakaopulver",
+        "group": "Trockene Zutaten",
+        "original": "120g ungesüßtes Kakaopulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Natron",
+        "group": "Trockene Zutaten",
+        "original": "½ TL Natron"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Trockene Zutaten",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schokoladenstückchen",
+        "group": "Topping",
+        "original": "Schokoladenstückchen"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die zerdrückten Bananen mit Nussbutter, geschmolzener Butter, Ahornsirup und Vanilleextrakt in einer Schüssel vermischen.",
+        "group": "Teig"
+      },
+      {
+        "text": "Kakaopulver, Natron und Salz hinzufügen und alles gut verrühren.",
+        "group": "Teig"
+      },
+      {
+        "text": "Den Teig in eine Brownie-Form oder Muffin-Form geben.",
+        "group": "Backen"
+      },
+      {
+        "text": "Schokoladenstückchen auf der Oberfläche verteilen.",
+        "group": "Backen"
+      },
+      {
+        "text": "Bei 175°C für 15-20 Minuten backen.",
+        "group": "Backen"
+      }
+    ],
+    "category": "",
+    "servings": 12
+  },
+  {
+    "id": "SoffritoBolognese",
+    "title": "Soffrito Bolognese",
+    "image": "https://radiatortwo.github.io/rezepte/pics/soffrito-bolognese.webp",
+    "ingredients": [
+      {
+        "amount": 125.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter",
+        "group": "Für das Soffritto",
+        "original": "125g Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "wenig Olivenöl",
+        "group": "Für das Soffritto",
+        "original": "wenig Olivenöl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Zwiebeln",
+        "group": "Für das Soffritto",
+        "original": "2 große Zwiebeln"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Möhren",
+        "group": "Für das Soffritto",
+        "original": "3 Möhren"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Stangen",
+        "name": "Staudensellerie",
+        "group": "Für das Soffritto",
+        "original": "3 Stangen Staudensellerie"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Rinderhackfleisch",
+        "group": "Für den Sugo",
+        "original": "1 kg Rinderhackfleisch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Schuss",
+        "name": "Weißwein",
+        "group": "Für den Sugo",
+        "original": "1 Schuss Weißwein"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": 500.0,
+        "unit": "ml",
+        "name": "Milch (abhängig von der Saucenmenge)",
+        "group": "Für den Sugo",
+        "original": "250-500 ml Milch (abhängig von der Saucenmenge)"
+      },
+      {
+        "amount": 1.5,
+        "amount_max": null,
+        "unit": "Dosen",
+        "name": "Tomaten (à 400g, idealerweise San Marzano Eiertomaten)",
+        "group": "Für den Sugo",
+        "original": "1,5 Dosen Tomaten (à 400g, idealerweise San Marzano Eiertomaten)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, in Scheiben geschnitten",
+        "group": "Für den Sugo",
+        "original": "3 Knoblauchzehen, in Scheiben geschnitten"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Peperoncini, zerstampft",
+        "group": "Für den Sugo",
+        "original": "3 Peperoncini, zerstampft"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Meersalz",
+        "group": "Für den Sugo",
+        "original": "Meersalz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer, schwarz",
+        "group": "Für den Sugo",
+        "original": "Pfeffer, schwarz"
+      },
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Spaghetti",
+        "group": "Außerdem",
+        "original": "600g Spaghetti"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Butter und etwas Olivenöl in eine Pfanne geben. Zwiebeln, Möhren und Staudensellerie putzen bzw. schälen und ganz fein hacken. Das Gemüse auf möglichst niedriger Flamme langsam für mindestens 30 Minuten darin garen, bis es schön glasig und weich geworden ist. Wichtig: Das Gemüse soll nicht braten, sondern nur dünsten - also nicht zu heiß werden lassen.",
+        "group": "Das Soffritto"
+      },
+      {
+        "text": "Währenddessen das Rinderhackfleisch in einer weiteren Pfanne scharf braten, bis es kräftig Farbe annimmt. Mit einem Schuss Weißwein ablöschen, sodass sich alles Angebackene vom Boden lösen lässt. Je nach Saucenmenge ca. 250-500 ml Milch hinzugeben, die sich um das Hackfleisch legt und diesem einen ganz milden Geschmack verleiht.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "Sobald das Fleisch mit Weißwein und Milch aufkocht, die Dosentomaten hinzugeben. Wenn alles wieder aufgekocht ist, das Soffritto hinzufügen. Den in Scheiben geschnittenen Knoblauch und die zerstampften Peperoncini ebenfalls hinzugeben. Mit Meersalz und frisch gemahlenem schwarzem Pfeffer abschmecken.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "Die Bolognese mindestens 2 Stunden, idealerweise ca. 5 Stunden köcheln lassen. Bei Bedarf immer mal etwas Wasser oder leichte Brühe nachgießen, damit nichts anbrennt. Optional etwa 1 Stunde vor der Mahlzeit langsam aufwärmen.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "**Tipp:** Man kann auch noch ein wenig frisch gehackte Möhre und Staudensellerie nachschieben, um mehr Biss an das Gemüse zu bekommen.",
+        "group": "Für den Sugo"
+      },
+      {
+        "text": "In der Zwischenzeit die Spaghetti nach Packungsanweisung bissfest kochen und anschließend abgießen. Die Spaghetti auf Tellern anrichten und die Bolognese darüber verteilen. Heiß servieren.",
+        "group": "Fertigstellung"
+      }
+    ],
+    "category": "Europäisch",
+    "servings": 6
+  },
+  {
     "id": "KfcSliders",
     "title": "KFC Zinger Sliders",
     "image": "https://radiatortwo.github.io/rezepte/pics/kfc-zinger-sliders.webp",
@@ -4301,284 +5104,6 @@
     "servings": 2
   },
   {
-    "id": "KartoffelRoestiTacos",
-    "title": "Kartoffel-Rösti-Tacos",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffel-roesti-tacos.jpg",
-    "ingredients": [
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "4-5 Kartoffeln",
-        "group": "Für die Rösti-Schalen",
-        "original": "4-5 Kartoffeln"
-      },
-      {
-        "amount": 2.0,
-        "amount_max": null,
-        "unit": "",
-        "name": "Eier",
-        "group": "Für die Rösti-Schalen",
-        "original": "2 Eier"
-      },
-      {
-        "amount": 2.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Mehl",
-        "group": "Für die Rösti-Schalen",
-        "original": "2 EL Mehl"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "TL",
-        "name": "italienische Kräuter",
-        "group": "Für die Rösti-Schalen",
-        "original": "1 TL italienische Kräuter"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Salz",
-        "group": "Für die Rösti-Schalen",
-        "original": "Salz"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Pfeffer",
-        "group": "Für die Rösti-Schalen",
-        "original": "Pfeffer"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Öl zum Braten",
-        "group": "Für die Rösti-Schalen",
-        "original": "Öl zum Braten"
-      },
-      {
-        "amount": 300.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "Hackfleisch",
-        "group": "Für die Füllung",
-        "original": "300g Hackfleisch"
-      },
-      {
-        "amount": 2.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Ketchup oder Marinara-Sauce",
-        "group": "Für die Füllung",
-        "original": "2 EL Ketchup oder Marinara-Sauce"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Salz",
-        "group": "Für die Füllung",
-        "original": "Salz"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Pfeffer",
-        "group": "Für die Füllung",
-        "original": "Pfeffer"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Manchego-Käse oder Lieblingskäse (nach Belieben)",
-        "group": "Zum Toppen",
-        "original": "Manchego-Käse oder Lieblingskäse (nach Belieben)"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Dill oder Koriander (optional)",
-        "group": "Zum Toppen",
-        "original": "Dill oder Koriander (optional)"
-      }
-    ],
-    "instructions": [
-      {
-        "text": "Öl in einer Pfanne erhitzen.",
-        "group": "Hackfleisch"
-      },
-      {
-        "text": "Hackfleisch hinzugeben und krümelig anbraten.",
-        "group": "Hackfleisch"
-      },
-      {
-        "text": "Mit Salz und Pfeffer würzen und beiseite stellen.",
-        "group": "Hackfleisch"
-      },
-      {
-        "text": "Kartoffeln schälen und fein reiben.",
-        "group": "Rösti-Masse"
-      },
-      {
-        "text": "Überschüssige Flüssigkeit gut ausdrücken.",
-        "group": "Rösti-Masse"
-      },
-      {
-        "text": "Eier, Mehl, italienische Kräuter, Salz und Pfeffer hinzufügen und gut vermengen.",
-        "group": "Rösti-Masse"
-      },
-      {
-        "text": "Öl in einer Pfanne erhitzen.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Kartoffelmasse in die Pfanne geben und zu einem runden Fladen ausbreiten.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Von der Unterseite goldbraun braten, dann umdrehen.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Soße gleichmäßig auf dem gesamten Rösti verteilen.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Hackfleisch auf einer Hälfte des Röstis verteilen.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Käse auf das Hackfleisch geben.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Den Rösti zusammenklappen.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Umdrehen und fertig backen, bis beide Seiten knusprig sind.",
-        "group": "Rösti-Tacos"
-      },
-      {
-        "text": "Mit frischem Dill oder Koriander garnieren und servieren.",
-        "group": "Rösti-Tacos"
-      }
-    ],
-    "category": "Europäisch",
-    "servings": 4
-  },
-  {
-    "id": "BananaBrownie",
-    "title": "Bananen Brownies (ohne Mehl)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/banana-brownies.jpg",
-    "ingredients": [
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "reife",
-        "name": "Bananen (zerdrückt)",
-        "group": "Nasse Zutaten",
-        "original": "3 reife Bananen (zerdrückt)"
-      },
-      {
-        "amount": 60.0,
-        "amount_max": null,
-        "unit": "ml",
-        "name": "Nussbutter (nach Wahl)",
-        "group": "Nasse Zutaten",
-        "original": "60ml Nussbutter (nach Wahl)"
-      },
-      {
-        "amount": 60.0,
-        "amount_max": null,
-        "unit": "ml",
-        "name": "geschmolzene Butter",
-        "group": "Nasse Zutaten",
-        "original": "60ml geschmolzene Butter"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Ahornsirup",
-        "group": "Nasse Zutaten",
-        "original": "3 EL Ahornsirup"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "TL",
-        "name": "Vanilleextrakt",
-        "group": "Nasse Zutaten",
-        "original": "1 TL Vanilleextrakt"
-      },
-      {
-        "amount": 120.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "ungesüßtes Kakaopulver",
-        "group": "Trockene Zutaten",
-        "original": "120g ungesüßtes Kakaopulver"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "½ TL Natron",
-        "group": "Trockene Zutaten",
-        "original": "½ TL Natron"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "Prise",
-        "name": "Salz",
-        "group": "Trockene Zutaten",
-        "original": "1 Prise Salz"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Schokoladenstückchen",
-        "group": "Topping",
-        "original": "Schokoladenstückchen"
-      }
-    ],
-    "instructions": [
-      {
-        "text": "Die zerdrückten Bananen mit Nussbutter, geschmolzener Butter, Ahornsirup und Vanilleextrakt in einer Schüssel vermischen.",
-        "group": "Teig"
-      },
-      {
-        "text": "Kakaopulver, Natron und Salz hinzufügen und alles gut verrühren.",
-        "group": "Teig"
-      },
-      {
-        "text": "Den Teig in eine Brownie-Form oder Muffin-Form geben.",
-        "group": "Backen"
-      },
-      {
-        "text": "Schokoladenstückchen auf der Oberfläche verteilen.",
-        "group": "Backen"
-      },
-      {
-        "text": "Bei 175°C für 15-20 Minuten backen.",
-        "group": "Backen"
-      }
-    ],
-    "category": "",
-    "servings": 12
-  },
-  {
     "id": "BurgerBuns",
     "title": "Burger Buns",
     "image": "https://radiatortwo.github.io/rezepte/pics/burger_buns.jpg",
@@ -8357,384 +8882,6 @@
     "servings": 2
   },
   {
-    "id": "ThaiShrimpCurry",
-    "title": "Thai Curry Shrimp",
-    "image": "https://radiatortwo.github.io/rezepte/pics/thai-curry-shrimp.jpg",
-    "ingredients": [
-      {
-        "amount": 450.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "große Garnelen (geschält und entdarmt)",
-        "group": "Hauptzutaten",
-        "original": "450g große Garnelen (geschält und entdarmt)"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Olivenöl",
-        "group": "Hauptzutaten",
-        "original": "1 EL Olivenöl"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "½ mittelgroße Zwiebel (fein gehackt)",
-        "group": "Hauptzutaten",
-        "original": "½ mittelgroße Zwiebel (fein gehackt)"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "rote",
-        "name": "Paprika (in dünne Streifen geschnitten)",
-        "group": "Hauptzutaten",
-        "original": "1 rote Paprika (in dünne Streifen geschnitten)"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "Karotte",
-        "name": "(in dünne breite Streifen geschnitten)",
-        "group": "Hauptzutaten",
-        "original": "1 Karotte (in dünne breite Streifen geschnitten)"
-      },
-      {
-        "amount": 2.0,
-        "amount_max": null,
-        "unit": "Knoblauchzehen",
-        "name": "(gehackt)",
-        "group": "Hauptzutaten",
-        "original": "2 Knoblauchzehen (gehackt)"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "frischer Ingwer (gerieben)",
-        "group": "Hauptzutaten",
-        "original": "1 EL frischer Ingwer (gerieben)"
-      },
-      {
-        "amount": 400.0,
-        "amount_max": null,
-        "unit": "ml",
-        "name": "Kokosmilch (1 Dose)",
-        "group": "Für die Sauce",
-        "original": "400ml Kokosmilch (1 Dose)"
-      },
-      {
-        "amount": 120.0,
-        "amount_max": null,
-        "unit": "ml",
-        "name": "Hühnerbrühe (natriumarm)",
-        "group": "Für die Sauce",
-        "original": "120ml Hühnerbrühe (natriumarm)"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Fischsauce",
-        "group": "Für die Sauce",
-        "original": "1 EL Fischsauce"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "brauner Zucker",
-        "group": "Für die Sauce",
-        "original": "1 EL brauner Zucker"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "½ TL Salz (nach Geschmack anpassen)",
-        "group": "Für die Sauce",
-        "original": "½ TL Salz (nach Geschmack anpassen)"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "TL",
-        "name": "Currypulver",
-        "group": "Gewürzmischung",
-        "original": "1 TL Currypulver"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "½ TL Cayennepfeffer (oder weniger bei gewünschter Schärfe)",
-        "group": "Gewürzmischung",
-        "original": "½ TL Cayennepfeffer (oder weniger bei gewünschter Schärfe)"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "½ TL Paprikapulver",
-        "group": "Gewürzmischung",
-        "original": "½ TL Paprikapulver"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "½ TL Kreuzkümmel (Cumin)",
-        "group": "Gewürzmischung",
-        "original": "½ TL Kreuzkümmel (Cumin)"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "¼ TL Koriander (gemahlen)",
-        "group": "Gewürzmischung",
-        "original": "¼ TL Koriander (gemahlen)"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "¼ Tasse frisches Basilikum (gehackt)",
-        "group": "Zum Servieren",
-        "original": "¼ Tasse frisches Basilikum (gehackt)"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "¼ Tasse frischer Koriander (gehackt, plus extra zum Garnieren)",
-        "group": "Zum Servieren",
-        "original": "¼ Tasse frischer Koriander (gehackt, plus extra zum Garnieren)"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Limettensaft",
-        "group": "Zum Servieren",
-        "original": "1 EL Limettensaft"
-      }
-    ],
-    "instructions": [
-      {
-        "text": "Garnelen abspülen und trocken tupfen.",
-        "group": "Vorbereitung"
-      },
-      {
-        "text": "Zwiebel fein hacken und Paprika in dünne Streifen schneiden.",
-        "group": "Vorbereitung"
-      },
-      {
-        "text": "Knoblauch hacken und Ingwer fein reiben.",
-        "group": "Vorbereitung"
-      },
-      {
-        "text": "Basilikum und Koriander grob hacken.",
-        "group": "Vorbereitung"
-      },
-      {
-        "text": "Alle Gewürze der Gewürzmischung in einer kleinen Schüssel vermengen.",
-        "group": "Vorbereitung"
-      },
-      {
-        "text": "Olivenöl in einer großen Pfanne oder einem Wok bei mittlerer bis hoher Hitze erhitzen.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Zwiebel, Paprika und Karotten hinzugeben und 3-4 Minuten anbraten, bis sie weich werden.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Knoblauch und Ingwer hinzufügen und eine weitere Minute unter Rühren braten.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Gewürzmischung einrühren und 30 Sekunden anrösten, bis sie duftet.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Kokosmilch und Hühnerbrühe hinzugießen und gut verrühren.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Fischsauce, braunen Zucker und Salz einrühren.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Die Sauce zum Köcheln bringen und 5 Minuten einreduzieren lassen.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Garnelen hinzufügen und 3-4 Minuten garen, bis sie rosa und durchgegart sind.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Pfanne vom Herd nehmen und Basilikum, Koriander und Limettensaft unterrühren.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Mit extra Koriander garnieren und mit Jasminreis servieren.",
-        "group": "Hauptgericht"
-      }
-    ],
-    "category": "Asiatische Küche",
-    "servings": 4
-  },
-  {
-    "id": "ChinakohlChickenSalat",
-    "title": "Chinakohl-Hähnchen-Salat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.jpg",
-    "ingredients": [
-      {
-        "amount": 350.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "Chinakohl",
-        "group": "Hauptzutaten",
-        "original": "350g Chinakohl"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "1-2 Gurken",
-        "group": "Hauptzutaten",
-        "original": "1-2 Gurken"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "gekochte",
-        "name": "Hähnchenbrust",
-        "group": "Hauptzutaten",
-        "original": "1 gekochte Hähnchenbrust"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "gekochte",
-        "name": "Eier",
-        "group": "Hauptzutaten",
-        "original": "3 gekochte Eier"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "Dose",
-        "name": "Mais",
-        "group": "Hauptzutaten",
-        "original": "1 Dose Mais"
-      },
-      {
-        "amount": 20.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "Petersilie",
-        "group": "Hauptzutaten",
-        "original": "20g Petersilie"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Sauerrahm",
-        "group": "Für das Dressing",
-        "original": "3 EL Sauerrahm"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "TL",
-        "name": "Senf",
-        "group": "Für das Dressing",
-        "original": "1 TL Senf"
-      },
-      {
-        "amount": 0.6666666666666666,
-        "amount_max": null,
-        "unit": "TL",
-        "name": "Salz (nach Geschmack)",
-        "group": "Für das Dressing",
-        "original": "2/3 TL Salz (nach Geschmack)"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Schwarzer Pfeffer nach Geschmack",
-        "group": "Für das Dressing",
-        "original": "Schwarzer Pfeffer nach Geschmack"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "1-2 Knoblauchzehen",
-        "group": "Für das Dressing",
-        "original": "1-2 Knoblauchzehen"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Zitronensaft",
-        "group": "Für das Dressing",
-        "original": "1 EL Zitronensaft"
-      }
-    ],
-    "instructions": [
-      {
-        "text": "Chinakohl waschen, trocken schütteln und in feine Streifen schneiden.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Gurken waschen und in kleine Würfel schneiden.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Gekochte Hähnchenbrust in mundgerechte Stücke schneiden.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Gekochte Eier schälen und würfeln.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Mais abtropfen lassen.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Petersilie waschen und fein hacken.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Alle Zutaten in eine große Salatschüssel geben.",
-        "group": "Hauptgericht"
-      },
-      {
-        "text": "Sauerrahm, Senf, Salz, schwarzen Pfeffer, gepressten Knoblauch und Zitronensaft gut vermischen.",
-        "group": "Für das Dressing"
-      },
-      {
-        "text": "Dressing über den Salat geben und alles gut vermengen.",
-        "group": "Für das Dressing"
-      },
-      {
-        "text": "Kurz durchziehen lassen und servieren.",
-        "group": "Für das Dressing"
-      }
-    ],
-    "category": "Beilagen & Extras",
-    "servings": 4
-  },
-  {
     "id": "PolloFino",
     "title": "Pollo Fino - Hähnchen Oberkeule ohne Knochen",
     "image": "https://radiatortwo.github.io/rezepte/pics/pollo_fino.jpg",
@@ -11297,153 +11444,6 @@
     ],
     "category": "Soßen",
     "servings": 1
-  },
-  {
-    "id": "SoffritoBolognese",
-    "title": "Soffrito Bolognese",
-    "image": "https://radiatortwo.github.io/rezepte/pics/soffrito-bolognese.webp",
-    "ingredients": [
-      {
-        "amount": 125.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "Butter",
-        "group": "Für das Soffritto",
-        "original": "125g Butter"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "wenig Olivenöl",
-        "group": "Für das Soffritto",
-        "original": "wenig Olivenöl"
-      },
-      {
-        "amount": 2.0,
-        "amount_max": null,
-        "unit": "große",
-        "name": "Zwiebeln",
-        "group": "Für das Soffritto",
-        "original": "2 große Zwiebeln"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "",
-        "name": "Möhren",
-        "group": "Für das Soffritto",
-        "original": "3 Möhren"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "Stangen",
-        "name": "Staudensellerie",
-        "group": "Für das Soffritto",
-        "original": "3 Stangen Staudensellerie"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "kg",
-        "name": "Rinderhackfleisch",
-        "group": "Für den Sugo",
-        "original": "1 kg Rinderhackfleisch"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "Schuss",
-        "name": "Weißwein",
-        "group": "Für den Sugo",
-        "original": "1 Schuss Weißwein"
-      },
-      {
-        "amount": 250.0,
-        "amount_max": 500.0,
-        "unit": "ml",
-        "name": "Milch (abhängig von der Saucenmenge)",
-        "group": "Für den Sugo",
-        "original": "250-500 ml Milch (abhängig von der Saucenmenge)"
-      },
-      {
-        "amount": 1.5,
-        "amount_max": null,
-        "unit": "Dosen",
-        "name": "Tomaten (à 400g, idealerweise San Marzano Eiertomaten)",
-        "group": "Für den Sugo",
-        "original": "1,5 Dosen Tomaten (à 400g, idealerweise San Marzano Eiertomaten)"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "",
-        "name": "Knoblauchzehen, in Scheiben geschnitten",
-        "group": "Für den Sugo",
-        "original": "3 Knoblauchzehen, in Scheiben geschnitten"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "",
-        "name": "Peperoncini, zerstampft",
-        "group": "Für den Sugo",
-        "original": "3 Peperoncini, zerstampft"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Meersalz",
-        "group": "Für den Sugo",
-        "original": "Meersalz"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Pfeffer, schwarz",
-        "group": "Für den Sugo",
-        "original": "Pfeffer, schwarz"
-      },
-      {
-        "amount": 600.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "Spaghetti",
-        "group": "Außerdem",
-        "original": "600g Spaghetti"
-      }
-    ],
-    "instructions": [
-      {
-        "text": "Butter und etwas Olivenöl in eine Pfanne geben. Zwiebeln, Möhren und Staudensellerie putzen bzw. schälen und ganz fein hacken. Das Gemüse auf möglichst niedriger Flamme langsam für mindestens 30 Minuten darin garen, bis es schön glasig und weich geworden ist. Wichtig: Das Gemüse soll nicht braten, sondern nur dünsten - also nicht zu heiß werden lassen.",
-        "group": "Das Soffritto"
-      },
-      {
-        "text": "Währenddessen das Rinderhackfleisch in einer weiteren Pfanne scharf braten, bis es kräftig Farbe annimmt. Mit einem Schuss Weißwein ablöschen, sodass sich alles Angebackene vom Boden lösen lässt. Je nach Saucenmenge ca. 250-500 ml Milch hinzugeben, die sich um das Hackfleisch legt und diesem einen ganz milden Geschmack verleiht.",
-        "group": "Für den Sugo"
-      },
-      {
-        "text": "Sobald das Fleisch mit Weißwein und Milch aufkocht, die Dosentomaten hinzugeben. Wenn alles wieder aufgekocht ist, das Soffritto hinzufügen. Den in Scheiben geschnittenen Knoblauch und die zerstampften Peperoncini ebenfalls hinzugeben. Mit Meersalz und frisch gemahlenem schwarzem Pfeffer abschmecken.",
-        "group": "Für den Sugo"
-      },
-      {
-        "text": "Die Bolognese mindestens 2 Stunden, idealerweise ca. 5 Stunden köcheln lassen. Bei Bedarf immer mal etwas Wasser oder leichte Brühe nachgießen, damit nichts anbrennt. Optional etwa 1 Stunde vor der Mahlzeit langsam aufwärmen.",
-        "group": "Für den Sugo"
-      },
-      {
-        "text": "**Tipp:** Man kann auch noch ein wenig frisch gehackte Möhre und Staudensellerie nachschieben, um mehr Biss an das Gemüse zu bekommen.",
-        "group": "Für den Sugo"
-      },
-      {
-        "text": "In der Zwischenzeit die Spaghetti nach Packungsanweisung bissfest kochen und anschließend abgießen. Die Spaghetti auf Tellern anrichten und die Bolognese darüber verteilen. Heiß servieren.",
-        "group": "Fertigstellung"
-      }
-    ],
-    "category": "Europäisch",
-    "servings": 6
   },
   {
     "id": "ChickenTerriyakiSandwich",
