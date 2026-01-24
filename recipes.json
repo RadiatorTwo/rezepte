@@ -8588,6 +8588,153 @@
     "servings": 4
   },
   {
+    "id": "ChinakohlChickenSalat",
+    "title": "Chinakohl-Hähnchen-Salat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.jpg",
+    "ingredients": [
+      {
+        "amount": 350.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Chinakohl",
+        "group": "Hauptzutaten",
+        "original": "350g Chinakohl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-2 Gurken",
+        "group": "Hauptzutaten",
+        "original": "1-2 Gurken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "gekochte",
+        "name": "Hähnchenbrust",
+        "group": "Hauptzutaten",
+        "original": "1 gekochte Hähnchenbrust"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "gekochte",
+        "name": "Eier",
+        "group": "Hauptzutaten",
+        "original": "3 gekochte Eier"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Dose",
+        "name": "Mais",
+        "group": "Hauptzutaten",
+        "original": "1 Dose Mais"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Petersilie",
+        "group": "Hauptzutaten",
+        "original": "20g Petersilie"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sauerrahm",
+        "group": "Für das Dressing",
+        "original": "3 EL Sauerrahm"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Senf",
+        "group": "Für das Dressing",
+        "original": "1 TL Senf"
+      },
+      {
+        "amount": 0.6666666666666666,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz (nach Geschmack)",
+        "group": "Für das Dressing",
+        "original": "2/3 TL Salz (nach Geschmack)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schwarzer Pfeffer nach Geschmack",
+        "group": "Für das Dressing",
+        "original": "Schwarzer Pfeffer nach Geschmack"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-2 Knoblauchzehen",
+        "group": "Für das Dressing",
+        "original": "1-2 Knoblauchzehen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zitronensaft",
+        "group": "Für das Dressing",
+        "original": "1 EL Zitronensaft"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Chinakohl waschen, trocken schütteln und in feine Streifen schneiden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gurken waschen und in kleine Würfel schneiden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gekochte Hähnchenbrust in mundgerechte Stücke schneiden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Gekochte Eier schälen und würfeln.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Mais abtropfen lassen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Petersilie waschen und fein hacken.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Alle Zutaten in eine große Salatschüssel geben.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Sauerrahm, Senf, Salz, schwarzen Pfeffer, gepressten Knoblauch und Zitronensaft gut vermischen.",
+        "group": "Für das Dressing"
+      },
+      {
+        "text": "Dressing über den Salat geben und alles gut vermengen.",
+        "group": "Für das Dressing"
+      },
+      {
+        "text": "Kurz durchziehen lassen und servieren.",
+        "group": "Für das Dressing"
+      }
+    ],
+    "category": "",
+    "servings": 4
+  },
+  {
     "id": "PolloFino",
     "title": "Pollo Fino - Hähnchen Oberkeule ohne Knochen",
     "image": "https://radiatortwo.github.io/rezepte/pics/pollo_fino.jpg",
