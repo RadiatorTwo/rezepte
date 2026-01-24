@@ -105,3 +105,4 @@
 * [Nudelsalat](https://radiatortwo.github.io/rezepte/BesterNudelsalat)
 * [BBQ Nudelsalat](https://radiatortwo.github.io/rezepte/BBQNudelsalat)
 * [BBQ Chicken Nudelsalat](https://radiatortwo.github.io/rezepte/BBQChickenNudelsalat)
+* [Chinakohl Hähnchen Salat](https://radiatortwo.github.io/rezepte/ChinakohlChickenSalat)
