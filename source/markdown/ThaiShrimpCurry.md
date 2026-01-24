@@ -11,6 +11,7 @@ Portionen: 4
 1 EL Olivenöl
 ½ mittelgroße Zwiebel (fein gehackt)
 1 rote Paprika (in dünne Streifen geschnitten)
+1 Karotte (in dünne breite Streifen geschnitten)
 2 Knoblauchzehen (gehackt)
 1 EL frischer Ingwer (gerieben)
 
@@ -44,7 +45,7 @@ Alle Gewürze der Gewürzmischung in einer kleinen Schüssel vermengen.
 
 ### Hauptgericht
 Olivenöl in einer großen Pfanne oder einem Wok bei mittlerer bis hoher Hitze erhitzen.
-Zwiebel und Paprika hinzugeben und 3-4 Minuten anbraten, bis sie weich werden.
+Zwiebel, Paprika und Karotten hinzugeben und 3-4 Minuten anbraten, bis sie weich werden.
 Knoblauch und Ingwer hinzufügen und eine weitere Minute unter Rühren braten.
 Gewürzmischung einrühren und 30 Sekunden anrösten, bis sie duftet.
 Kokosmilch und Hühnerbrühe hinzugießen und gut verrühren.
