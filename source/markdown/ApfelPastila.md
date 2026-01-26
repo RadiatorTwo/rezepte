@@ -1,4 +1,4 @@
-# Apfel-Pastila (Apfel Marshmallows)
+# Apfel-Pastila
 
 ![](https://radiatortwo.github.io/rezepte/pics/apfel-pastila.jpg)
 
@@ -12,7 +12,7 @@ Ruhezeit: 1 Stunde
 ### Hauptzutaten
 800 g Apfelpüree (ca. 1,5 kg Äpfel)
 170 ml Wasser
-20 g Agar-Agar (Gelstärke 900)
+20 g Agar-Agar (Gelstärke 900) oder 60 g Gelatine (in Pulverform)
 480 g + 200 g Zucker
 80 g Eiweiß (von 2 großen Eiern)
 1/4 TL Zitronensäure in Lebensmittelqualität
@@ -29,7 +29,9 @@ Entkerne Äpfel, viertele sie, verteile sie auf einem mit Backpapier ausgelegten
 Gib die gebackenen Apfelstücke in eine Schüssel, püriere sie mit einem Stabmixer, streiche das Apfelpüree anschließend durch ein feines Sieb und wiege 800 Gramm davon ab.
 
 ### Hauptzubereitung
-Gib Wasser in einen Kochtopf mit dickem Boden und löse darin Agar-Agar auf.
+**Mit Agar-Agar:** Gib Wasser in einen Kochtopf mit dickem Boden und löse darin Agar-Agar auf.
+
+**Mit Gelatine:** Streue Gelatine über das kalte Wasser und lass sie 5-10 Minuten quellen.
 
 Füge das Apfelpüree und 480 g Zucker hinzu und rühre es um.
 
@@ -39,7 +41,7 @@ Lege ein Backblech mit Backpapier aus.
 
 Schlage die Eiweißmasse steif.
 
-Bringe währenddessen die Apfelpüree-Masse unter Rühren zum Kochen und köchele sie unter ständigem Rühren 4-5 Minuten.
+Bringe währenddessen die Apfelpüree-Masse unter Rühren zum Kochen und köchele sie unter ständigem Rühren 4-5 Minuten. **Bei Gelatine:** Achte darauf, dass die Gelatine vollständig aufgelöst ist, aber lass die Masse nicht zu lange kochen.
 
 Gieße die heiße Apfelpüree-Masse in einem dünnen Strahl zur steifen Eiweißmasse, während du sie bei mittlerer Geschwindigkeit schlägst.
 
@@ -62,7 +64,9 @@ Am besten sind saure, grüne oder unreife Äpfel, die frisch und knackig sind, f
 
 Die angegebene Backzeit der Äpfel kann bei dir stark abweichen. Sie hängt von der Sorte der Äpfel und der Größe der Stücke ab.
 
-Verwende reinen Agar-Agar guter Qualität und ohne Zusätze für das Rezept. Mein Agar-Agar hat Gelstärke 900. Ist dein pflanzliches Geliermittel schwächer, brauchst du mehr davon.
+**Agar-Agar:** Verwende reinen Agar-Agar guter Qualität und ohne Zusätze für das Rezept. Mein Agar-Agar hat Gelstärke 900. Ist dein pflanzliches Geliermittel schwächer, brauchst du mehr davon.
+
+**Gelatine:** Bei Verwendung von Gelatine benötigst du etwa die dreifache Menge (ca. 60 g). Gelatine muss vor der Verwendung in kaltem Wasser quellen. Die Pastila mit Gelatine ist nicht vegetarisch/vegan und sollte kühl gelagert werden.
 
 Die Zuckermenge solltest du nicht reduzieren, denn davon hängt die Festigkeit der Süßigkeit ab.
 
@@ -70,7 +74,7 @@ Statt mit Vanille kannst du die Pastila mit Zimt oder anderen Gewürzen aromatis
 
 Verteile die fertige Eiweiß-Apfelmasse möglichst zügig auf dem Backblech, denn sie wird ziemlich schnell fest.
 
-Bewahre die selbstgemachte Apfel-Pastila in einer Pappschachtel oder einer ähnlichen Verpackung an einem trockenen Ort bei Zimmertemperatur auf. Vorher gründlich getrocknet ist sie über mehrere Wochen haltbar.
+Bewahre die selbstgemachte Apfel-Pastila in einer Pappschachtel oder einer ähnlichen Verpackung an einem trockenen Ort bei Zimmertemperatur auf. Vorher gründlich getrocknet ist sie über mehrere Wochen haltbar. **Bei Gelatine:** Bewahre die Pastila im Kühlschrank auf.
 
 Mit den zurückgebliebenen Eigelben kannst du einen Vanillepudding kochen, die Rogaliki mit Marmelade "Nezhenki" backen oder das Mango-Tiramisu im Glas zubereiten.
 
