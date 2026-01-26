@@ -1,5 +1,140 @@
 [
   {
+    "id": "ApfelPastila",
+    "title": "Apfel-Pastila (Apfel Marshmallows)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/apfel-pastila.jpg",
+    "ingredients": [
+      {
+        "amount": 800.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Apfelpüree (ca. 1,5 kg Äpfel)",
+        "group": "Hauptzutaten",
+        "original": "800 g Apfelpüree (ca. 1,5 kg Äpfel)"
+      },
+      {
+        "amount": 170.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Hauptzutaten",
+        "original": "170 ml Wasser"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Agar-Agar (Gelstärke 900)",
+        "group": "Hauptzutaten",
+        "original": "20 g Agar-Agar (Gelstärke 900)"
+      },
+      {
+        "amount": 480.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "+ 200 g Zucker",
+        "group": "Hauptzutaten",
+        "original": "480 g + 200 g Zucker"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Eiweiß (von 2 großen Eiern)",
+        "group": "Hauptzutaten",
+        "original": "80 g Eiweiß (von 2 großen Eiern)"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zitronensäure in Lebensmittelqualität",
+        "group": "Hauptzutaten",
+        "original": "1/4 TL Zitronensäure in Lebensmittelqualität"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Vanille gemahlen",
+        "group": "Hauptzutaten",
+        "original": "1 Prise Vanille gemahlen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Puderzucker",
+        "group": "Zum Wälzen",
+        "original": "Puderzucker"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Entkerne Äpfel, viertele sie, verteile sie auf einem mit Backpapier ausgelegten Backblech und backe sie im vorgeheizten Backofen bei 180 °C Ober- und Unterhitze ca. 30-50 Minuten (je nach Apfelsorte), bis sie sehr weich sind und beim Draufdrücken zerfallen.",
+        "group": "Vorbereitung der Äpfel"
+      },
+      {
+        "text": "Gib die gebackenen Apfelstücke in eine Schüssel, püriere sie mit einem Stabmixer, streiche das Apfelpüree anschließend durch ein feines Sieb und wiege 800 Gramm davon ab.",
+        "group": "Vorbereitung der Äpfel"
+      },
+      {
+        "text": "Gib Wasser in einen Kochtopf mit dickem Boden und löse darin Agar-Agar auf.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Füge das Apfelpüree und 480 g Zucker hinzu und rühre es um.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Gib Eiweiße, 200 g Zucker, Zitronensäure und Vanille in eine große Rührschüssel.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Lege ein Backblech mit Backpapier aus.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Schlage die Eiweißmasse steif.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Bringe währenddessen die Apfelpüree-Masse unter Rühren zum Kochen und köchele sie unter ständigem Rühren 4-5 Minuten.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Gieße die heiße Apfelpüree-Masse in einem dünnen Strahl zur steifen Eiweißmasse, während du sie bei mittlerer Geschwindigkeit schlägst.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Schalte das Rührgerät auf hohe Geschwindigkeit und schlage die Apfel-Eiweißmasse 7 Minuten. (Die fertige Masse ist flüssiger, als welche für Zefir.)",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Verteile die Pastila-Masse zügig ca. 2 cm dick auf das mit Backpapier ausgelegte Backblech und streiche sie glatt.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Lass die Pastila-Platte bei Zimmertemperatur ca. 1 Stunde auskühlen und fest werden.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "Bestäube die Pastila-Platte mit Puderzucker und schneide sie in ca. 7 cm x 2 cm große Riegel.",
+        "group": "Fertigstellung"
+      },
+      {
+        "text": "Für sofortigen Verzehr: Wälze jeden Pastila-Riegel in Puderzucker und genieße ihn.",
+        "group": "Fertigstellung"
+      },
+      {
+        "text": "Zum Aufbewahren: Verteile die Pastila-Riegel mit etwas Abstand voneinander auf zwei mit Backpapier ausgelegte Backbleche und lass sie an einem trockenen Ort bei Zimmertemperatur ca. 24-48 Stunden trocknen, bis sie eine dünne trockene Kruste bekommen, wende sie dabei gelegentlich. Oder trockne die Pastila im Backofen bei 30-40 °C Umluft ca. 3-4 Stunden, wende sie auch hier gelegentlich, mach außerdem die Backofentür öfters auf, damit der Dampf entweichen kann, und lass sie danach auskühlen. Wälze jeden Pastila-Riegel anschließend in Puderzucker.",
+        "group": "Fertigstellung"
+      }
+    ],
+    "category": "",
+    "servings": 75
+  },
+  {
     "id": "ChinakohlChickenSalat",
     "title": "Chinakohl-Hähnchen-Salat",
     "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.jpg",
