@@ -1,7 +1,7 @@
 [
   {
     "id": "ApfelPastila",
-    "title": "Apfel-Pastila (Apfel Marshmallows)",
+    "title": "Apfel-Pastila",
     "image": "https://radiatortwo.github.io/rezepte/pics/apfel-pastila.jpg",
     "ingredients": [
       {
@@ -24,9 +24,9 @@
         "amount": 20.0,
         "amount_max": null,
         "unit": "g",
-        "name": "Agar-Agar (Gelstärke 900)",
+        "name": "Agar-Agar (Gelstärke 900) oder 60 g Gelatine (in Pulverform)",
         "group": "Hauptzutaten",
-        "original": "20 g Agar-Agar (Gelstärke 900)"
+        "original": "20 g Agar-Agar (Gelstärke 900) oder 60 g Gelatine (in Pulverform)"
       },
       {
         "amount": 480.0,
@@ -79,7 +79,11 @@
         "group": "Vorbereitung der Äpfel"
       },
       {
-        "text": "Gib Wasser in einen Kochtopf mit dickem Boden und löse darin Agar-Agar auf.",
+        "text": "**Mit Agar-Agar:** Gib Wasser in einen Kochtopf mit dickem Boden und löse darin Agar-Agar auf.",
+        "group": "Hauptzubereitung"
+      },
+      {
+        "text": "**Mit Gelatine:** Streue Gelatine über das kalte Wasser und lass sie 5-10 Minuten quellen.",
         "group": "Hauptzubereitung"
       },
       {
@@ -99,7 +103,7 @@
         "group": "Hauptzubereitung"
       },
       {
-        "text": "Bringe währenddessen die Apfelpüree-Masse unter Rühren zum Kochen und köchele sie unter ständigem Rühren 4-5 Minuten.",
+        "text": "Bringe währenddessen die Apfelpüree-Masse unter Rühren zum Kochen und köchele sie unter ständigem Rühren 4-5 Minuten. **Bei Gelatine:** Achte darauf, dass die Gelatine vollständig aufgelöst ist, aber lass die Masse nicht zu lange kochen.",
         "group": "Hauptzubereitung"
       },
       {
