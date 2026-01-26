@@ -135,6 +135,18 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [
+      "Am besten sind saure, grüne oder unreife Äpfel, die frisch und knackig sind, für das Rezept geeignet.",
+      "Die angegebene Backzeit der Äpfel kann bei dir stark abweichen. Sie hängt von der Sorte der Äpfel und der Größe der Stücke ab.",
+      "**Agar-Agar:** Verwende reinen Agar-Agar guter Qualität und ohne Zusätze für das Rezept. Mein Agar-Agar hat Gelstärke 900. Ist dein pflanzliches Geliermittel schwächer, brauchst du mehr davon.",
+      "**Gelatine:** Bei Verwendung von Gelatine benötigst du etwa die dreifache Menge (ca. 60 g). Gelatine muss vor der Verwendung in kaltem Wasser quellen. Die Pastila mit Gelatine ist nicht vegetarisch/vegan und sollte kühl gelagert werden.",
+      "Die Zuckermenge solltest du nicht reduzieren, denn davon hängt die Festigkeit der Süßigkeit ab.",
+      "Statt mit Vanille kannst du die Pastila mit Zimt oder anderen Gewürzen aromatisieren.",
+      "Verteile die fertige Eiweiß-Apfelmasse möglichst zügig auf dem Backblech, denn sie wird ziemlich schnell fest.",
+      "Bewahre die selbstgemachte Apfel-Pastila in einer Pappschachtel oder einer ähnlichen Verpackung an einem trockenen Ort bei Zimmertemperatur auf. Vorher gründlich getrocknet ist sie über mehrere Wochen haltbar. **Bei Gelatine:** Bewahre die Pastila im Kühlschrank auf.",
+      "Mit den zurückgebliebenen Eigelben kannst du einen Vanillepudding kochen, die Rogaliki mit Marmelade \"Nezhenki\" backen oder das Mango-Tiramisu im Glas zubereiten.",
+      "Beachte die ausführlichen Tipps und Tricks für das Selbermachen der Apfel-Pastila oben im Beitrag."
+    ],
     "category": "Russisch",
     "servings": 75
   },
@@ -282,6 +294,7 @@
         "group": "Für das Dressing"
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -457,6 +470,7 @@
         "group": "Rösti-Tacos"
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 4
   },
@@ -688,6 +702,7 @@
         "group": "Hauptgericht"
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 4
   },
@@ -791,6 +806,7 @@
         "group": "Backen"
       }
     ],
+    "notes": [],
     "category": "",
     "servings": 12
   },
@@ -938,6 +954,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 6
   },
@@ -1113,6 +1130,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 5
   },
@@ -1236,6 +1254,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 1
   },
@@ -1355,6 +1374,7 @@
         "group": "Tacos zubereiten"
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 4
   },
@@ -1498,6 +1518,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 2
   },
@@ -1641,6 +1662,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 2
   },
@@ -1840,6 +1862,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -1955,6 +1978,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 10
   },
@@ -2070,6 +2094,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 1
   },
@@ -2141,6 +2166,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 1
   },
@@ -2212,6 +2238,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Airfryer Rezepte",
     "servings": 2
   },
@@ -2303,6 +2330,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -2462,6 +2490,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 4
   },
@@ -2649,6 +2678,7 @@
         "group": "Braten und Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -2824,6 +2854,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 6
   },
@@ -2983,6 +3014,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 10
   },
@@ -3106,6 +3138,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Airfryer Rezepte",
     "servings": 6
   },
@@ -3201,6 +3234,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -3400,6 +3434,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 4
   },
@@ -3535,6 +3570,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -3666,6 +3702,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -3725,6 +3762,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Soßen",
     "servings": 1
   },
@@ -3872,6 +3910,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 1
   },
@@ -4027,6 +4066,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 6
   },
@@ -4158,6 +4198,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 4
   },
@@ -4333,6 +4374,7 @@
         "group": "Lemon Cream Cheese Icing zubereiten"
       }
     ],
+    "notes": [],
     "category": "Dessert",
     "servings": 16
   },
@@ -4540,6 +4582,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Airfryer Rezepte",
     "servings": 1
   },
@@ -4699,6 +4742,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "",
     "servings": 2
   },
@@ -4862,6 +4906,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Soßen",
     "servings": 1
   },
@@ -4957,6 +5002,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 8
   },
@@ -5096,6 +5142,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -5239,6 +5286,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -5354,6 +5402,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 6
   },
@@ -5509,6 +5558,7 @@
         "group": "Burger zusammenbauen"
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 2
   },
@@ -5668,6 +5718,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -5859,6 +5910,7 @@
         "group": "Für das Curry"
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 3
   },
@@ -6026,6 +6078,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 4
   },
@@ -6221,6 +6274,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 2
   },
@@ -6468,6 +6522,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Mealprep",
     "servings": 6
   },
@@ -6647,6 +6702,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 6
   },
@@ -6758,6 +6814,7 @@
         "group": "Servieren"
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 1
   },
@@ -6909,6 +6966,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -7008,6 +7066,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -7147,6 +7206,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 1
   },
@@ -7346,6 +7406,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Dessert",
     "servings": 8
   },
@@ -7477,6 +7538,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 4
   },
@@ -7616,6 +7678,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 6
   },
@@ -7799,6 +7862,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 4
   },
@@ -7930,6 +7994,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 3
   },
@@ -8109,6 +8174,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 4
   },
@@ -8248,6 +8314,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 1
   },
@@ -8363,6 +8430,7 @@
         "group": "Sauce zubereiten und vollenden"
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 4
   },
@@ -8534,6 +8602,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -8693,6 +8762,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 4
   },
@@ -8776,6 +8846,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Soßen",
     "servings": 1
   },
@@ -8835,6 +8906,7 @@
         "group": "Zweites Frittieren"
       }
     ],
+    "notes": [],
     "category": "Beilagen & Extras",
     "servings": 4
   },
@@ -8926,6 +8998,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 4
   },
@@ -9017,6 +9090,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Dessert",
     "servings": 2
   },
@@ -9120,6 +9194,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 4
   },
@@ -9187,6 +9262,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Airfryer Rezepte",
     "servings": 1
   },
@@ -9390,6 +9466,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 4
   },
@@ -9505,6 +9582,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 3
   },
@@ -9660,6 +9738,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 4
   },
@@ -9827,6 +9906,7 @@
         "group": "Für das Curry"
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 3
   },
@@ -10014,6 +10094,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 2
   },
@@ -10161,6 +10242,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 4
   },
@@ -10256,6 +10338,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Airfryer Rezepte",
     "servings": 1
   },
@@ -10339,6 +10422,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 8
   },
@@ -10466,6 +10550,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 1
   },
@@ -10593,6 +10678,7 @@
         "group": "Sauce und Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -10700,6 +10786,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -10851,6 +10938,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 2
   },
@@ -10970,6 +11058,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Soßen",
     "servings": 1
   },
@@ -11045,6 +11134,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 2
   },
@@ -11176,6 +11266,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 2
   },
@@ -11331,6 +11422,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Europäisch",
     "servings": 4
   },
@@ -11466,6 +11558,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 4
   },
@@ -11581,6 +11674,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Soßen",
     "servings": 1
   },
@@ -11728,6 +11822,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 4
   },
@@ -11887,6 +11982,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Asiatisch",
     "servings": 2
   },
@@ -12010,6 +12106,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Airfryer Rezepte",
     "servings": 2
   },
@@ -12205,6 +12302,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 3
   },
@@ -12320,6 +12418,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Amerikanisch & Fusion",
     "servings": 1
   },
@@ -12479,6 +12578,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Airfryer Rezepte",
     "servings": 2
   },
@@ -12566,6 +12666,7 @@
         "group": "Fertigstellung"
       }
     ],
+    "notes": [],
     "category": "Snacks & Fingerfood",
     "servings": 15
   },
@@ -12761,6 +12862,7 @@
         "group": ""
       }
     ],
+    "notes": [],
     "category": "Dessert",
     "servings": 12
   }

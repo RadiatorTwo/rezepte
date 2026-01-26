@@ -168,6 +168,7 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
         'image': '',
         'ingredients': [],
         'instructions': [],
+        'notes': [],
         'category': '',
         'servings': 1  # Default-Portionen
     }
@@ -191,10 +192,11 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
 
     if has_new_format:
         # Neues Format: Parse mit Abschnitten und Gruppen
-        recipe['ingredients'], recipe['instructions'] = parse_new_format(lines)
+        recipe['ingredients'], recipe['instructions'], recipe['notes'] = parse_new_format(lines)
     else:
         # Altes Format: Fallback auf heuristische Erkennung
         recipe['ingredients'], recipe['instructions'] = parse_old_format(lines)
+        recipe['notes'] = []
 
     # Versuche Portionen zu erkennen
     # Priorität 1: Dedizierte "Portionen: X" Zeile
@@ -212,11 +214,12 @@ def parse_recipe_markdown(content: str, filename: str) -> Dict:
 
 
 def parse_new_format(lines: List[str]) -> tuple:
-    """Parst das neue Markdown-Format mit ## Zutaten und ## Zubereitung."""
+    """Parst das neue Markdown-Format mit ## Zutaten, ## Zubereitung und ## Notizen."""
     ingredients = []
     instructions = []
+    notes = []
 
-    section = None  # None, 'ingredients', 'instructions'
+    section = None  # None, 'ingredients', 'instructions', 'notes'
     current_ingredient_group = ""
     current_instruction_group = ""
 
@@ -232,12 +235,15 @@ def parse_new_format(lines: List[str]) -> tuple:
             section = 'instructions'
             current_instruction_group = ""
             continue
+        elif line_stripped.lower() == '## notizen':
+            section = 'notes'
+            continue
         elif line_stripped.startswith('## '):
             # Anderer Abschnitt - ignorieren
             section = None
             continue
 
-        # Leere Zeilen überspringen
+        # Leere Zeilen überspringen (außer in notes für Absatztrennung)
         if not line_stripped:
             continue
 
@@ -263,8 +269,11 @@ def parse_new_format(lines: List[str]) -> tuple:
                     'text': line_clean,
                     'group': current_instruction_group
                 })
+        elif section == 'notes':
+            if line_clean:
+                notes.append(line_clean)
 
-    return ingredients, instructions
+    return ingredients, instructions, notes
 
 
 def parse_old_format(lines: List[str]) -> tuple:

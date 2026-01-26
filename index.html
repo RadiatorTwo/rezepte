@@ -679,7 +679,7 @@
             color: var(--primary);
         }
 
-        .ingredients-section, .instructions-section {
+        .ingredients-section, .instructions-section, .notes-section {
             margin: var(--space-xl) 0;
         }
 
@@ -747,6 +747,20 @@
         }
 
         .instruction-item strong {
+            color: var(--primary);
+        }
+
+        .note-item {
+            padding: var(--space-md) var(--space-lg);
+            margin-bottom: var(--space-sm);
+            background: var(--background);
+            border-radius: var(--radius-md);
+            box-shadow: var(--neu-flat);
+            border-left: 4px solid var(--text-muted);
+            line-height: var(--leading-relaxed);
+        }
+
+        .note-item strong {
             color: var(--primary);
         }
 
@@ -1001,8 +1015,8 @@
                 min-width: 50px;
             }
 
-            /* Zutaten & Zubereitung */
-            .ingredients-section, .instructions-section {
+            /* Zutaten & Zubereitung & Notizen */
+            .ingredients-section, .instructions-section, .notes-section {
                 margin: var(--space-md) 0;
             }
 
@@ -1023,6 +1037,11 @@
 
             .instruction-item {
                 padding: var(--space-md);
+                font-size: 0.9rem;
+            }
+
+            .note-item {
+                padding: var(--space-sm) var(--space-md);
                 font-size: 0.9rem;
             }
 
@@ -1195,6 +1214,11 @@
                     <h3 class="section-title">Zubereitung</h3>
                     <div id="instructionsList"></div>
                 </div>
+
+                <div class="notes-section" id="notesSection" style="display: none;">
+                    <h3 class="section-title">Notizen</h3>
+                    <div id="notesList"></div>
+                </div>
             </div>
         </div>
     </div>
@@ -1366,6 +1390,7 @@
 
             updateIngredients();
             updateInstructions();
+            updateNotes();
 
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
@@ -1523,6 +1548,29 @@
             }
 
             container.innerHTML = html;
+        }
+
+        // Notizen anzeigen
+        function updateNotes() {
+            const container = document.getElementById('notesList');
+            const section = document.getElementById('notesSection');
+
+            // Prüfe ob Notizen vorhanden sind
+            if (!currentRecipe.notes || currentRecipe.notes.length === 0) {
+                section.style.display = 'none';
+                return;
+            }
+
+            section.style.display = 'block';
+
+            // Konvertiere **text** zu <strong>text</strong>
+            const formatNote = (text) => {
+                return text.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+            };
+
+            container.innerHTML = currentRecipe.notes.map(note =>
+                `<div class="note-item">${formatNote(note)}</div>`
+            ).join('');
         }
 
         // Modal bei Klick außerhalb schließen
