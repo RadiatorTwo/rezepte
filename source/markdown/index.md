@@ -52,6 +52,8 @@
 * [Raspberry Bacon Jam Burger](https://radiatortwo.github.io/rezepte/RaspberryBaconJamBurger)
 * [KartoffelSuppe mit Speck](https://radiatortwo.github.io/rezepte/KartoffelSuppe)
 * [Steak-Pinwheels mit Smoked Chimichurri](https://radiatortwo.github.io/rezepte/SteakChimiChurri)
+* [Cajun Chimichurri Skewers](https://radiatortwo.github.io/rezepte/CajunChimichurriSkewers)
+* [Smashburger Quesadillas](https://radiatortwo.github.io/rezepte/SmashburgerQuesadillas)
 
 ## Europäisch
 * [Pizza Lievito Madre](https://radiatortwo.github.io/rezepte/PizzaLievitoMadre)
