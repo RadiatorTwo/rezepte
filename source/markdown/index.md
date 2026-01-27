@@ -28,6 +28,7 @@
 * [Rindfleisch Marinade](https://radiatortwo.github.io/rezepte/AsiaRindfleischMarinade)
 * [Garnelen Nudelsalat](https://radiatortwo.github.io/rezepte/AsiaGarnelenNudelsalat)
 * [Thai Shrimp Curry](https://radiatortwo.github.io/rezepte/ThaiShrimpCurry)
+* [Knusprige Reispapier-Dumplings](https://radiatortwo.github.io/rezepte/ReispapierDumplings)
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
