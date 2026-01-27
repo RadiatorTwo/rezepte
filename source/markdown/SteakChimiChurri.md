@@ -32,13 +32,16 @@ Apfelessig
 Die Skirt Steak bei Bedarf flach klopfen.
 
 ### Belegen und rollen
-Die Skirt Steak mit Chorizo und Mozzarella belegen. Die Steak fest zu einer Pinwheel aufrollen. Die Rolle in dicke Scheiben schneiden und auf Spieße stecken.
+Die Skirt Steak mit Chorizo und Mozzarella belegen.
+Die Steaks fest zu einem Pinwheel aufrollen.
+Die Rolle in dicke Scheiben schneiden und auf Spieße stecken.
 
 ### Grillen
 Die Pinwheels auf einem gusseisernen Grillrost grillen, bis sie gar sind.
 
 ### Smoked Chimichurri Oil
-Die Gewürzmischung mit Olivenöl und Apfelessig vermischen. Das Öl mit Raucharoma infusieren, indem ein glühendes Kohlestück hineingehalten wird.
+Die Gewürzmischung mit Olivenöl und Apfelessig vermischen.
+Das Öl mit Raucharoma infusieren, indem ein glühendes Kohlestück hineingehalten wird.
 
 ### Servieren
 Die gegrillten Pinwheels mit dem Smoked Chimichurri Oil toppen und genießen!

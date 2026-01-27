@@ -54,6 +54,7 @@
 * [Steak-Pinwheels mit Smoked Chimichurri](https://radiatortwo.github.io/rezepte/SteakChimiChurri)
 * [Cajun Chimichurri Skewers](https://radiatortwo.github.io/rezepte/CajunChimichurriSkewers)
 * [Smashburger Quesadillas](https://radiatortwo.github.io/rezepte/SmashburgerQuesadillas)
+* [Napoleon Kebab](https://radiatortwo.github.io/rezepte/NapoleonKebab)
 
 ## Europäisch
 * [Pizza Lievito Madre](https://radiatortwo.github.io/rezepte/PizzaLievitoMadre)

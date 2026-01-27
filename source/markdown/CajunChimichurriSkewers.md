@@ -31,7 +31,8 @@ Mit Cajun Rub einreiben.
 Auf Spieße stecken und grillen.
 
 ### Chimichurri
-Alle aufgelisteten Zutaten in eine Küchenmaschine geben und pulsieren, bis alles gut vermischt ist. Abschmecken und bei Bedarf mit zusätzlichem Salz oder schwarzem Pfeffer würzen.
+Alle aufgelisteten Zutaten in eine Küchenmaschine geben und pulsieren, bis alles gut vermischt ist.
+Abschmecken und bei Bedarf mit zusätzlichem Salz oder schwarzem Pfeffer würzen.
 Das Chimichurri über die gegrillten Fleischspieße träufeln und sofort servieren.
 
 ## Notizen
