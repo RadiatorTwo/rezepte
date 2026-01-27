@@ -1,5 +1,116 @@
 [
   {
+    "id": "NapoleonKebab",
+    "title": "Cajun Napoleon Kebab",
+    "image": "https://radiatortwo.github.io/rezepte/pics/napoleon-kebab.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Weizentortillas",
+        "group": "Für die Kebabs",
+        "original": "Weizentortillas"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Rinderhackfleisch",
+        "group": "Für die Kebabs",
+        "original": "Rinderhackfleisch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Rote Zwiebeln, gewürfelt",
+        "group": "Für die Kebabs",
+        "original": "Rote Zwiebeln, gewürfelt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Petersilie",
+        "group": "Für die Kebabs",
+        "original": "Petersilie"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauch, gehackt",
+        "group": "Für die Kebabs",
+        "original": "Knoblauch, gehackt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Cajun Honey Rub",
+        "group": "Für die Kebabs",
+        "original": "Cajun Honey Rub"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Butter",
+        "group": "Cajun Honey Butter",
+        "original": "Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Cajun Honey Rub",
+        "group": "Cajun Honey Butter",
+        "original": "Cajun Honey Rub"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Honig",
+        "group": "Cajun Honey Butter",
+        "original": "Honig"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Rinderhackfleisch mit gewürfelten roten Zwiebeln, Petersilie, gehacktem Knoblauch und Cajun Honey Rub vermischen.",
+        "group": "Für die Kebabs"
+      },
+      {
+        "text": "Die Mischung auf Weizentortillas verteilen, aufrollen und in Scheiben schneiden.",
+        "group": "Für die Kebabs"
+      },
+      {
+        "text": "Die Tortillarollen auf Spieße stecken.",
+        "group": "Für die Kebabs"
+      },
+      {
+        "text": "Auf dem Grill bei hoher Hitze braten und alle Minute wenden, um Verbrennen zu vermeiden.",
+        "group": "Für die Kebabs"
+      },
+      {
+        "text": "Etwa zur Hälfte der Garzeit auf beiden Seiten mit Cajun Honey Butter bestreichen.",
+        "group": "Für die Kebabs"
+      },
+      {
+        "text": "Grillen bis die Ränder knusprig werden und das Innere saftig bleibt. Da es Rindfleisch ist, gart es ziemlich schnell.",
+        "group": "Für die Kebabs"
+      }
+    ],
+    "notes": [
+      "Perfekt für Game Day, Grill-Partys im Garten oder als einfache Vorspeise auf dem Grill oder Smoker.",
+      "Einfache Zutaten, großer Geschmack - süße Hitze durch die Cajun Honey Butter, knusprige Ränder und saftiges Inneres."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
     "id": "MapleBeefBaconJam",
     "title": "Maple Beef Bacon Jam",
     "image": "https://radiatortwo.github.io/rezepte/pics/maple-beef-bacon-jam.jpg",
@@ -71,15 +182,31 @@
     ],
     "instructions": [
       {
-        "text": "Den Bacon würfeln und in einer schweren Pfanne bei mittlerer bis hoher Hitze 10-15 Minuten braten, bis er größtenteils knusprig und durchgegart ist. Herausnehmen und abtropfen lassen.",
+        "text": "Den Bacon würfeln und in einer schweren Pfanne bei mittlerer bis hoher Hitze 10-15 Minuten braten, bis er größtenteils knusprig und durchgegart ist.",
         "group": "Bacon zubereiten"
       },
       {
-        "text": "Bis auf 1 EL das gesamte Bacon-Fett entfernen. Die gewürfelte Zwiebel hinzufügen und 3-5 Minuten anschwitzen. Schwarzen Kaffee, Ahornsirup und braunen Zucker hinzufügen, verrühren und bei mittlerer bis niedriger Hitze köcheln lassen.",
+        "text": "Herausnehmen und abtropfen lassen.",
+        "group": "Bacon zubereiten"
+      },
+      {
+        "text": "Bis auf 1 EL das gesamte Bacon-Fett entfernen.",
         "group": "Zwiebeln anschwitzen und Jam kochen"
       },
       {
-        "text": "Den Beef Bacon zurück in die Pfanne geben und etwa 40-45 Minuten köcheln lassen, bis die Mischung eingedickt und marmeladenartig ist. Bei Bedarf während des Kochens Rinderbrühe hinzufügen, falls zusätzliche Flüssigkeit benötigt wird.",
+        "text": "Die gewürfelte Zwiebel hinzufügen und 3-5 Minuten anschwitzen.",
+        "group": "Zwiebeln anschwitzen und Jam kochen"
+      },
+      {
+        "text": "Schwarzen Kaffee, Ahornsirup und braunen Zucker hinzufügen, verrühren und bei mittlerer bis niedriger Hitze köcheln lassen.",
+        "group": "Zwiebeln anschwitzen und Jam kochen"
+      },
+      {
+        "text": "Den Beef Bacon zurück in die Pfanne geben und etwa 40-45 Minuten köcheln lassen, bis die Mischung eingedickt und marmeladenartig ist.",
+        "group": "Bacon Jam fertigstellen"
+      },
+      {
+        "text": "Bei Bedarf während des Kochens Rinderbrühe hinzufügen, falls zusätzliche Flüssigkeit benötigt wird.",
         "group": "Bacon Jam fertigstellen"
       }
     ],
@@ -207,7 +334,11 @@
         "group": "Für das Fleisch"
       },
       {
-        "text": "Alle aufgelisteten Zutaten in eine Küchenmaschine geben und pulsieren, bis alles gut vermischt ist. Abschmecken und bei Bedarf mit zusätzlichem Salz oder schwarzem Pfeffer würzen.",
+        "text": "Alle aufgelisteten Zutaten in eine Küchenmaschine geben und pulsieren, bis alles gut vermischt ist.",
+        "group": "Chimichurri"
+      },
+      {
+        "text": "Abschmecken und bei Bedarf mit zusätzlichem Salz oder schwarzem Pfeffer würzen.",
         "group": "Chimichurri"
       },
       {
@@ -225,7 +356,7 @@
   {
     "id": "SmashburgerQuesadillas",
     "title": "Smashburger Quesadillas",
-    "image": "https://radiatortwo.github.io/rezepte/pics/smashburger-quesadillas.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/smashburger-quesadillas.png",
     "ingredients": [
       {
         "amount": null,
@@ -492,7 +623,15 @@
         "group": "Steak vorbereiten"
       },
       {
-        "text": "Die Skirt Steak mit Chorizo und Mozzarella belegen. Die Steak fest zu einer Pinwheel aufrollen. Die Rolle in dicke Scheiben schneiden und auf Spieße stecken.",
+        "text": "Die Skirt Steak mit Chorizo und Mozzarella belegen.",
+        "group": "Belegen und rollen"
+      },
+      {
+        "text": "Die Steaks fest zu einem Pinwheel aufrollen.",
+        "group": "Belegen und rollen"
+      },
+      {
+        "text": "Die Rolle in dicke Scheiben schneiden und auf Spieße stecken.",
         "group": "Belegen und rollen"
       },
       {
@@ -500,7 +639,11 @@
         "group": "Grillen"
       },
       {
-        "text": "Die Gewürzmischung mit Olivenöl und Apfelessig vermischen. Das Öl mit Raucharoma infusieren, indem ein glühendes Kohlestück hineingehalten wird.",
+        "text": "Die Gewürzmischung mit Olivenöl und Apfelessig vermischen.",
+        "group": "Smoked Chimichurri Oil"
+      },
+      {
+        "text": "Das Öl mit Raucharoma infusieren, indem ein glühendes Kohlestück hineingehalten wird.",
         "group": "Smoked Chimichurri Oil"
       },
       {
@@ -672,11 +815,27 @@
     ],
     "instructions": [
       {
-        "text": "Sesamöl in der Pfanne erhitzen. Knoblauch, Ingwer und Chili anrösten. Hackfleisch dazugeben und krümelig braten. Karotten und Frühlingszwiebeln untermischen, mit Sojasauce und Hoisin würzen. Mit Salz und Pfeffer abschmecken.",
+        "text": "Sesamöl in der Pfanne erhitzen. Knoblauch, Ingwer und Chili anrösten.",
         "group": "Füllung anbraten"
       },
       {
-        "text": "2 Reispapierblätter in lauwarmem Wasser einweichen. 1 Blatt mit der Füllung belegen und falten, dann ein zweites Blatt darüberfalten.",
+        "text": "Hackfleisch dazugeben und krümelig braten.",
+        "group": "Füllung anbraten"
+      },
+      {
+        "text": "Karotten und Frühlingszwiebeln untermischen, mit Sojasauce und Hoisin würzen.",
+        "group": "Füllung anbraten"
+      },
+      {
+        "text": "Mit Salz und Pfeffer abschmecken.",
+        "group": "Füllung anbraten"
+      },
+      {
+        "text": "2 Reispapierblätter in lauwarmem Wasser einweichen.",
+        "group": "Reispapier vorbereiten & füllen"
+      },
+      {
+        "text": "1 Blatt mit der Füllung belegen und falten, dann ein zweites Blatt darüberfalten.",
         "group": "Reispapier vorbereiten & füllen"
       },
       {
@@ -684,7 +843,15 @@
         "group": "Knusprig anbraten"
       },
       {
-        "text": "Mit Sesam und Frühlingszwiebeln toppen. Eine Sauce aus Teriyaki, Reisessig, Sesamöl und Crispy Chili Öl mischen. Dumplings in die Sauce dippen und genießen!",
+        "text": "Mit Sesam und Frühlingszwiebeln toppen.",
+        "group": "Topping & Dip"
+      },
+      {
+        "text": "Eine Sauce aus Teriyaki, Reisessig, Sesamöl und Crispy Chili Öl mischen.",
+        "group": "Topping & Dip"
+      },
+      {
+        "text": "Dumplings in die Sauce dippen und genießen!",
         "group": "Topping & Dip"
       }
     ],
