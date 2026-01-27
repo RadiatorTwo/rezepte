@@ -1,5 +1,518 @@
 [
   {
+    "id": "MapleBeefBaconJam",
+    "title": "Maple Beef Bacon Jam",
+    "image": "https://radiatortwo.github.io/rezepte/pics/maple-beef-bacon-jam.jpg",
+    "ingredients": [
+      {
+        "amount": 280.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Beef Bacon, gewürfelt",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "280g Beef Bacon, gewürfelt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "weiße",
+        "name": "Zwiebel, gewürfelt",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "1 weiße Zwiebel, gewürfelt"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "schwarzer Kaffee",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "150ml schwarzer Kaffee"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "1/2 EL Ahornsirup",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "1 1/2 EL Ahornsirup"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "brauner Zucker",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "60g brauner Zucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Optional: Rinderbrühe",
+        "group": "Für die Maple Beef Bacon Jam",
+        "original": "Optional: Rinderbrühe"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Bacon würfeln und in einer schweren Pfanne bei mittlerer bis hoher Hitze 10-15 Minuten braten, bis er größtenteils knusprig und durchgegart ist. Herausnehmen und abtropfen lassen.",
+        "group": "Bacon zubereiten"
+      },
+      {
+        "text": "Bis auf 1 EL das gesamte Bacon-Fett entfernen. Die gewürfelte Zwiebel hinzufügen und 3-5 Minuten anschwitzen. Schwarzen Kaffee, Ahornsirup und braunen Zucker hinzufügen, verrühren und bei mittlerer bis niedriger Hitze köcheln lassen.",
+        "group": "Zwiebeln anschwitzen und Jam kochen"
+      },
+      {
+        "text": "Den Beef Bacon zurück in die Pfanne geben und etwa 40-45 Minuten köcheln lassen, bis die Mischung eingedickt und marmeladenartig ist. Bei Bedarf während des Kochens Rinderbrühe hinzufügen, falls zusätzliche Flüssigkeit benötigt wird.",
+        "group": "Bacon Jam fertigstellen"
+      }
+    ],
+    "notes": [],
+    "category": "",
+    "servings": 4
+  },
+  {
+    "id": "CajunChimichurriSkewers",
+    "title": "Cajun Chimichurri Skewers",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cajun-chimichurri-skewers.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gut marmoriertes Rindfleisch",
+        "group": "Für das Fleisch",
+        "original": "Gut marmoriertes Rindfleisch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chili Soße",
+        "group": "Für das Fleisch",
+        "original": "Chili Soße"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Cajun Honey Rub",
+        "group": "Für das Fleisch",
+        "original": "Cajun Honey Rub"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Korianderblätter und weiche Stängel, fest gepackt",
+        "group": "Chimichurri",
+        "original": "60g Korianderblätter und weiche Stängel, fest gepackt"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Petersilienblätter und weiche Stängel, fest gepackt",
+        "group": "Chimichurri",
+        "original": "60g Petersilienblätter und weiche Stängel, fest gepackt"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "frische Oreganoblätter, fest gepackt",
+        "group": "Chimichurri",
+        "original": "3 EL frische Oreganoblätter, fest gepackt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zitrone, Schale und Saft",
+        "group": "Chimichurri",
+        "original": "1 Zitrone, Schale und Saft"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "3-4 Knoblauchzehen",
+        "group": "Chimichurri",
+        "original": "3-4 Knoblauchzehen"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "natives Olivenöl extra",
+        "group": "Chimichurri",
+        "original": "120ml natives Olivenöl extra"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Rotweinessig",
+        "group": "Chimichurri",
+        "original": "3 EL Rotweinessig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "Chimichurri",
+        "original": "1 TL Chiliflocken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "1/2 TL koscheres Salz",
+        "group": "Chimichurri",
+        "original": "1 1/2 TL koscheres Salz"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Rindfleisch in 3-4 cm große Würfel schneiden.",
+        "group": "Für das Fleisch"
+      },
+      {
+        "text": "Mit Chili Soße marinieren.",
+        "group": "Für das Fleisch"
+      },
+      {
+        "text": "Mit Cajun Rub einreiben.",
+        "group": "Für das Fleisch"
+      },
+      {
+        "text": "Auf Spieße stecken und grillen.",
+        "group": "Für das Fleisch"
+      },
+      {
+        "text": "Alle aufgelisteten Zutaten in eine Küchenmaschine geben und pulsieren, bis alles gut vermischt ist. Abschmecken und bei Bedarf mit zusätzlichem Salz oder schwarzem Pfeffer würzen.",
+        "group": "Chimichurri"
+      },
+      {
+        "text": "Das Chimichurri über die gegrillten Fleischspieße träufeln und sofort servieren.",
+        "group": "Chimichurri"
+      }
+    ],
+    "notes": [
+      "Lagerung: Diese Chimichurri-Sauce hält sich in einem luftdichten Behälter bis zu 1 Woche im Kühlschrank.",
+      "Einfrieren: Zum Einfrieren in einem gefrierfesten Behälter bis zu 3 Monate lagern. Einen Tag vor der Verwendung im Kühlschrank auftauen."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
+    "id": "SmashburgerQuesadillas",
+    "title": "Smashburger Quesadillas",
+    "image": "https://radiatortwo.github.io/rezepte/pics/smashburger-quesadillas.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Große Weizentortillas",
+        "group": "Für die Quesadillas",
+        "original": "Große Weizentortillas"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Rinderhackfleisch",
+        "group": "Für die Quesadillas",
+        "original": "Rinderhackfleisch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Cajun Honey Rub",
+        "group": "Für die Quesadillas",
+        "original": "Cajun Honey Rub"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bacon",
+        "group": "Für die Quesadillas",
+        "original": "Bacon"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "American Cheese",
+        "group": "Für die Quesadillas",
+        "original": "American Cheese"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eisbergsalat, geschreddert",
+        "group": "Für die Quesadillas",
+        "original": "Eisbergsalat, geschreddert"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pickles",
+        "group": "Für die Quesadillas",
+        "original": "Pickles"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Kewpie Mayo",
+        "group": "Mac Sauce",
+        "original": "120ml Kewpie Mayo"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Jalapeño Ketchup",
+        "group": "Mac Sauce",
+        "original": "2 EL Jalapeño Ketchup"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "gelber Senf",
+        "group": "Mac Sauce",
+        "original": "1 EL gelber Senf"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pickle Relish",
+        "group": "Mac Sauce",
+        "original": "1 EL Pickle Relish"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Cajun Honey Rub",
+        "group": "Mac Sauce",
+        "original": "1 EL Cajun Honey Rub"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Kewpie Mayo, Jalapeño Ketchup, gelben Senf, Pickle Relish und Cajun Honey Rub vermischen.",
+        "group": "Mac Sauce"
+      },
+      {
+        "text": "Rinderhackfleisch zu Patties formen und mit Cajun Honey Rub würzen.",
+        "group": "Für die Quesadillas"
+      },
+      {
+        "text": "Bacon knusprig braten.",
+        "group": "Für die Quesadillas"
+      },
+      {
+        "text": "Die Rinderhack-Patties auf einer Grillplatte durchbraten.",
+        "group": "Für die Quesadillas"
+      },
+      {
+        "text": "Eine große Weizentortilla auf die Grillplatte legen.",
+        "group": "Für die Quesadillas"
+      },
+      {
+        "text": "Mit American Cheese, gebratenen Rinderhack-Patties, knusprigem Bacon, geschreddertem Eisbergsalat und Pickles belegen.",
+        "group": "Für die Quesadillas"
+      },
+      {
+        "text": "Mit einer weiteren Weizentortilla abdecken.",
+        "group": "Für die Quesadillas"
+      },
+      {
+        "text": "Goldbraun braten bis der Käse geschmolzen ist, einmal wenden.",
+        "group": "Für die Quesadillas"
+      },
+      {
+        "text": "Mit Mac Sauce servieren und sofort genießen.",
+        "group": "Für die Quesadillas"
+      }
+    ],
+    "notes": [
+      "Knuspriges, käsiges, würziges Vergnügen in jedem Bissen - im Grunde die gleiche Idee wie ein Smashburger, nur größer, käsiger und voller Geschmack!"
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 2
+  },
+  {
+    "id": "SteakChimiChurri",
+    "title": "Steak-Pinwheels mit Smoked Chimichurri",
+    "image": "https://radiatortwo.github.io/rezepte/pics/steak-pinwheels-smoked-chimichurri.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Skirt Steak",
+        "group": "Für die Pinwheels",
+        "original": "Skirt Steak"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chorizo",
+        "group": "Für die Pinwheels",
+        "original": "Chorizo"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Mozzarella",
+        "group": "Für die Pinwheels",
+        "original": "Mozzarella"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Petersilie",
+        "group": "Für die Gewürzmischung",
+        "original": "Petersilie"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Thymian",
+        "group": "Für die Gewürzmischung",
+        "original": "Thymian"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chiliflocken",
+        "group": "Für die Gewürzmischung",
+        "original": "Chiliflocken"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Geräuchertes Paprikapulver",
+        "group": "Für die Gewürzmischung",
+        "original": "Geräuchertes Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zitronenzest",
+        "group": "Für die Gewürzmischung",
+        "original": "Zitronenzest"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauch",
+        "group": "Für die Gewürzmischung",
+        "original": "Knoblauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Gewürzmischung",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Die Gewürzmischung von oben",
+        "group": "Für das Smoked Chimichurri Oil",
+        "original": "Die Gewürzmischung von oben"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Olivenöl",
+        "group": "Für das Smoked Chimichurri Oil",
+        "original": "Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Apfelessig",
+        "group": "Für das Smoked Chimichurri Oil",
+        "original": "Apfelessig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "glühendes",
+        "name": "Kohlestück für die Rauchnote",
+        "group": "Für das Smoked Chimichurri Oil",
+        "original": "1 glühendes Kohlestück für die Rauchnote"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Skirt Steak bei Bedarf flach klopfen.",
+        "group": "Steak vorbereiten"
+      },
+      {
+        "text": "Die Skirt Steak mit Chorizo und Mozzarella belegen. Die Steak fest zu einer Pinwheel aufrollen. Die Rolle in dicke Scheiben schneiden und auf Spieße stecken.",
+        "group": "Belegen und rollen"
+      },
+      {
+        "text": "Die Pinwheels auf einem gusseisernen Grillrost grillen, bis sie gar sind.",
+        "group": "Grillen"
+      },
+      {
+        "text": "Die Gewürzmischung mit Olivenöl und Apfelessig vermischen. Das Öl mit Raucharoma infusieren, indem ein glühendes Kohlestück hineingehalten wird.",
+        "group": "Smoked Chimichurri Oil"
+      },
+      {
+        "text": "Die gegrillten Pinwheels mit dem Smoked Chimichurri Oil toppen und genießen!",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
     "id": "ReispapierDumplings",
     "title": "Knusprige Reispapier-Dumplings",
     "image": "https://radiatortwo.github.io/rezepte/pics/reispapier-dumplings.jpg",
