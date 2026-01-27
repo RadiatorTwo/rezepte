@@ -51,6 +51,7 @@
 * [Maple Bacon Party Ribs](https://radiatortwo.github.io/rezepte/MapleBaconPartyRibs)
 * [Raspberry Bacon Jam Burger](https://radiatortwo.github.io/rezepte/RaspberryBaconJamBurger)
 * [KartoffelSuppe mit Speck](https://radiatortwo.github.io/rezepte/KartoffelSuppe)
+* [Steak-Pinwheels mit Smoked Chimichurri](https://radiatortwo.github.io/rezepte/SteakChimiChurri)
 
 ## Europäisch
 * [Pizza Lievito Madre](https://radiatortwo.github.io/rezepte/PizzaLievitoMadre)
