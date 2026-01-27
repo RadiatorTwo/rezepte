@@ -1,5 +1,185 @@
 [
   {
+    "id": "ReispapierDumplings",
+    "title": "Knusprige Reispapier-Dumplings",
+    "image": "https://radiatortwo.github.io/rezepte/pics/reispapier-dumplings.jpg",
+    "ingredients": [
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rinderhack",
+        "group": "Für die Füllung",
+        "original": "200g Rinderhack"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Sesamöl",
+        "group": "Für die Füllung",
+        "original": "1 TL Sesamöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehe, fein gehackt",
+        "group": "Für die Füllung",
+        "original": "1 Knoblauchzehe, fein gehackt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "frischer Ingwer, fein gehackt",
+        "group": "Für die Füllung",
+        "original": "1 TL frischer Ingwer, fein gehackt"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chilischote, fein gehackt",
+        "group": "Für die Füllung",
+        "original": "1/2 Chilischote, fein gehackt"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln, fein geschnitten",
+        "group": "Für die Füllung",
+        "original": "2 Frühlingszwiebeln, fein geschnitten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kleine",
+        "name": "Karotte, fein geraspelt",
+        "group": "Für die Füllung",
+        "original": "1 kleine Karotte, fein geraspelt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die Füllung",
+        "original": "1 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Hoisin Sauce",
+        "group": "Für die Füllung",
+        "original": "1 TL Hoisin Sauce"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Füllung",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Füllung",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": 16.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Reispapierblätter",
+        "group": "Für die Dumplings",
+        "original": "16 Reispapierblätter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Braten",
+        "group": "Für die Dumplings",
+        "original": "Öl zum Braten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Sesam",
+        "group": "Für Toppings & Sauce",
+        "original": "Sesam"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Lauchzwiebel",
+        "group": "Für Toppings & Sauce",
+        "original": "Lauchzwiebel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Teriyakisauce",
+        "group": "Für Toppings & Sauce",
+        "original": "Teriyakisauce"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Reisessig",
+        "group": "Für Toppings & Sauce",
+        "original": "Reisessig"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Sesamöl",
+        "group": "Für Toppings & Sauce",
+        "original": "Sesamöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Crispy Chili Öl",
+        "group": "Für Toppings & Sauce",
+        "original": "Crispy Chili Öl"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Sesamöl in der Pfanne erhitzen. Knoblauch, Ingwer und Chili anrösten. Hackfleisch dazugeben und krümelig braten. Karotten und Frühlingszwiebeln untermischen, mit Sojasauce und Hoisin würzen. Mit Salz und Pfeffer abschmecken.",
+        "group": "Füllung anbraten"
+      },
+      {
+        "text": "2 Reispapierblätter in lauwarmem Wasser einweichen. 1 Blatt mit der Füllung belegen und falten, dann ein zweites Blatt darüberfalten.",
+        "group": "Reispapier vorbereiten & füllen"
+      },
+      {
+        "text": "Die Dumplings in etwas Öl ca. 2–3 Minuten pro Seite goldbraun und knusprig braten.",
+        "group": "Knusprig anbraten"
+      },
+      {
+        "text": "Mit Sesam und Frühlingszwiebeln toppen. Eine Sauce aus Teriyaki, Reisessig, Sesamöl und Crispy Chili Öl mischen. Dumplings in die Sauce dippen und genießen!",
+        "group": "Topping & Dip"
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 8
+  },
+  {
     "id": "ApfelPastila",
     "title": "Apfel-Pastila",
     "image": "https://radiatortwo.github.io/rezepte/pics/apfel-pastila.jpg",
