@@ -1,5 +1,55 @@
 [
   {
+    "id": "AirfryerTortellini",
+    "title": "Airfryer Tortellini",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-tortellini.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Tortellini (egal welche Füllung)",
+        "group": "",
+        "original": "Tortellini (egal welche Füllung)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Olivenöl",
+        "group": "",
+        "original": "Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Geriebener Parmesan",
+        "group": "",
+        "original": "Geriebener Parmesan"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Tortellini in den Airfryer geben.",
+        "group": ""
+      },
+      {
+        "text": "Mit Olivenöl beträufeln und mit geriebenem Parmesan bestreuen.",
+        "group": ""
+      },
+      {
+        "text": "Bei 195 °C für 10 Minuten rösten.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Der geilste und schnellste Snack, den du mit Tortellini und Parmesan im Airfryer zubereiten kannst."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 1
+  },
+  {
     "id": "MikrowellenOmelette",
     "title": "Mikrowellen-Omelette",
     "image": "https://radiatortwo.github.io/rezepte/pics/mikrowellen-omelette.jpg",
