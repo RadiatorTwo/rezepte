@@ -1,5 +1,59 @@
 [
   {
+    "id": "Honigbutter",
+    "title": "Aufgeschlagene Honigbutter",
+    "image": "https://radiatortwo.github.io/rezepte/pics/honigbutter.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter (zimmerwarm)",
+        "group": "",
+        "original": "500 g Butter (zimmerwarm)"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Honig",
+        "group": "",
+        "original": "100 g Honig"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Prise Salz (optional, zum Bestreuen)",
+        "group": "",
+        "original": "Prise Salz (optional, zum Bestreuen)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Butter muss ganz weich sein (Zimmertemperatur).",
+        "group": ""
+      },
+      {
+        "text": "Die weiche Butter aufschlagen, bis sie ganz weiß und fluffig ist.",
+        "group": ""
+      },
+      {
+        "text": "Den Honig hinzugeben und weiterschlagen, bis alles gut vermischt ist.",
+        "group": ""
+      },
+      {
+        "text": "Zum Servieren auf Brot streichen und optional mit einer milden Prise Salz bestreuen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Eine einfache und fluffige Honigbutter, die sich perfekt auf Brot macht. Optional kann eine zweite Packung Butter hinzugefügt werden, um das Aufschlagen zu erleichtern."
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 1
+  },
+  {
     "id": "AirfryerTortellini",
     "title": "Airfryer Tortellini",
     "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-tortellini.jpg",
