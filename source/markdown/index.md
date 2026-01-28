@@ -83,6 +83,7 @@
 * [Käse-Reispapier-Nudeln](https://radiatortwo.github.io/rezepte/KaeseReispapierNudeln)
 
 ## Airfryer Rezepte
+* [Airfryer Tortellini](https://radiatortwo.github.io/rezepte/AirfryerTortellini)
 * [Apple Pancakes Air Fryer Edition](https://radiatortwo.github.io/rezepte/AirfryApplePancakes)
 * [Bang Bang Chicken Airfryer Edition](https://radiatortwo.github.io/rezepte/AirfryBangBangChicken)
 * [Lachsröllchen Airfryer Edition](https://radiatortwo.github.io/rezepte/AirfryLachsroellchen)
