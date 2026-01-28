@@ -1,5 +1,59 @@
 [
   {
+    "id": "Zwiebelbutter",
+    "title": "Karamellisierte Zwiebelbutter",
+    "image": "https://radiatortwo.github.io/rezepte/pics/zwiebelbutter.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2-3 Zwiebeln",
+        "group": "",
+        "original": "2-3 Zwiebeln"
+      },
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter",
+        "group": "",
+        "original": "500 g Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauch (optional)",
+        "group": "",
+        "original": "Knoblauch (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Zwiebeln bei mittlerer Temperatur golden karamellisieren und gelegentlich umrühren, bis sie das \"braune Gold\" sind.",
+        "group": ""
+      },
+      {
+        "text": "Wenn die Zwiebeln nicht mehr heiß sind, zusammen mit der Butter pürieren.",
+        "group": ""
+      },
+      {
+        "text": "Kaltes Wasser hinzufügen und aufschlagen, bis die Butter wie aufgeschäumter Schaum aussieht.",
+        "group": ""
+      },
+      {
+        "text": "Aufs Brot schmieren und dann salzen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Eine cremige Butter mit dem süßen und herzhaften Geschmack von karamellisierten Zwiebeln. Der Knoblauch ist optional, um die Zwiebelfahne zu neutralisieren. Dies ist der Endboss unter allen karamellisierten Buttern!"
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 1
+  },
+  {
     "id": "Honigbutter",
     "title": "Aufgeschlagene Honigbutter",
     "image": "https://radiatortwo.github.io/rezepte/pics/honigbutter.jpg",
