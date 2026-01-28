@@ -1,5 +1,143 @@
 [
   {
+    "id": "SpitzkohlSalat",
+    "title": "Spitzkohl Salat mit Green Goddess Sauce",
+    "image": "https://radiatortwo.github.io/rezepte/pics/spitzkohl-salat.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Spitzkohl",
+        "group": "Salat",
+        "original": "1 kg Spitzkohl"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Salat",
+        "original": "3 Frühlingszwiebeln"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gurke",
+        "group": "Salat",
+        "original": "1 Gurke"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Jalapeño (optional, für Schärfe)",
+        "group": "Salat",
+        "original": "1 Jalapeño (optional, für Schärfe)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frischer Koriander (optional)",
+        "group": "Salat",
+        "original": "Frischer Koriander (optional)"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Naturjoghurt",
+        "group": "Green Goddess Sauce",
+        "original": "300 g Naturjoghurt"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Feta",
+        "group": "Green Goddess Sauce",
+        "original": "150 g Feta"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Avocado",
+        "group": "Green Goddess Sauce",
+        "original": "1 Avocado"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "glatte Petersilie",
+        "group": "Green Goddess Sauce",
+        "original": "1 Bund glatte Petersilie"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "Dill",
+        "group": "Green Goddess Sauce",
+        "original": "1 Bund Dill"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-2 Knoblauchzehen",
+        "group": "Green Goddess Sauce",
+        "original": "1-2 Knoblauchzehen"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Handvoll",
+        "name": "Babyspinat",
+        "group": "Green Goddess Sauce",
+        "original": "2 Handvoll Babyspinat"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Saft von 2 Limetten",
+        "group": "Green Goddess Sauce",
+        "original": "Saft von 2 Limetten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz (wichtig!)",
+        "group": "Green Goddess Sauce",
+        "original": "Salz (wichtig!)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Spitzkohl fein hobeln, Gurke und Frühlingszwiebeln in Scheiben schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Alle Zutaten für die Sauce in einem Mixer cremig pürieren. Die Sauce muss intensiv schmecken – fast etwas zu salzig und schön sauer, denn der Spitzkohl nimmt unglaublich viel Geschmack auf.",
+        "group": ""
+      },
+      {
+        "text": "Zum Schluss alles miteinander vermengen und kurz durchziehen lassen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ein erfrischender und gesunder Salat, perfekt für Verdauung, Darmflora und strahlende Haut."
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 4
+  },
+  {
     "id": "Zwiebelbutter",
     "title": "Karamellisierte Zwiebelbutter",
     "image": "https://radiatortwo.github.io/rezepte/pics/zwiebelbutter.jpg",
