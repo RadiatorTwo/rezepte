@@ -68,8 +68,10 @@
 * [Garnelen Pasta mit Speck](https://radiatortwo.github.io/rezepte/SpeckGarnelenPasta)
 * [Soffrito Bolognese](https://radiatortwo.github.io/rezepte/SoffritoBolognese)
 * [Kartoffel Rösti Tacos](https://radiatortwo.github.io/rezepte/KartoffelRoestiTacos)
+* [Mikrowellen-Omelette](https://radiatortwo.github.io/rezepte/MikrowellenOmelette)
 
 ## Snacks & Fingerfood
+* [Mais-Snack](https://radiatortwo.github.io/rezepte/MaisSnack)
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
 * [Pig Shots](https://radiatortwo.github.io/rezepte/PigShots)
 * [Cheesy Knoblauch Kartoffel Bites](https://radiatortwo.github.io/rezepte/CheesyGarlicPotatoBites)
@@ -98,6 +100,7 @@
 * [Lemon Brownies](https://radiatortwo.github.io/rezepte/LemonBrownies)
 * [Guinnes Kuchen](https://radiatortwo.github.io/rezepte/GuinnessCake)
 * [Cinnamon Pull Apart Bread](https://radiatortwo.github.io/rezepte/CinnamonPullApartBread)
+* [High Protein Cheesecake](https://radiatortwo.github.io/rezepte/HighProteinCheesecake)
 
 ## Beilagen & Extras
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
