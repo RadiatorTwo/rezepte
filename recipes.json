@@ -1,5 +1,215 @@
 [
   {
+    "id": "MikrowellenOmelette",
+    "title": "Mikrowellen-Omelette",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mikrowellen-omelette.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ei",
+        "group": "",
+        "original": "1 Ei"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mayonnaise",
+        "group": "",
+        "original": "1 EL Mayonnaise"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Etwas Öl",
+        "group": "",
+        "original": "Etwas Öl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Etwas Butter",
+        "group": "",
+        "original": "Etwas Butter"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Ein Ei mit einem Esslöffel Mayonnaise in einer Schüssel vermischen.",
+        "group": ""
+      },
+      {
+        "text": "Etwas Öl und Butter hinzufügen und alles gut verquirlen.",
+        "group": ""
+      },
+      {
+        "text": "In die Mikrowelle stellen und 30-40 Sekunden erhitzen.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Europäisch",
+    "servings": 1
+  },
+  {
+    "id": "MaisSnack",
+    "title": "Mais-Snack",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mais-snack.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Dose Mais (300 g)",
+        "group": "",
+        "original": "1 große Dose Mais (300 g)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Olivenöl",
+        "group": "",
+        "original": "1 TL Olivenöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprikapulver rosenscharf",
+        "group": "",
+        "original": "1 TL Paprikapulver rosenscharf"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "",
+        "original": "1 TL Salz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "",
+        "original": "1 TL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Stärke",
+        "group": "",
+        "original": "1 EL Stärke"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Mais abspülen, danach auf ein Küchentuch geben und etwas trocken tupfen.",
+        "group": ""
+      },
+      {
+        "text": "Dann zusammen mit allen anderen Zutaten vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Bei 180 °C für 15 bis 20 Minuten in den Airfryer (oder Ofen) geben.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Der Grund warum du heute Abend keine Chips brauchst!"
+    ],
+    "category": "Snacks & Fingerfood",
+    "servings": 1
+  },
+  {
+    "id": "HighProteinCheesecake",
+    "title": "High Protein Cheesecake",
+    "image": "https://radiatortwo.github.io/rezepte/pics/high-protein-cheesecake.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Magerquark",
+        "group": "Teig",
+        "original": "500 g Magerquark"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Frischkäse light",
+        "group": "Teig",
+        "original": "200 g Frischkäse light"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Pck.",
+        "name": "Vanillepudding Pulver",
+        "group": "Teig",
+        "original": "2 Pck. Vanillepudding Pulver"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Teig",
+        "original": "4 Eier"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "EL",
+        "name": "Erythrit",
+        "group": "Teig",
+        "original": "2-3 EL Erythrit"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Scoop",
+        "name": "Chunky Flavor",
+        "group": "Teig",
+        "original": "1 Scoop Chunky Flavor"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "In eine Schüssel 500g Magerquark, 200g Frischkäse light, 2 Päckchen Vanillepuddingpulver, 2-3 EL Erythrit und 4 Eigelb geben und zu einer glatten Masse verrühren.",
+        "group": "Teig vorbereiten"
+      },
+      {
+        "text": "Das übrig gebliebene Eiweiß steif schlagen.",
+        "group": "Teig vorbereiten"
+      },
+      {
+        "text": "Das Eiweiß vorsichtig unter den Käsekuchenteig heben.",
+        "group": "Teig vorbereiten"
+      },
+      {
+        "text": "Den Teig in eine Silikonform geben und für 40 Minuten bei 150°C backen.",
+        "group": "Backen"
+      },
+      {
+        "text": "Kurz abkühlen lassen und servieren.",
+        "group": "Backen"
+      }
+    ],
+    "notes": [],
+    "category": "Dessert",
+    "servings": 6
+  },
+  {
     "id": "NapoleonKebab",
     "title": "Cajun Napoleon Kebab",
     "image": "https://radiatortwo.github.io/rezepte/pics/napoleon-kebab.jpg",
