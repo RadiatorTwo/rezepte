@@ -104,6 +104,7 @@
 * [High Protein Cheesecake](https://radiatortwo.github.io/rezepte/HighProteinCheesecake)
 
 ## Beilagen & Extras
+* [Aufgeschlagene Honigbutter](https://radiatortwo.github.io/rezepte/Honigbutter)
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
 * [Koreanischer Fischkuchen](https://radiatortwo.github.io/rezepte/KoreanFishCake)
 * [Moo Grob (Frittierter Schweinebauch)](https://radiatortwo.github.io/rezepte/MooGrob_FrittierterSchweinebauch)
