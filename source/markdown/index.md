@@ -29,6 +29,9 @@
 * [Garnelen Nudelsalat](https://radiatortwo.github.io/rezepte/AsiaGarnelenNudelsalat)
 * [Thai Shrimp Curry](https://radiatortwo.github.io/rezepte/ThaiShrimpCurry)
 * [Knusprige Reispapier-Dumplings](https://radiatortwo.github.io/rezepte/ReispapierDumplings)
+* [Hoisin Garlic Noodles](https://radiatortwo.github.io/rezepte/HoisinGarlicNoodles)
+* [Thai Basil Chicken](https://radiatortwo.github.io/rezepte/ThaiBasilChicken)
+* [Hühnerstreifen nach Yuxiang-Art (鱼香鸡丝)](https://radiatortwo.github.io/rezepte/YuxiangHuhn)
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
@@ -55,6 +58,14 @@
 * [Cajun Chimichurri Skewers](https://radiatortwo.github.io/rezepte/CajunChimichurriSkewers)
 * [Smashburger Quesadillas](https://radiatortwo.github.io/rezepte/SmashburgerQuesadillas)
 * [Napoleon Kebab](https://radiatortwo.github.io/rezepte/NapoleonKebab)
+* [Creamy Gochujang Halloumi & Bacon Pasta](https://radiatortwo.github.io/rezepte/GochujangHalloumiPasta)
+* [Slow-Braised Short Ribs mit Silan, Zimt & Rotwein](https://radiatortwo.github.io/rezepte/BraisedShortRibs)
+* [Creamy Steak Bite Shells mit geröstetem Brokkoli](https://radiatortwo.github.io/rezepte/CreamySteakBiteShells)
+* [Marokkanische Harira](https://radiatortwo.github.io/rezepte/MoroccanHarira)
+* [Birria Pasta](https://radiatortwo.github.io/rezepte/BirriaPasta)
+* [Cheesesteak Tortellini in Provolone-Sahnesoße](https://radiatortwo.github.io/rezepte/CheesesteakTortellini)
+* [Steak Bites mit cremiger Tomatensoße und Knoblauch-Kartoffelpüree](https://radiatortwo.github.io/rezepte/SteakBitesKartoffelpueree)
+* [Crispy Steak-Spiced Chicken auf Reis](https://radiatortwo.github.io/rezepte/CrispySteakSpicedChicken)
 
 ## Europäisch
 * [Pizza Lievito Madre](https://radiatortwo.github.io/rezepte/PizzaLievitoMadre)
@@ -71,6 +82,12 @@
 * [Mikrowellen-Omelette](https://radiatortwo.github.io/rezepte/MikrowellenOmelette)
 * [Champignons mit Knoblauchsauce](https://radiatortwo.github.io/rezepte/ChampignonsKnoblauchsauce)
 * [Fleischbällchen in Petersilien-Rahm-Sauce](https://radiatortwo.github.io/rezepte/FleischbaellchenPetersilienRahm)
+* [Gyrosblech](https://radiatortwo.github.io/rezepte/Gyrosblech)
+* [Meatball Pasta](https://radiatortwo.github.io/rezepte/MeatballPasta)
+* [Wikinger Topf](https://radiatortwo.github.io/rezepte/WikingerTopf)
+* [Swedish Meatballs Soup](https://radiatortwo.github.io/rezepte/SwedishMeatballsSoup)
+* [Cremige Tortellini mit getrockneten Tomaten und Spinat](https://radiatortwo.github.io/rezepte/CreamyTortellini)
+* [Creamy Bacon One Pot Pasta](https://radiatortwo.github.io/rezepte/CreamyBaconOnePot)
 
 ## Snacks & Fingerfood
 * [Mais-Snack](https://radiatortwo.github.io/rezepte/MaisSnack)
@@ -94,6 +111,9 @@
 * [Bolognese-Knoblauchbrot](https://radiatortwo.github.io/rezepte/BologneseKnoblauchbrot)
 * [Airfryer Ravioli](https://radiatortwo.github.io/rezepte/AirfryerRavioli)
 * [Bang Bang Shrimp](https://radiatortwo.github.io/rezepte/BangBangShrimp)
+* [Honey Smokey Air Fryer Chicken](https://radiatortwo.github.io/rezepte/AirfryHoneySmokyChicken)
+* [Spareribs im Airfryer](https://radiatortwo.github.io/rezepte/AirfrySpareribs)
+* [Asia Chicken aus dem Airfryer](https://radiatortwo.github.io/rezepte/AirfryAsiaChicken)
 
 ## Mealprep
 * [Loaded Breakfast McMuffins](https://radiatortwo.github.io/rezepte/MealprepLoadedMuffins)
@@ -104,11 +124,13 @@
 * [Guinnes Kuchen](https://radiatortwo.github.io/rezepte/GuinnessCake)
 * [Cinnamon Pull Apart Bread](https://radiatortwo.github.io/rezepte/CinnamonPullApartBread)
 * [High Protein Cheesecake](https://radiatortwo.github.io/rezepte/HighProteinCheesecake)
+* [Königinnen-Dessert](https://radiatortwo.github.io/rezepte/KoeniginnenDessert)
 
 ## Beilagen & Extras
 * [Aufgeschlagene Honigbutter](https://radiatortwo.github.io/rezepte/Honigbutter)
 * [Karamellisierte Zwiebelbutter](https://radiatortwo.github.io/rezepte/Zwiebelbutter)
 * [Beef Jerky](https://radiatortwo.github.io/rezepte/BeefJerky)
+* [Rosemary Maple Whisky Beef Jerky](https://radiatortwo.github.io/rezepte/RosemaryMapleWhiskyJerky)
 * [Koreanischer Fischkuchen](https://radiatortwo.github.io/rezepte/KoreanFishCake)
 * [Moo Grob (Frittierter Schweinebauch)](https://radiatortwo.github.io/rezepte/MooGrob_FrittierterSchweinebauch)
 * [Cole Slaw](https://radiatortwo.github.io/rezepte/ColeSlaw)
@@ -123,3 +145,6 @@
 * [BBQ Chicken Nudelsalat](https://radiatortwo.github.io/rezepte/BBQChickenNudelsalat)
 * [Chinakohl Hähnchen Salat](https://radiatortwo.github.io/rezepte/ChinakohlChickenSalat)
 * [Spitzkohl Salat mit Green Goddess Sauce](https://radiatortwo.github.io/rezepte/SpitzkohlSalat)
+* [Der leckerste Kartoffelsalat](https://radiatortwo.github.io/rezepte/Kartoffelsalat)
+* [Schneller Salat](https://radiatortwo.github.io/rezepte/SchnellerSalat)
+* [Küstipasta-Salat](https://radiatortwo.github.io/rezepte/KuestipastaSalat)
