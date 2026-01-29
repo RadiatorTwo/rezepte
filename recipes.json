@@ -1,5 +1,3999 @@
 [
   {
+    "id": "Kartoffelsalat",
+    "title": "Der leckerste Kartoffelsalat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffelsalat.jpg",
+    "ingredients": [
+      {
+        "amount": 800.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kartoffeln",
+        "group": "Kartoffeln",
+        "original": "800 g Kartoffeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Olivenöl",
+        "group": "Kartoffeln",
+        "original": "Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Kartoffeln",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mayonnaise",
+        "group": "Dressing",
+        "original": "120 g Mayonnaise"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Dressing",
+        "original": "3 EL Olivenöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Zwiebel",
+        "group": "Dressing",
+        "original": "1 rote Zwiebel"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Senf",
+        "group": "Dressing",
+        "original": "1/2 EL Senf"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "kleine",
+        "name": "Essiggurken",
+        "group": "Dressing",
+        "original": "5 kleine Essiggurken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Spritzer",
+        "name": "Zitronensaft",
+        "group": "Dressing",
+        "original": "1 Spritzer Zitronensaft"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Prise Salz, Pfeffer, Chilipulver, Vegeta",
+        "group": "Dressing",
+        "original": "Prise Salz, Pfeffer, Chilipulver, Vegeta"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frischer Dill",
+        "group": "Dressing",
+        "original": "frischer Dill"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gurke",
+        "group": "Außerdem",
+        "original": "1/2 Gurke"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zitronenscheiben für die Deko",
+        "group": "Außerdem",
+        "original": "Zitronenscheiben für die Deko"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frische Kräuter für die Deko",
+        "group": "Außerdem",
+        "original": "frische Kräuter für die Deko"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Kartoffeln kochen, schälen und in Scheiben schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Für das Dressing alle Zutaten vermischen.",
+        "group": ""
+      },
+      {
+        "text": "Die halbe Gurke schälen, längs halbieren und in dünne Scheiben schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Die Kartoffeln mit dem Dressing und der Gurke vermischen.",
+        "group": ""
+      },
+      {
+        "text": "Mit Zitronenscheiben und frischen Kräutern garnieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Meine Lieblingsgrillbeilage."
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 4
+  },
+  {
+    "id": "SwedishMeatballsSoup",
+    "title": "Swedish Meatballs Soup",
+    "image": "https://radiatortwo.github.io/rezepte/pics/swedish-meatballs-soup.jpg",
+    "ingredients": [
+      {
+        "amount": 470.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schweinehackfleisch (oder Kalbfleisch)",
+        "group": "Fleischbällchen",
+        "original": "470 g Schweinehackfleisch (oder Kalbfleisch)"
+      },
+      {
+        "amount": 650.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rinderhackfleisch",
+        "group": "Fleischbällchen",
+        "original": "650 g Rinderhackfleisch"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Panko-Semmelbrösel",
+        "group": "Fleischbällchen",
+        "original": "60 g Panko-Semmelbrösel"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Vollmilch",
+        "group": "Fleischbällchen",
+        "original": "120 ml Vollmilch"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Fleischbällchen",
+        "original": "30 ml Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "großes",
+        "name": "Ei",
+        "group": "Fleischbällchen",
+        "original": "1 großes Ei"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Salz",
+        "group": "Fleischbällchen",
+        "original": "6 g Salz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "weiße",
+        "name": "Zwiebel (gerieben)",
+        "group": "Fleischbällchen",
+        "original": "1/2 weiße Zwiebel (gerieben)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Zehen Knoblauch (fein gerieben)",
+        "group": "Fleischbällchen",
+        "original": "2 große Zehen Knoblauch (fein gerieben)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "schwarzer Pfeffer",
+        "group": "Fleischbällchen",
+        "original": "1 g schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Piment",
+        "group": "Fleischbällchen",
+        "original": "1 g Piment"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Muskatnuss",
+        "group": "Fleischbällchen",
+        "original": "4 g Muskatnuss"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frischer Thymian (fein gehackt)",
+        "group": "Fleischbällchen",
+        "original": "2 g frischer Thymian (fein gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Petersilie (fein gehackt)",
+        "group": "Fleischbällchen",
+        "original": "1 g Petersilie (fein gehackt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "etwas Dill (fein gehackt)",
+        "group": "Fleischbällchen",
+        "original": "etwas Dill (fein gehackt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Braten",
+        "group": "Fleischbällchen",
+        "original": "Öl zum Braten"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Karotten",
+        "name": "(grob gehackt)",
+        "group": "Suppe und Pasta",
+        "original": "3 Karotten (grob gehackt)"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Stangen",
+        "name": "Sellerie (fein gehackt)",
+        "group": "Suppe und Pasta",
+        "original": "4 Stangen Sellerie (fein gehackt)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "weiße",
+        "name": "Zwiebeln (fein geschnitten)",
+        "group": "Suppe und Pasta",
+        "original": "2 weiße Zwiebeln (fein geschnitten)"
+      },
+      {
+        "amount": 8.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (fein gerieben)",
+        "group": "Suppe und Pasta",
+        "original": "8 Zehen Knoblauch (fein gerieben)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter (gesalzen)",
+        "group": "Suppe und Pasta",
+        "original": "60 g Butter (gesalzen)"
+      },
+      {
+        "amount": 35.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl",
+        "group": "Suppe und Pasta",
+        "original": "35 g Mehl"
+      },
+      {
+        "amount": 800.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Rinderbrühe",
+        "group": "Suppe und Pasta",
+        "original": "800 ml Rinderbrühe"
+      },
+      {
+        "amount": 700.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe",
+        "group": "Suppe und Pasta",
+        "original": "700 ml Hühnerbrühe"
+      },
+      {
+        "amount": 480.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Suppe und Pasta",
+        "original": "480 ml Sahne"
+      },
+      {
+        "amount": 65.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sauerrahm",
+        "group": "Suppe und Pasta",
+        "original": "65 ml Sauerrahm"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Saft von 1 kleinen Zitrone",
+        "group": "Suppe und Pasta",
+        "original": "Saft von 1 kleinen Zitrone"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Fenchelsamen",
+        "group": "Suppe und Pasta",
+        "original": "1 EL Fenchelsamen"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Worcestershire-Soße",
+        "group": "Suppe und Pasta",
+        "original": "2 TL Worcestershire-Soße"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Honig",
+        "group": "Suppe und Pasta",
+        "original": "1 EL Honig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "Suppe und Pasta",
+        "original": "1 EL Zucker"
+      },
+      {
+        "amount": 1.5,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Suppe und Pasta",
+        "original": "1,5 EL Sojasauce"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Suppe und Pasta",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frische Eiernudeln",
+        "group": "Suppe und Pasta",
+        "original": "250 g frische Eiernudeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Preiselbeerkonfitüre oder Cranberry-Soße",
+        "group": "Zum Servieren",
+        "original": "Preiselbeerkonfitüre oder Cranberry-Soße"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frische Petersilie oder Dill",
+        "group": "Zum Servieren",
+        "original": "frische Petersilie oder Dill"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten für die Fleischbällchen in einer Schüssel vermischen und gut durchkneten, bis alles verbunden ist. Zu kleinen Bällchen (etwas kleiner als Golfbälle) formen und auf einen großen Teller legen.",
+        "group": "Fleischbällchen"
+      },
+      {
+        "text": "Die Fleischbällchen portionsweise (3-4 Durchgänge) bei niedriger Hitze mit reichlich Pflanzenöl ca. 4-5 Minuten pro Portion braten. Beiseite stellen.",
+        "group": "Fleischbällchen"
+      },
+      {
+        "text": "In einem großen Topf das Gemüse in der Butter bei mittlerer Hitze 20 Minuten anbraten. Das Mehl hinzufügen und unterrühren, sodass alles bedeckt ist.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Langsam beide Brühen eingießen und rühren, damit keine Klumpen entstehen. Zitronensaft, Fenchelsamen, Worcestershire-Soße, Honig, Zucker und Sojasauce hinzufügen. Mit Salz und Pfeffer abschmecken. 20 Minuten köcheln lassen.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Die gebratenen Fleischbällchen zur Suppe geben. Sahne und Sauerrahm einrühren. Die Pasta hinzufügen und 4-5 Minuten kochen (bei frischer Pasta) oder 12-14 Minuten (bei getrockneter Pasta).",
+        "group": "Suppe"
+      },
+      {
+        "text": "In Schüsseln servieren, mit Petersilie bestreuen und mit einem großzügigen Löffel Preiselbeerkonfitüre garnieren.",
+        "group": "Suppe"
+      }
+    ],
+    "notes": [
+      "Ein Rezept mit über 3,2 Millionen Aufrufen. Eine herzhafte schwedische Fleischbällchen-Suppe mit cremiger Soße und frischer Pasta."
+    ],
+    "category": "Europäisch",
+    "servings": 8
+  },
+  {
+    "id": "MeatballPasta",
+    "title": "Meatball Pasta",
+    "image": "https://radiatortwo.github.io/rezepte/pics/meatball-pasta.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rinderhackfleisch",
+        "group": "Fleischbällchen",
+        "original": "500 g Rinderhackfleisch"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Ritz Cracker (zerbröselt)",
+        "group": "Fleischbällchen",
+        "original": "50 g Ritz Cracker (zerbröselt)"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Fleischbällchen",
+        "original": "100 ml Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Fleischbällchen",
+        "original": "1 TL Salz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Pfeffer",
+        "group": "Fleischbällchen",
+        "original": "1/2 TL Pfeffer"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "Fleischbällchen",
+        "original": "1/2 TL Knoblauchpulver"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zwiebelpulver",
+        "group": "Fleischbällchen",
+        "original": "1/2 TL Zwiebelpulver"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Pasta (z.B. Penne oder Rigatoni)",
+        "group": "Pasta und Soße",
+        "original": "400 g Pasta (z.B. Penne oder Rigatoni)"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "passierte Tomaten",
+        "group": "Pasta und Soße",
+        "original": "400 g passierte Tomaten"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Pasta und Soße",
+        "original": "200 ml Sahne"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "Pasta und Soße",
+        "original": "2 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Pasta und Soße",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "italienische Kräuter",
+        "group": "Pasta und Soße",
+        "original": "1 TL italienische Kräuter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Pasta und Soße",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frischer Parmesan zum Servieren",
+        "group": "Pasta und Soße",
+        "original": "frischer Parmesan zum Servieren"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Backofen auf 200°C Umluft vorheizen.",
+        "group": ""
+      },
+      {
+        "text": "Für die Fleischbällchen das Hackfleisch mit den zerbröselten Ritz Crackern, Sahne und den Gewürzen vermengen. Zu kleinen Bällchen formen und auf ein mit Backpapier ausgelegtes Blech legen. Im vorgeheizten Ofen ca. 20 Minuten backen.",
+        "group": ""
+      },
+      {
+        "text": "In der Zwischenzeit die Pasta nach Packungsanleitung al dente kochen und abgießen.",
+        "group": ""
+      },
+      {
+        "text": "Für die Soße Olivenöl in einer großen Pfanne erhitzen und den Knoblauch kurz anschwitzen. Die passierten Tomaten hinzufügen und mit Sahne, italienischen Kräutern, Salz und Pfeffer abschmecken. Einige Minuten köcheln lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die gekochte Pasta und die gebackenen Fleischbällchen zur Soße geben und vorsichtig vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Mit frisch geriebenem Parmesan servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ein gemütliches Comfort-Food-Rezept, das perfekt für stressige Wochentage ist. Alternativ können auch tiefgekühlte Mini-Fleischbällchen verwendet werden."
+    ],
+    "category": "Europäisch",
+    "servings": 4
+  },
+  {
+    "id": "HoisinGarlicNoodles",
+    "title": "Hoisin Garlic Noodles",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hoisin-garlic-noodles.jpg",
+    "ingredients": [
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Weizen- oder Eiernudeln",
+        "group": "",
+        "original": "400 g Weizen- oder Eiernudeln"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hoisin-Soße",
+        "group": "",
+        "original": "60 ml Hoisin-Soße"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "",
+        "original": "2 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sesamöl",
+        "group": "",
+        "original": "1 EL Sesamöl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Ahornsirup oder Honig",
+        "group": "",
+        "original": "2 TL Ahornsirup oder Honig"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pflanzenöl",
+        "group": "",
+        "original": "2 EL Pflanzenöl"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (fein gehackt)",
+        "group": "",
+        "original": "6 Zehen Knoblauch (fein gehackt)"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "Frühlingszwiebeln",
+        "name": "(weiße und grüne Teile getrennt, in Ringe geschnitten)",
+        "group": "",
+        "original": "6 Frühlingszwiebeln (weiße und grüne Teile getrennt, in Ringe geschnitten)"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "geröstete Sesamsamen",
+        "group": "",
+        "original": "4 EL geröstete Sesamsamen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Nudeln in kochendem Salzwasser al dente garen, dann abgießen und mit kaltem Wasser abspülen.",
+        "group": ""
+      },
+      {
+        "text": "In einer kleinen Schüssel Hoisin-Soße, Sojasauce, Sesamöl und Ahornsirup verrühren.",
+        "group": ""
+      },
+      {
+        "text": "Das Pflanzenöl in einer großen Pfanne erhitzen. Den Knoblauch und die weißen Teile der Frühlingszwiebeln hinzufügen und kurz anbraten, bis es duftet.",
+        "group": ""
+      },
+      {
+        "text": "Schnell die Soße eingießen, die Nudeln hinzufügen und alles gut vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Die Nudeln 2-3 Minuten ungestört braten, bis der Boden knusprig wird. Mit Salz und Pfeffer abschmecken.",
+        "group": ""
+      },
+      {
+        "text": "Mit Sesamsamen und den grünen Frühlingszwiebelringen bestreut servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Die New York Times hat dieses Rezept auf Platz 5 der besten Rezepte 2025 gewählt. Ein einfaches Rezept, das unglaublich gut schmeckt."
+    ],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
+    "id": "CheesesteakTortellini",
+    "title": "Cheesesteak Tortellini in Provolone-Sahnesoße",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheesesteak-tortellini.jpg",
+    "ingredients": [
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frische Käse-Tortellini",
+        "group": "",
+        "original": "450 g frische Käse-Tortellini"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": 225.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Steak (Ribeye oder Sirloin), dünn geschnitten in Streifen",
+        "group": "",
+        "original": "225 g Steak (Ribeye oder Sirloin), dünn geschnitten in Streifen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "grüne",
+        "name": "Paprika (in Streifen)",
+        "group": "",
+        "original": "1 grüne Paprika (in Streifen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kleine",
+        "name": "Zwiebel (in Streifen)",
+        "group": "",
+        "original": "1 kleine Zwiebel (in Streifen)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "",
+        "original": "2 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "",
+        "original": "1 EL Mehl"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Rinderbrühe",
+        "group": "",
+        "original": "240 ml Rinderbrühe"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "240 ml Sahne"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Provolone (gerieben)",
+        "group": "",
+        "original": "100 g Provolone (gerieben)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frische Petersilie zum Garnieren",
+        "group": "",
+        "original": "frische Petersilie zum Garnieren"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Tortellini nach Packungsanleitung in Salzwasser kochen. Abgießen und beiseite stellen.",
+        "group": ""
+      },
+      {
+        "text": "In einer großen Pfanne das Olivenöl bei mittlerer bis hoher Hitze erhitzen. Die Steakstreifen 1-2 Minuten pro Seite anbraten, bis sie gebräunt sind. Herausnehmen und beiseite stellen.",
+        "group": ""
+      },
+      {
+        "text": "In derselben Pfanne die Paprika und Zwiebeln 5-6 Minuten anschwitzen, bis sie weich sind. Den Knoblauch hinzufügen und eine weitere Minute mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Das Mehl einstreuen und unterrühren, sodass das Gemüse bedeckt ist. Langsam die Rinderbrühe und Sahne einrühren und dabei ständig rühren, um Klumpen zu vermeiden. 3-4 Minuten köcheln lassen, bis die Soße leicht eingedickt ist.",
+        "group": ""
+      },
+      {
+        "text": "Den Provolone einrühren und schmelzen lassen, bis die Soße glatt und cremig ist.",
+        "group": ""
+      },
+      {
+        "text": "Das Steak und die gekochten Tortellini zurück in die Pfanne geben und alles gut in der Soße schwenken. Mit Salz und Pfeffer abschmecken. 1-2 Minuten erwärmen.",
+        "group": ""
+      },
+      {
+        "text": "Heiß servieren und mit frischer Petersilie garnieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Eine genussvolle Variante des klassischen Philly Cheesesteaks - zarte Tortellini in einer cremigen, käsigen Provolone-Soße mit saftigem Rindfleisch, gebratener Paprika und Zwiebeln."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
+    "id": "KoeniginnenDessert",
+    "title": "Königinnen-Dessert",
+    "image": "https://radiatortwo.github.io/rezepte/pics/koeniginnen-dessert.jpg",
+    "ingredients": [
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zucker",
+        "group": "Kokosbelag",
+        "original": "100 g Zucker"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Kokosbelag",
+        "original": "1/2 EL Butter"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kokosraspeln",
+        "group": "Kokosbelag",
+        "original": "50 g Kokosraspeln"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Kokosbelag",
+        "original": "100 ml Sahne"
+      },
+      {
+        "amount": 395.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kondensmilch",
+        "group": "Cremebasis",
+        "original": "395 g Kondensmilch"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Cremebasis",
+        "original": "200 ml Sahne"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Kokosmilch",
+        "group": "Cremebasis",
+        "original": "200 ml Kokosmilch"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Milchpulver",
+        "group": "Cremebasis",
+        "original": "50 g Milchpulver"
+      },
+      {
+        "amount": 12.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Gelatine (eingeweicht und aufgelöst)",
+        "group": "Cremebasis",
+        "original": "12 g Gelatine (eingeweicht und aufgelöst)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Zucker in einen Topf geben und unter Rühren schmelzen lassen, bis er karamellisiert. Die Butter hinzufügen und schmelzen lassen.",
+        "group": "Kokosbelag"
+      },
+      {
+        "text": "Die Kokosraspeln hinzufügen und unter ständigem Rühren einarbeiten, damit der Kokos nicht anbrennt.",
+        "group": "Kokosbelag"
+      },
+      {
+        "text": "Sobald der Kokos in das Karamell eingearbeitet ist, die Sahne nach und nach hinzufügen und alles gründlich vermischen. Beiseite stellen.",
+        "group": "Kokosbelag"
+      },
+      {
+        "text": "In einer Schüssel die Kondensmilch, Sahne und Kokosmilch nacheinander hinzufügen und gut verrühren, bis eine gleichmäßige Masse entsteht.",
+        "group": "Cremebasis"
+      },
+      {
+        "text": "Das Milchpulver einarbeiten. Die aufgelöste Gelatine unterrühren und nochmals gründlich verrühren.",
+        "group": "Cremebasis"
+      },
+      {
+        "text": "Die Mischung in eine Form gießen und für etwa 30 Minuten in den Kühlschrank stellen, bis sie fest geworden ist.",
+        "group": "Cremebasis"
+      },
+      {
+        "text": "Nach der Kühlzeit den vorbereiteten Kokosbelag vorsichtig obenauf verteilen, damit er nicht in die Creme einsinkt.",
+        "group": "Cremebasis"
+      }
+    ],
+    "notes": [
+      "Ein einfaches Rezept mit einem Geschmack, der königlich ist. Dieses Dessert wird die ganze Familie begeistern."
+    ],
+    "category": "Dessert",
+    "servings": 8
+  },
+  {
+    "id": "AirfrySpareribs",
+    "title": "Spareribs im Airfryer",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-spareribs.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Strang",
+        "name": "Spareribs",
+        "group": "",
+        "original": "1 Strang Spareribs"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": 2.0,
+        "unit": "Zwiebeln",
+        "name": "(in Ringe geschnitten)",
+        "group": "",
+        "original": "1-2 Zwiebeln (in Ringe geschnitten)"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "Streifen",
+        "name": "Bacon",
+        "group": "",
+        "original": "6 Streifen Bacon"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Magic Dust",
+        "group": "",
+        "original": "2 EL Magic Dust"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": 100.0,
+        "unit": "ml",
+        "name": "BBQ-Sauce",
+        "group": "",
+        "original": "80-100 ml BBQ-Sauce"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": 70.0,
+        "unit": "ml",
+        "name": "Bier, Apfelsaft oder Cola",
+        "group": "",
+        "original": "50-70 ml Bier, Apfelsaft oder Cola"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Silberhaut von den Ribs abziehen. Die Ribs in der Mitte durchschneiden und großzügig mit Magic Dust würzen.",
+        "group": ""
+      },
+      {
+        "text": "Alufolie über Kreuz auslegen und Backpapier darauflegen.",
+        "group": ""
+      },
+      {
+        "text": "Eine Schicht Zwiebelringe und Bacon auf das Papier legen. Die halben Rippchen daraufsetzen und mit BBQ-Sauce bestreichen.",
+        "group": ""
+      },
+      {
+        "text": "Das Ganze wiederholen: Zwiebelringe, Bacon, die zweite Hälfte der Ribs, BBQ-Sauce. Mit Bacon abschließen.",
+        "group": ""
+      },
+      {
+        "text": "Alles stramm einwickeln. An einer Seite das Paket leicht öffnen und etwas Bier (oder Apfelsaft/Cola) hineingießen. Wieder gut verschließen.",
+        "group": ""
+      },
+      {
+        "text": "Das Paket in den Airfryer legen und bei 160°C ca. 3 Stunden garen.",
+        "group": ""
+      },
+      {
+        "text": "Das Paket vorsichtig auspacken, mit BBQ-Sauce bestreichen und nochmal kurz bei hoher Temperatur knusprig werden lassen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Die zärtlichsten Spareribs aus der Heißluftfritteuse - das Fleisch fällt dir vom Knochen direkt in den Mund."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 2
+  },
+  {
+    "id": "WikingerTopf",
+    "title": "Wikinger Topf",
+    "image": "https://radiatortwo.github.io/rezepte/pics/wikinger-topf.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch (gemischt)",
+        "group": "Hackbällchen",
+        "original": "500 g Hackfleisch (gemischt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Zwiebel",
+        "name": "(gewürfelt)",
+        "group": "Hackbällchen",
+        "original": "1 Zwiebel (gewürfelt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ei",
+        "group": "Hackbällchen",
+        "original": "1 Ei"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Hackbällchen",
+        "original": "1 TL Salz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Senf",
+        "group": "Hackbällchen",
+        "original": "1 EL Senf"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Majoran",
+        "group": "Hackbällchen",
+        "original": "Majoran"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "reichlich Paprikapulver",
+        "group": "Hackbällchen",
+        "original": "reichlich Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Hackbällchen",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchpulver",
+        "group": "Hackbällchen",
+        "original": "Knoblauchpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Petersilie",
+        "group": "Hackbällchen",
+        "original": "Petersilie"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "reichlich Maggi",
+        "group": "Hackbällchen",
+        "original": "reichlich Maggi"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "etwas Paniermehl",
+        "group": "Hackbällchen",
+        "original": "etwas Paniermehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "etwas Öl zum Anbraten",
+        "group": "Topf",
+        "original": "etwas Öl zum Anbraten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2-3 Butterflöckchen",
+        "group": "Topf",
+        "original": "2-3 Butterflöckchen"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Möhrenstifte",
+        "group": "Topf",
+        "original": "200 g Möhrenstifte"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "TK-Erbsen",
+        "group": "Topf",
+        "original": "150 g TK-Erbsen"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frische Spätzle",
+        "group": "Topf",
+        "original": "400 g frische Spätzle"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Gemüsebrühe",
+        "group": "Topf",
+        "original": "250 ml Gemüsebrühe"
+      },
+      {
+        "amount": 350.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Topf",
+        "original": "350 ml Sahne"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Schmelzkäse",
+        "group": "Topf",
+        "original": "2 EL Schmelzkäse"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Topf",
+        "original": "Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten für die Hackbällchen gut durchmixen, bis eine homogene Masse entsteht. Kleine Frikadellen formen.",
+        "group": "Hackbällchen"
+      },
+      {
+        "text": "In einer Pfanne Öl und Butter erhitzen und die Mini-Frikadellen von allen Seiten schön anknuspern. Beiseite stellen.",
+        "group": "Hackbällchen"
+      },
+      {
+        "text": "Im verbliebenen Fett die Möhrenstifte kurz anschwitzen. TK-Erbsen hinzufügen und kurz mitbraten.",
+        "group": "Topf"
+      },
+      {
+        "text": "Frische Spätzle hinzufügen, auseinander zupfen und 2-3 Minuten mit anbraten.",
+        "group": "Topf"
+      },
+      {
+        "text": "Mit der Gemüsebrühe aufgießen. Wenn diese weitestgehend verkocht ist, die Sahne hinzufügen.",
+        "group": "Topf"
+      },
+      {
+        "text": "Schmelzkäse hinzufügen und schmelzen lassen, bis er sich mit der Soße verbunden hat. Mit Pfeffer abschmecken.",
+        "group": "Topf"
+      },
+      {
+        "text": "Die Hackbällchen in die Soße geben und gut umrühren, bis sie heiß sind.",
+        "group": "Topf"
+      }
+    ],
+    "notes": [
+      "Ein super schneller Wikinger-Topf, der der ganzen Familie schmeckt."
+    ],
+    "category": "Europäisch",
+    "servings": 4
+  },
+  {
+    "id": "CrispySteakSpicedChicken",
+    "title": "Crispy Steak-Spiced Chicken auf Reis",
+    "image": "https://radiatortwo.github.io/rezepte/pics/crispy-steak-spiced-chicken.jpg",
+    "ingredients": [
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenoberkeulen (ohne Haut und Knochen)",
+        "group": "Hähnchen",
+        "original": "600 g Hähnchenoberkeulen (ohne Haut und Knochen)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "TL",
+        "name": "Steak-Gewürzmischung",
+        "group": "Hähnchen",
+        "original": "2-3 TL Steak-Gewürzmischung"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl",
+        "group": "Hähnchen",
+        "original": "1 EL Öl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "geräuchertes Paprikapulver",
+        "group": "Steak-Gewürzmischung",
+        "original": "2 EL geräuchertes Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Knoblauchpulver",
+        "group": "Steak-Gewürzmischung",
+        "original": "1 EL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zwiebelpulver",
+        "group": "Steak-Gewürzmischung",
+        "original": "1 EL Zwiebelpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "schwarzer Pfeffer",
+        "group": "Steak-Gewürzmischung",
+        "original": "1 EL schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "grobes Salz",
+        "group": "Steak-Gewürzmischung",
+        "original": "1 EL grobes Salz"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "brauner Zucker (optional)",
+        "group": "Steak-Gewürzmischung",
+        "original": "2 TL brauner Zucker (optional)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken oder Cayenne (optional)",
+        "group": "Steak-Gewürzmischung",
+        "original": "1 TL Chiliflocken oder Cayenne (optional)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "getrockneter Thymian oder Rosmarin (optional)",
+        "group": "Steak-Gewürzmischung",
+        "original": "1 TL getrockneter Thymian oder Rosmarin (optional)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Reis (Jasmin oder Basmati)",
+        "group": "Beilage",
+        "original": "Reis (Jasmin oder Basmati)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten für die Steak-Gewürzmischung in einer kleinen Schüssel vermischen. Die Mischung hält sich in einem luftdichten Behälter mehrere Wochen.",
+        "group": "Gewürzmischung"
+      },
+      {
+        "text": "Das Hähnchen mit 2-3 TL der Gewürzmischung und dem Öl einreiben. Mindestens 30 Minuten marinieren (oder länger).",
+        "group": "Hähnchen"
+      },
+      {
+        "text": "Eine Pfanne auf hoher Hitze erhitzen und etwas Öl hinzufügen. Das Hähnchen 3-4 Minuten pro Seite scharf anbraten, bis es tiefgolden und durchgegart ist.",
+        "group": "Hähnchen"
+      },
+      {
+        "text": "Kurz ruhen lassen und auf Reis servieren.",
+        "group": "Hähnchen"
+      }
+    ],
+    "notes": [
+      "Ohne Haut, ohne Knochen, maximaler Geschmack. Saftiges Hähnchen mit rauchiger Steakhouse-Kruste - super einfach und unglaublich lecker."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
+    "id": "SteakBitesKartoffelpueree",
+    "title": "Steak Bites mit cremiger Tomatensoße und Knoblauch-Kartoffelpüree",
+    "image": "https://radiatortwo.github.io/rezepte/pics/steak-bites-kartoffelpueree.jpg",
+    "ingredients": [
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Steak nach Wahl",
+        "group": "Steak",
+        "original": "450 g Steak nach Wahl"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Steak",
+        "original": "4 EL Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Steak",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Schalotte",
+        "name": "(gehackt)",
+        "group": "Soße",
+        "original": "1 Schalotte (gehackt)"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "Soße",
+        "original": "4 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 85.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "getrocknete Tomaten (gehackt)",
+        "group": "Soße",
+        "original": "85 g getrocknete Tomaten (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl von getrockneten Tomaten",
+        "group": "Soße",
+        "original": "1 EL Öl von getrockneten Tomaten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "Soße",
+        "original": "1 EL Tomatenmark"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Soße",
+        "original": "60 ml Sahne"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Saft einer Zitrone",
+        "group": "Soße",
+        "original": "Saft einer Zitrone"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Knoblauchpulver",
+        "group": "Soße",
+        "original": "1 EL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Oregano",
+        "group": "Soße",
+        "original": "1 EL Oregano"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Paprikapulver",
+        "group": "Soße",
+        "original": "1 EL Paprikapulver"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan (gerieben)",
+        "group": "Soße",
+        "original": "30 g Parmesan (gerieben)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sriracha",
+        "group": "Soße",
+        "original": "1 EL Sriracha"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "Yukon",
+        "name": "Gold Kartoffeln (oder festkochende)",
+        "group": "Knoblauch-Kartoffelpüree",
+        "original": "6 Yukon Gold Kartoffeln (oder festkochende)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchknolle",
+        "group": "Knoblauch-Kartoffelpüree",
+        "original": "1 Knoblauchknolle"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Knoblauch-Kartoffelpüree",
+        "original": "240 ml Milch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Butter",
+        "group": "Knoblauch-Kartoffelpüree",
+        "original": "Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Knoblauch-Kartoffelpüree",
+        "original": "Salz, Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Mit dem Kartoffelpüree beginnen, da es 25-30 Minuten dauert und warm gehalten werden kann.",
+        "group": "Kartoffelpüree"
+      },
+      {
+        "text": "Die Kartoffeln schälen und in Stücke schneiden. Die Knoblauchzehen aus der Knolle lösen. Beides zusammen in gesalzenem Wasser 15-20 Minuten kochen, bis die Kartoffeln weich sind.",
+        "group": "Kartoffelpüree"
+      },
+      {
+        "text": "Abgießen und mit Milch, dem gekochten Knoblauch, Butter, Salz und Pfeffer zu einem cremigen Püree stampfen. Warm halten.",
+        "group": "Kartoffelpüree"
+      },
+      {
+        "text": "Das Steak in ca. 2x2 cm große Würfel schneiden und mit Salz und Pfeffer würzen.",
+        "group": "Steak und Soße"
+      },
+      {
+        "text": "In einer heißen Pfanne die Steakwürfel von allen Seiten ca. 1 Minute anbraten. Mit Butter begießen. Herausnehmen und beiseite stellen.",
+        "group": "Steak und Soße"
+      },
+      {
+        "text": "In derselben Pfanne die Schalotte und den Knoblauch in der verbliebenen Butter anschwitzen, bis sie duften. Die getrockneten Tomaten, Tomatenöl und Tomatenmark hinzufügen. Sahne, Zitronensaft, Gewürze und Parmesan einrühren und glatt verrühren. Mit Sriracha abschmecken.",
+        "group": "Steak und Soße"
+      },
+      {
+        "text": "Die Steakwürfel zurück in die Soße geben und kurz erhitzen.",
+        "group": "Steak und Soße"
+      },
+      {
+        "text": "Mit dem Knoblauch-Kartoffelpüree servieren und mit einem Stück Butter toppen.",
+        "group": "Steak und Soße"
+      }
+    ],
+    "notes": [
+      "Ein unglaublich leckeres Abendessen - zarte Steakwürfel in cremiger Tomaten-Parmesan-Soße mit buttrigem Knoblauch-Kartoffelpüree."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
+    "id": "AirfryAsiaChicken",
+    "title": "Asia Chicken aus dem Airfryer",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-asia-chicken.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenbrust",
+        "group": "Hähnchen",
+        "original": "500 g Hähnchenbrust"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Dinkelmehl",
+        "group": "Hähnchen",
+        "original": "1 EL Dinkelmehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer, Paprika",
+        "group": "Hähnchen",
+        "original": "Salz, Pfeffer, Paprika"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Honig",
+        "group": "Glasur",
+        "original": "2 EL Honig"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Glasur",
+        "original": "2 EL Sojasauce"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ketchup Zero",
+        "group": "Glasur",
+        "original": "4 EL Ketchup Zero"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "Zehen",
+        "name": "Knoblauch (gepresst)",
+        "group": "Glasur",
+        "original": "2-3 Zehen Knoblauch (gepresst)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Sesam",
+        "group": "Glasur",
+        "original": "Sesam"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Hähnchen in Würfel schneiden und mit Salz, Pfeffer, Paprika und Dinkelmehl vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Im Airfryer bei 230°C (Grillfunktion) 10 Minuten garen.",
+        "group": ""
+      },
+      {
+        "text": "In der Zwischenzeit die Soße aus Sojasauce, Honig, Ketchup Zero und Knoblauch in einem kleinen Topf bei mittlerer Hitze kurz aufkochen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Das Hähnchen aus dem Airfryer nehmen, mit der Soße vermengen und mit Sesam bestreuen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Schnelles, leckeres und gesundes High-Protein-Gericht aus dem Airfryer, das in nur 15 Minuten fertig ist."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 3
+  },
+  {
+    "id": "SchnellerSalat",
+    "title": "Schneller Salat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/schneller-salat.jpg",
+    "ingredients": [
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Gurke",
+        "group": "",
+        "original": "250 g Gurke"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Cornichons",
+        "group": "",
+        "original": "100 g Cornichons"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Dose",
+        "name": "Mais",
+        "group": "",
+        "original": "1 Dose Mais"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "gekochte",
+        "name": "Eier",
+        "group": "",
+        "original": "4 gekochte Eier"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1 rote Zwiebel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "etwas Dill",
+        "group": "",
+        "original": "etwas Dill"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Handvoll",
+        "name": "Röstzwiebeln",
+        "group": "",
+        "original": "1 Handvoll Röstzwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "",
+        "original": "Salz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mayonnaise (oder Miracel Whip Balance)",
+        "group": "Dressing",
+        "original": "1 EL Mayonnaise (oder Miracel Whip Balance)"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Joghurt (1,5% Fett)",
+        "group": "Dressing",
+        "original": "150 g Joghurt (1,5% Fett)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten in mundgerechte Stücke schneiden und miteinander vermischen.",
+        "group": ""
+      },
+      {
+        "text": "Das Dressing in einer separaten Schüssel anrühren und anschließend unterheben.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ein schneller und einfacher Salat, perfekt für Mittag- oder Abendessen."
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 2
+  },
+  {
+    "id": "ThaiBasilChicken",
+    "title": "Thai Basil Chicken",
+    "image": "https://radiatortwo.github.io/rezepte/pics/thai-basil-chicken.jpg",
+    "ingredients": [
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Jasminreis",
+        "group": "Reis",
+        "original": "150 g Jasminreis"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Reis",
+        "original": "300 ml Wasser"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "dunkle Sojasauce",
+        "group": "Soße",
+        "original": "1 EL dunkle Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Soße",
+        "original": "1 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Austernsoße",
+        "group": "Soße",
+        "original": "1 EL Austernsoße"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chili-Knoblauch-Sauce oder Sriracha",
+        "group": "Soße",
+        "original": "1 TL Chili-Knoblauch-Sauce oder Sriracha"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Fischsauce",
+        "group": "Soße",
+        "original": "1 TL Fischsauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zucker",
+        "group": "Soße",
+        "original": "1 TL Zucker"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenoberkeulen (ohne Haut und Knochen)",
+        "group": "Pfanne",
+        "original": "400 g Hähnchenoberkeulen (ohne Haut und Knochen)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schalotten",
+        "group": "Pfanne",
+        "original": "2 Schalotten"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch",
+        "group": "Pfanne",
+        "original": "3 Zehen Knoblauch"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Thai-Chilis",
+        "group": "Pfanne",
+        "original": "2 rote Thai-Chilis"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe",
+        "group": "Pfanne",
+        "original": "100 ml Hühnerbrühe"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Thai-Basilikum",
+        "group": "Pfanne",
+        "original": "30 g Thai-Basilikum"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pflanzenöl",
+        "group": "Pfanne",
+        "original": "2 EL Pflanzenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Pfanne",
+        "original": "Salz"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Spiegeleier",
+        "original": "2 Eier"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pflanzenöl",
+        "group": "Spiegeleier",
+        "original": "1 EL Pflanzenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Spiegeleier",
+        "original": "Salz"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Reis in einen Topf geben und waschen, bis das Wasser klar ist. Abgießen, das Wasser hinzufügen und zum Kochen bringen. Mit Deckel bei niedriger Hitze 12 Minuten dämpfen. Vom Herd nehmen, mit einer Gabel auflockern, wieder abdecken und 10 Minuten ruhen lassen.",
+        "group": "Reis"
+      },
+      {
+        "text": "Dunkle Sojasauce, Sojasauce, Austernsoße, Chili-Knoblauch-Sauce, Fischsauce und Zucker in einer Schüssel vermischen.",
+        "group": "Soße und Hähnchen"
+      },
+      {
+        "text": "Die Schalotten fein schneiden, den Knoblauch hacken und die Chilis in dünne Ringe schneiden. Das Hähnchen in kleine mundgerechte Stücke schneiden.",
+        "group": "Soße und Hähnchen"
+      },
+      {
+        "text": "Eine große Pfanne oder einen Wok bei mittlerer bis hoher Hitze mit 1 EL Öl erhitzen. Das Hähnchen mit einer Prise Salz 4-5 Minuten anbraten, bis es leicht Farbe bekommt. Schalotten, Knoblauch und Chilis hinzufügen und weitere 3 Minuten braten, bis alles weich und duftend ist.",
+        "group": "Soße und Hähnchen"
+      },
+      {
+        "text": "Die Soße und die Hühnerbrühe eingießen. 2-3 Minuten köcheln lassen, bis die Soße leicht eingedickt und glänzend ist. Das Basilikum hineinzupfen und unterheben, bis es zusammenfällt.",
+        "group": "Soße und Hähnchen"
+      },
+      {
+        "text": "In einer separaten Pfanne 1 EL Öl bei hoher Hitze erhitzen. Die Eier aufschlagen und 2-3 Minuten braten, bis die Ränder knusprig sind und das Eigelb noch flüssig ist.",
+        "group": "Spiegeleier"
+      },
+      {
+        "text": "Den Reis auf Schüsseln verteilen, das Hähnchen darüber geben und jeweils mit einem knusprigen Spiegelei toppen.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Ein proteinreiches Rezept mit über 50 g Protein, das in unter 30 Minuten zubereitet ist."
+    ],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
+    "id": "CreamyTortellini",
+    "title": "Cremige Tortellini mit getrockneten Tomaten und Spinat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-tortellini.jpg",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "",
+        "original": "2 EL Olivenöl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl von getrockneten Tomaten",
+        "group": "",
+        "original": "2 EL Öl von getrockneten Tomaten"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "",
+        "original": "6 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "italienische Kräuter",
+        "group": "",
+        "original": "1 TL italienische Kräuter"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "",
+        "original": "1/4 TL Chiliflocken"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "getrocknete Tomaten (gehackt)",
+        "group": "",
+        "original": "60 g getrocknete Tomaten (gehackt)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Weißwein",
+        "group": "",
+        "original": "60 ml Weißwein"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "",
+        "original": "2 EL Mehl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "",
+        "original": "2 EL Butter"
+      },
+      {
+        "amount": 480.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe",
+        "group": "",
+        "original": "480 ml Hühnerbrühe"
+      },
+      {
+        "amount": 560.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frische Käse-Tortellini",
+        "group": "",
+        "original": "560 g frische Käse-Tortellini"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "120 ml Sahne"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan (frisch gerieben)",
+        "group": "",
+        "original": "100 g Parmesan (frisch gerieben)"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frischer Spinat",
+        "group": "",
+        "original": "80 g frischer Spinat"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Olivenöl und das Öl der getrockneten Tomaten in einem großen Topf bei mittlerer Hitze erhitzen.",
+        "group": ""
+      },
+      {
+        "text": "Knoblauch, italienische Kräuter und Chiliflocken hinzufügen und ca. 2 Minuten anbraten, bis es duftet.",
+        "group": ""
+      },
+      {
+        "text": "Die getrockneten Tomaten, Weißwein und Mehl einrühren. 1-2 Minuten köcheln lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die Butter hinzufügen und schmelzen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Langsam die Hühnerbrühe eingießen und zum leichten Kochen bringen.",
+        "group": ""
+      },
+      {
+        "text": "Die Tortellini hinzufügen und 3-4 Minuten kochen, bis sie gar sind.",
+        "group": ""
+      },
+      {
+        "text": "Sahne, Parmesan und Spinat einrühren, bis die Soße cremig ist und der Spinat zusammenfällt.",
+        "group": ""
+      },
+      {
+        "text": "Mit Salz und Pfeffer abschmecken und servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Dieses One-Pot-Gericht ist in nur 15 Minuten fertig und perfekt für einen schnellen Wochentagsabend."
+    ],
+    "category": "Europäisch",
+    "servings": 4
+  },
+  {
+    "id": "Gyrosblech",
+    "title": "Gyrosblech",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gyrosblech.jpg",
+    "ingredients": [
+      {
+        "amount": 800.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchengeschnetzeltes",
+        "group": "",
+        "original": "800 g Hähnchengeschnetzeltes"
+      },
+      {
+        "amount": 800.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kartoffeln",
+        "group": "",
+        "original": "800 g Kartoffeln"
+      },
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Cocktailtomaten",
+        "group": "",
+        "original": "600 g Cocktailtomaten"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprika",
+        "group": "",
+        "original": "4 Paprika"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebeln",
+        "group": "",
+        "original": "2 Zwiebeln"
+      },
+      {
+        "amount": 125.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Trockentomaten (ohne Öl)",
+        "group": "",
+        "original": "125 g Trockentomaten (ohne Öl)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Pck.",
+        "name": "Schafskäse light",
+        "group": "",
+        "original": "2 Pck. Schafskäse light"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch",
+        "group": "",
+        "original": "4 Zehen Knoblauch"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Gyrosgewürz",
+        "group": "",
+        "original": "3 EL Gyrosgewürz"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl",
+        "group": "",
+        "original": "2 EL Öl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pommesgewürz",
+        "group": "",
+        "original": "Pommesgewürz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Fleisch mit 1 EL Öl, gepresstem Knoblauch und Gyrosgewürz marinieren.",
+        "group": ""
+      },
+      {
+        "text": "Den Backofen auf 180°C Umluft vorheizen.",
+        "group": ""
+      },
+      {
+        "text": "Die Kartoffeln in Spalten schneiden und in Salzwasser ca. 10 Minuten vorkochen. Abgießen und mit 1 EL Öl und Pommesgewürz marinieren.",
+        "group": ""
+      },
+      {
+        "text": "Die Trockentomaten würfeln, mit heißem Wasser überbrühen und ca. 10 Minuten ziehen lassen. Anschließend abtropfen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die Cocktailtomaten halbieren und die Paprika in Streifen schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Alles auf 2 Bleche verteilen, den Schafskäse darüber krümeln und das Gemüse mit Salz und Pfeffer würzen.",
+        "group": ""
+      },
+      {
+        "text": "Im vorgeheizten Ofen ca. 30 Minuten backen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Voller Genuss bei nur 496 kcal bzw. 5 Punkten bei WW. Dieses Blech ist dank des Schafskäses und der Soße schön cremig und die Trockentomaten bringen eine herrliche Note mit rein."
+    ],
+    "category": "Europäisch",
+    "servings": 6
+  },
+  {
+    "id": "KuestipastaSalat",
+    "title": "Küstipasta-Salat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kuestipasta-salat.jpg",
+    "ingredients": [
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Pasta",
+        "group": "Pasta-Chips",
+        "original": "200 g Pasta"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Pasta-Chips",
+        "original": "2 EL Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Parmesan",
+        "group": "Pasta-Chips",
+        "original": "Parmesan"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebelpulver",
+        "group": "Pasta-Chips",
+        "original": "Zwiebelpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchpulver",
+        "group": "Pasta-Chips",
+        "original": "Knoblauchpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Pasta-Chips",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gurke",
+        "group": "Salat",
+        "original": "1 Gurke"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Zwiebel",
+        "group": "Salat",
+        "original": "1 rote Zwiebel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "3-4 Essiggurken",
+        "group": "Salat",
+        "original": "3-4 Essiggurken"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "Schnittlauch",
+        "group": "Salat",
+        "original": "1/2 Bund Schnittlauch"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "Petersilie",
+        "group": "Salat",
+        "original": "1/2 Bund Petersilie"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "Dill",
+        "group": "Salat",
+        "original": "1/2 Bund Dill"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Naturjoghurt",
+        "group": "Dressing",
+        "original": "300 g Naturjoghurt"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mayonnaise",
+        "group": "Dressing",
+        "original": "50 g Mayonnaise"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Dijon-Senf",
+        "group": "Dressing",
+        "original": "1 EL Dijon-Senf"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Saft einer halben Zitrone",
+        "group": "Dressing",
+        "original": "Saft einer halben Zitrone"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchpulver",
+        "group": "Dressing",
+        "original": "Knoblauchpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprikapulver",
+        "group": "Dressing",
+        "original": "Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Dressing",
+        "original": "Salz, Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Pasta nach Packungsanleitung kochen und abgießen. Auf ein Backblech geben und mit Olivenöl, Parmesan, Zwiebelpulver, Knoblauchpulver, Salz und Pfeffer vermischen.",
+        "group": "Pasta-Chips"
+      },
+      {
+        "text": "Im Backofen bei 200°C ca. 30 Minuten knusprig rösten.",
+        "group": "Pasta-Chips"
+      },
+      {
+        "text": "In der Zwischenzeit die Gurke, rote Zwiebel und Essiggurken in kleine Stücke schneiden.",
+        "group": "Salat"
+      },
+      {
+        "text": "Den Schnittlauch, Dill und die Petersilie fein hacken.",
+        "group": "Salat"
+      },
+      {
+        "text": "Für das Dressing Joghurt, Mayonnaise, Senf, Zitronensaft, Knoblauchpulver, Paprikapulver, Salz und Pfeffer verrühren.",
+        "group": "Salat"
+      },
+      {
+        "text": "Das geschnittene Gemüse und die Kräuter zum Dressing geben und vermengen.",
+        "group": "Salat"
+      },
+      {
+        "text": "Den Salat mit den knusprigen Pasta-Chips toppen und servieren.",
+        "group": "Salat"
+      }
+    ],
+    "notes": [
+      "Dieser Küstipasta-Salat war mit über 8 Millionen Aufrufen das beliebteste Rezept des letzten Jahres. Die knusprigen Pasta-Chips machen ihn besonders."
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 4
+  },
+  {
+    "id": "MoroccanHarira",
+    "title": "Marokkanische Harira",
+    "image": "https://radiatortwo.github.io/rezepte/pics/moroccan-harira.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Lammschulter (in kleine Würfel geschnitten)",
+        "group": "",
+        "original": "500 g Lammschulter (in kleine Würfel geschnitten)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Braten",
+        "group": "",
+        "original": "Öl zum Braten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Zwiebel (gehackt)",
+        "group": "",
+        "original": "1 große Zwiebel (gehackt)"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": 10.0,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "",
+        "original": "6-10 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "",
+        "original": "3 EL Tomatenmark"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Ingwer (gemahlen)",
+        "group": "",
+        "original": "2 TL Ingwer (gemahlen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Kurkuma",
+        "group": "",
+        "original": "1 EL Kurkuma"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zimt",
+        "group": "",
+        "original": "1 TL Zimt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Kreuzkümmel",
+        "group": "",
+        "original": "1 TL Kreuzkümmel"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kichererbsen (getrocknet oder aus der Dose)",
+        "group": "",
+        "original": "150 g Kichererbsen (getrocknet oder aus der Dose)"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "braune Linsen",
+        "group": "",
+        "original": "150 g braune Linsen"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "stückige Tomaten",
+        "group": "",
+        "original": "400 g stückige Tomaten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "ca. 1 l Rinderbrühe",
+        "group": "",
+        "original": "ca. 1 l Rinderbrühe"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Stange",
+        "name": "Sellerie mit Blättern (fein gehackt)",
+        "group": "",
+        "original": "1 Stange Sellerie mit Blättern (fein gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "Koriander (gehackt)",
+        "group": "",
+        "original": "1 Bund Koriander (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "Petersilie (gehackt)",
+        "group": "",
+        "original": "1 Bund Petersilie (gehackt)"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Fadennudeln (zerbrochen)",
+        "group": "",
+        "original": "50 g Fadennudeln (zerbrochen)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl (mit Wasser angerührt)",
+        "group": "",
+        "original": "2 EL Mehl (mit Wasser angerührt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zitrone zum Servieren",
+        "group": "",
+        "original": "Zitrone zum Servieren"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Öl in einem großen Topf erhitzen. Das Lammfleisch darin scharf anbraten, bis es gebräunt ist. Herausnehmen und beiseite stellen.",
+        "group": ""
+      },
+      {
+        "text": "Die Zwiebel und den Knoblauch im selben Topf anschwitzen. Das Fleisch wieder hinzufügen. Tomatenmark einrühren und gut vermengen. Sellerie mit Blättern und alle Gewürze hinzufügen.",
+        "group": ""
+      },
+      {
+        "text": "Linsen, Kichererbsen, stückige Tomaten und Rinderbrühe hinzufügen, bis der Topf gut gefüllt ist. Ca. 40 Minuten köcheln lassen, bis die Linsen weich sind.",
+        "group": ""
+      },
+      {
+        "text": "Koriander, Petersilie und Fadennudeln hinzufügen. Mit Salz und Pfeffer abschmecken. Weitere 15 Minuten kochen.",
+        "group": ""
+      },
+      {
+        "text": "Das Mehl mit etwas Wasser glatt rühren und in die Suppe einrühren, um sie anzudicken.",
+        "group": ""
+      },
+      {
+        "text": "Mit einem Spritzer Zitronensaft servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Eine herzhafte und aromatische marokkanische Suppe, die traditionell während des Ramadan zum Fastenbrechen serviert wird, aber zu jeder Gelegenheit passt."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 6
+  },
+  {
+    "id": "BraisedShortRibs",
+    "title": "Slow-Braised Short Ribs mit Silan, Zimt & Rotwein",
+    "image": "https://radiatortwo.github.io/rezepte/pics/braised-short-ribs.jpg",
+    "ingredients": [
+      {
+        "amount": 900.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Beef Short Ribs",
+        "group": "",
+        "original": "900 g Beef Short Ribs"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "",
+        "original": "2 EL Olivenöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Zwiebel (gewürfelt)",
+        "group": "",
+        "original": "1 große Zwiebel (gewürfelt)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "",
+        "original": "3 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zimtstange",
+        "group": "",
+        "original": "1 Zimtstange"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "ganze",
+        "name": "Nelken",
+        "group": "",
+        "original": "3 ganze Nelken"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Rotwein (Cabernet Sauvignon)",
+        "group": "",
+        "original": "240 ml Rotwein (Cabernet Sauvignon)"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Rinder- oder Gemüsebrühe",
+        "group": "",
+        "original": "240 ml Rinder- oder Gemüsebrühe"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Silan (Dattelsirup) oder gehackte Datteln",
+        "group": "",
+        "original": "120 ml Silan (Dattelsirup) oder gehackte Datteln"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Kreuzkümmel",
+        "group": "",
+        "original": "1 TL Kreuzkümmel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprikapulver (süß)",
+        "group": "",
+        "original": "1 TL Paprikapulver (süß)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frische Petersilie zum Garnieren",
+        "group": "",
+        "original": "frische Petersilie zum Garnieren"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "brauner Zucker zum Karamellisieren (optional)",
+        "group": "",
+        "original": "brauner Zucker zum Karamellisieren (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Backofen auf 160°C vorheizen.",
+        "group": ""
+      },
+      {
+        "text": "Die Short Ribs in einer Pfanne mit Olivenöl von allen Seiten scharf anbraten, bis eine schöne goldene Kruste entsteht. Beiseite stellen.",
+        "group": ""
+      },
+      {
+        "text": "In einem Bräter mit gut schließendem Deckel die Zwiebeln und den Knoblauch glasig anschwitzen. Zimtstange, Nelken, Rotwein und Brühe hinzufügen und die Bratensätze vom Boden lösen.",
+        "group": ""
+      },
+      {
+        "text": "Die angebratenen Short Ribs in den Bräter legen und mit Salz, Pfeffer, Kreuzkümmel und Paprikapulver würzen. Silan oder Datteln hinzufügen.",
+        "group": ""
+      },
+      {
+        "text": "Den Deckel auflegen und im Ofen 3,5-5 Stunden schmoren, bis das Fleisch butterzart ist und sich vom Knochen löst.",
+        "group": ""
+      },
+      {
+        "text": "Optional: Zum Abschluss braunen Zucker über die Ribs streuen und ohne Deckel kurz weiterbacken, bis eine karamellisierte Kruste entsteht. Dabei aufpassen, dass nichts anbrennt.",
+        "group": ""
+      },
+      {
+        "text": "Zimtstange und Nelken entfernen, mit frischer Petersilie garnieren und servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ein Gericht, das niemand vergisst. Während es schmort, erfüllt ein betörender Duft das ganze Haus - Rotwein, schmelzende Zwiebeln, Zimt, Nelken und Knoblauch. Das Fleisch wird butterzart und die Soße samtig und glänzend. Passt hervorragend zu Kartoffelpüree mit karamellisierten Zwiebeln."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
+    "id": "YuxiangHuhn",
+    "title": "Hühnerstreifen nach Yuxiang-Art (鱼香鸡丝)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/yuxiang-huhn.jpg",
+    "ingredients": [
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hühnerfleisch (in Streifen)",
+        "group": "Fleisch-Marinade",
+        "original": "200 g Hühnerfleisch (in Streifen)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Prise Salz",
+        "group": "Fleisch-Marinade",
+        "original": "Prise Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Prise weißer Pfeffer",
+        "group": "Fleisch-Marinade",
+        "original": "Prise weißer Pfeffer"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Wasser",
+        "group": "Fleisch-Marinade",
+        "original": "3 EL Wasser"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eiklar",
+        "group": "Fleisch-Marinade",
+        "original": "1 Eiklar"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Stärke",
+        "group": "Fleisch-Marinade",
+        "original": "2 EL Stärke"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl",
+        "group": "Fleisch-Marinade",
+        "original": "2 EL Öl"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "Paprika",
+        "name": "rot (in Streifen)",
+        "group": "Gemüse",
+        "original": "1/2 Paprika rot (in Streifen)"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "Paprika",
+        "name": "grün (in Streifen)",
+        "group": "Gemüse",
+        "original": "1/2 Paprika grün (in Streifen)"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "Karotte",
+        "name": "(in Streifen)",
+        "group": "Gemüse",
+        "original": "1/2 Karotte (in Streifen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kleine",
+        "name": "Handvoll Morcheln (getrocknet)",
+        "group": "Gemüse",
+        "original": "1 kleine Handvoll Morcheln (getrocknet)"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Wasser",
+        "group": "Yuxiang-Soße",
+        "original": "5 EL Wasser"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "dunkler chinesischer Essig",
+        "group": "Yuxiang-Soße",
+        "original": "4 EL dunkler chinesischer Essig"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "Yuxiang-Soße",
+        "original": "3 EL Zucker"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Yuxiang-Soße",
+        "original": "2 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Stärke",
+        "group": "Yuxiang-Soße",
+        "original": "1 EL Stärke"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": 1.5,
+        "unit": "EL",
+        "name": "Doubanjiang (Chilipaste)",
+        "group": "Wok",
+        "original": "1-1,5 EL Doubanjiang (Chilipaste)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Stück",
+        "name": "Ingwer (fein gehackt)",
+        "group": "Wok",
+        "original": "1 Stück Ingwer (fein gehackt)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (fein gehackt)",
+        "group": "Wok",
+        "original": "3 Zehen Knoblauch (fein gehackt)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Hühnerfleisch in Streifen schneiden. Mit Salz, weißem Pfeffer und 3 EL Wasser gut einmassieren. Eiklar, Stärke und Öl hinzufügen, nochmals einmassieren und kurz ruhen lassen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Die Morcheln in heißem Wasser einweichen und quellen lassen. Das Gemüse in Streifen schneiden.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Alle Zutaten für die Yuxiang-Soße in einer kleinen Schüssel verrühren.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Den Wok erhitzen und das Doubanjiang mit Ingwer und Knoblauch kurz anbraten, bis es duftet.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Das marinierte Hühnerfleisch hinzufügen und anbraten, bis es glasig ist.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Das geschnittene Gemüse und die Morcheln hinzufügen und kurz mitbraten.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Die Yuxiang-Soße dazugeben und alles zusammen kurz einkochen lassen, bis die Soße glasig eindickt.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Sofort servieren.",
+        "group": "Kochen"
+      }
+    ],
+    "notes": [
+      "Perfekt marinierte Hühnerstreifen, knackiges Gemüse und die berühmte süß-scharf-saure Yuxiang-Soße aus Sichuan. Das Soßen-Verhältnis 5:4:3:2:1 (Wasser:Essig:Zucker:Soja:Stärke) ist der Schlüssel zum authentischen Geschmack."
+    ],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
+    "id": "BirriaPasta",
+    "title": "Birria Pasta",
+    "image": "https://radiatortwo.github.io/rezepte/pics/birria-pasta.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Rinderschmorbraten (gewürfelt)",
+        "group": "Fleisch",
+        "original": "1 kg Rinderschmorbraten (gewürfelt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Fleisch",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": 2.0,
+        "unit": "Zwiebeln",
+        "name": "(in Scheiben)",
+        "group": "Fleisch",
+        "original": "1-2 Zwiebeln (in Scheiben)"
+      },
+      {
+        "amount": 10.0,
+        "amount_max": 12.0,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "Fleisch",
+        "original": "10-12 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kirschtomaten (halbiert)",
+        "group": "Fleisch",
+        "original": "250 g Kirschtomaten (halbiert)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "Fleisch",
+        "original": "2 EL Tomatenmark"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "ca. 500 ml Rinderbrühe",
+        "group": "Fleisch",
+        "original": "ca. 500 ml Rinderbrühe"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Guajillo-Chilis (entkernt)",
+        "group": "Chilis und Gewürze",
+        "original": "2 Guajillo-Chilis (entkernt)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ancho-Chilis (entkernt)",
+        "group": "Chilis und Gewürze",
+        "original": "2 Ancho-Chilis (entkernt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "3-4 Lorbeerblätter",
+        "group": "Chilis und Gewürze",
+        "original": "3-4 Lorbeerblätter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2-3 Zimtstangen",
+        "group": "Chilis und Gewürze",
+        "original": "2-3 Zimtstangen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Koriandersamen",
+        "group": "Chilis und Gewürze",
+        "original": "1 EL Koriandersamen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pfefferkörner",
+        "group": "Chilis und Gewürze",
+        "original": "1 EL Pfefferkörner"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Nelken",
+        "group": "Chilis und Gewürze",
+        "original": "1 EL Nelken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Paprikapulver",
+        "group": "Chilis und Gewürze",
+        "original": "1 EL Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Kreuzkümmel",
+        "group": "Chilis und Gewürze",
+        "original": "1 EL Kreuzkümmel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Oregano",
+        "group": "Chilis und Gewürze",
+        "original": "1 EL Oregano"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Pasta nach Wahl",
+        "group": "Pasta",
+        "original": "400 g Pasta nach Wahl"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan (gerieben)",
+        "group": "Pasta",
+        "original": "50 g Parmesan (gerieben)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Pasta",
+        "original": "2 EL Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "etwas Nudelwasser",
+        "group": "Pasta",
+        "original": "etwas Nudelwasser"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frischer Koriander",
+        "group": "Garnitur",
+        "original": "frischer Koriander"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebeln (gehackt)",
+        "group": "Garnitur",
+        "original": "Zwiebeln (gehackt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Parmesan",
+        "group": "Garnitur",
+        "original": "Parmesan"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Fleisch mit Salz und Pfeffer würzen und in einem heißen Topf von allen Seiten scharf anbraten. Herausnehmen und beiseite stellen.",
+        "group": ""
+      },
+      {
+        "text": "Im selben Topf die Zwiebeln, den Knoblauch und die Tomaten anschwitzen, bis sie weich sind. Das Tomatenmark hinzufügen und 3-4 Minuten mitrösten.",
+        "group": ""
+      },
+      {
+        "text": "In einer separaten Pfanne alle Chilis und Gewürze bei mittlerer Hitze leicht anrösten, bis sie duften.",
+        "group": ""
+      },
+      {
+        "text": "Die gerösteten Gewürze zusammen mit dem Fleisch und der Rinderbrühe in den Topf geben. Ca. 45 Minuten köcheln lassen, bis das Fleisch zart ist.",
+        "group": ""
+      },
+      {
+        "text": "Die Chilis und Gewürze mit etwas Kochflüssigkeit aus dem Topf nehmen und glatt pürieren. Das Fleisch mit zwei Gabeln zerrupfen.",
+        "group": ""
+      },
+      {
+        "text": "Das pürierte Chili-Gewürz, das zerrupfte Fleisch, gekochte Pasta, etwas Nudelwasser, Butter und Parmesan im Topf vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Mit frischem Koriander, gehackten Zwiebeln und mehr Käse servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Eine Fusion aus mexikanischer Birria und italienischer Pasta - so gut, dass selbst Italiener nicht beleidigt sein werden."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
+    "id": "AirfryHoneySmokyChicken",
+    "title": "Honey Smokey Air Fryer Chicken",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-honey-smoky-chicken.jpg",
+    "ingredients": [
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenoberkeulen (ohne Knochen)",
+        "group": "",
+        "original": "400 g Hähnchenoberkeulen (ohne Knochen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Honig",
+        "group": "",
+        "original": "1 EL Honig"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Gewürzmischung",
+        "original": "1/2 TL Salz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprika",
+        "group": "Gewürzmischung",
+        "original": "1/2 TL Paprika"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "Gewürzmischung",
+        "original": "1/2 TL Knoblauchpulver"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zwiebelpulver",
+        "group": "Gewürzmischung",
+        "original": "1/4 TL Zwiebelpulver"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlener Koriander",
+        "group": "Gewürzmischung",
+        "original": "1/4 TL gemahlener Koriander"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "schwarzer Pfeffer",
+        "group": "Gewürzmischung",
+        "original": "1/4 TL schwarzer Pfeffer"
+      },
+      {
+        "amount": 0.125,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Muskatnuss",
+        "group": "Gewürzmischung",
+        "original": "1/8 TL Muskatnuss"
+      },
+      {
+        "amount": 0.125,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chili",
+        "group": "Gewürzmischung",
+        "original": "1/8 TL Chili"
+      },
+      {
+        "amount": 0.125,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Piment",
+        "group": "Gewürzmischung",
+        "original": "1/8 TL Piment"
+      },
+      {
+        "amount": 0.125,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Selleriesamen",
+        "group": "Gewürzmischung",
+        "original": "1/8 TL Selleriesamen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Prise gemahlene Nelken",
+        "group": "Gewürzmischung",
+        "original": "Prise gemahlene Nelken"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Gewürze vermischen und zusammen mit dem Honig in die Hähnchenoberkeulen einmassieren.",
+        "group": ""
+      },
+      {
+        "text": "Im Airfryer bei 200°C für 16 Minuten garen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Rauchig-süßes Hähnchen aus dem Airfryer - schnell und einfach zubereitet."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 2
+  },
+  {
+    "id": "CreamyBaconOnePot",
+    "title": "Creamy Bacon One Pot Pasta",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-bacon-one-pot.jpg",
+    "ingredients": [
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rigatoni",
+        "group": "",
+        "original": "400 g Rigatoni"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Bacon (gewürfelt)",
+        "group": "",
+        "original": "200 g Bacon (gewürfelt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Zwiebel",
+        "name": "(gewürfelt)",
+        "group": "",
+        "original": "1 Zwiebel (gewürfelt)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "",
+        "original": "3 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "getrocknete Tomaten (gehackt)",
+        "group": "",
+        "original": "60 g getrocknete Tomaten (gehackt)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "",
+        "original": "2 EL Tomatenmark"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "trockener Weißwein",
+        "group": "",
+        "original": "100 ml trockener Weißwein"
+      },
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe",
+        "group": "",
+        "original": "500 ml Hühnerbrühe"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "200 ml Sahne"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan (gerieben)",
+        "group": "",
+        "original": "50 g Parmesan (gerieben)"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "",
+        "original": "1/2 TL Chiliflocken"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frisches Basilikum",
+        "group": "",
+        "original": "frisches Basilikum"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Bacon in einem großen Topf bei mittlerer Hitze knusprig anbraten. Herausnehmen und beiseite stellen, etwas Fett im Topf lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die Zwiebel im Baconfett 3-4 Minuten anschwitzen. Den Knoblauch hinzufügen und eine weitere Minute mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Das Tomatenmark und die getrockneten Tomaten einrühren und kurz anrösten. Mit Weißwein ablöschen und etwas einkochen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die Hühnerbrühe hinzufügen und zum Kochen bringen. Die Rigatoni direkt in den Topf geben und nach Packungsanleitung al dente kochen. Dabei gelegentlich umrühren.",
+        "group": ""
+      },
+      {
+        "text": "Wenn die Pasta gar ist, die Sahne einrühren und den Parmesan untermengen. Mit Chiliflocken, Salz und Pfeffer abschmecken.",
+        "group": ""
+      },
+      {
+        "text": "Den knusprigen Bacon wieder hinzufügen und mit frischem Basilikum garniert servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ein köstliches One-Pot-Gericht mit Bacon, getrockneten Tomaten und cremiger Soße. Die Kombination aus Bacon, Tomaten und Weißwein ist einfach göttlich."
+    ],
+    "category": "Europäisch",
+    "servings": 4
+  },
+  {
+    "id": "CreamySteakBiteShells",
+    "title": "Creamy Steak Bite Shells mit geröstetem Brokkoli",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-steak-bite-shells.jpg",
+    "ingredients": [
+      {
+        "amount": 340.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Pasta Shells (Muschelnudeln)",
+        "group": "",
+        "original": "340 g Pasta Shells (Muschelnudeln)"
+      },
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Steak (Sirloin oder Ribeye), in mundgerechte Stücke geschnitten",
+        "group": "",
+        "original": "450 g Steak (Sirloin oder Ribeye), in mundgerechte Stücke geschnitten"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "",
+        "original": "2 EL Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchpulver",
+        "group": "",
+        "original": "Knoblauchpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprikapulver",
+        "group": "",
+        "original": "Paprikapulver"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Brokkoliröschen",
+        "group": "Brokkoli",
+        "original": "300 g Brokkoliröschen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Brokkoli",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "Brokkoli",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Soße",
+        "original": "3 EL Butter"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Zehen",
+        "name": "Knoblauch (gehackt)",
+        "group": "Soße",
+        "original": "4 Zehen Knoblauch (gehackt)"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Soße",
+        "original": "240 ml Sahne"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Soße",
+        "original": "120 ml Milch"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan (frisch gerieben)",
+        "group": "Soße",
+        "original": "100 g Parmesan (frisch gerieben)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chiliflocken (optional)",
+        "group": "Soße",
+        "original": "Chiliflocken (optional)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frische Petersilie (optional)",
+        "group": "Soße",
+        "original": "frische Petersilie (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Backofen auf 220°C vorheizen. Den Brokkoli mit 1 EL Olivenöl, Salz und Pfeffer vermengen. 15-20 Minuten rösten, bis er zart ist und knusprige Kanten hat. Beiseite stellen.",
+        "group": "Brokkoli rösten"
+      },
+      {
+        "text": "Die Muschelnudeln in Salzwasser al dente kochen. Abgießen und eine halbe Tasse Nudelwasser aufbewahren.",
+        "group": "Pasta kochen"
+      },
+      {
+        "text": "Das Steak mit Salz, Pfeffer, Knoblauchpulver und Paprikapulver würzen. Das restliche Olivenöl in einer großen Pfanne bei mittlerer bis hoher Hitze erhitzen. Die Steakstücke 3-5 Minuten anbraten, bis sie gebräunt sind. Herausnehmen und beiseite stellen.",
+        "group": "Steak anbraten"
+      },
+      {
+        "text": "In derselben Pfanne die Butter schmelzen. Den Knoblauch hinzufügen und 30-60 Sekunden anbraten, bis er duftet. Sahne und Milch einrühren und 3-4 Minuten köcheln lassen, bis die Soße leicht eingedickt ist. Den Parmesan einrühren, bis die Soße glatt und cremig ist. Bei Bedarf mit dem Nudelwasser verdünnen.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Die Pasta, die Steakstücke und den gerösteten Brokkoli in die Pfanne geben. Vorsichtig vermengen, bis alles mit der Soße überzogen ist.",
+        "group": "Zusammenführen"
+      },
+      {
+        "text": "Nach Belieben mit Petersilie und Chiliflocken garnieren und heiß servieren.",
+        "group": "Zusammenführen"
+      }
+    ],
+    "notes": [
+      "Ein gemütliches Pfannengericht mit saftig angebratenen Steakstücken, zarten Muschelnudeln in samtiger Sahnesoße und geröstetem Brokkoli. Perfekt für einen genussvollen Wochentagsabend mit einem Hauch von Dinner-Party-Flair."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
+    "id": "RosemaryMapleWhiskyJerky",
+    "title": "Rosemary Maple Whisky Beef Jerky",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rosemary-maple-whisky-jerky.jpg",
+    "ingredients": [
+      {
+        "amount": 900.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "mageres Rindfleisch (z.B. Eye of Round)",
+        "group": "",
+        "original": "900 g mageres Rindfleisch (z.B. Eye of Round)"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Ahornsirup",
+        "group": "",
+        "original": "80 ml Ahornsirup"
+      },
+      {
+        "amount": 40.0,
+        "amount_max": 80.0,
+        "unit": "ml",
+        "name": "Whiskey",
+        "group": "",
+        "original": "40-80 ml Whiskey"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Zweig",
+        "name": "Rosmarin",
+        "group": "",
+        "original": "1 Zweig Rosmarin"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sojasauce",
+        "group": "",
+        "original": "60 ml Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sesamöl",
+        "group": "",
+        "original": "1 EL Sesamöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Chiliflocken",
+        "group": "",
+        "original": "1 EL Chiliflocken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "geräuchertes Paprikapulver",
+        "group": "",
+        "original": "1 EL geräuchertes Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Knoblauchpulver",
+        "group": "",
+        "original": "1 EL Knoblauchpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "ein paar Scheiben Ingwer",
+        "group": "",
+        "original": "ein paar Scheiben Ingwer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "etwas Thymian",
+        "group": "",
+        "original": "etwas Thymian"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "BBQ-Gewürz",
+        "group": "",
+        "original": "BBQ-Gewürz"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Fleisch von Silberhaut und Fett befreien.",
+        "group": ""
+      },
+      {
+        "text": "Das Fleisch für ca. 30 Minuten ins Gefrierfach legen, damit es etwas fest wird und sich leichter schneiden lässt.",
+        "group": ""
+      },
+      {
+        "text": "Das Fleisch in dünne Streifen schneiden. Alle Zutaten für die Marinade vermischen und das Fleisch darin 24 Stunden marinieren.",
+        "group": ""
+      },
+      {
+        "text": "Die Fleischstreifen auf einem Gitterrost verteilen und leicht mit BBQ-Gewürz bestreuen. Im Backofen oder Smoker bei 95°C (200°F) ca. 5 Stunden trocknen - je nach Dicke der Scheiben.",
+        "group": ""
+      },
+      {
+        "text": "Das Beef Jerky ist fertig, wenn es sich ledrig anfühlt und sich biegen lässt, ohne zu brechen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "So gut, dass du es überallhin mitnehmen wirst. Die Kombination aus Ahornsirup, Whiskey und Rosmarin macht dieses Jerky besonders aromatisch."
+    ],
+    "category": "Beilagen & Extras",
+    "servings": 1
+  },
+  {
+    "id": "GochujangHalloumiPasta",
+    "title": "Creamy Gochujang Halloumi & Bacon Pasta",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gochujang-halloumi-pasta.jpg",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Pasta",
+        "group": "",
+        "original": "300 g Pasta"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Räucherspeck (gewürfelt)",
+        "group": "",
+        "original": "150 g Räucherspeck (gewürfelt)"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Halloumi (gewürfelt)",
+        "group": "",
+        "original": "200 g Halloumi (gewürfelt)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpaste",
+        "group": "",
+        "original": "3 TL Knoblauchpaste"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Ingwerpaste",
+        "group": "",
+        "original": "2 TL Ingwerpaste"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Gochujang Paste",
+        "group": "",
+        "original": "1 EL Gochujang Paste"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe (heiß)",
+        "group": "",
+        "original": "300 ml Hühnerbrühe (heiß)"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "150 ml Sahne"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz, Pfeffer",
+        "group": "",
+        "original": "Salz, Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frische Petersilie (gehackt)",
+        "group": "",
+        "original": "frische Petersilie (gehackt)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Pasta nach Packungsanleitung in Salzwasser kochen. Eine Tasse Nudelwasser aufbewahren, dann abgießen.",
+        "group": ""
+      },
+      {
+        "text": "Während die Pasta kocht, eine große Pfanne bei mittlerer bis hoher Hitze erhitzen und den Speck 2-3 Minuten goldbraun anbraten.",
+        "group": ""
+      },
+      {
+        "text": "Den Halloumi hinzufügen und 1-2 Minuten braten, bis die Kanten knusprig sind.",
+        "group": ""
+      },
+      {
+        "text": "Knoblauch, Ingwer und Gochujang einrühren und 30 Sekunden anbraten, bis es duftet.",
+        "group": ""
+      },
+      {
+        "text": "Die heiße Brühe eingießen und 3-4 Minuten köcheln lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die Hitze reduzieren, die Sahne einrühren und 1-2 Minuten köcheln lassen, bis die Soße dickflüssig und glänzend ist.",
+        "group": ""
+      },
+      {
+        "text": "Die gekochte Pasta hinzufügen und gut vermengen. Bei Bedarf mit etwas Nudelwasser verdünnen.",
+        "group": ""
+      },
+      {
+        "text": "Mit Salz und Pfeffer abschmecken und mit frischer Petersilie servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ein cremiges Pasta-Gericht mit dem würzigen Kick von Gochujang, salzigem Halloumi und knusprigem Speck."
+    ],
+    "category": "Amerikanisch & Fusion",
+    "servings": 4
+  },
+  {
     "id": "FleischbaellchenPetersilienRahm",
     "title": "Fleischbällchen in Petersilien-Rahm-Sauce mit Spätzle",
     "image": "https://radiatortwo.github.io/rezepte/pics/fleischbaellchen-petersilien-rahm.jpg",
