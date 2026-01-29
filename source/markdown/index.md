@@ -69,6 +69,7 @@
 * [Soffrito Bolognese](https://radiatortwo.github.io/rezepte/SoffritoBolognese)
 * [Kartoffel Rösti Tacos](https://radiatortwo.github.io/rezepte/KartoffelRoestiTacos)
 * [Mikrowellen-Omelette](https://radiatortwo.github.io/rezepte/MikrowellenOmelette)
+* [Champignons mit Knoblauchsauce](https://radiatortwo.github.io/rezepte/ChampignonsKnoblauchsauce)
 
 ## Snacks & Fingerfood
 * [Mais-Snack](https://radiatortwo.github.io/rezepte/MaisSnack)
