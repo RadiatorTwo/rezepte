@@ -1,5 +1,133 @@
 [
   {
+    "id": "ChampignonsKnoblauchsauce",
+    "title": "Champignons mit Knoblauchsauce",
+    "image": "https://radiatortwo.github.io/rezepte/pics/champignons-weihnachtsmarkt.jpg",
+    "ingredients": [
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Champignons",
+        "group": "Champignons",
+        "original": "400 g Champignons"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebel",
+        "group": "Champignons",
+        "original": "1 Zwiebel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Champignons",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Sojasauce",
+        "group": "Champignons",
+        "original": "Sojasauce"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Champignons",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprika, edelsüß",
+        "group": "Champignons",
+        "original": "Paprika, edelsüß"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Cayennepfeffer",
+        "group": "Champignons",
+        "original": "Cayennepfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauch",
+        "group": "Champignons",
+        "original": "Knoblauch"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Crème fraîche Light",
+        "group": "Sauce",
+        "original": "100 g Crème fraîche Light"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mayonnaise",
+        "group": "Sauce",
+        "original": "30 g Mayonnaise"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Etwas Knoblauch",
+        "group": "Sauce",
+        "original": "Etwas Knoblauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz & Pfeffer",
+        "group": "Sauce",
+        "original": "Salz & Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "TK Petersilie, geschnitten",
+        "group": "Sauce",
+        "original": "TK Petersilie, geschnitten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Champignons in der Pfanne etwas anbraten. Zwiebeln dazugeben und gut würzen.",
+        "group": "Champignons"
+      },
+      {
+        "text": "In der Zwischenzeit alles für die Knoblauchsauce miteinander verrühren.",
+        "group": "Sauce"
+      },
+      {
+        "text": "Die Pilze in eine Schale geben und mit der Sauce toppen.",
+        "group": "Anrichten"
+      }
+    ],
+    "notes": [],
+    "category": "Europäisch",
+    "servings": 2
+  },
+  {
     "id": "SpitzkohlSalat",
     "title": "Spitzkohl Salat mit Green Goddess Sauce",
     "image": "https://radiatortwo.github.io/rezepte/pics/spitzkohl-salat.jpg",
