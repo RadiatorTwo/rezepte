@@ -70,6 +70,7 @@
 * [Kartoffel Rösti Tacos](https://radiatortwo.github.io/rezepte/KartoffelRoestiTacos)
 * [Mikrowellen-Omelette](https://radiatortwo.github.io/rezepte/MikrowellenOmelette)
 * [Champignons mit Knoblauchsauce](https://radiatortwo.github.io/rezepte/ChampignonsKnoblauchsauce)
+* [Fleischbällchen in Petersilien-Rahm-Sauce](https://radiatortwo.github.io/rezepte/FleischbaellchenPetersilienRahm)
 
 ## Snacks & Fingerfood
 * [Mais-Snack](https://radiatortwo.github.io/rezepte/MaisSnack)
