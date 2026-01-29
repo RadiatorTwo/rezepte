@@ -1,5 +1,153 @@
 [
   {
+    "id": "FleischbaellchenPetersilienRahm",
+    "title": "Fleischbällchen in Petersilien-Rahm-Sauce mit Spätzle",
+    "image": "https://radiatortwo.github.io/rezepte/pics/fleischbaellchen-petersilien-rahm.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch (gemischt)",
+        "group": "Fleischbällchen",
+        "original": "500 g Hackfleisch (gemischt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ei",
+        "group": "Fleischbällchen",
+        "original": "1 Ei"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Semmelbrösel",
+        "group": "Fleischbällchen",
+        "original": "2 EL Semmelbrösel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Fleischbällchen",
+        "original": "1 TL Salz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Pfeffer",
+        "group": "Fleischbällchen",
+        "original": "1/2 TL Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Muskatnuss",
+        "group": "Fleischbällchen",
+        "original": "1 Prise Muskatnuss"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Petersilien-Rahm-Sauce",
+        "original": "200 ml Sahne"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Brühe (Rind oder Gemüse)",
+        "group": "Petersilien-Rahm-Sauce",
+        "original": "200 ml Brühe (Rind oder Gemüse)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "frische Petersilie",
+        "group": "Petersilien-Rahm-Sauce",
+        "original": "1 Bund frische Petersilie"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebel",
+        "group": "Petersilien-Rahm-Sauce",
+        "original": "1 Zwiebel"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Petersilien-Rahm-Sauce",
+        "original": "2 EL Butter"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "Petersilien-Rahm-Sauce",
+        "original": "2 EL Mehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz & Pfeffer",
+        "group": "Petersilien-Rahm-Sauce",
+        "original": "Salz & Pfeffer"
+      },
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Spätzle (frisch oder aus dem Kühlregal)",
+        "group": "Beilagen",
+        "original": "500 g Spätzle (frisch oder aus dem Kühlregal)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gurkensalat nach Belieben",
+        "group": "Beilagen",
+        "original": "Gurkensalat nach Belieben"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Hackfleisch mit Ei, Semmelbröseln und Gewürzen vermengen. Mit feuchten Händen kleine Bällchen formen (ca. 3 cm Durchmesser). In einer Pfanne mit etwas Öl von allen Seiten goldbraun anbraten. Herausnehmen und beiseite stellen.",
+        "group": "Fleischbällchen"
+      },
+      {
+        "text": "Die Zwiebel fein würfeln und in Butter glasig dünsten. Mehl einrühren und kurz anschwitzen. Mit Brühe und Sahne ablöschen und glatt rühren. Die Petersilie fein hacken und einrühren. Mit Salz und Pfeffer abschmecken. Die Fleischbällchen in die Sauce geben und bei niedriger Hitze 10-15 Minuten köcheln lassen.",
+        "group": "Petersilien-Rahm-Sauce"
+      },
+      {
+        "text": "Die Spätzle nach Packungsanleitung kochen oder in Salzwasser erhitzen. Abgießen und mit etwas Butter schwenken.",
+        "group": "Spätzle"
+      },
+      {
+        "text": "Die Spätzle auf Tellern anrichten, Fleischbällchen mit Sauce darüber geben. Mit Gurkensalat servieren.",
+        "group": "Anrichten"
+      }
+    ],
+    "notes": [],
+    "category": "Europäisch",
+    "servings": 4
+  },
+  {
     "id": "ChampignonsKnoblauchsauce",
     "title": "Champignons mit Knoblauchsauce",
     "image": "https://radiatortwo.github.io/rezepte/pics/champignons-weihnachtsmarkt.jpg",
