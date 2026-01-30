@@ -1,5 +1,3209 @@
 [
   {
+    "id": "AirfryHonigHaehnchenBrokkoli",
+    "title": "Honig-Hähnchen mit Brokkoli (Airfryer)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-honig-haehnchen-brokkoli.jpg",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenbrust, gewürfelt",
+        "group": "",
+        "original": "300 g Hähnchenbrust, gewürfelt"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Brokkoli, in Röschen",
+        "group": "",
+        "original": "200 g Brokkoli, in Röschen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Honig",
+        "group": "",
+        "original": "1 EL Honig"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gewürze nach Wahl",
+        "group": "",
+        "original": "Gewürze nach Wahl"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Hähnchenwürfel und Brokkoliröschen in eine Schüssel geben. Mit Honig beträufeln und mit Salz, Pfeffer und Gewürzen nach Wahl würzen. Alles gut vermengen.",
+        "group": ""
+      },
+      {
+        "text": "In den Airfryer-Korb geben und bei 170-180°C für 20 Minuten backen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ein schnelles und einfaches Abendessen. Als Gewürze eignen sich z.B. Knoblauchpulver, Paprika oder asiatische Gewürzmischungen."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 2
+  },
+  {
+    "id": "GlazedChickenBrothyRice",
+    "title": "Glasiertes Hähnchen mit cremiger Brühe und Reis",
+    "image": "https://radiatortwo.github.io/rezepte/pics/glazed-chicken-brothy-rice.jpg",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die Glasur",
+        "original": "3 EL Sojasauce"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Honig",
+        "group": "Für die Glasur",
+        "original": "2 EL Honig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Reisessig",
+        "group": "Für die Glasur",
+        "original": "1 EL Reisessig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Für die Glasur",
+        "original": "1 EL brauner Zucker"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Für die Glasur",
+        "original": "50 ml Wasser"
+      },
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenoberkeulen (ohne Knochen)",
+        "group": "Für das Hähnchen",
+        "original": "600 g Hähnchenoberkeulen (ohne Knochen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Für das Hähnchen",
+        "original": "1 TL Salz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Pfeffer",
+        "group": "Für das Hähnchen",
+        "original": "1/2 TL Pfeffer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Speisestärke",
+        "group": "Für das Hähnchen",
+        "original": "2 EL Speisestärke"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl",
+        "group": "Für das Hähnchen",
+        "original": "2 EL Öl"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, gehackt",
+        "group": "Für die cremige Brühe",
+        "original": "3 Knoblauchzehen, gehackt"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Gochujang",
+        "group": "Für die cremige Brühe",
+        "original": "2 EL Gochujang"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Für die cremige Brühe",
+        "original": "2 EL Butter"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Für die cremige Brühe",
+        "original": "200 ml Milch"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Für die cremige Brühe",
+        "original": "100 ml Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hühnerbrühwürfel",
+        "group": "Für die cremige Brühe",
+        "original": "1 Hühnerbrühwürfel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die cremige Brühe",
+        "original": "1 EL Sojasauce"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "Für die cremige Brühe",
+        "original": "1/2 TL Chiliflocken"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Für die cremige Brühe",
+        "original": "1/4 TL Salz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zwiebelpulver",
+        "group": "Für die cremige Brühe",
+        "original": "1/2 TL Zwiebelpulver"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprikapulver",
+        "group": "Für die cremige Brühe",
+        "original": "1/2 TL Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zucker",
+        "group": "Für die cremige Brühe",
+        "original": "1 TL Zucker"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "gekochter Reis",
+        "group": "Zum Servieren",
+        "original": "400 g gekochter Reis"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln, in Ringe geschnitten",
+        "group": "Zum Servieren",
+        "original": "2 Frühlingszwiebeln, in Ringe geschnitten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chiliflocken nach Belieben",
+        "group": "Zum Servieren",
+        "original": "Chiliflocken nach Belieben"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Sojasauce, Honig, Reisessig, braunen Zucker und Wasser in einer kleinen Schüssel verrühren und beiseite stellen.",
+        "group": "Glasur vorbereiten"
+      },
+      {
+        "text": "Die Hähnchenoberkeulen mit Salz, Pfeffer und Speisestärke würzen. Öl in einer Pfanne erhitzen und das Hähnchen von beiden Seiten knusprig anbraten. Die vorbereitete Glasur hinzugeben und bei mittlerer Hitze köcheln lassen, bis die Soße eindickt und das Hähnchen schön glänzend überzogen ist.",
+        "group": "Hähnchen braten"
+      },
+      {
+        "text": "In einem separaten Topf die Butter schmelzen. Knoblauch und Gochujang darin kurz anschwitzen. Milch, Sahne, Brühwürfel, Sojasauce, Chiliflocken, Salz, Zwiebelpulver, Paprikapulver und Zucker hinzufügen. Alles gut verrühren und bei niedriger Hitze leicht köcheln lassen, bis die Brühe leicht eindickt.",
+        "group": "Cremige Brühe zubereiten"
+      },
+      {
+        "text": "Den Reis in tiefe Schalen geben. Das glasierte Hähnchen in Stücke schneiden und auf den Reis legen. Die cremige Brühe rundherum gießen. Mit Frühlingszwiebeln und nach Belieben mit extra Chiliflocken garnieren.",
+        "group": "Anrichten"
+      }
+    ],
+    "notes": [
+      "Dieses Gericht ist inspiriert von Buldak Carbonara Ramen - mit der gleichen süchtig machenden Geschmackskombination, aber mit einem milderen Schärfegrad."
+    ],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
+    "id": "Flammkuchenbroetchen",
+    "title": "Flammkuchenbrötchen",
+    "image": "https://radiatortwo.github.io/rezepte/pics/flammkuchenbroetchen.jpg",
+    "ingredients": [
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Brötchen",
+        "name": "(halbiert)",
+        "group": "",
+        "original": "4 Brötchen (halbiert)"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schmand",
+        "group": "",
+        "original": "200 g Schmand"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schinkenwürfel",
+        "group": "",
+        "original": "100 g Schinkenwürfel"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Käse, gerieben",
+        "group": "",
+        "original": "100 g Käse, gerieben"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Schnittlauch, geschnitten",
+        "group": "",
+        "original": "2 EL Schnittlauch, geschnitten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "",
+        "original": "Salz und Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Ofen auf 200°C vorheizen.",
+        "group": ""
+      },
+      {
+        "text": "Den Schmand mit den Schinkenwürfeln, Schnittlauch, Salz und Pfeffer in einer Schüssel vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Die Brötchenhälften mit der Schmand-Mischung bestreichen und mit dem Käse bestreuen.",
+        "group": ""
+      },
+      {
+        "text": "Im Ofen ca. 15 Minuten backen, bis der Käse goldbraun geschmolzen ist.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Schnell und einfach - perfekt als Snack, Vorspeise oder zum Abendbrot!"
+    ],
+    "category": "Snacks & Fingerfood",
+    "servings": 4
+  },
+  {
+    "id": "Mohnnudeln",
+    "title": "Mohnnudeln",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mohnnudeln.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "mehlige Kartoffeln, gekocht und durchgepresst",
+        "group": "Kartoffelteig",
+        "original": "500 g mehlige Kartoffeln, gekocht und durchgepresst"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl",
+        "group": "Kartoffelteig",
+        "original": "150 g Mehl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ei",
+        "group": "Kartoffelteig",
+        "original": "1 Ei"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Kartoffelteig",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter, zerlassen",
+        "group": "Kartoffelteig",
+        "original": "30 g Butter, zerlassen"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter",
+        "group": "Zum Servieren",
+        "original": "100 g Butter"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "gemahlener Mohn",
+        "group": "Zum Servieren",
+        "original": "100 g gemahlener Mohn"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Puderzucker",
+        "group": "Zum Servieren",
+        "original": "80 g Puderzucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz für das Kochwasser",
+        "group": "Zum Servieren",
+        "original": "Salz für das Kochwasser"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die noch warmen Kartoffeln durch eine Kartoffelpresse drücken. Mit Mehl, Ei, Salz und zerlassener Butter zu einem geschmeidigen Teig verkneten.",
+        "group": "Teig zubereiten"
+      },
+      {
+        "text": "Den Teig in Portionen teilen und auf einer bemehlten Arbeitsfläche zu fingerdicken Rollen formen. In ca. 3 cm lange Stücke schneiden und leicht rollen.",
+        "group": "Teig zubereiten"
+      },
+      {
+        "text": "Die Nudeln in reichlich gesalzenem Wasser kochen, bis sie an der Oberfläche schwimmen. Mit einem Schaumlöffel herausheben und abtropfen lassen.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Die Butter in einer großen Pfanne schmelzen. Die gekochten Nudeln darin schwenken.",
+        "group": "Finish"
+      },
+      {
+        "text": "Mohn und Puderzucker dazugeben und alles kräftig durchschwenken, bis die Nudeln gleichmäßig überzogen sind.",
+        "group": "Finish"
+      }
+    ],
+    "notes": [
+      "Ein österreichischer Klassiker - auch bekannt als \"Wuzzi-Nuzzi\". Die Nudeln lassen sich super einfrieren und bei Bedarf direkt aus dem Gefrierfach ins kochende Wasser geben."
+    ],
+    "category": "Dessert",
+    "servings": 4
+  },
+  {
+    "id": "SweetSourChicken",
+    "title": "Sweet & Sour Chicken",
+    "image": "https://radiatortwo.github.io/rezepte/pics/sweet-sour-chicken.jpg",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenbrust",
+        "group": "Für das Hähnchen",
+        "original": "300 g Hähnchenbrust"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Für das Hähnchen",
+        "original": "1/2 TL Salz"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Pfeffer",
+        "group": "Für das Hähnchen",
+        "original": "1/4 TL Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Reiswein (oder trockener Sherry)",
+        "group": "Für das Hähnchen",
+        "original": "1 EL Reiswein (oder trockener Sherry)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Speisestärke",
+        "group": "Für das Hähnchen",
+        "original": "2 EL Speisestärke"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Für das Hähnchen",
+        "original": "Öl zum Frittieren"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "Für die Soße",
+        "original": "3 EL Zucker"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Reisessig",
+        "group": "Für die Soße",
+        "original": "3 EL Reisessig"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "helle Sojasauce",
+        "group": "Für die Soße",
+        "original": "2 EL helle Sojasauce"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Für die Soße",
+        "original": "100 ml Wasser"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Speisestärke",
+        "group": "Für die Soße",
+        "original": "1 EL Speisestärke"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frischer Koriander",
+        "group": "Zum Servieren",
+        "original": "Frischer Koriander"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Hähnchenbrust in mundgerechte Stücke schneiden. Mit Salz, Pfeffer und Reiswein würzen und gut vermengen. Die Speisestärke hinzufügen und das Fleisch gleichmäßig damit ummanteln.",
+        "group": "Hähnchen vorbereiten"
+      },
+      {
+        "text": "Öl in einem Wok oder einer tiefen Pfanne auf 170°C erhitzen. Die Hähnchenstücke portionsweise bei niedriger bis mittlerer Hitze goldbraun frittieren (ca. 5-6 Minuten). Auf Küchenpapier abtropfen lassen.",
+        "group": "Frittieren"
+      },
+      {
+        "text": "Zucker, Reisessig, Sojasauce, Wasser und Speisestärke in einer kleinen Schüssel verrühren. Die Mischung in einer sauberen Pfanne bei mittlerer Hitze unter Rühren aufkochen, bis die Soße eindickt und glänzt.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Die Soße über das frittierte Hähnchen gießen und bei hoher Hitze kurz schwenken, bis alles gleichmäßig überzogen ist. Sofort mit frischem Koriander garniert servieren.",
+        "group": "Fertigstellen"
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
+    "id": "ChickenPorkCoconutAdobo",
+    "title": "Chicken and Pork Coconut Adobo",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chicken-pork-coconut-adobo.jpg",
+    "ingredients": [
+      {
+        "amount": 4.0,
+        "amount_max": 6.0,
+        "unit": "Hähnchenkeulen",
+        "name": "(mit Haut)",
+        "group": "Fleisch",
+        "original": "4-6 Hähnchenkeulen (mit Haut)"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schweinebauch",
+        "group": "Fleisch",
+        "original": "300 g Schweinebauch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pfefferkörner",
+        "group": "Gewürze & Aromaten",
+        "original": "1 EL Pfefferkörner"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Koriandersamen",
+        "group": "Gewürze & Aromaten",
+        "original": "1 TL Koriandersamen"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Lorbeerblätter",
+        "group": "Gewürze & Aromaten",
+        "original": "3 Lorbeerblätter"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Gewürze & Aromaten",
+        "original": "2 EL brauner Zucker"
+      },
+      {
+        "amount": 8.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, grob gehackt",
+        "group": "Gewürze & Aromaten",
+        "original": "8 Knoblauchzehen, grob gehackt"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sojasauce",
+        "group": "Soße",
+        "original": "60 ml Sojasauce"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "dunkle Sojasauce",
+        "group": "Soße",
+        "original": "2 EL dunkle Sojasauce"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "schwarzer Reisessig",
+        "group": "Soße",
+        "original": "60 ml schwarzer Reisessig"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "weißer Reisessig",
+        "group": "Soße",
+        "original": "60 ml weißer Reisessig"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Soße",
+        "original": "400 ml Wasser"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Kokosmilch",
+        "group": "Soße",
+        "original": "200 ml Kokosmilch"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Zum Servieren",
+        "original": "2 Frühlingszwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Reis",
+        "group": "Zum Servieren",
+        "original": "Reis"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Hähnchenkeulen mit der Hautseite nach unten in eine kalte Pfanne legen, dann bei mittlerer Hitze anbraten. Erst wenden, wenn die Haut schön knusprig ist. Beiseite stellen.",
+        "group": "Fleisch anbraten"
+      },
+      {
+        "text": "Den Schweinebauch in mundgerechte Stücke schneiden und ebenfalls schön anbraten, bis er Farbe bekommen hat.",
+        "group": "Fleisch anbraten"
+      },
+      {
+        "text": "Pfefferkörner, Koriandersamen, Lorbeerblätter, braunen Zucker und den Knoblauch hinzufügen. Alles leicht karamellisieren lassen.",
+        "group": "Würzen und Schmoren"
+      },
+      {
+        "text": "Die Hähnchenkeulen wieder dazugeben.",
+        "group": "Würzen und Schmoren"
+      },
+      {
+        "text": "Mit Sojasauce, dunkler Sojasauce, schwarzem und weißem Reisessig ablöschen. Mit Wasser auffüllen, bis das Fleisch bedeckt ist.",
+        "group": "Würzen und Schmoren"
+      },
+      {
+        "text": "Abdecken und 1 bis 1,5 Stunden bei niedriger Hitze köcheln lassen.",
+        "group": "Würzen und Schmoren"
+      },
+      {
+        "text": "Den Deckel abnehmen und die Hitze hochdrehen. Die Soße einreduzieren, bis sie von dünnflüssig zu einer glänzenden, sirupartigen Konsistenz wird.",
+        "group": "Finish"
+      },
+      {
+        "text": "Die Hitze ausschalten und die Kokosmilch unterrühren.",
+        "group": "Finish"
+      },
+      {
+        "text": "Mit Frühlingszwiebeln garnieren und mit Reis servieren.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Dies ist eine cremige Variante des philippinischen Klassikers Adobo. Die Kombination aus Hähnchen und Schweinebauch sorgt für extra Geschmack und verschiedene Texturen."
+    ],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
+    "id": "StickySpareribs",
+    "title": "Sticky Spareribs mit Ahornsirup und Sesam",
+    "image": "https://radiatortwo.github.io/rezepte/pics/sticky-spareribs-ahornsirup-sesam.jpg",
+    "ingredients": [
+      {
+        "amount": 800.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Spareribs (2 Stück)",
+        "group": "Spareribs",
+        "original": "800 g Spareribs (2 Stück)"
+      },
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Spareribs",
+        "original": "600 ml Wasser"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Spareribs",
+        "original": "Salz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Stange",
+        "name": "Zitronengras",
+        "group": "Glasur",
+        "original": "1 Stange Zitronengras"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "Glasur",
+        "original": "2 Knoblauchzehen"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "cm",
+        "name": "Ingwer",
+        "group": "Glasur",
+        "original": "2-3 cm Ingwer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl",
+        "group": "Glasur",
+        "original": "2 EL Öl"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Pflaumenmus",
+        "group": "Glasur",
+        "original": "50 g Pflaumenmus"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ahornsirup",
+        "group": "Glasur",
+        "original": "3 EL Ahornsirup"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Reisessig",
+        "group": "Glasur",
+        "original": "2 EL Reisessig"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Glasur",
+        "original": "5 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebel",
+        "group": "Topping",
+        "original": "1 Frühlingszwiebel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gerösteter weißer Sesam",
+        "group": "Topping",
+        "original": "Gerösteter weißer Sesam"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Rippchen auf ein Rost in einem Bräter geben und kräftig mit Salz würzen.",
+        "group": "Spareribs garen"
+      },
+      {
+        "text": "Das Wasser angießen, mit Alufolie abdecken und bei 180°C Umluft im Ofen 90 Minuten backen.",
+        "group": "Spareribs garen"
+      },
+      {
+        "text": "Zitronengras, Knoblauch und Ingwer fein hacken und in Öl in einem Topf bei mittlerer Hitze anschwitzen.",
+        "group": "Glasur zubereiten"
+      },
+      {
+        "text": "Pflaumenmus, Ahornsirup, Reisessig und Sojasauce zugeben, aufkochen und beiseitestellen.",
+        "group": "Glasur zubereiten"
+      },
+      {
+        "text": "Die Rippchen nach der Garzeit aus dem Ofen nehmen und den Ofen auf Grillfunktion bei 250°C vorheizen.",
+        "group": "Karamellisieren"
+      },
+      {
+        "text": "Die Rippchen mit der vorbereiteten Glasur großzügig einpinseln und im Ofen karamellisieren. Diesen Vorgang insgesamt dreimal wiederholen für das beste Ergebnis.",
+        "group": "Karamellisieren"
+      },
+      {
+        "text": "Die Rippchen in Stücke schneiden und mit Sesam und in Ringe geschnittenen Frühlingszwiebeln bestreuen.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Süß, herzhaft, würzig und unfassbar zart - das mehrfache Glasieren sorgt für die perfekte klebrig-karamellisierte Kruste!"
+    ],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
+    "id": "Kaiserschmarrn",
+    "title": "Kaiserschmarrn",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaiserschmarrn.jpg",
+    "ingredients": [
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Teig",
+        "original": "200 ml Milch"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl (Weizen- oder Dinkelmehl)",
+        "group": "Teig",
+        "original": "150 g Mehl (Weizen- oder Dinkelmehl)"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zucker",
+        "group": "Teig",
+        "original": "30 g Zucker"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Schlagsahne",
+        "group": "Teig",
+        "original": "100 ml Schlagsahne"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Teig",
+        "original": "3 Eier"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Pck.",
+        "name": "Vanillezucker",
+        "group": "Teig",
+        "original": "1 Pck. Vanillezucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Teig",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Abgeriebene Schale einer halben Zitrone",
+        "group": "Teig",
+        "original": "Abgeriebene Schale einer halben Zitrone"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "In die Pfanne",
+        "original": "1 EL Butter"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "In die Pfanne",
+        "original": "1 EL Zucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Puderzucker",
+        "group": "Topping",
+        "original": "Puderzucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hochprozentiger Rum (optional)",
+        "group": "Topping",
+        "original": "Hochprozentiger Rum (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Ofen auf 230°C Ober-/Unterhitze vorheizen. Eine ofenfeste Pfanne direkt mit aufheizen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Alle Teigzutaten in einen Mixer geben und gründlich mixen, bis eine glatte Masse entsteht.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Sobald der Ofen die Temperatur erreicht hat, die Pfanne herausnehmen, eine Flocke Butter hineingeben, zurück in den Ofen stellen und die Butter schaumig zergehen lassen.",
+        "group": "Pfanne vorbereiten"
+      },
+      {
+        "text": "Die Pfanne vorsichtig herausnehmen und etwas Zucker auf den Pfannenboden streuen, damit eine leichte Karamellschicht entsteht.",
+        "group": "Pfanne vorbereiten"
+      },
+      {
+        "text": "Die vorbereitete Kaiserschmarrn-Masse in die Pfanne gießen.",
+        "group": "Backen"
+      },
+      {
+        "text": "Die Pfanne wieder in den Ofen stellen und den Kaiserschmarrn 20-25 Minuten backen, bis er schön aufgegangen ist.",
+        "group": "Backen"
+      },
+      {
+        "text": "Nach dem Backen die Pfanne herausnehmen und den Schmarrn mit zwei Löffeln in Stücke reißen.",
+        "group": "Servieren"
+      },
+      {
+        "text": "Großzügig mit Puderzucker bestreuen. Optional mit hochprozentigem Rum flambieren.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Dieser Kaiserschmarrn hat absolute Gelinggarantie - ganz ohne Anbrennen und ohne Stress. Kein Eischnee, kein aufwendiges Wenden, und trotzdem kommt er geschmacklich verdammt nah ans Original heran. Am besten mit Zwetschgenröster servieren!"
+    ],
+    "category": "Dessert",
+    "servings": 2
+  },
+  {
+    "id": "KaeseLauchSuppe",
+    "title": "Käse-Lauch-Suppe",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaese-lauch-suppe.jpg",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebeln",
+        "group": "",
+        "original": "2 Zwiebeln"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Stangen",
+        "name": "Lauch",
+        "group": "",
+        "original": "2 Stangen Lauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl",
+        "group": "",
+        "original": "Öl"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rinderhackfleisch",
+        "group": "",
+        "original": "300 g Rinderhackfleisch"
+      },
+      {
+        "amount": 1.5,
+        "amount_max": null,
+        "unit": "l",
+        "name": "Wasser",
+        "group": "",
+        "original": "1,5 l Wasser"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "200 ml Sahne"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schmelzkäse klassisch",
+        "group": "",
+        "original": "200 g Schmelzkäse klassisch"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schmelzkäse Kräuter",
+        "group": "",
+        "original": "200 g Schmelzkäse Kräuter"
+      },
+      {
+        "amount": 170.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Champignons (aus dem Glas)",
+        "group": "",
+        "original": "170 g Champignons (aus dem Glas)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "",
+        "original": "Salz und Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Zwiebeln in kleine Würfel schneiden. Den Lauch in dünne Scheiben schneiden und gründlich waschen.",
+        "group": ""
+      },
+      {
+        "text": "Das Rinderhackfleisch in etwas Öl anbraten und mit Salz und Pfeffer würzen. Nach einer Weile die Zwiebeln und den Lauch hinzufügen und kurz mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Mit dem Wasser ablöschen und 30 Minuten köcheln lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die Sahne, beide Schmelzkäsesorten und die Champignons einrühren. Nochmals mit Salz und Pfeffer abschmecken.",
+        "group": ""
+      },
+      {
+        "text": "Mit einem frischen Brötchen servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Perfekt für kalte Tage und als Party-Suppe! Für eine vegetarische Version einfach das Hackfleisch weglassen."
+    ],
+    "category": "Suppen & Eintöpfe",
+    "servings": 6
+  },
+  {
+    "id": "LasagnaSoup",
+    "title": "Lasagna Soup",
+    "image": "https://radiatortwo.github.io/rezepte/pics/lasagna-soup.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": 2.0,
+        "unit": "TL",
+        "name": "Cajun-Gewürz",
+        "group": "Suppe",
+        "original": "1-2 TL Cajun-Gewürz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "gelbe",
+        "name": "Zwiebel, gewürfelt",
+        "group": "Suppe",
+        "original": "1/2 gelbe Zwiebel, gewürfelt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "6-8 Knoblauchzehen, gehackt",
+        "group": "Suppe",
+        "original": "6-8 Knoblauchzehen, gehackt"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "italienische Bratwurst (scharf oder mild)",
+        "group": "Suppe",
+        "original": "250 g italienische Bratwurst (scharf oder mild)"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rinderhackfleisch",
+        "group": "Suppe",
+        "original": "250 g Rinderhackfleisch"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "Suppe",
+        "original": "2 EL Tomatenmark"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "Suppe",
+        "original": "Salz und Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "getrocknetes Basilikum",
+        "group": "Suppe",
+        "original": "1 TL getrocknetes Basilikum"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "getrocknete Petersilie",
+        "group": "Suppe",
+        "original": "1 TL getrocknete Petersilie"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "getrockneter Oregano",
+        "group": "Suppe",
+        "original": "1 TL getrockneter Oregano"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "italienische Kräuter",
+        "group": "Suppe",
+        "original": "1 TL italienische Kräuter"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "Suppe",
+        "original": "1 TL Chiliflocken"
+      },
+      {
+        "amount": 700.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Arrabbiata-Soße",
+        "group": "Suppe",
+        "original": "700 g Arrabbiata-Soße"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Suppe",
+        "original": "120 ml Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": 1.5,
+        "unit": "l",
+        "name": "Hühnerbrühe",
+        "group": "Suppe",
+        "original": "1-1,5 l Hühnerbrühe"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Lasagneplatten, in Stücke gebrochen",
+        "group": "Suppe",
+        "original": "250 g Lasagneplatten, in Stücke gebrochen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Olivenöl",
+        "group": "Suppe",
+        "original": "Olivenöl"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan, gerieben",
+        "group": "Ricotta-Topping",
+        "original": "100 g Parmesan, gerieben"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Ricotta",
+        "group": "Ricotta-Topping",
+        "original": "250 g Ricotta"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mozzarella, gerieben",
+        "group": "Ricotta-Topping",
+        "original": "100 g Mozzarella, gerieben"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frische Petersilie, gehackt",
+        "group": "Ricotta-Topping",
+        "original": "30 g frische Petersilie, gehackt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "Ricotta-Topping",
+        "original": "Salz und Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Parmesan, Ricotta, Mozzarella, Petersilie, Salz und Pfeffer in einer Schüssel vermengen und beiseite stellen.",
+        "group": "Ricotta-Mischung"
+      },
+      {
+        "text": "In einem großen Suppentopf oder Dutch Oven Olivenöl bei mittlerer Hitze erhitzen. Die Zwiebel mit einer Prise Salz hinzufügen und 4 Minuten anbraten. Den Knoblauch dazugeben und ca. 30 Sekunden duften lassen.",
+        "group": "Suppe kochen"
+      },
+      {
+        "text": "Bratwurst und Hackfleisch hinzufügen und mit einem Holzlöffel zerkleinern. Ein paar Minuten anbraten, dann mit Salz, Pfeffer, Basilikum, Oregano, Petersilie, italienischen Kräutern und Chiliflocken würzen. Garen bis das Fleisch nicht mehr rosa ist.",
+        "group": "Suppe kochen"
+      },
+      {
+        "text": "Das Tomatenmark einrühren und ein paar Minuten mitkochen. Hühnerbrühe und Arrabbiata-Soße hinzugeben und aufkochen.",
+        "group": "Suppe kochen"
+      },
+      {
+        "text": "Die Lasagnestücke einrühren, Hitze reduzieren und ca. 10 Minuten köcheln lassen, dabei gelegentlich umrühren. Wenn die Nudeln gar sind, die Sahne unterrühren.",
+        "group": "Finish"
+      },
+      {
+        "text": "In Schüsseln servieren und mit einem Klecks der Ricotta-Mischung toppen.",
+        "group": "Finish"
+      }
+    ],
+    "notes": [
+      "Die Menge der Brühe bestimmt, wie suppig das Ergebnis wird - mit weniger Brühe wird es eher ein Eintopf. Das cremige Ricotta-Topping ist der Star dieses Gerichts!"
+    ],
+    "category": "Suppen & Eintöpfe",
+    "servings": 6
+  },
+  {
+    "id": "Dampfnudeln",
+    "title": "Dampfnudeln",
+    "image": "https://radiatortwo.github.io/rezepte/pics/dampfnudeln.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Weizenmehl Type 00",
+        "group": "Teig",
+        "original": "500 g Weizenmehl Type 00"
+      },
+      {
+        "amount": 280.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Teig",
+        "original": "280 ml Milch"
+      },
+      {
+        "amount": 35.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zucker",
+        "group": "Teig",
+        "original": "35 g Zucker"
+      },
+      {
+        "amount": 70.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter",
+        "group": "Teig",
+        "original": "70 g Butter"
+      },
+      {
+        "amount": 15.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frische Hefe (oder 5 g Trockenhefe)",
+        "group": "Teig",
+        "original": "15 g frische Hefe (oder 5 g Trockenhefe)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Teig",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Zum Dämpfen",
+        "original": "150 ml Milch"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter",
+        "group": "Zum Dämpfen",
+        "original": "60 g Butter"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zucker",
+        "group": "Zum Dämpfen",
+        "original": "50 g Zucker"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten in eine Schüssel geben, die Butter nach und nach einkneten und zu einem glatten, geschmeidigen Teig verarbeiten.",
+        "group": "Teig zubereiten"
+      },
+      {
+        "text": "Den Teig dehnen, falten, rund schleifen und abgedeckt 60 Minuten ruhen lassen.",
+        "group": "Teig zubereiten"
+      },
+      {
+        "text": "Danach den Teig in 6 Stücke teilen, rundwirken und weitere 30 Minuten ruhen lassen.",
+        "group": "Teig zubereiten"
+      },
+      {
+        "text": "Milch, Zucker und Butter in einer Pfanne mit Deckel erhitzen. Die Dampfnudeln hineinsetzen, Deckel drauf und bei mittlerer Hitze ca. 20 Minuten dämpfen.",
+        "group": "Dämpfen"
+      },
+      {
+        "text": "Wichtig: Den Deckel während des Dämpfens nicht öffnen! Wenn es anfängt zu knistern, sind sie perfekt.",
+        "group": "Dämpfen"
+      }
+    ],
+    "notes": [
+      "Am besten mit Vanillesoße und optional Mohn servieren. Ein nostalgisches Gericht aus der Kindheit!"
+    ],
+    "category": "Dessert",
+    "servings": 6
+  },
+  {
+    "id": "Kaesebroetchen",
+    "title": "Käsebrötchen",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaesebroetchen.jpg",
+    "ingredients": [
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Öl",
+        "group": "",
+        "original": "80 ml Öl"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "",
+        "original": "80 ml Milch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ei",
+        "group": "",
+        "original": "1 Ei"
+      },
+      {
+        "amount": 40.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan, gerieben",
+        "group": "",
+        "original": "40 g Parmesan, gerieben"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Gouda, gerieben",
+        "group": "",
+        "original": "80 g Gouda, gerieben"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kartoffelstärke",
+        "group": "",
+        "original": "240 g Kartoffelstärke"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten in einer Schüssel zu einem glatten Teig vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Den Teig in 6 Portionen teilen und zu Brötchen formen. In eine Muffinform oder auf ein Backblech setzen - nicht zu voll machen, da sie beim Backen aufgehen.",
+        "group": ""
+      },
+      {
+        "text": "Bei 200°C für 20 Minuten backen, bis sie goldbraun sind.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Glutenfreie Käsebrötchen dank Kartoffelstärke - außen knusprig, innen fluffig und herrlich käsig!"
+    ],
+    "category": "Beilagen & Salate",
+    "servings": 6
+  },
+  {
+    "id": "CreamyChickenGnocchiSoup",
+    "title": "Cremige Hähnchen-Gnocchi-Suppe",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cremige-haehnchen-gnocchi-suppe.jpg",
+    "ingredients": [
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenbrust",
+        "group": "Hähnchen",
+        "original": "400 g Hähnchenbrust"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "Hähnchen",
+        "original": "Salz und Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "Hähnchen",
+        "original": "1 TL Knoblauchpulver"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Cayennepfeffer",
+        "group": "Hähnchen",
+        "original": "1/2 TL Cayennepfeffer"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "Hähnchen",
+        "original": "1/2 TL Chiliflocken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Thymian",
+        "group": "Hähnchen",
+        "original": "1 TL Thymian"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Oregano",
+        "group": "Hähnchen",
+        "original": "1 TL Oregano"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "getrocknetes Basilikum",
+        "group": "Hähnchen",
+        "original": "1 TL getrocknetes Basilikum"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Schalotte, fein gewürfelt",
+        "group": "Suppe",
+        "original": "1 große Schalotte, fein gewürfelt"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, grob gehackt",
+        "group": "Suppe",
+        "original": "4 Knoblauchzehen, grob gehackt"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Suppe",
+        "original": "3 EL Olivenöl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "Suppe",
+        "original": "2 EL Tomatenmark"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "getrocknete Tomaten",
+        "group": "Suppe",
+        "original": "50 g getrocknete Tomaten"
+      },
+      {
+        "amount": 750.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe",
+        "group": "Suppe",
+        "original": "750 ml Hühnerbrühe"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Suppe",
+        "original": "200 ml Sahne"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan, gerieben",
+        "group": "Suppe",
+        "original": "80 g Parmesan, gerieben"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "kalte Butter",
+        "group": "Suppe",
+        "original": "2 EL kalte Butter"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Gnocchi",
+        "group": "Suppe",
+        "original": "400 g Gnocchi"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Spinat",
+        "group": "Suppe",
+        "original": "100 g Spinat"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Hähnchenbrust großzügig mit Salz, Pfeffer, Knoblauchpulver, Cayennepfeffer, Chiliflocken, Thymian, Oregano und Basilikum würzen.",
+        "group": "Hähnchen zubereiten"
+      },
+      {
+        "text": "In einem schweren Topf bei mittlerer bis hoher Hitze großzügig Olivenöl erhitzen. Das Hähnchen hineinlegen und von beiden Seiten anbraten. Bei kleinem Topf in mehreren Portionen arbeiten.",
+        "group": "Hähnchen zubereiten"
+      },
+      {
+        "text": "Das fertig gegarte Hähnchen herausnehmen und in Stücke schneiden oder zerrupfen.",
+        "group": "Hähnchen zubereiten"
+      },
+      {
+        "text": "Etwas mehr Olivenöl in den Topf geben, dann Knoblauch und Schalotten anschwitzen.",
+        "group": "Suppe kochen"
+      },
+      {
+        "text": "Tomatenmark einrühren und die getrockneten Tomaten hinzufügen.",
+        "group": "Suppe kochen"
+      },
+      {
+        "text": "Nach ein paar Minuten mit der Hühnerbrühe ablöschen.",
+        "group": "Suppe kochen"
+      },
+      {
+        "text": "Nach etwa 15 Minuten Köchelzeit die Sahne und den Parmesan einrühren. Die Suppe weiter köcheln lassen, bis sie eindickt.",
+        "group": "Suppe kochen"
+      },
+      {
+        "text": "Nach etwa 20 Minuten mit Salz abschmecken. Die kalte Butter, das Hähnchen, die Gnocchi und den Spinat hinzufügen.",
+        "group": "Finish"
+      },
+      {
+        "text": "Abdecken und weitere 5 Minuten köcheln lassen.",
+        "group": "Finish"
+      }
+    ],
+    "notes": [
+      "Eine cremige und wärmende One-Pot-Suppe - perfekt für die Suppenzeit! Die großzügige Würzung des Hähnchens ist der Schlüssel zum vollen Geschmack."
+    ],
+    "category": "Suppen & Eintöpfe",
+    "servings": 4
+  },
+  {
+    "id": "ButterfliedHoneyBaconBBQDrumsticks",
+    "title": "Butterflied Honey Bacon BBQ Drumsticks",
+    "image": "https://radiatortwo.github.io/rezepte/pics/butterflied-honey-bacon-bbq-drumsticks.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hähnchenkeulen",
+        "group": "",
+        "original": "Hähnchenkeulen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Honey Bacon BBQ Marinade",
+        "group": "",
+        "original": "Honey Bacon BBQ Marinade"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "BBQ Rub",
+        "group": "",
+        "original": "BBQ Rub"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "BBQ Soße",
+        "group": "",
+        "original": "BBQ Soße"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hot Honey",
+        "group": "",
+        "original": "Hot Honey"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bacon Crumbles",
+        "group": "",
+        "original": "Bacon Crumbles"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Kirschholz (zum Räuchern)",
+        "group": "",
+        "original": "Kirschholz (zum Räuchern)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Hähnchenkeulen \"butterflyen\" indem man auf beiden Seiten entlang des Knochens einschneidet.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "In einen lebensmittelechten Behälter geben und die Marinade darüber gießen. Die Marinade ins Fleisch einmassieren, abdecken und für 1 Stunde im Kühlschrank marinieren lassen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Die Kohlen für indirektes Grillen vorbereiten und Kirschholz für den Rauch hinzufügen.",
+        "group": "Grillen"
+      },
+      {
+        "text": "Die Keulen auf die dem Feuer abgewandte Seite legen und bei etwa 200°C für ca. 30 Minuten räuchern.",
+        "group": "Grillen"
+      },
+      {
+        "text": "Das Hähnchen über die Kohlen schieben um eine schöne Kruste zu bekommen, dann wieder auf die indirekte Seite zurücklegen.",
+        "group": "Grillen"
+      },
+      {
+        "text": "BBQ Soße auf beiden Seiten auftragen und für 5-10 Minuten abgedeckt garen lassen, damit die Soße anzieht.",
+        "group": "Grillen"
+      },
+      {
+        "text": "Mit Hot Honey beträufeln und Bacon Crumbles darüber streuen.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Das Butterflyen der Keulen hilft, dass sie schneller garen und den rauchig-süßen Geschmack besser aufnehmen. Perfekt für Game Day, Sommer-Cookouts oder Mealprep."
+    ],
+    "category": "BBQ & Grillen",
+    "servings": 4
+  },
+  {
+    "id": "MaultaschenParmesanSahne",
+    "title": "Maultaschen in Parmesan-Sahnesoße",
+    "image": "https://radiatortwo.github.io/rezepte/pics/maultaschen-parmesan-sahne.jpg",
+    "ingredients": [
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Maultaschen (aus dem Kühlregal)",
+        "group": "",
+        "original": "600 g Maultaschen (aus dem Kühlregal)"
+      },
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Kochsahne",
+        "group": "",
+        "original": "600 ml Kochsahne"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan, gerieben",
+        "group": "",
+        "original": "60 g Parmesan, gerieben"
+      },
+      {
+        "amount": 8.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schalotten, in Ringe geschnitten",
+        "group": "",
+        "original": "8 Schalotten, in Ringe geschnitten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "",
+        "original": "Salz und Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Etwas Öl zum Braten",
+        "group": "",
+        "original": "Etwas Öl zum Braten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Maultaschen in einer Pfanne mit etwas Öl von beiden Seiten knusprig anbraten. Herausnehmen und beiseite stellen.",
+        "group": ""
+      },
+      {
+        "text": "In derselben Pfanne die Schalottenringe anschwitzen. Mit Salz und Pfeffer würzen.",
+        "group": ""
+      },
+      {
+        "text": "Die Kochsahne hinzugeben und den Parmesan einrühren. Kurz aufkochen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die knusprig gebratenen Maultaschen wieder in die Soße geben und servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Einfach, cremig, gefährlich gut. Schwäbische Seele trifft Sahnesoße!"
+    ],
+    "category": "Pfannengerichte",
+    "servings": 4
+  },
+  {
+    "id": "JaegerBolognese",
+    "title": "Jäger-Bolognese mit Nudeln",
+    "image": "https://radiatortwo.github.io/rezepte/pics/jaeger-bolognese.jpg",
+    "ingredients": [
+      {
+        "amount": 320.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Nudeln (z.B. Fusilli)",
+        "group": "",
+        "original": "320 g Nudeln (z.B. Fusilli)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Rapsöl",
+        "group": "",
+        "original": "1 EL Rapsöl"
+      },
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch (gemischt)",
+        "group": "",
+        "original": "500 g Hackfleisch (gemischt)"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schinkenspeck, gewürfelt",
+        "group": "",
+        "original": "100 g Schinkenspeck, gewürfelt"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "rote",
+        "name": "Zwiebeln",
+        "group": "",
+        "original": "2-3 rote Zwiebeln"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "",
+        "original": "3 Knoblauchzehen"
+      },
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "braune Champignons",
+        "group": "",
+        "original": "500 g braune Champignons"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Senf (gehäuft)",
+        "group": "",
+        "original": "1 EL Senf (gehäuft)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "",
+        "original": "1 EL Tomatenmark"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Rinderbrühe",
+        "group": "",
+        "original": "250 ml Rinderbrühe"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schlagsahne",
+        "group": "",
+        "original": "200 g Schlagsahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": 2.0,
+        "unit": "TL",
+        "name": "Pilzgewürz",
+        "group": "",
+        "original": "1-2 TL Pilzgewürz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "",
+        "original": "Salz und Pfeffer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "EL",
+        "name": "Petersilie, gehackt",
+        "group": "",
+        "original": "2-3 EL Petersilie, gehackt"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Zwiebeln in Würfel schneiden und die Champignons je nach Größe vierteln oder achteln. Den Knoblauch fein hacken oder pressen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Die Nudeln in einem Topf mit Salzwasser leicht bissfest kochen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Öl in einer Pfanne mit hohem Rand (oder einem mittelgroßen Topf) erhitzen und das Hackfleisch darin scharf und leicht krümelig anbraten.",
+        "group": "Anbraten"
+      },
+      {
+        "text": "Nach und nach Schinkenwürfel und Zwiebeln hinzugeben, einrühren und kurz mitgaren. Dann Knoblauch und Champignons unterheben und weitere 3-4 Minuten garen.",
+        "group": "Anbraten"
+      },
+      {
+        "text": "Tomatenmark und Senf einrühren und leicht am Pfannenboden ansetzen lassen. Mit Rinderbrühe ablöschen, den Pfannenansatz durch Rühren lösen und kurz aufkochen lassen.",
+        "group": "Soße"
+      },
+      {
+        "text": "Sahne hinzugeben und mit Pilzgewürz, Salz und Pfeffer abschmecken.",
+        "group": "Soße"
+      },
+      {
+        "text": "Die Hitze reduzieren und die Nudeln direkt aus dem Nudelwasser in die Soße geben und unterheben. Nach kurzer Zeit bindet die Soße durch die Stärke der Nudeln schön ab und wird herrlich cremig. Falls nötig noch etwas reduzieren oder mit Speisestärke nachhelfen.",
+        "group": "Finish"
+      },
+      {
+        "text": "Kurz vor dem Servieren die frische Petersilie unterheben.",
+        "group": "Finish"
+      }
+    ],
+    "notes": [
+      "Am besten mit einem knackigen grünen Salat oder Gurkensalat servieren. Ein perfektes Herbst-Wohlfühlgericht!"
+    ],
+    "category": "Pasta & Nudeln",
+    "servings": 4
+  },
+  {
+    "id": "AirfryMozzarellaBaconBombs",
+    "title": "Mozzarella Bacon Bombs",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mozzarella-bacon-bombs.jpg",
+    "ingredients": [
+      {
+        "amount": 16.0,
+        "amount_max": null,
+        "unit": "Scheiben",
+        "name": "Bacon",
+        "group": "",
+        "original": "16 Scheiben Bacon"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "grünes Pesto",
+        "group": "",
+        "original": "50 g grünes Pesto"
+      },
+      {
+        "amount": 8.0,
+        "amount_max": null,
+        "unit": "Mini",
+        "name": "Mozzarellas",
+        "group": "",
+        "original": "8 Mini Mozzarellas"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Kirschtomaten, halbiert",
+        "group": "",
+        "original": "4 Kirschtomaten, halbiert"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Je 2 Scheiben Bacon leicht überlappend auslegen und mit etwas Pesto bestreichen. Einen Mini-Mozzarella und eine halbe Kirschtomate darauf platzieren.",
+        "group": ""
+      },
+      {
+        "text": "Den Bacon um die Füllung wickeln und zu kleinen Bällchen formen.",
+        "group": ""
+      },
+      {
+        "text": "Im Airfryer bei 180°C ca. 14-16 Minuten garen, zur Hälfte der Zeit einmal wenden.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Ideal für Partys, Gäste oder spontane Snack-Momente. Außen knusprig, innen herrlich saftig mit geschmolzenem Mozzarella!"
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 4
+  },
+  {
+    "id": "JapaneseCottonCheesecake",
+    "title": "Japanese Cotton Cheesecake",
+    "image": "https://radiatortwo.github.io/rezepte/pics/japanese-cotton-cheesecake.jpg",
+    "ingredients": [
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Frischkäse, zimmerwarm",
+        "group": "Käsemasse",
+        "original": "250 g Frischkäse, zimmerwarm"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter, zimmerwarm",
+        "group": "Käsemasse",
+        "original": "60 g Butter, zimmerwarm"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Käsemasse",
+        "original": "120 ml Milch"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl",
+        "group": "Käsemasse",
+        "original": "60 g Mehl"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Speisestärke",
+        "group": "Käsemasse",
+        "original": "20 g Speisestärke"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eigelb",
+        "group": "Käsemasse",
+        "original": "6 Eigelb"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Vanilleextrakt",
+        "group": "Käsemasse",
+        "original": "1 TL Vanilleextrakt"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan, gerieben (optional, für extra Käsegeschmack)",
+        "group": "Käsemasse",
+        "original": "20 g Parmesan, gerieben (optional, für extra Käsegeschmack)"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eiweiß",
+        "group": "Eischnee",
+        "original": "6 Eiweiß"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zucker",
+        "group": "Eischnee",
+        "original": "100 g Zucker"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Weinstein (oder Zitronensaft)",
+        "group": "Eischnee",
+        "original": "1/4 TL Weinstein (oder Zitronensaft)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Frischkäse, Butter und Milch in einem Topf bei niedriger Hitze schmelzen und glatt rühren. Vom Herd nehmen und etwas abkühlen lassen.",
+        "group": "Käsemasse"
+      },
+      {
+        "text": "Mehl und Speisestärke sieben und unter die Käsemasse rühren. Die Eigelbe einzeln einrühren, dann Vanille und optional den Parmesan hinzufügen.",
+        "group": "Käsemasse"
+      },
+      {
+        "text": "Die Eiweiße mit Weinstein aufschlagen. Den Zucker nach und nach einrieseln lassen und zu einem festen, glänzenden Eischnee schlagen.",
+        "group": "Eischnee"
+      },
+      {
+        "text": "Ein Drittel des Eischnees unter die Käsemasse heben, um sie aufzulockern. Den restlichen Eischnee vorsichtig mit der Hand unterheben, bis keine weißen Streifen mehr sichtbar sind.",
+        "group": "Teig zusammenführen"
+      },
+      {
+        "text": "Den Teig in eine gefettete und mit Backpapier ausgelegte Form füllen.",
+        "group": "Backen"
+      },
+      {
+        "text": "**Im Reiskocher:** Im Kuchen-Modus oder normalen Kochmodus backen, bis der Kuchen durchgegart ist.",
+        "group": "Backen"
+      },
+      {
+        "text": "**Im Ofen:** Im Wasserbad bei 150°C für ca. 60-70 Minuten backen.",
+        "group": "Backen"
+      },
+      {
+        "text": "Den Kuchen im ausgeschalteten Ofen/Reiskocher langsam abkühlen lassen.",
+        "group": "Backen"
+      }
+    ],
+    "notes": [
+      "Ein souffléartiger Käsekuchen - weich und fluffig wie ein käsiger Marshmallow. Im Reiskocher gelingt er fast narrensicher: Der Kuchen hat Platz zum Aufgehen, die Oberfläche reißt nicht und durch die gespeicherte Wärme fällt er nicht zusammen."
+    ],
+    "category": "Dessert",
+    "servings": 8
+  },
+  {
+    "id": "MangoCrepeRolls",
+    "title": "Mango Crêpe Rolls",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mango-crepe-rolls.jpg",
+    "ingredients": [
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl",
+        "group": "Crêpes",
+        "original": "100 g Mehl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Crêpes",
+        "original": "2 Eier"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Crêpes",
+        "original": "250 ml Milch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "Crêpes",
+        "original": "1 EL Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Crêpes",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Butter zum Ausbacken",
+        "group": "Crêpes",
+        "original": "Butter zum Ausbacken"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "reife",
+        "name": "Mangos",
+        "group": "Füllung",
+        "original": "2 reife Mangos"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Schlagsahne",
+        "group": "Füllung",
+        "original": "200 ml Schlagsahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Puderzucker",
+        "group": "Füllung",
+        "original": "1 EL Puderzucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Vanillezucker",
+        "group": "Füllung",
+        "original": "1 TL Vanillezucker"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Mehl, Eier, Milch, Zucker und Salz zu einem glatten, dünnflüssigen Teig verrühren. 10 Minuten ruhen lassen.",
+        "group": "Crêpes"
+      },
+      {
+        "text": "Eine beschichtete Pfanne mit etwas Butter erhitzen. Eine dünne Schicht Teig hineingeben und von beiden Seiten goldbraun backen. Wiederholen bis der Teig aufgebraucht ist. Die Crêpes abkühlen lassen.",
+        "group": "Crêpes"
+      },
+      {
+        "text": "Die Mangos schälen und in längliche Streifen schneiden.",
+        "group": "Füllung"
+      },
+      {
+        "text": "Die Schlagsahne mit Puderzucker und Vanillezucker steif schlagen.",
+        "group": "Füllung"
+      },
+      {
+        "text": "Jeden Crêpe mit Sahne bestreichen, Mangostreifen darauf verteilen und aufrollen.",
+        "group": "Rollen"
+      },
+      {
+        "text": "Kühl servieren.",
+        "group": "Rollen"
+      }
+    ],
+    "notes": [
+      "Dünne, zarte Crêpes gefüllt mit frischer Mango und leichter Schlagsahne - süß, erfrischend und zart schmelzend. Perfekt als Sommerdessert!"
+    ],
+    "category": "Dessert",
+    "servings": 4
+  },
+  {
+    "id": "BangBangShrimpKlassisch",
+    "title": "Bang Bang Shrimp (Klassisch)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp-klassisch.jpg",
+    "ingredients": [
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "rohe Garnelen, geschält und entdarmt",
+        "group": "Für die Marinade",
+        "original": "400 g rohe Garnelen, geschält und entdarmt"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Buttermilch",
+        "group": "Für die Marinade",
+        "original": "200 ml Buttermilch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Sriracha",
+        "group": "Für die Marinade",
+        "original": "1 TL Sriracha"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mayonnaise",
+        "group": "Für die Soße",
+        "original": "100 g Mayonnaise"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Thai Sweet Chili Sauce",
+        "group": "Für die Soße",
+        "original": "2 EL Thai Sweet Chili Sauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Sriracha",
+        "group": "Für die Soße",
+        "original": "1 TL Sriracha"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zitronensaft",
+        "group": "Für die Soße",
+        "original": "1 EL Zitronensaft"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Speisestärke",
+        "group": "Für die Panade",
+        "original": "100 g Speisestärke"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "Für die Panade",
+        "original": "1/2 TL Knoblauchpulver"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zwiebelpulver",
+        "group": "Für die Panade",
+        "original": "1/2 TL Zwiebelpulver"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "MSG (optional)",
+        "group": "Für die Panade",
+        "original": "1/4 TL MSG (optional)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Für die Panade",
+        "original": "Öl zum Frittieren"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Reis",
+        "group": "Zum Servieren",
+        "original": "Reis"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln, in Ringe geschnitten",
+        "group": "Zum Servieren",
+        "original": "2 Frühlingszwiebeln, in Ringe geschnitten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Buttermilch und Sriracha in einer Schüssel verrühren. Die Garnelen hinzufügen und für 20 Minuten marinieren lassen.",
+        "group": "Garnelen marinieren"
+      },
+      {
+        "text": "Mayonnaise, Thai Sweet Chili Sauce, Sriracha und Zitronensaft in einer Schüssel verrühren und beiseite stellen.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Speisestärke, Knoblauchpulver, Zwiebelpulver und MSG in einer flachen Schale vermischen.",
+        "group": "Panade vorbereiten"
+      },
+      {
+        "text": "Die Garnelen aus der Marinade nehmen und in der Speisestärke-Mischung wenden, bis sie vollständig bedeckt sind. In heißem Öl (170°C) goldbraun und knusprig frittieren.",
+        "group": "Frittieren"
+      },
+      {
+        "text": "Die frittierten Garnelen in eine Schüssel geben, die Soße darüber gießen und gut vermengen. Mit heißem Reis und Frühlingszwiebeln servieren.",
+        "group": "Fertigstellen"
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
+    "id": "NashvilleHotPorkBellyGuac",
+    "title": "Nashville Hot Pork Belly mit Guacamole",
+    "image": "https://radiatortwo.github.io/rezepte/pics/nashville-hot-pork-belly-guac.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": 1.5,
+        "unit": "kg",
+        "name": "Schweinebauch",
+        "group": "Schweinebauch",
+        "original": "1-1,5 kg Schweinebauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Avocadoöl (als Binder)",
+        "group": "Schweinebauch",
+        "original": "Avocadoöl (als Binder)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Schweinebauch",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Schweinebauch",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchpulver",
+        "group": "Schweinebauch",
+        "original": "Knoblauchpulver"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Avocados",
+        "group": "Guacamole",
+        "original": "2 Avocados"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "rote Zwiebel, gewürfelt",
+        "group": "Guacamole",
+        "original": "60 g rote Zwiebel, gewürfelt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Jalapeño, gewürfelt",
+        "group": "Guacamole",
+        "original": "1 Jalapeño, gewürfelt"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Koriander, gehackt",
+        "group": "Guacamole",
+        "original": "30 g Koriander, gehackt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Limette",
+        "name": "(Saft)",
+        "group": "Guacamole",
+        "original": "1 Limette (Saft)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "Guacamole",
+        "original": "1 TL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Meersalz",
+        "group": "Guacamole",
+        "original": "1 TL Meersalz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "schwarzer Pfeffer",
+        "group": "Guacamole",
+        "original": "1 TL schwarzer Pfeffer"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Cayennepfeffer",
+        "group": "Nashville Hot Seasoning",
+        "original": "60 g Cayennepfeffer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Nashville Hot Seasoning",
+        "original": "2 EL brauner Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "geräuchertes Paprikapulver",
+        "group": "Nashville Hot Seasoning",
+        "original": "1 EL geräuchertes Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Knoblauchpulver",
+        "group": "Nashville Hot Seasoning",
+        "original": "1 EL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "grobes Salz",
+        "group": "Nashville Hot Seasoning",
+        "original": "1 EL grobes Salz"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Senfpulver",
+        "group": "Nashville Hot Seasoning",
+        "original": "2 TL Senfpulver"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "schwarzer Pfeffer",
+        "group": "Nashville Hot Seasoning",
+        "original": "2 TL schwarzer Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Avocadoöl (ca. 175°C)",
+        "group": "Zum Frittieren",
+        "original": "Avocadoöl (ca. 175°C)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Nashville Hot Seasoning",
+        "group": "Zum Frittieren",
+        "original": "60 g Nashville Hot Seasoning"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "heißes Öl",
+        "group": "Zum Frittieren",
+        "original": "240 ml heißes Öl"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Schweinebauch nehmen und die Fettseite großzügig mit Salz einreiben. Über Nacht im Kühlschrank lagern, um Feuchtigkeit zu entziehen.",
+        "group": "Vorbereitung (am Vortag)"
+      },
+      {
+        "text": "Das überschüssige Salz abwischen und den Schweinebauch in ca. 5 cm dicke Streifen schneiden.",
+        "group": "Räuchern"
+      },
+      {
+        "text": "Avocadoöl als Binder auftragen, dann das Fleisch von allen Seiten mit Salz, Pfeffer und Knoblauchpulver würzen.",
+        "group": "Räuchern"
+      },
+      {
+        "text": "Den Schweinebauch bei 120°C für etwa 3 Stunden räuchern, bis eine Kerntemperatur von 82°C erreicht ist.",
+        "group": "Räuchern"
+      },
+      {
+        "text": "Alle Zutaten für die Guacamole in einer Schüssel vermischen und bis zum Servieren im Kühlschrank aufbewahren.",
+        "group": "Guacamole"
+      },
+      {
+        "text": "Die geräucherten Schweinebauch-Streifen in 175°C heißem Avocadoöl von jeder Seite ca. 3 Minuten frittieren, bis sie knusprig sind.",
+        "group": "Frittieren und Finish"
+      },
+      {
+        "text": "Das Nashville Hot Seasoning mit dem heißen Öl vermischen und die frittierten Schweinebauch-Streifen damit bestreichen.",
+        "group": "Frittieren und Finish"
+      },
+      {
+        "text": "Den Nashville Hot Pork Belly in die Guacamole dippen und genießen.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Das Salzen über Nacht ist wichtig, um dem Schweinebauch Feuchtigkeit zu entziehen - so wird er beim Frittieren extra knusprig."
+    ],
+    "category": "BBQ & Grillen",
+    "servings": 4
+  },
+  {
+    "id": "OberlausitzerSchaelkloesse",
+    "title": "Oberlausitzer Schälklöße",
+    "image": "https://radiatortwo.github.io/rezepte/pics/oberlausitzer-schaelkloesse.jpg",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "l",
+        "name": "kaltes Wasser",
+        "group": "Brühe",
+        "original": "2 l kaltes Wasser"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Beinscheiben",
+        "name": "(ca. 700 g)",
+        "group": "Brühe",
+        "original": "2 Beinscheiben (ca. 700 g)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Pck.",
+        "name": "Suppengrün, klein geschnitten",
+        "group": "Brühe",
+        "original": "1 Pck. Suppengrün, klein geschnitten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Brühe",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kartoffeln",
+        "group": "Kloßteig",
+        "original": "500 g Kartoffeln"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Kloßteig",
+        "original": "2 Eier"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hartweizengrieß",
+        "group": "Kloßteig",
+        "original": "50 g Hartweizengrieß"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl",
+        "group": "Kloßteig",
+        "original": "200 g Mehl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Muskat",
+        "group": "Kloßteig",
+        "original": "1 Prise Muskat"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zerlassene Butter",
+        "group": "Füllung",
+        "original": "Zerlassene Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Semmelbrösel",
+        "group": "Füllung",
+        "original": "Semmelbrösel"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Suppengrün, Wasser, Salz und Beinscheiben in einen Topf geben und für 1,5 bis 2 Stunden kochen.",
+        "group": "Brühe kochen"
+      },
+      {
+        "text": "In der Zwischenzeit die Kartoffeln kochen und fein reiben.",
+        "group": "Kloßteig zubereiten"
+      },
+      {
+        "text": "Die geriebenen Kartoffeln mit Eiern, Hartweizengrieß, Mehl und Muskat zu einem geschmeidigen Teig verarbeiten.",
+        "group": "Kloßteig zubereiten"
+      },
+      {
+        "text": "Nach der Kochzeit das Fleisch aus der Brühe nehmen (das Gemüse kann drin bleiben).",
+        "group": "Klöße formen"
+      },
+      {
+        "text": "Den Teig länglich ausrollen, mit zerlassener Butter bestreichen und Semmelbrösel darüber streuen.",
+        "group": "Klöße formen"
+      },
+      {
+        "text": "Den Teig aufrollen und in kleine Schnecken schneiden.",
+        "group": "Klöße formen"
+      },
+      {
+        "text": "Die Teigschnecken in die heiße Brühe geben und kurz aufkochen lassen.",
+        "group": "Fertigstellen"
+      },
+      {
+        "text": "Das Suppenfleisch von den Knochen lösen und ebenfalls in die Brühe geben.",
+        "group": "Fertigstellen"
+      },
+      {
+        "text": "Alles für etwa 10 Minuten leicht köcheln lassen, bis die Klöße oben schwimmen.",
+        "group": "Fertigstellen"
+      }
+    ],
+    "notes": [
+      "Ein herzhaftes traditionelles Gericht aus der Oberlausitz - perfekt für kalte Wintertage!"
+    ],
+    "category": "Suppen & Eintöpfe",
+    "servings": 4
+  },
+  {
+    "id": "KlassischerKaiserschmarrn",
+    "title": "Klassischer Kaiserschmarrn",
+    "image": "https://radiatortwo.github.io/rezepte/pics/klassischer-kaiserschmarrn.jpg",
+    "ingredients": [
+      {
+        "amount": 140.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Weizenmehl (Type 405 oder 00)",
+        "group": "Teig",
+        "original": "140 g Weizenmehl (Type 405 oder 00)"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Eier",
+        "name": "(getrennt)",
+        "group": "Teig",
+        "original": "4 Eier (getrennt)"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "Teig",
+        "original": "250 ml Milch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "Teig",
+        "original": "1 EL Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Pck.",
+        "name": "Vanillezucker",
+        "group": "Teig",
+        "original": "1 Pck. Vanillezucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Teig",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": 40.0,
+        "unit": "g",
+        "name": "Butter",
+        "group": "Zum Braten",
+        "original": "30-40 g Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Etwas Zucker zum Bestreuen",
+        "group": "Zum Braten",
+        "original": "Etwas Zucker zum Bestreuen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Puderzucker",
+        "group": "Zum Servieren",
+        "original": "Puderzucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Apfelmus",
+        "group": "Zum Servieren",
+        "original": "Apfelmus"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schlagsahne",
+        "group": "Zum Servieren",
+        "original": "Schlagsahne"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Eiweiß mit einer Prise Salz zu festem Eischnee schlagen.",
+        "group": "Teig zubereiten"
+      },
+      {
+        "text": "Die Eigelbe mit Milch, Mehl, Zucker und Vanillezucker glatt rühren. Den Eischnee vorsichtig unterheben.",
+        "group": "Teig zubereiten"
+      },
+      {
+        "text": "Die Butter in einer großen Pfanne schmelzen und die Teigmasse hineingießen. Den Deckel auflegen und bei mittlerer Hitze ca. 5 Minuten anbacken lassen.",
+        "group": "Braten"
+      },
+      {
+        "text": "Den Teig in vier Stücke teilen und wenden. Etwas Butter in die Lücken geben und mit Zucker bestreuen.",
+        "group": "Braten"
+      },
+      {
+        "text": "Kurz karamellisieren lassen, dann mit zwei Gabeln oder Löffeln in die typischen Kaiserschmarrn-Stücke zerreißen.",
+        "group": "Braten"
+      },
+      {
+        "text": "Mit Puderzucker bestreuen und mit Apfelmus und Schlagsahne servieren.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Die traditionelle Pfannenmethode mit Eischnee - für einen besonders luftigen und fluffigen Kaiserschmarrn. Der geschlagene Eischnee macht den Unterschied!"
+    ],
+    "category": "Dessert",
+    "servings": 2
+  },
+  {
+    "id": "PeanutChiliOilNoodles",
+    "title": "Peanut Chili Oil Noodles",
+    "image": "https://radiatortwo.github.io/rezepte/pics/peanut-chili-oil-noodles.jpg",
+    "ingredients": [
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "dicke Nudeln (oder nach Wahl)",
+        "group": "Nudeln",
+        "original": "200 g dicke Nudeln (oder nach Wahl)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Erdnussbutter",
+        "group": "Soße",
+        "original": "2 EL Erdnussbutter"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken (optional)",
+        "group": "Soße",
+        "original": "1 TL Chiliflocken (optional)"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Frühlingszwiebeln, in Ringe geschnitten",
+        "group": "Soße",
+        "original": "50 g Frühlingszwiebeln, in Ringe geschnitten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sesam",
+        "group": "Soße",
+        "original": "1 EL Sesam"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, fein gehackt",
+        "group": "Soße",
+        "original": "3 Knoblauchzehen, fein gehackt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Chili Crisp",
+        "group": "Soße",
+        "original": "1 EL Chili Crisp"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Reisessig",
+        "group": "Soße",
+        "original": "1 EL Reisessig"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "dunkle Sojasauce",
+        "group": "Soße",
+        "original": "2 EL dunkle Sojasauce"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "neutrales Öl (z.B. Avocadoöl)",
+        "group": "Soße",
+        "original": "80 ml neutrales Öl (z.B. Avocadoöl)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Zum Servieren",
+        "original": "Frühlingszwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chili Crisp",
+        "group": "Zum Servieren",
+        "original": "Chili Crisp"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Limette (optional)",
+        "group": "Zum Servieren",
+        "original": "Limette (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Nudeln in Salzwasser kochen und etwa 30 Sekunden vor der angegebenen Garzeit herausnehmen, damit sie später die Soße aufnehmen können. Etwas Nudelwasser aufheben und die Nudeln abspülen, damit sie nicht zusammenkleben.",
+        "group": "Nudeln kochen"
+      },
+      {
+        "text": "In eine kalte Pfanne Erdnussbutter, Chiliflocken, Frühlingszwiebeln, Sesam, Knoblauch, Chili Crisp, Reisessig und dunkle Sojasauce geben. Noch keine Hitze!",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Das neutrale Öl in einem kleinen Topf stark erhitzen bis es sehr heiß ist. Vorsichtig über die kalten Zutaten gießen - es sollte ordentlich zischen. Alles gut verrühren.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Die Nudeln dazugeben und schwenken bis sie vollständig mit der Soße überzogen und glänzend sind. Für extra Cremigkeit die Hitze auf mittlere Stufe reduzieren und einen Schuss Nudelwasser unterrühren.",
+        "group": "Finish"
+      },
+      {
+        "text": "Die Hitze ausschalten und mit extra Frühlingszwiebeln, einem Löffel Chili Crisp und nach Belieben einem Spritzer Limette servieren.",
+        "group": "Finish"
+      }
+    ],
+    "notes": [
+      "Das Übergießen der kalten Zutaten mit heißem Öl ist der Schlüssel - dadurch entfalten sich die Aromen explosionsartig!"
+    ],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
     "id": "Kartoffelsalat",
     "title": "Der leckerste Kartoffelsalat",
     "image": "https://radiatortwo.github.io/rezepte/pics/kartoffelsalat.jpg",
@@ -142,7 +3346,7 @@
     "notes": [
       "Meine Lieblingsgrillbeilage."
     ],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -468,7 +3672,7 @@
     "notes": [
       "Ein Rezept mit über 3,2 Millionen Aufrufen. Eine herzhafte schwedische Fleischbällchen-Suppe mit cremiger Soße und frischer Pasta."
     ],
-    "category": "Europäisch",
+    "category": "Suppen & Eintöpfe",
     "servings": 8
   },
   {
@@ -626,7 +3830,7 @@
     "notes": [
       "Ein gemütliches Comfort-Food-Rezept, das perfekt für stressige Wochentage ist. Alternativ können auch tiefgekühlte Mini-Fleischbällchen verwendet werden."
     ],
-    "category": "Europäisch",
+    "category": "Pasta & Nudeln",
     "servings": 4
   },
   {
@@ -882,7 +4086,7 @@
     "notes": [
       "Eine genussvolle Variante des klassischen Philly Cheesesteaks - zarte Tortellini in einer cremigen, käsigen Provolone-Soße mit saftigem Rindfleisch, gebratener Paprika und Zwiebeln."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Pasta & Nudeln",
     "servings": 4
   },
   {
@@ -1296,7 +4500,7 @@
     "notes": [
       "Ein super schneller Wikinger-Topf, der der ganzen Familie schmeckt."
     ],
-    "category": "Europäisch",
+    "category": "Suppen & Eintöpfe",
     "servings": 4
   },
   {
@@ -1422,7 +4626,7 @@
     "notes": [
       "Ohne Haut, ohne Knochen, maximaler Geschmack. Saftiges Hähnchen mit rauchiger Steakhouse-Kruste - super einfach und unglaublich lecker."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Pfannengerichte",
     "servings": 4
   },
   {
@@ -1628,7 +4832,7 @@
     "notes": [
       "Ein unglaublich leckeres Abendessen - zarte Steakwürfel in cremiger Tomaten-Parmesan-Soße mit buttrigem Knoblauch-Kartoffelpüree."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Pfannengerichte",
     "servings": 4
   },
   {
@@ -1824,7 +5028,7 @@
     "notes": [
       "Ein schneller und einfacher Salat, perfekt für Mittag- oder Abendessen."
     ],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 2
   },
   {
@@ -2184,7 +5388,7 @@
     "notes": [
       "Dieses One-Pot-Gericht ist in nur 15 Minuten fertig und perfekt für einen schnellen Wochentagsabend."
     ],
-    "category": "Europäisch",
+    "category": "Pasta & Nudeln",
     "servings": 4
   },
   {
@@ -2322,7 +5526,7 @@
     "notes": [
       "Voller Genuss bei nur 496 kcal bzw. 5 Punkten bei WW. Dieses Blech ist dank des Schafskäses und der Soße schön cremig und die Trockentomaten bringen eine herrliche Note mit rein."
     ],
-    "category": "Europäisch",
+    "category": "Pfannengerichte",
     "servings": 6
   },
   {
@@ -2516,7 +5720,7 @@
     "notes": [
       "Dieser Küstipasta-Salat war mit über 8 Millionen Aufrufen das beliebteste Rezept des letzten Jahres. Die knusprigen Pasta-Chips machen ihn besonders."
     ],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -2714,7 +5918,7 @@
     "notes": [
       "Eine herzhafte und aromatische marokkanische Suppe, die traditionell während des Ramadan zum Fastenbrechen serviert wird, aber zu jeder Gelegenheit passt."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Suppen & Eintöpfe",
     "servings": 6
   },
   {
@@ -2868,7 +6072,7 @@
     "notes": [
       "Ein Gericht, das niemand vergisst. Während es schmort, erfüllt ein betörender Duft das ganze Haus - Rotwein, schmelzende Zwiebeln, Zimt, Nelken und Knoblauch. Das Fleisch wird butterzart und die Soße samtig und glänzend. Passt hervorragend zu Kartoffelpüree mit karamellisierten Zwiebeln."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 4
   },
   {
@@ -3300,7 +6504,7 @@
     "notes": [
       "Eine Fusion aus mexikanischer Birria und italienischer Pasta - so gut, dass selbst Italiener nicht beleidigt sein werden."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Tex-Mex",
     "servings": 4
   },
   {
@@ -3568,7 +6772,7 @@
     "notes": [
       "Ein köstliches One-Pot-Gericht mit Bacon, getrockneten Tomaten und cremiger Soße. Die Kombination aus Bacon, Tomaten und Weißwein ist einfach göttlich."
     ],
-    "category": "Europäisch",
+    "category": "Pasta & Nudeln",
     "servings": 4
   },
   {
@@ -3734,7 +6938,7 @@
     "notes": [
       "Ein gemütliches Pfannengericht mit saftig angebratenen Steakstücken, zarten Muschelnudeln in samtiger Sahnesoße und geröstetem Brokkoli. Perfekt für einen genussvollen Wochentagsabend mit einem Hauch von Dinner-Party-Flair."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Pasta & Nudeln",
     "servings": 4
   },
   {
@@ -3864,7 +7068,7 @@
     "notes": [
       "So gut, dass du es überallhin mitnehmen wirst. Die Kombination aus Ahornsirup, Whiskey und Rosmarin macht dieses Jerky besonders aromatisch."
     ],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 1
   },
   {
@@ -3990,7 +7194,7 @@
     "notes": [
       "Ein cremiges Pasta-Gericht mit dem würzigen Kick von Gochujang, salzigem Halloumi und knusprigem Speck."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Pasta & Nudeln",
     "servings": 4
   },
   {
@@ -4138,7 +7342,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pfannengerichte",
     "servings": 4
   },
   {
@@ -4266,7 +7470,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pfannengerichte",
     "servings": 2
   },
   {
@@ -4404,7 +7608,7 @@
     "notes": [
       "Ein erfrischender und gesunder Salat, perfekt für Verdauung, Darmflora und strahlende Haut."
     ],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -4458,7 +7662,7 @@
     "notes": [
       "Eine cremige Butter mit dem süßen und herzhaften Geschmack von karamellisierten Zwiebeln. Der Knoblauch ist optional, um die Zwiebelfahne zu neutralisieren. Dies ist der Endboss unter allen karamellisierten Buttern!"
     ],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 1
   },
   {
@@ -4512,7 +7716,7 @@
     "notes": [
       "Eine einfache und fluffige Honigbutter, die sich perfekt auf Brot macht. Optional kann eine zweite Packung Butter hinzugefügt werden, um das Aufschlagen zu erleichtern."
     ],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 1
   },
   {
@@ -4618,7 +7822,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pfannengerichte",
     "servings": 1
   },
   {
@@ -4883,7 +8087,7 @@
       "Perfekt für Game Day, Grill-Partys im Garten oder als einfache Vorspeise auf dem Grill oder Smoker.",
       "Einfache Zutaten, großer Geschmack - süße Hitze durch die Cajun Honey Butter, knusprige Ränder und saftiges Inneres."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Burger & Sandwiches",
     "servings": 4
   },
   {
@@ -4987,7 +8191,7 @@
       }
     ],
     "notes": [],
-    "category": "",
+    "category": "Soßen & Dips",
     "servings": 4
   },
   {
@@ -5126,7 +8330,7 @@
       "Lagerung: Diese Chimichurri-Sauce hält sich in einem luftdichten Behälter bis zu 1 Woche im Kühlschrank.",
       "Einfrieren: Zum Einfrieren in einem gefrierfesten Behälter bis zu 3 Monate lagern. Einen Tag vor der Verwendung im Kühlschrank auftauen."
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 4
   },
   {
@@ -5272,7 +8476,7 @@
     "notes": [
       "Knuspriges, käsiges, würziges Vergnügen in jedem Bissen - im Grunde die gleiche Idee wie ein Smashburger, nur größer, käsiger und voller Geschmack!"
     ],
-    "category": "Amerikanisch & Fusion",
+    "category": "Tex-Mex",
     "servings": 2
   },
   {
@@ -5428,7 +8632,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 4
   },
   {
@@ -5931,7 +9135,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -6107,7 +9311,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Tex-Mex",
     "servings": 4
   },
   {
@@ -6443,7 +9647,7 @@
       }
     ],
     "notes": [],
-    "category": "",
+    "category": "Dessert",
     "servings": 12
   },
   {
@@ -6591,7 +9795,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pasta & Nudeln",
     "servings": 6
   },
   {
@@ -6767,7 +9971,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Burger & Sandwiches",
     "servings": 5
   },
   {
@@ -6891,7 +10095,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 1
   },
   {
@@ -7011,7 +10215,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Tex-Mex",
     "servings": 4
   },
   {
@@ -7155,7 +10359,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pasta & Nudeln",
     "servings": 2
   },
   {
@@ -7299,7 +10503,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pfannengerichte",
     "servings": 2
   },
   {
@@ -7499,7 +10703,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -7615,7 +10819,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "BBQ & Grillen",
     "servings": 10
   },
   {
@@ -7803,7 +11007,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Italienisch",
     "servings": 1
   },
   {
@@ -7967,7 +11171,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -8127,7 +11331,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Italienisch",
     "servings": 4
   },
   {
@@ -8491,7 +11695,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Suppen & Eintöpfe",
     "servings": 6
   },
   {
@@ -8651,7 +11855,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 10
   },
   {
@@ -8871,7 +12075,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -9399,7 +12603,7 @@
       }
     ],
     "notes": [],
-    "category": "Soßen",
+    "category": "Soßen & Dips",
     "servings": 1
   },
   {
@@ -9703,7 +12907,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 6
   },
   {
@@ -10379,7 +13583,7 @@
       }
     ],
     "notes": [],
-    "category": "",
+    "category": "Asiatisch",
     "servings": 2
   },
   {
@@ -10543,7 +13747,7 @@
       }
     ],
     "notes": [],
-    "category": "Soßen",
+    "category": "Soßen & Dips",
     "servings": 1
   },
   {
@@ -10779,7 +13983,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -11039,7 +14243,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Burger & Sandwiches",
     "servings": 6
   },
   {
@@ -11195,7 +14399,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Burger & Sandwiches",
     "servings": 2
   },
   {
@@ -11355,7 +14559,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -11715,7 +14919,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Italienisch",
     "servings": 4
   },
   {
@@ -11911,7 +15115,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Pfannengerichte",
     "servings": 2
   },
   {
@@ -12339,7 +15543,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Suppen & Eintöpfe",
     "servings": 6
   },
   {
@@ -12843,7 +16047,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Tex-Mex",
     "servings": 1
   },
   {
@@ -13315,7 +16519,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "BBQ & Grillen",
     "servings": 6
   },
   {
@@ -13499,7 +16703,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 4
   },
   {
@@ -14067,7 +17271,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pasta & Nudeln",
     "servings": 4
   },
   {
@@ -14239,7 +17443,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -14483,7 +17687,7 @@
       }
     ],
     "notes": [],
-    "category": "Soßen",
+    "category": "Soßen & Dips",
     "servings": 1
   },
   {
@@ -14543,7 +17747,7 @@
       }
     ],
     "notes": [],
-    "category": "Beilagen & Extras",
+    "category": "Beilagen & Salate",
     "servings": 4
   },
   {
@@ -14831,7 +18035,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 4
   },
   {
@@ -15731,7 +18935,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Burger & Sandwiches",
     "servings": 2
   },
   {
@@ -15879,7 +19083,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Tex-Mex",
     "servings": 4
   },
   {
@@ -16059,7 +19263,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 8
   },
   {
@@ -16575,7 +19779,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pasta & Nudeln",
     "servings": 2
   },
   {
@@ -16695,7 +19899,7 @@
       }
     ],
     "notes": [],
-    "category": "Soßen",
+    "category": "Soßen & Dips",
     "servings": 1
   },
   {
@@ -16771,7 +19975,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 2
   },
   {
@@ -16903,7 +20107,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pfannengerichte",
     "servings": 2
   },
   {
@@ -17059,7 +20263,7 @@
       }
     ],
     "notes": [],
-    "category": "Europäisch",
+    "category": "Pfannengerichte",
     "servings": 4
   },
   {
@@ -17195,7 +20399,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "BBQ & Grillen",
     "servings": 4
   },
   {
@@ -17311,7 +20515,7 @@
       }
     ],
     "notes": [],
-    "category": "Soßen",
+    "category": "Soßen & Dips",
     "servings": 1
   },
   {
@@ -17459,7 +20663,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Burger & Sandwiches",
     "servings": 4
   },
   {
@@ -17939,7 +21143,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Burger & Sandwiches",
     "servings": 3
   },
   {
@@ -18055,7 +21259,7 @@
       }
     ],
     "notes": [],
-    "category": "Amerikanisch & Fusion",
+    "category": "Pfannengerichte",
     "servings": 1
   },
   {
