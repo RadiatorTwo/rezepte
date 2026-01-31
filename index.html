@@ -1379,7 +1379,7 @@
             document.getElementById('modalTitle').textContent = currentRecipe.title;
             document.getElementById('modalCategory').textContent = currentRecipe.category || '';
             document.getElementById('portionValue').textContent = currentPortions;
-            
+
             const modalImage = document.getElementById('modalImage');
             if (currentRecipe.image) {
                 modalImage.src = currentRecipe.image;
@@ -1394,11 +1394,15 @@
 
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
+
+            // History-Eintrag für Zurück-Button auf Tablets/Handys
+            history.pushState({ modal: 'recipe', recipeId: recipeId }, '', `#rezept-${recipeId}`);
         }
 
         // Modal schließen
-        function closeModal() {
+        function closeModal(fromPopstate = false) {
             const modal = document.getElementById('recipeModal');
+            if (!modal.classList.contains('active')) return;
 
             // Trigger closing animation
             modal.classList.add('closing');
@@ -1409,7 +1413,20 @@
                 modal.classList.remove('closing');
                 document.body.style.overflow = 'auto';
             }, 300); // Match CSS animation duration
+
+            // Nur history.back() wenn NICHT vom popstate Event ausgelöst
+            if (!fromPopstate && history.state?.modal === 'recipe') {
+                history.back();
+            }
         }
+
+        // Zurück-Button auf Tablets/Handys: Modal schließen statt Seite verlassen
+        window.addEventListener('popstate', (e) => {
+            const modal = document.getElementById('recipeModal');
+            if (modal.classList.contains('active')) {
+                closeModal(true);
+            }
+        });
 
         // Portionen anpassen
         function adjustPortions(change) {
@@ -1614,7 +1631,46 @@
         initTheme();
 
         // Rezepte beim Laden der Seite laden
-        loadRecipes();
+        loadRecipes().then(() => {
+            // Prüfe ob ein Rezept-Hash in der URL ist (z.B. #rezept-123)
+            if (location.hash.startsWith('#rezept-')) {
+                const recipeId = location.hash.replace('#rezept-', '');
+                if (recipes.find(r => r.id === recipeId)) {
+                    // Ersetze den aktuellen History-Eintrag statt einen neuen zu erstellen
+                    history.replaceState({ modal: 'recipe', recipeId: recipeId }, '', location.hash);
+                    openRecipeWithoutHistory(recipeId);
+                }
+            }
+        });
+
+        // Rezept öffnen ohne History-Eintrag (für direktes Laden via URL)
+        function openRecipeWithoutHistory(recipeId) {
+            currentRecipe = recipes.find(r => r.id === recipeId);
+            if (!currentRecipe) return;
+
+            originalPortions = currentRecipe.servings || 1;
+            currentPortions = originalPortions;
+
+            const modal = document.getElementById('recipeModal');
+            document.getElementById('modalTitle').textContent = currentRecipe.title;
+            document.getElementById('modalCategory').textContent = currentRecipe.category || '';
+            document.getElementById('portionValue').textContent = currentPortions;
+
+            const modalImage = document.getElementById('modalImage');
+            if (currentRecipe.image) {
+                modalImage.src = currentRecipe.image;
+                modalImage.style.display = 'block';
+            } else {
+                modalImage.style.display = 'none';
+            }
+
+            updateIngredients();
+            updateInstructions();
+            updateNotes();
+
+            modal.classList.add('active');
+            document.body.style.overflow = 'hidden';
+        }
     </script>
     <script language="JavaScript" type="text/javascript" src="https://gnrcounter.com/counter.php?accId=6a9aa6341ee096267c53e7c88a12d668"></script>
     <noscript>
