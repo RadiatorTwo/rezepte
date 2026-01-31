@@ -40,6 +40,9 @@
 * [Pad Thai mit Udon Nudeln und Rindfleisch](https://radiatortwo.github.io/rezepte/PadThaiUdon)
 * [Sticky Spareribs mit Ahornsirup und Sesam](https://radiatortwo.github.io/rezepte/StickySpareribs)
 * [Peanut Chili Oil Noodles](https://radiatortwo.github.io/rezepte/PeanutChiliOilNoodles)
+* [Cremige Knoblauch-Steak-Ramen](https://radiatortwo.github.io/rezepte/CreamyGarlicSteakRamen)
+* [Erdnuss-Curry](https://radiatortwo.github.io/rezepte/ErdnussCurry)
+* [Firecracker Ramen](https://radiatortwo.github.io/rezepte/FirecrackerRamen)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
@@ -73,6 +76,7 @@
 * [Burger Buns](https://radiatortwo.github.io/rezepte/BurgerBuns)
 
 ## Pasta & Nudeln
+* [Bacon Cheeseburger Tortellini](https://radiatortwo.github.io/rezepte/BaconCheeseburgerTortellini)
 * [Garnelen-Pasta](https://radiatortwo.github.io/rezepte/GarnelenPasta)
 * [Spaghetti Alfredo mit Garnelen](https://radiatortwo.github.io/rezepte/SpaghettiAlfredo)
 * [Garnelen Pasta mit Speck](https://radiatortwo.github.io/rezepte/SpeckGarnelenPasta)
@@ -84,6 +88,7 @@
 * [Cremige Tortellini mit getrockneten Tomaten und Spinat](https://radiatortwo.github.io/rezepte/CreamyTortellini)
 * [Creamy Bacon One Pot Pasta](https://radiatortwo.github.io/rezepte/CreamyBaconOnePot)
 * [Jäger-Bolognese mit Nudeln](https://radiatortwo.github.io/rezepte/JaegerBolognese)
+* [Cremige Garnelen-Pasta mit getrockneten Tomaten](https://radiatortwo.github.io/rezepte/CreamySundriedTomatoShrimpPasta)
 
 ## Suppen & Eintöpfe
 * [KartoffelSuppe mit Speck](https://radiatortwo.github.io/rezepte/KartoffelSuppe)
@@ -95,6 +100,10 @@
 * [Cremige Hähnchen-Gnocchi-Suppe](https://radiatortwo.github.io/rezepte/CreamyChickenGnocchiSoup)
 * [Lasagna Soup](https://radiatortwo.github.io/rezepte/LasagnaSoup)
 * [Käse-Lauch-Suppe](https://radiatortwo.github.io/rezepte/KaeseLauchSuppe)
+* [Klassischer Schmorbraten aus dem Bräter](https://radiatortwo.github.io/rezepte/KlassischerSchmorbraten)
+* [Marry Me Gnocchi-Suppe](https://radiatortwo.github.io/rezepte/MarryMeGnocchiSoup)
+* [Cremige Maissuppe mit Bacon](https://radiatortwo.github.io/rezepte/CreamyCornChowder)
+* [Shepherd's Pie](https://radiatortwo.github.io/rezepte/ShepherdsPie)
 
 ## Pfannengerichte
 * [Honig-Butter-Hähnchen (AirFryer)](https://radiatortwo.github.io/rezepte/HoneyButterChicken)
@@ -109,6 +118,8 @@
 * [Fleischbällchen in Petersilien-Rahm-Sauce](https://radiatortwo.github.io/rezepte/FleischbaellchenPetersilienRahm)
 * [Gyrosblech](https://radiatortwo.github.io/rezepte/Gyrosblech)
 * [Maultaschen in Parmesan-Sahnesoße](https://radiatortwo.github.io/rezepte/MaultaschenParmesanSahne)
+* [Laxpudding (Schwedischer Lachsauflauf)](https://radiatortwo.github.io/rezepte/Laxpudding)
+* [Lachs mit Mango-Kokos-Sauce](https://radiatortwo.github.io/rezepte/LachsMangoKokosSauce)
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
@@ -130,6 +141,7 @@
 * [Würzige Kartoffel-Nudeln](https://radiatortwo.github.io/rezepte/KartoffelNudeln)
 * [Käse-Reispapier-Nudeln](https://radiatortwo.github.io/rezepte/KaeseReispapierNudeln)
 * [Flammkuchenbrötchen](https://radiatortwo.github.io/rezepte/Flammkuchenbroetchen)
+* [Pizza Toast](https://radiatortwo.github.io/rezepte/PizzaToast)
 
 ## Airfryer Rezepte
 * [Airfryer Tortellini](https://radiatortwo.github.io/rezepte/AirfryerTortellini)
@@ -164,6 +176,7 @@
 * [Japanese Cotton Cheesecake](https://radiatortwo.github.io/rezepte/JapaneseCottonCheesecake)
 * [Mohnnudeln](https://radiatortwo.github.io/rezepte/Mohnnudeln)
 * [Mango Crêpe Rolls](https://radiatortwo.github.io/rezepte/MangoCrepeRolls)
+* [Pavê mit Ananas und Kokos](https://radiatortwo.github.io/rezepte/PaveAnanasCoco)
 
 ## Beilagen & Salate
 * [Aufgeschlagene Honigbutter](https://radiatortwo.github.io/rezepte/Honigbutter)
@@ -184,4 +197,5 @@
 * [Spitzkohl Salat mit Green Goddess Sauce](https://radiatortwo.github.io/rezepte/SpitzkohlSalat)
 * [Der leckerste Kartoffelsalat](https://radiatortwo.github.io/rezepte/Kartoffelsalat)
 * [Schneller Salat](https://radiatortwo.github.io/rezepte/SchnellerSalat)
+* [Gurkensalat mit Hähnchenwürfeln](https://radiatortwo.github.io/rezepte/GurkensalatMitHaehnchen)
 * [Küstipasta-Salat](https://radiatortwo.github.io/rezepte/KuestipastaSalat)
