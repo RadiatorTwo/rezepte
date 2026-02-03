@@ -43,6 +43,8 @@
 * [Cremige Knoblauch-Steak-Ramen](https://radiatortwo.github.io/rezepte/CreamyGarlicSteakRamen)
 * [Erdnuss-Curry](https://radiatortwo.github.io/rezepte/ErdnussCurry)
 * [Firecracker Ramen](https://radiatortwo.github.io/rezepte/FirecrackerRamen)
+* [Chilli Chicken Manchurian](https://radiatortwo.github.io/rezepte/ChilliChickenManchurian)
+* [Japanische Schweinefleisch-Reisschale](https://radiatortwo.github.io/rezepte/JapanesePorkRiceBowl)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
@@ -132,6 +134,9 @@
 ## Griechisch
 * [Gyros-Spätzle-Pfanne](https://radiatortwo.github.io/rezepte/GyrosSpaetzlePfanne)
 
+## Österreichisch
+* [Murauer Bierfleisch](https://radiatortwo.github.io/rezepte/MurauerBierfleisch)
+
 ## Snacks & Fingerfood
 * [Mais-Snack](https://radiatortwo.github.io/rezepte/MaisSnack)
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
@@ -203,3 +208,4 @@
 * [Schneller Salat](https://radiatortwo.github.io/rezepte/SchnellerSalat)
 * [Gurkensalat mit Hähnchenwürfeln](https://radiatortwo.github.io/rezepte/GurkensalatMitHaehnchen)
 * [Küstipasta-Salat](https://radiatortwo.github.io/rezepte/KuestipastaSalat)
+* [Gerösteter Kartoffel-Salat](https://radiatortwo.github.io/rezepte/GeroesteterKartoffelSalat)
