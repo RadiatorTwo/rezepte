@@ -1,5 +1,85 @@
 [
   {
+    "id": "GyrosSpaetzlePfanne",
+    "title": "Gyros-Spätzle-Pfanne",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gyros-spaetzle-pfanne.jpg",
+    "ingredients": [
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schweinegyros (gewürzt, vom Metzger oder selbst gewürzt)",
+        "group": "",
+        "original": "200 g Schweinegyros (gewürzt, vom Metzger oder selbst gewürzt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-2 Zwiebeln",
+        "group": "",
+        "original": "1-2 Zwiebeln"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Paprika",
+        "group": "",
+        "original": "1 rote Paprika"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frische Spätzle",
+        "group": "",
+        "original": "250 g frische Spätzle"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "geriebener Käse",
+        "group": "",
+        "original": "60 g geriebener Käse"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Tzatziki zum Servieren",
+        "group": "",
+        "original": "Tzatziki zum Servieren"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Gyros-Fleisch in einer heißen Pfanne scharf anbraten.",
+        "group": ""
+      },
+      {
+        "text": "Zwiebeln und Paprika in Streifen schneiden und zum Fleisch geben. Alles zusammen einige Minuten anbraten.",
+        "group": ""
+      },
+      {
+        "text": "Die Spätzle hinzufügen und mitbraten, bis sie leicht gebräunt sind.",
+        "group": ""
+      },
+      {
+        "text": "Den geriebenen Käse untermischen, bis er geschmolzen ist.",
+        "group": ""
+      },
+      {
+        "text": "Mit Tzatziki servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Griechisch",
+    "servings": 2
+  },
+  {
     "id": "MilchpuddingHaeppchen",
     "title": "Milchpudding-Häppchen",
     "image": "https://radiatortwo.github.io/rezepte/pics/milchpudding-haeppchen.jpg",
