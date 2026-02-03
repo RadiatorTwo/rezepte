@@ -177,6 +177,7 @@
 * [Mohnnudeln](https://radiatortwo.github.io/rezepte/Mohnnudeln)
 * [Mango Crêpe Rolls](https://radiatortwo.github.io/rezepte/MangoCrepeRolls)
 * [Pavê mit Ananas und Kokos](https://radiatortwo.github.io/rezepte/PaveAnanasCoco)
+* [Milchpudding-Häppchen](https://radiatortwo.github.io/rezepte/MilchpuddingHaeppchen)
 
 ## Beilagen & Salate
 * [Aufgeschlagene Honigbutter](https://radiatortwo.github.io/rezepte/Honigbutter)
