@@ -1,5 +1,79 @@
 [
   {
+    "id": "MilchpuddingHaeppchen",
+    "title": "Milchpudding-Häppchen",
+    "image": "https://radiatortwo.github.io/rezepte/pics/milchpudding-haeppchen.jpg",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eigelb",
+        "group": "",
+        "original": "2 Eigelb"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Speisestärke",
+        "group": "",
+        "original": "30 g Speisestärke"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zucker",
+        "group": "",
+        "original": "50 g Zucker"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Milch",
+        "group": "",
+        "original": "300 g Milch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Kokosraspeln zum Wälzen",
+        "group": "",
+        "original": "Kokosraspeln zum Wälzen"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Eigelb, Speisestärke, Zucker und Milch in einen Topf geben und gut verrühren, bis eine glatte Masse ohne Klümpchen entsteht.",
+        "group": ""
+      },
+      {
+        "text": "Die Mischung bei mittlerer Hitze unter ständigem Rühren erhitzen, bis sie eindickt.",
+        "group": ""
+      },
+      {
+        "text": "In eine Schüssel oder Form gießen und leicht schütteln, damit die Oberfläche gleichmäßig wird.",
+        "group": ""
+      },
+      {
+        "text": "Vollständig abkühlen lassen, bis die Masse fest geworden ist.",
+        "group": ""
+      },
+      {
+        "text": "In kleine Stücke schneiden und in Kokosraspeln wälzen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Dieses Rezept ergibt ein weiches, cremiges Dessert ähnlich einem Mousse-Kuchen. Die Häppchen lassen sich gut vorbereiten und im Kühlschrank aufbewahren."
+    ],
+    "category": "Dessert",
+    "servings": 4
+  },
+  {
     "id": "LachsMangoKokosSauce",
     "title": "Lachs mit Mango-Kokos-Sauce",
     "image": "https://radiatortwo.github.io/rezepte/pics/lachs-mango-kokos-sauce.jpg",
