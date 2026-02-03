@@ -129,6 +129,9 @@
 * [Steinpilz Risotto](https://radiatortwo.github.io/rezepte/SteinpilzRisotto)
 * [Flammkuchen Brezel](https://radiatortwo.github.io/rezepte/BrezelFlammkuchen)
 
+## Griechisch
+* [Gyros-Spätzle-Pfanne](https://radiatortwo.github.io/rezepte/GyrosSpaetzlePfanne)
+
 ## Snacks & Fingerfood
 * [Mais-Snack](https://radiatortwo.github.io/rezepte/MaisSnack)
 * [Shotgun Shells](https://radiatortwo.github.io/rezepte/ShotgunShells)
