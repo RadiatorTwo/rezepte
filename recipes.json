@@ -1,5 +1,631 @@
 [
   {
+    "id": "MurauerBierfleisch",
+    "title": "Murauer Bierfleisch",
+    "image": "https://radiatortwo.github.io/rezepte/pics/murauer-bierfleisch.jpg",
+    "ingredients": [
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rindernuss (gegen die Faser in Scheiben geschnitten)",
+        "group": "Für das Fleisch",
+        "original": "600 g Rindernuss (gegen die Faser in Scheiben geschnitten)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für das Fleisch",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für das Fleisch",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl",
+        "group": "Für das Fleisch",
+        "original": "2 EL Öl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "Für die Soße",
+        "original": "2 EL Tomatenmark"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "grüne Pfefferkörner",
+        "group": "Für die Soße",
+        "original": "1 EL grüne Pfefferkörner"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Zwiebeln",
+        "name": "(gewürfelt)",
+        "group": "Für die Soße",
+        "original": "2 Zwiebeln (gewürfelt)"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Champignons (Braunkappen, im Sommer Steinpilze)",
+        "group": "Für die Soße",
+        "original": "200 g Champignons (Braunkappen, im Sommer Steinpilze)"
+      },
+      {
+        "amount": 330.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Malzbier",
+        "group": "Für die Soße",
+        "original": "330 ml Malzbier"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Rindsuppe",
+        "group": "Für die Soße",
+        "original": "250 ml Rindsuppe"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Kapern (gehackt)",
+        "group": "Für die Soße",
+        "original": "1 EL Kapern (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Senf",
+        "group": "Für die Soße",
+        "original": "1 EL Senf"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Lorbeerblätter",
+        "group": "Für die Soße",
+        "original": "2 Lorbeerblätter"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": 5.0,
+        "unit": "Gürkchen",
+        "name": "(in Scheiben)",
+        "group": "Für die Soße",
+        "original": "4-5 Gürkchen (in Scheiben)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Spätzle",
+        "group": "Zum Servieren",
+        "original": "Spätzle"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Preiselbeeren",
+        "group": "Zum Servieren",
+        "original": "Preiselbeeren"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frische Petersilie",
+        "group": "Zum Servieren",
+        "original": "Frische Petersilie"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Rindernuss gegen die Faser in feine Scheiben schneiden. Mit Salz und Pfeffer würzen.",
+        "group": ""
+      },
+      {
+        "text": "Öl in einem großen Topf erhitzen und das Fleisch scharf anbraten.",
+        "group": ""
+      },
+      {
+        "text": "Tomatenmark hinzufügen und ca. 10 Minuten rösten, bis eine schöne Farbe entsteht.",
+        "group": ""
+      },
+      {
+        "text": "Grüne Pfefferkörner und Zwiebeln dazugeben und weiter rösten. Dann die Champignons hinzufügen.",
+        "group": ""
+      },
+      {
+        "text": "Mit Malzbier und Rindsuppe ablöschen.",
+        "group": ""
+      },
+      {
+        "text": "Gehackte Kapern, Senf und Lorbeerblätter einrühren.",
+        "group": ""
+      },
+      {
+        "text": "Zugedeckt ca. eine Stunde dünsten, bis das Fleisch weich ist.",
+        "group": ""
+      },
+      {
+        "text": "Gürkchen hinzufügen und nochmal kurz aufkochen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Mit frisch gehackter Petersilie bestreuen und mit Spätzle anrichten. Mit Preiselbeeren garnieren.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Österreichisch",
+    "servings": 4
+  },
+  {
+    "id": "ChilliChickenManchurian",
+    "title": "Chilli Chicken Manchurian",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chilli-chicken-manchurian.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenbrust (in Würfel geschnitten)",
+        "group": "Für das Hähnchen",
+        "original": "500 g Hähnchenbrust (in Würfel geschnitten)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für das Hähnchen",
+        "original": "1 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ingwer-Knoblauch-Paste",
+        "group": "Für das Hähnchen",
+        "original": "1 EL Ingwer-Knoblauch-Paste"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "schwarzer Pfeffer",
+        "group": "Für das Hähnchen",
+        "original": "1 TL schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Chilipulver",
+        "group": "Für das Hähnchen",
+        "original": "1 EL Chilipulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz nach Geschmack",
+        "group": "Für das Hähnchen",
+        "original": "Salz nach Geschmack"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl",
+        "group": "Für das Hähnchen",
+        "original": "80 g Mehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Für das Hähnchen",
+        "original": "Öl zum Frittieren"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Knoblauch (gehackt)",
+        "group": "Für die Soße",
+        "original": "2 EL Knoblauch (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ingwer (gehackt)",
+        "group": "Für die Soße",
+        "original": "1 EL Ingwer (gehackt)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Zwiebeln",
+        "name": "(in Würfel geschnitten)",
+        "group": "Für die Soße",
+        "original": "2 Zwiebeln (in Würfel geschnitten)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Paprika",
+        "name": "(in Würfel geschnitten)",
+        "group": "Für die Soße",
+        "original": "1 Paprika (in Würfel geschnitten)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": 4.0,
+        "unit": "grüne",
+        "name": "Chilis (in Ringe geschnitten)",
+        "group": "Für die Soße",
+        "original": "3-4 grüne Chilis (in Ringe geschnitten)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Tomatensauce",
+        "group": "Für die Soße",
+        "original": "60 ml Tomatensauce"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1½ EL Sojasauce",
+        "group": "Für die Soße",
+        "original": "1½ EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Reisessig",
+        "group": "Für die Soße",
+        "original": "1 TL Reisessig"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1½ EL Chilisauce",
+        "group": "Für die Soße",
+        "original": "1½ EL Chilisauce"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Speisestärke (in 100 ml Wasser aufgelöst)",
+        "group": "Für die Soße",
+        "original": "2 EL Speisestärke (in 100 ml Wasser aufgelöst)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frischer Koriander zum Garnieren",
+        "group": "Für die Soße",
+        "original": "Frischer Koriander zum Garnieren"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Hähnchenwürfel mit Sojasauce, Ingwer-Knoblauch-Paste, Pfeffer, Chilipulver und Salz vermengen. 15 Minuten marinieren lassen.",
+        "group": "Hähnchen marinieren und frittieren"
+      },
+      {
+        "text": "Das Mehl zur Marinade geben und alles gut vermischen, bis die Hähnchenstücke gleichmäßig bedeckt sind.",
+        "group": "Hähnchen marinieren und frittieren"
+      },
+      {
+        "text": "In reichlich heißem Öl bei mittlerer Hitze frittieren, bis sie goldbraun und knusprig sind. Auf Küchenpapier abtropfen lassen.",
+        "group": "Hähnchen marinieren und frittieren"
+      },
+      {
+        "text": "In einem Wok oder einer großen Pfanne 2 EL Öl erhitzen. Knoblauch und Ingwer darin anschwitzen, bis sie duften.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Zwiebeln, Paprika und grüne Chilis hinzufügen und bei hoher Hitze 2-3 Minuten anbraten. Das Gemüse sollte noch Biss haben.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Tomatensauce, Sojasauce, Essig und Chilisauce einrühren. Kurz aufkochen lassen.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Die Speisestärke-Mischung einrühren und rühren, bis die Soße eindickt und glänzt.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Das frittierte Hähnchen zur Soße geben und alles gut vermengen, bis die Stücke gleichmäßig mit Soße überzogen sind.",
+        "group": "Fertigstellen"
+      },
+      {
+        "text": "Mit frischem Koriander garnieren und sofort servieren.",
+        "group": "Fertigstellen"
+      }
+    ],
+    "notes": [
+      "Dazu passt Basmatireis oder gebratener Reis. Für extra Schärfe mehr grüne Chilis oder Chilisauce verwenden."
+    ],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
+    "id": "JapanesePorkRiceBowl",
+    "title": "Japanische Schweinefleisch-Reisschale",
+    "image": "https://radiatortwo.github.io/rezepte/pics/japanese-pork-rice-bowl.jpg",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die Soße",
+        "original": "3 EL Sojasauce"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mirin",
+        "group": "Für die Soße",
+        "original": "2 EL Mirin"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "Für die Soße",
+        "original": "1 EL Zucker"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Für die Soße",
+        "original": "100 ml Wasser"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schweinefleisch (dünn geschnitten)",
+        "group": "Für die Pfanne",
+        "original": "300 g Schweinefleisch (dünn geschnitten)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Zwiebel",
+        "name": "(in Streifen)",
+        "group": "Für die Pfanne",
+        "original": "1 Zwiebel (in Streifen)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Knoblauchzehen",
+        "name": "(gehackt)",
+        "group": "Für die Pfanne",
+        "original": "2 Knoblauchzehen (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Speisestärke (in etwas Wasser aufgelöst)",
+        "group": "Für die Pfanne",
+        "original": "1 TL Speisestärke (in etwas Wasser aufgelöst)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Portionen",
+        "name": "gekochter Reis",
+        "group": "Zum Servieren",
+        "original": "2 Portionen gekochter Reis"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln oder Pak Choi",
+        "group": "Zum Servieren",
+        "original": "Frühlingszwiebeln oder Pak Choi"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Sojasauce, Mirin, Zucker und Wasser in einer kleinen Schüssel verrühren und beiseite stellen.",
+        "group": ""
+      },
+      {
+        "text": "Eine Pfanne bei hoher Hitze erhitzen. Das Schweinefleisch darin 4-5 Minuten anbraten, bis es goldbraun ist. In mundgerechte Stücke schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Zwiebeln und Knoblauch hinzufügen und 2 Minuten mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Die vorbereitete Soße eingießen und das Fleisch darin schwenken, damit es die Aromen aufnimmt.",
+        "group": ""
+      },
+      {
+        "text": "Die aufgelöste Speisestärke einrühren und 2 Minuten köcheln lassen, bis die Soße eindickt.",
+        "group": ""
+      },
+      {
+        "text": "Auf heißem Reis servieren und mit extra Soße beträufeln. Mit Frühlingszwiebeln oder Pak Choi garnieren.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
+    "id": "GeroesteterKartoffelSalat",
+    "title": "Gerösteter Kartoffel-Salat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/geroesteter-kartoffel-salat.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kartoffeln (gewürfelt)",
+        "group": "Für die Kartoffeln",
+        "original": "500 g Kartoffeln (gewürfelt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-1½ EL Öl",
+        "group": "Für die Kartoffeln",
+        "original": "1-1½ EL Öl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "Für die Kartoffeln",
+        "original": "Salz und Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprikapulver",
+        "group": "Für die Kartoffeln",
+        "original": "Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "⅛ Rotkohl (fein geschnitten)",
+        "group": "Für den Salat",
+        "original": "⅛ Rotkohl (fein geschnitten)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ Gurke (in Scheiben oder Würfel)",
+        "group": "Für den Salat",
+        "original": "½ Gurke (in Scheiben oder Würfel)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ Bund Frühlingszwiebeln",
+        "group": "Für den Salat",
+        "original": "½ Bund Frühlingszwiebeln"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "griechischer Joghurt",
+        "group": "Für das Dressing",
+        "original": "200 g griechischer Joghurt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ Bund Dill (gehackt)",
+        "group": "Für das Dressing",
+        "original": "½ Bund Dill (gehackt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Saft ½ Zitrone",
+        "group": "Für das Dressing",
+        "original": "Saft ½ Zitrone"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "Für das Dressing",
+        "original": "Salz und Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Airfryer vorheizen.",
+        "group": ""
+      },
+      {
+        "text": "Die Kartoffelwürfel mit Öl, Salz, Pfeffer und Paprikapulver vermengen.",
+        "group": ""
+      },
+      {
+        "text": "Im Airfryer ca. 20 Minuten rösten, bis sie knusprig sind.",
+        "group": ""
+      },
+      {
+        "text": "Für das Dressing den Joghurt mit Zitronensaft, Dill, Salz und Pfeffer verrühren.",
+        "group": ""
+      },
+      {
+        "text": "Rotkohl, Gurke und Frühlingszwiebeln in eine Schüssel geben.",
+        "group": ""
+      },
+      {
+        "text": "Die warmen Kartoffeln unterheben, mit dem Dressing vermengen und servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Beilagen & Salate",
+    "servings": 2
+  },
+  {
     "id": "GyrosSpaetzlePfanne",
     "title": "Gyros-Spätzle-Pfanne",
     "image": "https://radiatortwo.github.io/rezepte/pics/gyros-spaetzle-pfanne.jpg",
@@ -23283,7 +23909,7 @@
   {
     "id": "LaugenbriocheCheeseburger",
     "title": "Laugenbrioche Bacon Cheeseburger mit Jalapeno-Honig Soße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.png",
+    "image": "https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.jpg",
     "ingredients": [
       {
         "amount": null,
