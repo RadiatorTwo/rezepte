@@ -45,6 +45,7 @@
 * [Firecracker Ramen](https://radiatortwo.github.io/rezepte/FirecrackerRamen)
 * [Chilli Chicken Manchurian](https://radiatortwo.github.io/rezepte/ChilliChickenManchurian)
 * [Japanische Schweinefleisch-Reisschale](https://radiatortwo.github.io/rezepte/JapanesePorkRiceBowl)
+* [Rindfleisch mit Gemüse in 20 Minuten](https://radiatortwo.github.io/rezepte/RindfleischMitGemuese)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
