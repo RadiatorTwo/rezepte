@@ -1,5 +1,105 @@
 [
   {
+    "id": "KnusprigesSchweinefleischAirfryer",
+    "title": "Knuspriges Schweinefleisch aus dem Airfryer",
+    "image": "https://radiatortwo.github.io/rezepte/pics/knuspriges-schweinefleisch-airfryer.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "300–400 g Schweinebauch oder Schweineschulter (in 0,8–1 cm dicke Scheiben geschnitten)",
+        "group": "Fleisch",
+        "original": "300–400 g Schweinebauch oder Schweineschulter (in 0,8–1 cm dicke Scheiben geschnitten)"
+      },
+      {
+        "amount": 1.5,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "helle Sojasauce",
+        "group": "Marinade",
+        "original": "1,5 EL helle Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Kochwein (Shaoxing)",
+        "group": "Marinade",
+        "original": "1 EL Kochwein (Shaoxing)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Austernsauce",
+        "group": "Marinade",
+        "original": "1 EL Austernsauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zucker oder Honig",
+        "group": "Marinade",
+        "original": "1 TL Zucker oder Honig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Kreuzkümmel (gemahlen)",
+        "group": "Marinade",
+        "original": "1 TL Kreuzkümmel (gemahlen)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Knoblauchzehen",
+        "name": "(fein gehackt)",
+        "group": "Marinade",
+        "original": "2 Knoblauchzehen (fein gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Salz",
+        "group": "Marinade",
+        "original": "1 Prise Salz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "schwarzer Pfeffer",
+        "group": "Marinade",
+        "original": "1 Prise schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Speiseöl",
+        "group": "Marinade",
+        "original": "1 TL Speiseöl"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten der Marinade in einer Schüssel verrühren. Das Schweinefleisch dazugeben und gut vermengen. Mindestens 20 Minuten marinieren lassen – je länger, desto besser.",
+        "group": "Marinieren"
+      },
+      {
+        "text": "Den Airfryer auf 180°C vorheizen (ca. 5 Minuten). Die marinierten Fleischscheiben nebeneinander in den Korb legen und bei 180°C für 8 Minuten garen. Anschließend wenden und die Temperatur auf 200°C erhöhen. Weitere 3–5 Minuten garen, bis das Fleisch knusprig und goldbraun ist.",
+        "group": "Airfryer"
+      }
+    ],
+    "notes": [],
+    "category": "Airfryer Rezepte",
+    "servings": 4
+  },
+  {
     "id": "RindfleischMitGemuese",
     "title": "Rindfleisch mit Gemüse in 20 Minuten",
     "image": "https://radiatortwo.github.io/rezepte/pics/rindfleisch-mit-gemuese.jpg",
