@@ -167,6 +167,7 @@
 * [Asia Chicken aus dem Airfryer](https://radiatortwo.github.io/rezepte/AirfryAsiaChicken)
 * [Honig-Hähnchen mit Brokkoli](https://radiatortwo.github.io/rezepte/AirfryHonigHaehnchenBrokkoli)
 * [Mozzarella Bacon Bombs](https://radiatortwo.github.io/rezepte/AirfryMozzarellaBaconBombs)
+* [Knuspriges Schweinefleisch aus dem Airfryer](https://radiatortwo.github.io/rezepte/KnusprigesSchweinefleischAirfryer)
 
 ## Mealprep
 * [Loaded Breakfast McMuffins](https://radiatortwo.github.io/rezepte/MealprepLoadedMuffins)
@@ -210,3 +211,4 @@
 * [Gurkensalat mit Hähnchenwürfeln](https://radiatortwo.github.io/rezepte/GurkensalatMitHaehnchen)
 * [Küstipasta-Salat](https://radiatortwo.github.io/rezepte/KuestipastaSalat)
 * [Gerösteter Kartoffel-Salat](https://radiatortwo.github.io/rezepte/GeroesteterKartoffelSalat)
+* [Chinakohl-Salat mit Smetana-Dressing](https://radiatortwo.github.io/rezepte/ChinakohlSalatMitSmetana)
