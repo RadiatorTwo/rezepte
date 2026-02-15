@@ -1,5 +1,123 @@
 [
   {
+    "id": "ChinakohlScharfSauer",
+    "title": "Chinakohl scharf-sauer (veggie)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-scharf-sauer.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Chinakohl",
+        "group": "",
+        "original": "500 g Chinakohl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2-5 Chili",
+        "group": "",
+        "original": "2-5 Chili"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2-3 Lauchzwiebeln",
+        "group": "",
+        "original": "2-3 Lauchzwiebeln"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "",
+        "original": "2 EL Sojasauce"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "EL",
+        "name": "Essig",
+        "group": "",
+        "original": "2-3 EL Essig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "1/2 TL Zucker",
+        "group": "",
+        "original": "1 1/2 TL Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Speisestärke",
+        "group": "",
+        "original": "1 TL Speisestärke"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl",
+        "group": "",
+        "original": "Öl"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Wasser",
+        "group": "",
+        "original": "3 EL Wasser"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Zuerst aus dem Chinakohl die Blätter lösen. Dann den Kohl in breite Streifen schneiden, aber nur den weißen Teil. Den grünen Teil nicht wegschmeißen, daraus kann später Salat gemacht werden.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Lauchzwiebeln und Chili klein schneiden.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Die Soße vorbereiten: 2 EL Sojasauce, 2-3 EL Essig, 1 1/2 TL Zucker, 1 TL Speisestärke und 3 EL Wasser in eine Schüssel geben und verrühren.",
+        "group": "Soße"
+      },
+      {
+        "text": "Etwas Öl in eine Pfanne geben und erhitzen. Chili und Lauchzwiebeln hineingeben und 1-2 Minuten braten.",
+        "group": "Braten"
+      },
+      {
+        "text": "Dann den Chinakohl hinzufügen und 3-5 Minuten braten. Nach Belieben salzen.",
+        "group": "Braten"
+      },
+      {
+        "text": "Die Soße hineingeben und ca. 15 Sekunden warten. Leicht umrühren.",
+        "group": "Braten"
+      }
+    ],
+    "notes": [
+      "Richtig chinesisch und mit dem traditionellen Gemüse \"Chinakohl\". So schmeckt chinesische Hausmannskost. Bereit in nur 25 Minuten (15 Min Vorbereitung, 10 Min Kochen)."
+    ],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
     "id": "KnusprigesSchweinefleischAirfryer",
     "title": "Knuspriges Schweinefleisch aus dem Airfryer",
     "image": "https://radiatortwo.github.io/rezepte/pics/knuspriges-schweinefleisch-airfryer.jpg",
