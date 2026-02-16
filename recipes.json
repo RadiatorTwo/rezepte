@@ -1,5 +1,133 @@
 [
   {
+    "id": "ChinakohlKoreanisch",
+    "title": "Chinakohl nach koreanischer Art",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-koreanisch.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Chinakohl",
+        "group": "",
+        "original": "1 kg Chinakohl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Karotte",
+        "group": "",
+        "original": "1 Karotte"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "",
+        "original": "5 Knoblauchzehen"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zucker",
+        "group": "",
+        "original": "30 g Zucker"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Salz",
+        "group": "",
+        "original": "20 g Salz"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Pflanzenöl",
+        "group": "",
+        "original": "150 ml Pflanzenöl"
+      },
+      {
+        "amount": 25.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Essig (9%)",
+        "group": "",
+        "original": "25 ml Essig (9%)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlener Koriander",
+        "group": "",
+        "original": "1 TL gemahlener Koriander"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlener schwarzer Pfeffer",
+        "group": "",
+        "original": "1/2 TL gemahlener schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlene Paprika",
+        "group": "",
+        "original": "1 TL gemahlene Paprika"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlener roter Pfeffer",
+        "group": "",
+        "original": "1/2 TL gemahlener roter Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Chinakohl in 4 Teile schneiden und in große Stücke schneiden. Die geschnittene Kapusta in eine große Schüssel geben.",
+        "group": ""
+      },
+      {
+        "text": "Die Karotte auf einer Reibe für koreanische Karotten (Julienne) raspeln und zu dem Kohl geben.",
+        "group": ""
+      },
+      {
+        "text": "Zucker und Salz zu dem vorbereiteten Gemüse hinzufügen und alles gut vermischen.",
+        "group": ""
+      },
+      {
+        "text": "Essig, gemahlenen Koriander, schwarzen Pfeffer, Paprika und roten Pfeffer hinzufügen und alles gründlich vermischen.",
+        "group": ""
+      },
+      {
+        "text": "In der Mitte des Salats eine Vertiefung machen und den Knoblauch hineinpressen.",
+        "group": ""
+      },
+      {
+        "text": "Das Pflanzenöl in einem Topf stark erhitzen und das heiße Öl über den Knoblauch gießen. Alles sofort gut vermischen, damit sich die Aromen entfalten.",
+        "group": ""
+      },
+      {
+        "text": "Die Schüssel mit einem Deckel verschließen und den Salat mindestens 8 Stunden (am besten über Nacht) im Kühlschrank marinieren lassen. Während der Marinierzeit den Salat mehrmals umrühren, damit sich die Aromen gleichmäßig verteilen.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 6
+  },
+  {
     "id": "ChinakohlScharfSauer",
     "title": "Chinakohl scharf-sauer (veggie)",
     "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-scharf-sauer.jpg",
