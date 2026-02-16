@@ -47,6 +47,7 @@
 * [Japanische Schweinefleisch-Reisschale](https://radiatortwo.github.io/rezepte/JapanesePorkRiceBowl)
 * [Rindfleisch mit Gemüse in 20 Minuten](https://radiatortwo.github.io/rezepte/RindfleischMitGemuese)
 * [Chinakohl scharf-sauer (veggie)](https://radiatortwo.github.io/rezepte/ChinakohlScharfSauer)
+* [Chinakohl nach koreanischer Art](https://radiatortwo.github.io/rezepte/ChinakohlKoreanisch)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
