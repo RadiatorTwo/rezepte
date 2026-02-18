@@ -125,6 +125,7 @@
 * [Maultaschen in Parmesan-Sahnesoße](https://radiatortwo.github.io/rezepte/MaultaschenParmesanSahne)
 * [Laxpudding (Schwedischer Lachsauflauf)](https://radiatortwo.github.io/rezepte/Laxpudding)
 * [Lachs mit Mango-Kokos-Sauce](https://radiatortwo.github.io/rezepte/LachsMangoKokosSauce)
+* [Westernpfanne mit Hackfleisch](https://radiatortwo.github.io/rezepte/Westernpfanne)
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
