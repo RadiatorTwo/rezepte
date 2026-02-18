@@ -1,5 +1,121 @@
 [
   {
+    "id": "Westernpfanne",
+    "title": "Westernpfanne mit Hackfleisch",
+    "image": "https://radiatortwo.github.io/rezepte/pics/westernpfanne.jpg",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Kartoffeln, vorwiegend festkochend",
+        "group": "",
+        "original": "300 g Kartoffeln, vorwiegend festkochend"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch (Rinder- oder Schweinehack)",
+        "group": "",
+        "original": "300 g Hackfleisch (Rinder- oder Schweinehack)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sonnenblumenöl",
+        "group": "",
+        "original": "2 EL Sonnenblumenöl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Westernpfanne Gewürz",
+        "group": "",
+        "original": "2 TL Westernpfanne Gewürz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebel",
+        "group": "",
+        "original": "1 Frühlingszwiebel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Dose",
+        "name": "Kidneybohnen (400 g)",
+        "group": "",
+        "original": "1 Dose Kidneybohnen (400 g)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Dose",
+        "name": "Mais (300 g)",
+        "group": "",
+        "original": "1 Dose Mais (300 g)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprika, gelb",
+        "group": "",
+        "original": "1 Paprika, gelb"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "grüne Bohnen (frisch oder TK)",
+        "group": "",
+        "original": "200 g grüne Bohnen (frisch oder TK)"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "passierte Tomaten",
+        "group": "",
+        "original": "250 ml passierte Tomaten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Backofen auf 200°C Ober-/Unterhitze (180°C Umluft) vorheizen. Ein tiefes Backblech mit Backpapier auslegen.",
+        "group": ""
+      },
+      {
+        "text": "Die Kartoffeln schälen und halbieren. Aus den Kartoffelhälften Spalten schneiden (Wedges) und in einer Schüssel mit 1 EL Öl und 1 TL Westernpfanne Gewürz vermengen. Dann die Wedges aufs Backpapier geben, gut verteilen und für ca. 20 Min. im Ofen auf der mittleren Schiene backen. Alternativ im Airfryer bei 200°C für 12 Min. airfryen.",
+        "group": ""
+      },
+      {
+        "text": "Währenddessen die Frühlingszwiebel putzen, den Strunk entfernen und in sehr dünne Scheiben schneiden. Die Kidneybohnen abtropfen lassen und waschen. Den Mais abgießen. Die Paprika waschen, halbieren, das Kerngehäuse entfernen und in mundgerechte Streifen schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Die grünen Bohnen im kochenden Salzwasser etwa 10 Min. garen, dann abgießen.",
+        "group": ""
+      },
+      {
+        "text": "Das Hackfleisch in einer Pfanne in 1 EL Öl anbraten, bis es krümelig und durchgebraten ist. Dann die Frühlingszwiebeln und Paprikastreifen hinzugeben und etwa 2 Min. mitbraten. Anschließend die grünen Bohnen, Kidneybohnen und den Mais hinzugeben und alles zusammen für ca. 3 Min. mitbraten. Die passierten Tomaten hinzugeben und mit 1 TL Westernpfanne Gewürz würzen.",
+        "group": ""
+      },
+      {
+        "text": "Zum Schluss die fertigen Kartoffelspalten untermischen und alles etwa 10-15 Min. leicht köcheln lassen, bis die Soße etwas eingedickt ist und gut von den Kartoffeln aufgesogen wurde.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Pfannengerichte",
+    "servings": 4
+  },
+  {
     "id": "ChinakohlKoreanisch",
     "title": "Chinakohl nach koreanischer Art",
     "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-koreanisch.jpg",
