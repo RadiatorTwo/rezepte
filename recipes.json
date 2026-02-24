@@ -1,5 +1,901 @@
 [
   {
+    "id": "HotHoneyLemonPepperPorkBelly",
+    "title": "Hot Honey Lemon Pepper Pork Belly",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hot-honey-lemon-pepper-pork-belly.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schweinebauch",
+        "group": "Schweinebauch",
+        "original": "Schweinebauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl",
+        "group": "Schweinebauch",
+        "original": "Öl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "SPG (Salz, Pfeffer, Knoblauch)",
+        "group": "Schweinebauch",
+        "original": "SPG (Salz, Pfeffer, Knoblauch)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Lemon-Pepper-Gewürz",
+        "group": "Schweinebauch",
+        "original": "Lemon-Pepper-Gewürz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hot Honey",
+        "group": "Schweinebauch",
+        "original": "Hot Honey"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "reife",
+        "name": "Avocados",
+        "group": "Guacamole",
+        "original": "4 reife Avocados"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "frischer Koriander (gehackt)",
+        "group": "Guacamole",
+        "original": "1 Bund frischer Koriander (gehackt)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Jalapeño-Paprikas (gewürfelt)",
+        "group": "Guacamole",
+        "original": "2 Jalapeño-Paprikas (gewürfelt)"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "rote Zwiebel (fein gewürfelt)",
+        "group": "Guacamole",
+        "original": "60 ml rote Zwiebel (fein gewürfelt)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Saft von ½ Limette",
+        "group": "Guacamole",
+        "original": "Saft von ½ Limette"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "Guacamole",
+        "original": "1 TL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Meersalz",
+        "group": "Guacamole",
+        "original": "1 TL Meersalz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL schwarzer Pfeffer",
+        "group": "Guacamole",
+        "original": "½ TL schwarzer Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Schweinebauch in ca. 2,5 cm dicke und 10 cm lange Scheiben schneiden.",
+        "group": "Schweinebauch"
+      },
+      {
+        "text": "Auf einem Gitterrost platzieren und mit Öl einreiben.",
+        "group": "Schweinebauch"
+      },
+      {
+        "text": "Von allen Seiten mit SPG und Lemon-Pepper-Gewürz würzen.",
+        "group": "Schweinebauch"
+      },
+      {
+        "text": "Den Schweinebauch bei 120°C für 3 Stunden auf dem Smoker garen, bis eine Kerntemperatur von 85°C erreicht ist.",
+        "group": "Schweinebauch"
+      },
+      {
+        "text": "Anschließend im Airfryer bei 200°C jeweils 3-4 Minuten pro Seite knusprig braten.",
+        "group": "Schweinebauch"
+      },
+      {
+        "text": "Mit Hot Honey beträufeln und mit Guacamole zum Dippen servieren.",
+        "group": "Schweinebauch"
+      },
+      {
+        "text": "Alle Zutaten in einer Schüssel gründlich vermengen.",
+        "group": "Guacamole"
+      },
+      {
+        "text": "Bis zum Servieren kalt stellen.",
+        "group": "Guacamole"
+      }
+    ],
+    "notes": [],
+    "category": "BBQ & Grillen",
+    "servings": 4
+  },
+  {
+    "id": "PickleDip",
+    "title": "Pickle Dip",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pickle-dip.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Glas",
+        "name": "Gurken (gehackt)",
+        "group": "",
+        "original": "1 Glas Gurken (gehackt)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Bund",
+        "name": "Frühlingszwiebeln (gehackt)",
+        "group": "",
+        "original": "1 Bund Frühlingszwiebeln (gehackt)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Jalapeño-Paprikas (gehackt)",
+        "group": "",
+        "original": "2 Jalapeño-Paprikas (gehackt)"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "geriebener Cheddar",
+        "group": "",
+        "original": "120 g geriebener Cheddar"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "geriebener Jack-Käse",
+        "group": "",
+        "original": "120 g geriebener Jack-Käse"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Saure Sahne",
+        "group": "",
+        "original": "240 ml Saure Sahne"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Griechischer Joghurt",
+        "group": "",
+        "original": "240 ml Griechischer Joghurt"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Frischkäse (aufgeschlagen)",
+        "group": "",
+        "original": "240 ml Frischkäse (aufgeschlagen)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Pck.",
+        "name": "Ranch-Gewürzmischung",
+        "group": "",
+        "original": "1 Pck. Ranch-Gewürzmischung"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "knuspriger Speck",
+        "group": "",
+        "original": "240 ml knuspriger Speck"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Frank's Red Hot Sauce",
+        "group": "",
+        "original": "1 EL Frank's Red Hot Sauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Cajun-Gewürz",
+        "group": "",
+        "original": "1 TL Cajun-Gewürz"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "",
+        "original": "1 TL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Gurkenwasser",
+        "group": "",
+        "original": "1 EL Gurkenwasser"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten in eine Rührschüssel geben und gründlich verrühren.",
+        "group": ""
+      },
+      {
+        "text": "Mit Kartoffelchips servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Soßen & Dips",
+    "servings": 8
+  },
+  {
+    "id": "CoconutSagoPudding",
+    "title": "Coconut Sago Pudding",
+    "image": "https://radiatortwo.github.io/rezepte/pics/coconut-sago-pudding.jpg",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Sago (kleine Tapioka-Perlen)",
+        "group": "",
+        "original": "500 g Sago (kleine Tapioka-Perlen)"
+      },
+      {
+        "amount": 1000.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "",
+        "original": "1000 ml Wasser"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Milchpulver, gemischt mit 450 ml Wasser",
+        "group": "",
+        "original": "3 EL Milchpulver, gemischt mit 450 ml Wasser"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Vanilleextrakt",
+        "group": "",
+        "original": "1 TL Vanilleextrakt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "180–200 g Zucker (nach Geschmack)",
+        "group": "",
+        "original": "180–200 g Zucker (nach Geschmack)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ölspray",
+        "group": "",
+        "original": "Ölspray"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Kokosraspeln zum Wälzen",
+        "group": "",
+        "original": "Kokosraspeln zum Wälzen"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "1 Liter Wasser in einem Topf zum Kochen bringen.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Den Sago hinzufügen, die Hitze reduzieren und unter ständigem Rühren köcheln lassen, damit die Perlen nicht am Boden ankleben oder anbrennen.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Sobald der Sago das Wasser aufgesogen hat, die Milchpulverlösung nach und nach einrühren und nach jeder Zugabe gut vermengen.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Wenn der Sago gar und durchsichtig ist, Vanilleextrakt (oder alternativ Pandan) und Zucker nach Geschmack einrühren.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Die Masse in eine gefettete Form gießen, mit Frischhaltefolie abdecken und über Nacht im Kühlschrank fest werden lassen.",
+        "group": "Auskühlen & Servieren"
+      },
+      {
+        "text": "Am nächsten Tag Kokosraspeln auf einem Schneidebrett verteilen und den gestürzten Pudding darauf legen. Weitere Kokosraspeln darüber streuen.",
+        "group": "Auskühlen & Servieren"
+      },
+      {
+        "text": "In beliebige Formen schneiden und jedes Stück vollständig in Kokosraspeln wälzen.",
+        "group": "Auskühlen & Servieren"
+      },
+      {
+        "text": "Im Kühlschrank in einem luftdichten Behälter bis zu 5 Tage haltbar.",
+        "group": "Auskühlen & Servieren"
+      }
+    ],
+    "notes": [],
+    "category": "Dessert",
+    "servings": 8
+  },
+  {
+    "id": "CrispySweetSourMeat",
+    "title": "Crispy Sweet & Sour Meat",
+    "image": "https://radiatortwo.github.io/rezepte/pics/crispy-sweet-sour-meat.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Dünn geschnittenes Fleisch nach Wahl",
+        "group": "Fleisch",
+        "original": "Dünn geschnittenes Fleisch nach Wahl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Fleisch",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Fleisch",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Speisestärke",
+        "group": "Fleisch",
+        "original": "Speisestärke"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Wasser",
+        "group": "Fleisch",
+        "original": "Wasser"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Fleisch",
+        "original": "Öl zum Frittieren"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Soße",
+        "original": "Frühlingszwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ingwer",
+        "group": "Soße",
+        "original": "Ingwer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zucker",
+        "group": "Soße",
+        "original": "Zucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Essig",
+        "group": "Soße",
+        "original": "Essig"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Helle Sojasoße",
+        "group": "Soße",
+        "original": "Helle Sojasoße"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Fleisch mit Salz und Pfeffer würzen und gut einmassieren.",
+        "group": "Fleisch vorbereiten"
+      },
+      {
+        "text": "Speisestärke mit etwas Wasser zu einem Teig anrühren und das Fleisch gleichmäßig damit bedecken. 10 Minuten ruhen lassen.",
+        "group": "Fleisch vorbereiten"
+      },
+      {
+        "text": "Das Fleisch bei niedriger Hitze in reichlich Öl goldbraun frittieren und beiseitelegen.",
+        "group": "Fleisch vorbereiten"
+      },
+      {
+        "text": "Frühlingszwiebeln und Ingwer in der Pfanne kurz anbraten.",
+        "group": "Soße & Fertigstellung"
+      },
+      {
+        "text": "Zucker, Essig und Sojasoße verrühren und in die Pfanne geben. Aufkochen lassen, bis die Soße blubbert und leicht eindickt.",
+        "group": "Soße & Fertigstellung"
+      },
+      {
+        "text": "Das Fleisch dazugeben und alles gut schwenken, bis es vollständig mit der Soße überzogen ist.",
+        "group": "Soße & Fertigstellung"
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
+    "id": "KnoblauchJoghurtSosse",
+    "title": "Cremige Knoblauch-Joghurt-Soße",
+    "image": "https://radiatortwo.github.io/rezepte/pics/knoblauch-joghurt-sosse.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "",
+        "original": "1 EL Butter"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": 3.0,
+        "unit": "Knoblauchzehen",
+        "name": "(fein gehackt oder gepresst)",
+        "group": "",
+        "original": "2-3 Knoblauchzehen (fein gehackt oder gepresst)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Mehl",
+        "group": "",
+        "original": "1 TL Mehl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Tomatenmark",
+        "group": "",
+        "original": "1 TL Tomatenmark"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "ca. 80–100 ml Wasser (je nach gewünschter Konsistenz)",
+        "group": "",
+        "original": "ca. 80–100 ml Wasser (je nach gewünschter Konsistenz)"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Naturjoghurt",
+        "group": "",
+        "original": "200 g Naturjoghurt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz nach Geschmack",
+        "group": "",
+        "original": "Salz nach Geschmack"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Optional: Paprikapulver, Chili, getrocknete Minze oder Oregano",
+        "group": "",
+        "original": "Optional: Paprikapulver, Chili, getrocknete Minze oder Oregano"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Butter schmelzen und den Knoblauch bei mittlerer Hitze kurz anbraten, bis er duftet (nicht braun werden lassen!).",
+        "group": ""
+      },
+      {
+        "text": "Mehl einrühren und kurz anschwitzen.",
+        "group": ""
+      },
+      {
+        "text": "Tomatenmark dazugeben und alles gut verrühren.",
+        "group": ""
+      },
+      {
+        "text": "Mit Wasser ablöschen und unter Rühren aufkochen lassen, bis eine cremige Soßenbasis entsteht.",
+        "group": ""
+      },
+      {
+        "text": "Mit Salz, Pfeffer und Gewürzen abschmecken.",
+        "group": ""
+      },
+      {
+        "text": "Herd auf niedrigste Stufe stellen oder kurz vom Herd ziehen.",
+        "group": ""
+      },
+      {
+        "text": "Naturjoghurt einrühren und nur sanft unterheben – nicht mehr kochen lassen, damit der Joghurt nicht gerinnt.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Soßen & Dips",
+    "servings": 3
+  },
+  {
+    "id": "CheesyChickenBBQToast",
+    "title": "Cheesy Chicken BBQ Toasties",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheesy-chicken-bbq-toast.jpg",
+    "ingredients": [
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Toasties",
+        "group": "",
+        "original": "4 Toasties"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hähnchenbrustfilets",
+        "group": "",
+        "original": "2 Hähnchenbrustfilets"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": 4.0,
+        "unit": "EL",
+        "name": "BBQ-Soße",
+        "group": "",
+        "original": "3-4 EL BBQ-Soße"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "mind. 150 g Cheddar",
+        "group": "",
+        "original": "mind. 150 g Cheddar"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1 rote Zwiebel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl zum Braten",
+        "group": "",
+        "original": "1 EL Öl zum Braten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz & Pfeffer",
+        "group": "",
+        "original": "Salz & Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Mayo",
+        "group": "",
+        "original": "Mayo"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Hähnchen mit Salz und Pfeffer würzen, in Öl goldbraun anbraten und mit BBQ-Soße glasieren.",
+        "group": ""
+      },
+      {
+        "text": "Toasties aufschneiden, optional mit Mayo bestreichen und mit Hähnchen, Zwiebelringen und geriebenem Cheddar belegen.",
+        "group": ""
+      },
+      {
+        "text": "Zuklappen, in Backpapier einwickeln und im Ofen oder Airfryer erwärmen, bis der Käse geschmolzen ist.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Burger & Sandwiches",
+    "servings": 4
+  },
+  {
+    "id": "FriedSesameBalls",
+    "title": "Frittierte Sesambällchen mit Rote-Bohnen-Füllung",
+    "image": "https://radiatortwo.github.io/rezepte/pics/fried-sesame-balls.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Klebreismehl",
+        "group": "",
+        "original": "Klebreismehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Wasser",
+        "group": "",
+        "original": "Wasser"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zucker",
+        "group": "",
+        "original": "Zucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Rote-Bohnen-Paste (oder Lotus- bzw. Schwarzsesampaste)",
+        "group": "",
+        "original": "Rote-Bohnen-Paste (oder Lotus- bzw. Schwarzsesampaste)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Sesamsamen",
+        "group": "",
+        "original": "Sesamsamen"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Klebreismehl, Wasser und Zucker zu einem Teig vermengen und kneten, bis er glatt und elastisch ist.",
+        "group": ""
+      },
+      {
+        "text": "Den Teig zu einer Rolle formen und in gleich große Portionen teilen.",
+        "group": ""
+      },
+      {
+        "text": "Jede Portion flach drücken, mit Rote-Bohnen-Paste füllen und zu einer Kugel formen.",
+        "group": ""
+      },
+      {
+        "text": "Die Kugeln kurz in Wasser tauchen und anschließend in Sesamsamen wälzen.",
+        "group": ""
+      },
+      {
+        "text": "In heißem Öl frittieren, bis die Sesambällchen goldbraun und knusprig sind.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Zum chinesischen Neujahrsfest serviert – die runde Form und goldene Farbe symbolisieren Glück."
+    ],
+    "category": "Asiatisch",
+    "servings": 12
+  },
+  {
+    "id": "ParmigianaMelanzane",
+    "title": "Parmigiana di Melanzane",
+    "image": "https://radiatortwo.github.io/rezepte/pics/parmigiana-di-melanzane.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Olivenöl",
+        "group": "Tomatensauce",
+        "original": "Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauch",
+        "group": "Tomatensauce",
+        "original": "Knoblauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Tomaten",
+        "group": "Tomatensauce",
+        "original": "Tomaten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Basilikum",
+        "group": "Tomatensauce",
+        "original": "Basilikum"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Tomatensauce",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Auberginen",
+        "group": "Auberginen & Schichten",
+        "original": "Auberginen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Mehl",
+        "group": "Auberginen & Schichten",
+        "original": "Mehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eier",
+        "group": "Auberginen & Schichten",
+        "original": "Eier"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Mozzarella",
+        "group": "Auberginen & Schichten",
+        "original": "Mozzarella"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Parmigiano",
+        "group": "Auberginen & Schichten",
+        "original": "Parmigiano"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Olivenöl in einer Pfanne erhitzen, Knoblauch hinzufügen und anbraten.",
+        "group": "Tomatensauce"
+      },
+      {
+        "text": "Tomaten und Basilikum dazugeben, mit Salz würzen und die Sauce langsam reduzieren lassen.",
+        "group": "Tomatensauce"
+      },
+      {
+        "text": "Auberginen in mitteldicke Scheiben schneiden, in Mehl wenden und dann in verquirltem Ei tauchen.",
+        "group": "Auberginen"
+      },
+      {
+        "text": "In heißem Öl frittieren, bis sie goldbraun sind.",
+        "group": "Auberginen"
+      },
+      {
+        "text": "Eine Auflaufform mit Tomatensauce auslegen, Auberginenscheiben darauflegen und mit Mozzarella und Parmigiano bestreuen. Diesen Vorgang wiederholen, bis alle Zutaten aufgebraucht sind, und mit einer Käseschicht abschließen.",
+        "group": "Zusammensetzen & Backen"
+      },
+      {
+        "text": "Im vorgeheizten Ofen bei 200°C ca. 25–30 Minuten backen, bis die Oberfläche goldbraun ist. Vor dem Servieren etwas abkühlen lassen.",
+        "group": "Zusammensetzen & Backen"
+      }
+    ],
+    "notes": [
+      "Das Gericht schmeckt am nächsten Tag aufgewärmt noch besser."
+    ],
+    "category": "Italienisch",
+    "servings": 4
+  },
+  {
     "id": "Westernpfanne",
     "title": "Westernpfanne mit Hackfleisch",
     "image": "https://radiatortwo.github.io/rezepte/pics/westernpfanne.jpg",
@@ -13133,110 +14029,6 @@
     "notes": [],
     "category": "Asiatisch",
     "servings": 4
-  },
-  {
-    "id": "BananaBrownie",
-    "title": "Bananen Brownies (ohne Mehl)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/banana-brownies.jpg",
-    "ingredients": [
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "reife",
-        "name": "Bananen (zerdrückt)",
-        "group": "Nasse Zutaten",
-        "original": "3 reife Bananen (zerdrückt)"
-      },
-      {
-        "amount": 60.0,
-        "amount_max": null,
-        "unit": "ml",
-        "name": "Nussbutter (nach Wahl)",
-        "group": "Nasse Zutaten",
-        "original": "60ml Nussbutter (nach Wahl)"
-      },
-      {
-        "amount": 60.0,
-        "amount_max": null,
-        "unit": "ml",
-        "name": "geschmolzene Butter",
-        "group": "Nasse Zutaten",
-        "original": "60ml geschmolzene Butter"
-      },
-      {
-        "amount": 3.0,
-        "amount_max": null,
-        "unit": "EL",
-        "name": "Ahornsirup",
-        "group": "Nasse Zutaten",
-        "original": "3 EL Ahornsirup"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "TL",
-        "name": "Vanilleextrakt",
-        "group": "Nasse Zutaten",
-        "original": "1 TL Vanilleextrakt"
-      },
-      {
-        "amount": 120.0,
-        "amount_max": null,
-        "unit": "g",
-        "name": "ungesüßtes Kakaopulver",
-        "group": "Trockene Zutaten",
-        "original": "120g ungesüßtes Kakaopulver"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "½ TL Natron",
-        "group": "Trockene Zutaten",
-        "original": "½ TL Natron"
-      },
-      {
-        "amount": 1.0,
-        "amount_max": null,
-        "unit": "Prise",
-        "name": "Salz",
-        "group": "Trockene Zutaten",
-        "original": "1 Prise Salz"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Schokoladenstückchen",
-        "group": "Topping",
-        "original": "Schokoladenstückchen"
-      }
-    ],
-    "instructions": [
-      {
-        "text": "Die zerdrückten Bananen mit Nussbutter, geschmolzener Butter, Ahornsirup und Vanilleextrakt in einer Schüssel vermischen.",
-        "group": "Teig"
-      },
-      {
-        "text": "Kakaopulver, Natron und Salz hinzufügen und alles gut verrühren.",
-        "group": "Teig"
-      },
-      {
-        "text": "Den Teig in eine Brownie-Form oder Muffin-Form geben.",
-        "group": "Backen"
-      },
-      {
-        "text": "Schokoladenstückchen auf der Oberfläche verteilen.",
-        "group": "Backen"
-      },
-      {
-        "text": "Bei 175°C für 15-20 Minuten backen.",
-        "group": "Backen"
-      }
-    ],
-    "notes": [],
-    "category": "Dessert",
-    "servings": 12
   },
   {
     "id": "SoffritoBolognese",
