@@ -182,7 +182,6 @@
 * [Cinnamon Pull Apart Bread](https://radiatortwo.github.io/rezepte/CinnamonPullApartBread)
 * [High Protein Cheesecake](https://radiatortwo.github.io/rezepte/HighProteinCheesecake)
 * [Königinnen-Dessert](https://radiatortwo.github.io/rezepte/KoeniginnenDessert)
-* [Bananen Brownies (ohne Mehl)](https://radiatortwo.github.io/rezepte/BananaBrownie)
 * [Dampfnudeln](https://radiatortwo.github.io/rezepte/Dampfnudeln)
 * [Kaiserschmarrn](https://radiatortwo.github.io/rezepte/Kaiserschmarrn)
 * [Klassischer Kaiserschmarrn](https://radiatortwo.github.io/rezepte/KlassischerKaiserschmarrn)
