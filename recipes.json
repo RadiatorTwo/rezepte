@@ -1,5 +1,280 @@
 [
   {
+    "id": "GarlicChilliChicken",
+    "title": "Garlic Chilli Chicken",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-chilli-chicken.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hähnchenschenkel (Oberkeulen)",
+        "group": "Hähnchen & Marinade",
+        "original": "Hähnchenschenkel (Oberkeulen)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Joghurt",
+        "group": "Hähnchen & Marinade",
+        "original": "Joghurt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gewürzmischung (nach Geschmack)",
+        "group": "Hähnchen & Marinade",
+        "original": "Gewürzmischung (nach Geschmack)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ghee",
+        "group": "Soße",
+        "original": "Ghee"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebeln, in Scheiben geschnitten",
+        "group": "Soße",
+        "original": "2 Zwiebeln, in Scheiben geschnitten"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, gerieben",
+        "group": "Soße",
+        "original": "20 Knoblauchzehen, gerieben"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "daumengroße",
+        "name": "Stücke Ingwer, gerieben",
+        "group": "Soße",
+        "original": "2 daumengroße Stücke Ingwer, gerieben"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bird's Eye Chillies",
+        "group": "Soße",
+        "original": "3 Bird's Eye Chillies"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zimt",
+        "group": "Soße",
+        "original": "Zimt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Kardamom",
+        "group": "Soße",
+        "original": "Kardamom"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Tomatenmark",
+        "group": "Soße",
+        "original": "Tomatenmark"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "frische",
+        "name": "Tomaten, gehackt",
+        "group": "Soße",
+        "original": "5 frische Tomaten, gehackt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Wasser",
+        "group": "Soße",
+        "original": "Wasser"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gehackter Koriander",
+        "group": "Zum Servieren",
+        "original": "Gehackter Koriander"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Parathas",
+        "group": "Zum Servieren",
+        "original": "Parathas"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Hähnchenschenkel in Joghurt und Gewürzmischung einlegen. So lange wie möglich ziehen lassen.",
+        "group": "Hähnchen marinieren"
+      },
+      {
+        "text": "Ghee in einer Pfanne schmelzen und die Zwiebeln langsam anbraten, bis sie fast marmeladig sind.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "20 Knoblauchzehen und 2 daumengroße Stücke Ingwer reiben und zusammen mit 3 Bird's Eye Chillies in die Pfanne geben. Zimt und Kardamom hinzufügen und kurz anrösten.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Tomatenmark einrühren und die gehackten Tomaten dazugeben. Mit etwas Wasser aufgießen und köcheln lassen.",
+        "group": "Soße zubereiten"
+      },
+      {
+        "text": "Das marinierte Hähnchen zur Soße geben und bei mittlerer Hitze garen, bis das Fleisch durchgegart ist.",
+        "group": "Hähnchen garen"
+      },
+      {
+        "text": "Mit frischem Koriander garnieren und mit Parathas servieren.",
+        "group": "Hähnchen garen"
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 1
+  },
+  {
+    "id": "AirfryHaehnchenPilzPfanne",
+    "title": "Hähnchen-Pilz-Pfanne aus der Heißluftfritteuse",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-haehnchen-pilz-pfanne.jpg",
+    "ingredients": [
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenbrustfilet, in kleine Stücke geschnitten",
+        "group": "Hähnchen & Marinade",
+        "original": "450 g Hähnchenbrustfilet, in kleine Stücke geschnitten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "natives Olivenöl extra",
+        "group": "Hähnchen & Marinade",
+        "original": "1 EL natives Olivenöl extra"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sojasoße",
+        "group": "Hähnchen & Marinade",
+        "original": "60 ml Sojasoße"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Hähnchen & Marinade",
+        "original": "2 EL brauner Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprikapulver (scharf oder mild, je nach Geschmack)",
+        "group": "Hähnchen & Marinade",
+        "original": "1 TL Paprikapulver (scharf oder mild, je nach Geschmack)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlener oder frisch geriebener Ingwer",
+        "group": "Hähnchen & Marinade",
+        "original": "1 TL gemahlener oder frisch geriebener Ingwer"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "süße Zwiebel, in feine Streifen geschnitten",
+        "group": "Gemüse",
+        "original": "100 g süße Zwiebel, in feine Streifen geschnitten"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Portobello-Champignons, in feine Streifen geschnitten",
+        "group": "Gemüse",
+        "original": "100 g Portobello-Champignons, in feine Streifen geschnitten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "rote",
+        "name": "Paprika, in Streifen geschnitten",
+        "group": "Gemüse",
+        "original": "1 rote Paprika, in Streifen geschnitten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "orange",
+        "name": "oder gelbe Paprika, in Streifen geschnitten",
+        "group": "Gemüse",
+        "original": "1 orange oder gelbe Paprika, in Streifen geschnitten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "In einer Schüssel Olivenöl, Sojasoße, braunen Zucker, Paprikapulver und Ingwer verrühren, bis eine glatte Marinade entsteht.",
+        "group": "Marinade vorbereiten"
+      },
+      {
+        "text": "Die Hähnchenstücke in eine Schüssel oder einen Gefrierbeutel geben, die Marinade darüber gießen und gut vermengen. 30–60 Minuten im Kühlschrank ziehen lassen.",
+        "group": "Marinade vorbereiten"
+      },
+      {
+        "text": "Wenn deine Fritteuse einen Rost hat, entferne ihn. Den Korb leicht mit Öl besprühen, damit nichts kleben bleibt.",
+        "group": "Heißluftfritteuse vorbereiten"
+      },
+      {
+        "text": "Das marinierte Hähnchen zusammen mit Zwiebeln, Champignons und Paprika in den Korb geben. Kurz durchmischen, damit sich alles gleichmäßig verteilt.",
+        "group": "Hähnchen-Pfanne garen"
+      },
+      {
+        "text": "Im Air-Fry-Modus bei 195 °C ca. 9 Minuten garen. Nach der Hälfte der Zeit (nach 4–5 Minuten) den Korb öffnen und alles umrühren, damit das Hähnchen gleichmäßig bräunt.",
+        "group": "Hähnchen-Pfanne garen"
+      },
+      {
+        "text": "Das Gericht ist fertig, wenn das Hähnchen goldbraun und das Gemüse zart, aber noch leicht knackig ist.",
+        "group": "Hähnchen-Pfanne garen"
+      }
+    ],
+    "notes": [
+      "Perfekte Begleiter sind Jasminreis, Glasnudeln oder Quinoa – oder pur als leichtes Hauptgericht genießen.",
+      "Ein Topping aus geröstetem Sesam oder frischem Koriander verleiht dem Gericht einen feinen Gourmet-Touch."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 4
+  },
+  {
     "id": "HotHoneyLemonPepperPorkBelly",
     "title": "Hot Honey Lemon Pepper Pork Belly",
     "image": "https://radiatortwo.github.io/rezepte/pics/hot-honey-lemon-pepper-pork-belly.jpg",
@@ -783,6 +1058,22 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/parmigiana-di-melanzane.jpg",
     "ingredients": [
       {
+        "amount": 2.5,
+        "amount_max": null,
+        "unit": "l",
+        "name": "Passata",
+        "group": "Tomatensauce",
+        "original": "2,5 l Passata"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Tassen",
+        "name": "Basilikum",
+        "group": "Tomatensauce",
+        "original": "3 Tassen Basilikum"
+      },
+      {
         "amount": null,
         "amount_max": null,
         "unit": "",
@@ -802,33 +1093,25 @@
         "amount": null,
         "amount_max": null,
         "unit": "",
-        "name": "Tomaten",
-        "group": "Tomatensauce",
-        "original": "Tomaten"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
-        "name": "Basilikum",
-        "group": "Tomatensauce",
-        "original": "Basilikum"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
         "name": "Salz",
         "group": "Tomatensauce",
         "original": "Salz"
       },
       {
-        "amount": null,
+        "amount": 6.0,
         "amount_max": null,
         "unit": "",
         "name": "Auberginen",
         "group": "Auberginen & Schichten",
-        "original": "Auberginen"
+        "original": "6 Auberginen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "10–12 Eier (für die Panier)",
+        "group": "Auberginen & Schichten",
+        "original": "10–12 Eier (für die Panier)"
       },
       {
         "amount": null,
@@ -842,25 +1125,25 @@
         "amount": null,
         "amount_max": null,
         "unit": "",
-        "name": "Eier",
+        "name": "2–3 Mozzarella",
         "group": "Auberginen & Schichten",
-        "original": "Eier"
+        "original": "2–3 Mozzarella"
       },
       {
-        "amount": null,
+        "amount": 200.0,
         "amount_max": null,
-        "unit": "",
-        "name": "Mozzarella",
-        "group": "Auberginen & Schichten",
-        "original": "Mozzarella"
-      },
-      {
-        "amount": null,
-        "amount_max": null,
-        "unit": "",
+        "unit": "g",
         "name": "Parmigiano",
         "group": "Auberginen & Schichten",
-        "original": "Parmigiano"
+        "original": "200 g Parmigiano"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Auberginen & Schichten",
+        "original": "Öl zum Frittieren"
       }
     ],
     "instructions": [
