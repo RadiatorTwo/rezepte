@@ -7,18 +7,19 @@ Portionen: 4
 ## Zutaten
 
 ### Tomatensauce
+2,5 l Passata\
+3 Tassen Basilikum\
 Olivenöl\
 Knoblauch\
-Tomaten\
-Basilikum\
 Salz
 
 ### Auberginen & Schichten
-Auberginen\
+6 Auberginen\
+10–12 Eier (für die Panier)\
 Mehl\
-Eier\
-Mozzarella\
-Parmigiano
+2–3 Mozzarella\
+200 g Parmigiano\
+Öl zum Frittieren
 
 ## Zubereitung
 

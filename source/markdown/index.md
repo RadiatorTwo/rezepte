@@ -52,6 +52,7 @@
 * [Chinakohl nach koreanischer Art](https://radiatortwo.github.io/rezepte/ChinakohlKoreanisch)
 * [Frittierte Sesambällchen mit Rote-Bohnen-Füllung](https://radiatortwo.github.io/rezepte/FriedSesameBalls)
 * [Crispy Sweet & Sour Meat](https://radiatortwo.github.io/rezepte/CrispySweetSourMeat)
+* [Garlic Chilli Chicken](https://radiatortwo.github.io/rezepte/GarlicChilliChicken)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
