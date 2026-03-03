@@ -180,6 +180,7 @@
 * [Mozzarella Bacon Bombs](https://radiatortwo.github.io/rezepte/AirfryMozzarellaBaconBombs)
 * [Knuspriges Schweinefleisch aus dem Airfryer](https://radiatortwo.github.io/rezepte/KnusprigesSchweinefleischAirfryer)
 * [Hähnchen-Pilz-Pfanne aus der Heißluftfritteuse](https://radiatortwo.github.io/rezepte/AirfryHaehnchenPilzPfanne)
+* [Hackfleisch-Röllchen in Folie](https://radiatortwo.github.io/rezepte/AirfryHackfleischRollenInFolie)
 
 ## Mealprep
 * [Loaded Breakfast McMuffins](https://radiatortwo.github.io/rezepte/MealprepLoadedMuffins)
