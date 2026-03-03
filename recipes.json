@@ -1,5 +1,151 @@
 [
   {
+    "id": "AirfryHackfleischRollenInFolie",
+    "title": "Hackfleisch-Röllchen in Folie (Airfryer)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-hackfleisch-roellchen-in-folie.jpg",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch",
+        "group": "",
+        "original": "300 g Hackfleisch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mayonnaise",
+        "group": "",
+        "original": "1 EL Mayonnaise"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Senf",
+        "group": "",
+        "original": "1 TL Senf"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "",
+        "original": "1/2 TL Salz"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprikapulver (edelsüß)",
+        "group": "",
+        "original": "1/2 TL Paprikapulver (edelsüß)"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "getrocknete Tomaten (gehackt)",
+        "group": "",
+        "original": "1/2 TL getrocknete Tomaten (gehackt)"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "schwarzer Pfeffer",
+        "group": "",
+        "original": "1/2 TL schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "mittelgroße",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1 mittelgroße Zwiebel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehe",
+        "group": "",
+        "original": "1 Knoblauchzehe"
+      },
+      {
+        "amount": 15.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frischer Dill",
+        "group": "",
+        "original": "15 g frischer Dill"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Scheiben",
+        "name": "Käse (nach Wahl)",
+        "group": "",
+        "original": "4 Scheiben Käse (nach Wahl)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bacon zum Einwickeln",
+        "group": "",
+        "original": "Bacon zum Einwickeln"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Hände mit Öl oder Wasser einreiben, damit das Hackfleisch nicht klebt.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Das Hackfleisch zu einer dünnen, gleichmäßigen Schicht ausbreiten, damit die Röllchen perfekt durchgaren.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Langsam zu kleinen Röllchen formen.",
+        "group": "Formen & Wickeln"
+      },
+      {
+        "text": "Die Röllchen in Bacon einwickeln.",
+        "group": "Formen & Wickeln"
+      },
+      {
+        "text": "Fest in Backpapier und anschließend in Alufolie einwickeln.",
+        "group": "Formen & Wickeln"
+      },
+      {
+        "text": "Den Vorgang für alle 4 Röllchen wiederholen.",
+        "group": "Formen & Wickeln"
+      },
+      {
+        "text": "Die Röllchen im Airfryer bei 200°C für 20 Minuten garen.",
+        "group": "Airfryer"
+      },
+      {
+        "text": "Anschließend die Folie öffnen und nochmals bei 200°C für 5–10 Minuten garen, bis sie goldbraun sind.",
+        "group": "Airfryer"
+      },
+      {
+        "text": "Auf einem Teller anrichten und servieren.",
+        "group": "Airfryer"
+      }
+    ],
+    "notes": [
+      "Dieses Rezept eignet sich perfekt für Mittag- oder Abendessen. Der Airfryer ermöglicht gesünderes Kochen mit wenig Öl, während alles saftig und knusprig bleibt. Das Einwickeln in Backpapier und Folie bewahrt maximalen Saft und Geschmack, verhindert Austrocknen, schützt vor Anhaften und erleichtert die Reinigung – durch den \"Dampfbad\"-Effekt im Inneren."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 4
+  },
+  {
     "id": "GarlicChilliChicken",
     "title": "Garlic Chilli Chicken",
     "image": "https://radiatortwo.github.io/rezepte/pics/garlic-chilli-chicken.jpg",
