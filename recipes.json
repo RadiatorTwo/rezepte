@@ -1,5 +1,95 @@
 [
   {
+    "id": "AirfryPulledPork",
+    "title": "Pulled Pork aus dem Airfryer",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-pulled-pork.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "1/2 kg Schweinenacken",
+        "group": "",
+        "original": "1 1/2 kg Schweinenacken"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Barbecue-Rub",
+        "group": "",
+        "original": "3 EL Barbecue-Rub"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "Zwiebeln",
+        "name": "(in Halbringe geschnitten)",
+        "group": "",
+        "original": "5 Zwiebeln (in Halbringe geschnitten)"
+      },
+      {
+        "amount": 600.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Barbecuesauce",
+        "group": "",
+        "original": "600 ml Barbecuesauce"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Apfelsaft",
+        "group": "",
+        "original": "200 ml Apfelsaft"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Ahornsirup oder Honig",
+        "group": "",
+        "original": "3 EL Ahornsirup oder Honig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Lage",
+        "name": "Backpapier",
+        "group": "",
+        "original": "1 Lage Backpapier"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Schweinenacken großzügig mit dem Barbecue-Rub einreiben.",
+        "group": ""
+      },
+      {
+        "text": "Die Zwiebelhalbringe als Bett in den Airfryer-Korb legen und den gewürzten Schweinenacken darauf setzen.",
+        "group": ""
+      },
+      {
+        "text": "Mit Barbecuesauce, Apfelsaft und Ahornsirup übergießen. Mit Backpapier abdecken.",
+        "group": ""
+      },
+      {
+        "text": "Bei 160°C ca. 2,5–3 Stunden im Airfryer garen.",
+        "group": ""
+      },
+      {
+        "text": "Das Fleisch mit zwei Gabeln auseinanderziehen und mit der entstandenen Sauce vermengen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Dieses Pulled Pork zerfällt förmlich, ist butterzart und ultra-saftig. Die süß-rauchige BBQ-Sauce karamellisiert perfekt und sorgt für eine würzige Kruste, die einfach süchtig macht."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 6
+  },
+  {
     "id": "AirfryHackfleischRollenInFolie",
     "title": "Hackfleisch-Röllchen in Folie (Airfryer)",
     "image": "https://radiatortwo.github.io/rezepte/pics/airfry-hackfleisch-roellchen-in-folie.jpg",
