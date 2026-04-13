@@ -53,6 +53,7 @@
 * [Frittierte Sesambällchen mit Rote-Bohnen-Füllung](https://radiatortwo.github.io/rezepte/FriedSesameBalls)
 * [Crispy Sweet & Sour Meat](https://radiatortwo.github.io/rezepte/CrispySweetSourMeat)
 * [Garlic Chilli Chicken](https://radiatortwo.github.io/rezepte/GarlicChilliChicken)
+* [Chicken Chukauni (Nepal Style)](https://radiatortwo.github.io/rezepte/ChickenChukauni)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
@@ -86,6 +87,7 @@
 * [Napoleon Kebab](https://radiatortwo.github.io/rezepte/NapoleonKebab)
 * [Burger Buns](https://radiatortwo.github.io/rezepte/BurgerBuns)
 * [Cheesy Chicken BBQ Toasties](https://radiatortwo.github.io/rezepte/CheesyChickenBBQToast)
+* [Garlic Bread Smash Burger](https://radiatortwo.github.io/rezepte/GarlicBreadSmashBurger)
 
 ## Pasta & Nudeln
 * [Bacon Cheeseburger Tortellini](https://radiatortwo.github.io/rezepte/BaconCheeseburgerTortellini)
@@ -116,6 +118,7 @@
 * [Marry Me Gnocchi-Suppe](https://radiatortwo.github.io/rezepte/MarryMeGnocchiSoup)
 * [Cremige Maissuppe mit Bacon](https://radiatortwo.github.io/rezepte/CreamyCornChowder)
 * [Shepherd's Pie](https://radiatortwo.github.io/rezepte/ShepherdsPie)
+* [Slow Cooked Beef With Creamy Mash](https://radiatortwo.github.io/rezepte/SlowCookedBeefCreamyMash)
 
 ## Pfannengerichte
 * [Honig-Butter-Hähnchen (AirFryer)](https://radiatortwo.github.io/rezepte/HoneyButterChicken)
@@ -133,6 +136,7 @@
 * [Laxpudding (Schwedischer Lachsauflauf)](https://radiatortwo.github.io/rezepte/Laxpudding)
 * [Lachs mit Mango-Kokos-Sauce](https://radiatortwo.github.io/rezepte/LachsMangoKokosSauce)
 * [Westernpfanne mit Hackfleisch](https://radiatortwo.github.io/rezepte/Westernpfanne)
+* [Garlic Steak Bites & Potatoes](https://radiatortwo.github.io/rezepte/GarlicSteakBitesPotatoes)
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
