@@ -1,5 +1,703 @@
 [
   {
+    "id": "GarlicSteakBitesPotatoes",
+    "title": "Garlic Steak Bites & Potatoes",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-steak-bites-potatoes.jpg",
+    "ingredients": [
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Baby Kartoffeln oder Backkartoffeln, gewürfelt",
+        "group": "Kartoffeln",
+        "original": "450 g Baby Kartoffeln oder Backkartoffeln, gewürfelt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Kartoffeln",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Meersalz nach Geschmack",
+        "group": "Kartoffeln",
+        "original": "Meersalz nach Geschmack"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Paprikapulver",
+        "group": "Kartoffeln",
+        "original": "½ TL Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Knoblauchpulver",
+        "group": "Kartoffeln",
+        "original": "½ TL Knoblauchpulver"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rindersteak (Sirloin / Ribeye / Entrecôte), gewürfelt",
+        "group": "Steak Bites",
+        "original": "400 g Rindersteak (Sirloin / Ribeye / Entrecôte), gewürfelt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Steak Bites",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, fein gehackt",
+        "group": "Steak Bites",
+        "original": "2 Knoblauchzehen, fein gehackt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz & schwarzer Pfeffer nach Geschmack",
+        "group": "Steak Bites",
+        "original": "Salz & schwarzer Pfeffer nach Geschmack"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Steakgewürz",
+        "group": "Steak Bites",
+        "original": "1 TL Steakgewürz"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Knoblauchbutter",
+        "original": "3 EL Butter"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, fein gehackt",
+        "group": "Knoblauchbutter",
+        "original": "2 Knoblauchzehen, fein gehackt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Petersilie, gehackt",
+        "group": "Knoblauchbutter",
+        "original": "1 EL Petersilie, gehackt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL gemischte Kräuter",
+        "group": "Knoblauchbutter",
+        "original": "½ TL gemischte Kräuter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zitronenschale (optional)",
+        "group": "Knoblauchbutter",
+        "original": "Zitronenschale (optional)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "geriebener Parmesan",
+        "group": "Topping (optional)",
+        "original": "geriebener Parmesan"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Röstzwiebeln",
+        "group": "Topping (optional)",
+        "original": "Röstzwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bacon Bits",
+        "group": "Topping (optional)",
+        "original": "Bacon Bits"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chiliflocken",
+        "group": "Topping (optional)",
+        "original": "Chiliflocken"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "leichter Salat (z.B. Caesar Salat ohne Hähnchen)",
+        "group": "Beilage",
+        "original": "leichter Salat (z.B. Caesar Salat ohne Hähnchen)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Backofen auf 200°C vorheizen. Kartoffeln mit Olivenöl, Salz, Paprikapulver und Knoblauchpulver vermengen. Für 30–35 Minuten backen, bis sie goldbraun und knusprig sind.",
+        "group": "Kartoffeln"
+      },
+      {
+        "text": "Während die Kartoffeln im Ofen sind, die Steakwürfel mit Olivenöl, Knoblauch, Salz, Pfeffer und Steakgewürz marinieren.",
+        "group": "Steak Bites"
+      },
+      {
+        "text": "Die Steak Bites in einer heißen Pfanne von jeder Seite 2–3 Minuten scharf anbraten, bis sie goldbraun und saftig sind. Aus der Pfanne nehmen und beiseite stellen.",
+        "group": "Steak Bites"
+      },
+      {
+        "text": "In derselben Pfanne Butter, Knoblauch, Petersilie, Kräuter und optional Zitronenschale erhitzen. Das Steak zurück in die Pfanne geben und in der Knoblauchbutter schwenken.",
+        "group": "Knoblauchbutter & Zusammenführen"
+      },
+      {
+        "text": "Die gerösteten Kartoffeln dazugeben und alles gut vermengen, bis alles glänzend und aromatisch ist.",
+        "group": "Knoblauchbutter & Zusammenführen"
+      },
+      {
+        "text": "Heiß servieren. Nach Belieben mit Parmesan, Röstzwiebeln, Bacon Bits oder Chiliflocken toppen. Dazu einen frischen, leichten Salat reichen.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [],
+    "category": "Pfannengerichte",
+    "servings": 2
+  },
+  {
+    "id": "SlowCookedBeefCreamyMash",
+    "title": "Slow Cooked Beef With Creamy Mash",
+    "image": "https://radiatortwo.github.io/rezepte/pics/slow-cooked-beef-creamy-mash.jpg",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Rindfleisch (Brisket oder Schulter)",
+        "group": "",
+        "original": "1 kg Rindfleisch (Brisket oder Schulter)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1 Zwiebel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2–3 TL Knoblauch",
+        "group": "",
+        "original": "2–3 TL Knoblauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1½ EL Tomatenmark",
+        "group": "",
+        "original": "1½ EL Tomatenmark"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1–2 Lorbeerblätter",
+        "group": "",
+        "original": "1–2 Lorbeerblätter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frischer Thymian",
+        "group": "",
+        "original": "frischer Thymian"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Rinderbrühe-Würfel",
+        "group": "",
+        "original": "1 Rinderbrühe-Würfel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Worcestershire-Soße",
+        "group": "",
+        "original": "Worcestershire-Soße"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "",
+        "original": "1 EL brauner Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "geräuchertes Paprikapulver",
+        "group": "",
+        "original": "1 EL geräuchertes Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer nach Geschmack",
+        "group": "",
+        "original": "Salz und Pfeffer nach Geschmack"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Wasser (genug um das Fleisch zur Hälfte zu bedecken)",
+        "group": "",
+        "original": "Wasser (genug um das Fleisch zur Hälfte zu bedecken)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bratensoßenpulver (zum Andicken)",
+        "group": "",
+        "original": "Bratensoßenpulver (zum Andicken)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Alle Zutaten in den Slow Cooker geben.",
+        "group": ""
+      },
+      {
+        "text": "Auf niedriger Stufe 8 Stunden oder auf hoher Stufe 4 Stunden garen.",
+        "group": ""
+      },
+      {
+        "text": "Das Rindfleisch herausnehmen und mit zwei Gabeln zerzupfen. Die Soße mit Bratensoßenpulver andicken.",
+        "group": ""
+      },
+      {
+        "text": "Mit cremigem Kartoffelpüree servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Suppen & Eintöpfe",
+    "servings": 4
+  },
+  {
+    "id": "GarlicBreadSmashBurger",
+    "title": "Garlic Bread Smash Burger",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-bread-smash-burger.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ EL Butter (fettarm)",
+        "group": "Knoblauchbutter",
+        "original": "½ EL Butter (fettarm)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ EL Knoblauch, fein gehackt",
+        "group": "Knoblauchbutter",
+        "original": "½ EL Knoblauch, fein gehackt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Petersilie",
+        "group": "Knoblauchbutter",
+        "original": "Petersilie"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ EL Butter (fettarm)",
+        "group": "Karamellisierte Zwiebeln",
+        "original": "¼ EL Butter (fettarm)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zwiebeln, gewürfelt",
+        "group": "Karamellisierte Zwiebeln",
+        "original": "3 EL Zwiebeln, gewürfelt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Burger",
+        "name": "Brötchen",
+        "group": "Burger",
+        "original": "1 Burger Brötchen"
+      },
+      {
+        "amount": 227.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "mageres Rinderhackfleisch",
+        "group": "Burger",
+        "original": "227 g mageres Rinderhackfleisch"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "(6 g) Zwiebelpulver",
+        "group": "Burger",
+        "original": "2 TL (6 g) Zwiebelpulver"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "(6 g) Knoblauchpulver",
+        "group": "Burger",
+        "original": "2 TL (6 g) Knoblauchpulver"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "(6 g) Paprikapulver",
+        "group": "Burger",
+        "original": "2 TL (6 g) Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "Burger",
+        "original": "Salz und Pfeffer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Scheiben",
+        "name": "Käse (fettfrei)",
+        "group": "Burger",
+        "original": "2 Scheiben Käse (fettfrei)"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "griechischer Joghurt",
+        "group": "Burger Soße",
+        "original": "30 g griechischer Joghurt"
+      },
+      {
+        "amount": 15.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Ketchup (zuckerfrei)",
+        "group": "Burger Soße",
+        "original": "15 g Ketchup (zuckerfrei)"
+      },
+      {
+        "amount": 7.5,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Dill-Relish",
+        "group": "Burger Soße",
+        "original": "7,5 g Dill-Relish"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Senf",
+        "group": "Burger Soße",
+        "original": "5 g Senf"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Weißweinessig",
+        "group": "Burger Soße",
+        "original": "5 g Weißweinessig"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zwiebelpulver",
+        "group": "Burger Soße",
+        "original": "2 g Zwiebelpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz und Pfeffer",
+        "group": "Burger Soße",
+        "original": "Salz und Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Pfanne auf mittlere Hitze vorheizen. Brötchen mit Knoblauchbutter bestreichen, mit der Schnittfläche nach unten in die Pfanne legen und andrücken. Wenden wenn es goldbraun ist und von der anderen Seite knusprig toasten.",
+        "group": "Brötchen"
+      },
+      {
+        "text": "Gewürfelte Zwiebeln mit Butter in die Pfanne geben und bei mittlerer Hitze karamellisieren lassen.",
+        "group": "Zwiebeln & Patties"
+      },
+      {
+        "text": "Hackfleisch würzen und in 2 gleich große Stücke teilen. Bei hoher Hitze in die Pfanne geben und mit Backpapier und Spatel platt drücken. Wenden und nach Wunsch garen, dann Käse auflegen.",
+        "group": "Zwiebeln & Patties"
+      },
+      {
+        "text": "Burger zusammenbauen: unteres Brötchen, Soße, Patty, Patty, karamellisierte Zwiebeln, Soße, oberes Brötchen.",
+        "group": "Zusammenbauen"
+      }
+    ],
+    "notes": [
+      "Pommes im Airfryer oder Ofen zubereiten, während die Patties braten. Das Burger Brötchen kann auch ein normales Brötchen sein. Je flacher die Patties gedrückt werden, desto schneller garen sie. Brötchen vorher toasten macht sie extra knusprig."
+    ],
+    "category": "Burger & Sandwiches",
+    "servings": 1
+  },
+  {
+    "id": "ChickenChukauni",
+    "title": "Chicken Chukauni (Nepal Style)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chicken-chukauni.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hähnchenschenkel ohne Knochen oder Hähnchenbrustfilet",
+        "group": "Hähnchenpfanne",
+        "original": "Hähnchenschenkel ohne Knochen oder Hähnchenbrustfilet"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "neutrales Öl",
+        "group": "Hähnchenpfanne",
+        "original": "neutrales Öl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Hähnchenpfanne",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Hähnchenpfanne",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Kurkuma",
+        "group": "Hähnchenpfanne",
+        "original": "Kurkuma"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Cumin (Kreuzkümmel)",
+        "group": "Hähnchenpfanne",
+        "original": "Cumin (Kreuzkümmel)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Koriandergewürz",
+        "group": "Hähnchenpfanne",
+        "original": "Koriandergewürz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chilipulver",
+        "group": "Hähnchenpfanne",
+        "original": "Chilipulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ingwerpaste / frischer Ingwer",
+        "group": "Hähnchenpfanne",
+        "original": "Ingwerpaste / frischer Ingwer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchpaste / frischer Knoblauch",
+        "group": "Hähnchenpfanne",
+        "original": "Knoblauchpaste / frischer Knoblauch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zucker",
+        "group": "Hähnchenpfanne",
+        "original": "Zucker"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "rote Zwiebeln",
+        "group": "Hähnchenpfanne",
+        "original": "rote Zwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Koriander frisch",
+        "group": "Hähnchenpfanne",
+        "original": "Koriander frisch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "grüne Chilis (je nach Geschmack)",
+        "group": "Hähnchenpfanne",
+        "original": "grüne Chilis (je nach Geschmack)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zitrone",
+        "group": "Hähnchenpfanne",
+        "original": "Zitrone"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "neutrales Öl",
+        "group": "Joghurt Topping",
+        "original": "neutrales Öl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Kurkuma",
+        "group": "Joghurt Topping",
+        "original": "Kurkuma"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Chilipulver",
+        "group": "Joghurt Topping",
+        "original": "Chilipulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "griechischer Joghurt",
+        "group": "Joghurt Topping",
+        "original": "griechischer Joghurt"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Reis und / oder Wraps und / oder Naan",
+        "group": "Beilage",
+        "original": "Reis und / oder Wraps und / oder Naan"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Hähnchenschenkel / Hähnchenbrustfilet in mundgerechte Stücke schneiden und im heißen Öl anbraten. Gewürze, Ingwer und Knoblauch zugeben und alles gut vermischen.",
+        "group": "Hähnchenpfanne"
+      },
+      {
+        "text": "Zwiebel in feine Halbmonde schneiden, Koriander grob hacken, Chilis zu dünnen Ringen schneiden und alles zum Hähnchen geben. Gut vermischen.",
+        "group": "Hähnchenpfanne"
+      },
+      {
+        "text": "Öl erhitzen und Gewürze darin 3 Minuten anbraten. Unter den Joghurt rühren und das Topping in die Pfanne gießen. Alles gut vermengen und mit Zitronensaft abschmecken.",
+        "group": "Joghurt Topping"
+      },
+      {
+        "text": "Nach Belieben mit Reis, Wraps oder Naan genießen.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 4
+  },
+  {
     "id": "AirfryPulledPork",
     "title": "Pulled Pork aus dem Airfryer",
     "image": "https://radiatortwo.github.io/rezepte/pics/airfry-pulled-pork.jpg",
