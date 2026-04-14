@@ -88,6 +88,8 @@
 * [Burger Buns](https://radiatortwo.github.io/rezepte/BurgerBuns)
 * [Cheesy Chicken BBQ Toasties](https://radiatortwo.github.io/rezepte/CheesyChickenBBQToast)
 * [Garlic Bread Smash Burger](https://radiatortwo.github.io/rezepte/GarlicBreadSmashBurger)
+* [Klassisches Club Sandwich](https://radiatortwo.github.io/rezepte/ClubSandwich)
+* [Croque Monsieur](https://radiatortwo.github.io/rezepte/CroqueMonsieur)
 
 ## Pasta & Nudeln
 * [Bacon Cheeseburger Tortellini](https://radiatortwo.github.io/rezepte/BaconCheeseburgerTortellini)
