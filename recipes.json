@@ -1,5 +1,157 @@
 [
   {
+    "id": "CroqueMonsieur",
+    "title": "Croque Monsieur",
+    "image": "https://radiatortwo.github.io/rezepte/pics/croque-monsieur.jpg",
+    "ingredients": [
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schinken",
+        "group": "",
+        "original": "Schinken"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Gruyère",
+        "group": "",
+        "original": "Gruyère"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Toastbrot",
+        "group": "",
+        "original": "Toastbrot"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Béchamelsoße",
+        "group": "",
+        "original": "Béchamelsoße"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Käse zum Überbacken",
+        "group": "",
+        "original": "Käse zum Überbacken"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Sandwich mit Schinken, Gruyère und Toastbrot zusammenbauen.",
+        "group": ""
+      },
+      {
+        "text": "Mit Béchamelsoße und weiterem Käse bedecken.",
+        "group": ""
+      },
+      {
+        "text": "Goldbraun überbacken.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Burger & Sandwiches",
+    "servings": 1
+  },
+  {
+    "id": "ClubSandwich",
+    "title": "Klassisches Club Sandwich",
+    "image": "https://radiatortwo.github.io/rezepte/pics/klassisches-club-sandwich.jpg",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "Scheiben",
+        "name": "Toast",
+        "group": "",
+        "original": "3 Scheiben Toast"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Tomaten",
+        "group": "",
+        "original": "Tomaten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebeln",
+        "group": "",
+        "original": "Zwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Mayo",
+        "group": "",
+        "original": "Mayo"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bacon",
+        "group": "",
+        "original": "Bacon"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salat",
+        "group": "",
+        "original": "Salat"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Hähnchenbrust",
+        "group": "",
+        "original": "Hähnchenbrust"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ei",
+        "group": "",
+        "original": "1 Ei"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Käse (z. B. Cheddar)",
+        "group": "",
+        "original": "Käse (z. B. Cheddar)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Einfach alles zusammenklatschen, stapeln wie du willst und genießen.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Burger & Sandwiches",
+    "servings": 1
+  },
+  {
     "id": "GarlicSteakBitesPotatoes",
     "title": "Garlic Steak Bites & Potatoes",
     "image": "https://radiatortwo.github.io/rezepte/pics/garlic-steak-bites-potatoes.jpg",
