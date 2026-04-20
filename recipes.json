@@ -1,5 +1,157 @@
 [
   {
+    "id": "GrueneBohnenHackfleischPfanne",
+    "title": "Grüne Bohnen Hackfleisch Pfanne mit Reis, Paprika & Mais",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gruene-bohnen-hackfleisch-pfanne.jpg",
+    "ingredients": [
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hackfleisch (halb Rind, halb Schwein)",
+        "group": "",
+        "original": "400 g Hackfleisch (halb Rind, halb Schwein)"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "grüne Bohnen",
+        "group": "",
+        "original": "250 g grüne Bohnen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Dose",
+        "name": "Mais",
+        "group": "",
+        "original": "1 Dose Mais"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": 2.0,
+        "unit": "rote",
+        "name": "Paprika",
+        "group": "",
+        "original": "1-2 rote Paprika"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "gekochter Reis",
+        "group": "",
+        "original": "250 g gekochter Reis"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1 große Zwiebel"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1-2 Knoblauchzehen",
+        "group": "",
+        "original": "1-2 Knoblauchzehen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "geh.",
+        "name": "TL Currypulver",
+        "group": "",
+        "original": "1 geh. TL Currypulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "geh.",
+        "name": "TL süßes Paprikapulver",
+        "group": "",
+        "original": "1 geh. TL süßes Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "geh.",
+        "name": "TL Bohnenkraut",
+        "group": "",
+        "original": "1 geh. TL Bohnenkraut"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Sambal Oelek",
+        "group": "",
+        "original": "1 TL Sambal Oelek"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz & Pfeffer",
+        "group": "",
+        "original": "Salz & Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Anbraten",
+        "group": "",
+        "original": "Öl zum Anbraten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Eine große Zwiebel und 1-2 Knoblauchzehen schälen und fein hacken.",
+        "group": ""
+      },
+      {
+        "text": "Eine große Pfanne mit einem guten Schuss Öl erhitzen. Zwiebeln und Knoblauch bei mittlerer Hitze 2-3 Minuten glasig dünsten.",
+        "group": ""
+      },
+      {
+        "text": "400 g Hackfleisch hinzugeben und bei mittlerer bis hoher Hitze einige Minuten krümelig braten. Mit einer guten Prise Salz und Pfeffer würzen.",
+        "group": ""
+      },
+      {
+        "text": "Währenddessen 1-2 rote Paprika in kleine Stücke oder Streifen schneiden. 250-300 g grüne Bohnen putzen, holzige Enden abschneiden und in mundgerechte Stücke schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Das Hackfleisch gut umrühren und die Gewürze hinzufügen: je 1 gehäufter TL Currypulver, süßes Paprikapulver und Bohnenkraut sowie 1 TL Sambal Oelek (Menge nach gewünschter Schärfe). Gut umrühren und die Gewürze kurz anrösten.",
+        "group": ""
+      },
+      {
+        "text": "Grüne Bohnen, Paprika und 1 Dose Mais hinzufügen. Eine Prise Salz und etwa 200-250 ml Wasser dazugeben. Die Zutaten kurz verteilen.",
+        "group": ""
+      },
+      {
+        "text": "Mit geschlossenem Deckel bei mittlerer Hitze 5-7 Minuten kochen lassen, bis die Bohnen und Paprika die gewünschte Konsistenz erreicht haben.",
+        "group": ""
+      },
+      {
+        "text": "Den Deckel abnehmen, alles gut verrühren und mit Salz und Pfeffer abschmecken.",
+        "group": ""
+      },
+      {
+        "text": "Zuletzt 250-300 g gekochten Reis (oder Expressreis) hinzufügen, gut verrühren und 1-2 Minuten bei niedriger bis mittlerer Hitze erwärmen.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Pfannengerichte",
+    "servings": 4
+  },
+  {
     "id": "CroqueMonsieur",
     "title": "Croque Monsieur",
     "image": "https://radiatortwo.github.io/rezepte/pics/croque-monsieur.jpg",
