@@ -139,6 +139,7 @@
 * [Lachs mit Mango-Kokos-Sauce](https://radiatortwo.github.io/rezepte/LachsMangoKokosSauce)
 * [Westernpfanne mit Hackfleisch](https://radiatortwo.github.io/rezepte/Westernpfanne)
 * [Garlic Steak Bites & Potatoes](https://radiatortwo.github.io/rezepte/GarlicSteakBitesPotatoes)
+* [Grüne Bohnen Hackfleisch Pfanne mit Reis, Paprika & Mais](https://radiatortwo.github.io/rezepte/GrueneBohnenHackfleischPfanne)
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
