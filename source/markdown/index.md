@@ -121,6 +121,7 @@
 * [Cremige Maissuppe mit Bacon](https://radiatortwo.github.io/rezepte/CreamyCornChowder)
 * [Shepherd's Pie](https://radiatortwo.github.io/rezepte/ShepherdsPie)
 * [Slow Cooked Beef With Creamy Mash](https://radiatortwo.github.io/rezepte/SlowCookedBeefCreamyMash)
+* [Hackfleisch-Tomaten-Nudelsuppe mit Joghurt-Einlage](https://radiatortwo.github.io/rezepte/HackfleischTomatenNudelsuppe)
 
 ## Pfannengerichte
 * [Honig-Butter-Hähnchen (AirFryer)](https://radiatortwo.github.io/rezepte/HoneyButterChicken)
