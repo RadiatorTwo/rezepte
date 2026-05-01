@@ -1,5 +1,156 @@
 [
   {
+    "id": "HackfleischTomatenNudelsuppe",
+    "title": "Hackfleisch-Tomaten-Nudelsuppe mit Joghurt-Einlage",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hackfleisch-tomaten-nudelsuppe.jpg",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Für die Suppe",
+        "original": "2 EL Olivenöl"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rinderhackfleisch",
+        "group": "Für die Suppe",
+        "original": "400 g Rinderhackfleisch"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Suppe",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schwarzer Pfeffer",
+        "group": "Für die Suppe",
+        "original": "Schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "Für die Suppe",
+        "original": "1 TL Chiliflocken"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Tomatenmark",
+        "group": "Für die Suppe",
+        "original": "2 EL Tomatenmark"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "feine Suppennudeln (Vermicelli)",
+        "group": "Für die Suppe",
+        "original": "100 g feine Suppennudeln (Vermicelli)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "l",
+        "name": "heißes Wasser",
+        "group": "Für die Suppe",
+        "original": "1 l heißes Wasser"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Naturjoghurt",
+        "group": "Für die Joghurt-Einlage",
+        "original": "250 g Naturjoghurt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ei",
+        "group": "Für die Joghurt-Einlage",
+        "original": "1 Ei"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "Für die Joghurt-Einlage",
+        "original": "1 EL Mehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Joghurt-Einlage",
+        "original": "Salz"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Olivenöl in einem Topf erhitzen.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Das Rinderhackfleisch darin krümelig anbraten.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Mit Salz, Pfeffer und Chiliflocken würzen.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Das Tomatenmark hinzufügen und kurz mitrösten.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Die feinen Suppennudeln einrühren.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Mit dem heißen Wasser ablöschen und ca. 15 Minuten köcheln lassen.",
+        "group": "Suppe"
+      },
+      {
+        "text": "Den Naturjoghurt mit dem Ei und dem Mehl glatt verrühren.",
+        "group": "Joghurt-Einlage"
+      },
+      {
+        "text": "Mit etwas Salz abschmecken.",
+        "group": "Joghurt-Einlage"
+      },
+      {
+        "text": "Die Joghurtmischung unter ständigem Rühren langsam in die heiße Suppe einrühren, damit sie nicht gerinnt.",
+        "group": "Joghurt-Einlage"
+      },
+      {
+        "text": "Noch einmal kurz aufkochen lassen und sofort servieren.",
+        "group": "Joghurt-Einlage"
+      }
+    ],
+    "notes": [
+      "Sehr lecker. Sehr, sehr lecker.",
+      "Die Joghurt-Einlage immer langsam einrühren, sonst flockt sie aus."
+    ],
+    "category": "Suppen & Eintöpfe",
+    "servings": 4
+  },
+  {
     "id": "GrueneBohnenHackfleischPfanne",
     "title": "Grüne Bohnen Hackfleisch Pfanne mit Reis, Paprika & Mais",
     "image": "https://radiatortwo.github.io/rezepte/pics/gruene-bohnen-hackfleisch-pfanne.jpg",
