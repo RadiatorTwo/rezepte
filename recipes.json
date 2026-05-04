@@ -1,5 +1,113 @@
 [
   {
+    "id": "OrecchietteWurstBrokkoli",
+    "title": "Orecchiette mit italienischer Wurst und Brokkoli",
+    "image": "https://radiatortwo.github.io/rezepte/pics/orecchiette-wurst-brokkoli.jpg",
+    "ingredients": [
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Orecchiette",
+        "group": "",
+        "original": "450 g Orecchiette"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "natives Olivenöl extra",
+        "group": "",
+        "original": "5 EL natives Olivenöl extra"
+      },
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "süße oder scharfe italienische Bratwurst (aus der Pelle gedrückt)",
+        "group": "",
+        "original": "450 g süße oder scharfe italienische Bratwurst (aus der Pelle gedrückt)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, fein gehackt",
+        "group": "",
+        "original": "3 Knoblauchzehen, fein gehackt"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Hühnerbrühe",
+        "group": "",
+        "original": "240 ml Hühnerbrühe"
+      },
+      {
+        "amount": 450.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Brokkoliröschen",
+        "group": "",
+        "original": "450 g Brokkoliröschen"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "",
+        "original": "1/2 TL Salz"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chiliflocken",
+        "group": "",
+        "original": "1/4 TL Chiliflocken"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "ungesalzene Butter",
+        "group": "",
+        "original": "3 EL ungesalzene Butter"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "frisch geriebener Pecorino Romano",
+        "group": "",
+        "original": "50 g frisch geriebener Pecorino Romano"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Einen großen Topf mit gesalzenem Wasser zum Kochen bringen. Die Orecchiette zugeben und nach Packungsanweisung kochen.",
+        "group": ""
+      },
+      {
+        "text": "In der Zwischenzeit in einer großen Pfanne 1 EL Olivenöl bei mittlerer bis hoher Hitze erhitzen. Die Wurstmasse in die Pfanne bröseln und unter Rühren mit einem Löffel zerteilen, bis sie leicht gebräunt ist, etwa 5 bis 6 Minuten. Die Hitze auf mittlere Stufe reduzieren, den Knoblauch zugeben und 1 weitere Minute mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Die restlichen 4 EL Olivenöl, die Hühnerbrühe, den Brokkoli, das Salz und die Chiliflocken zugeben. Unter häufigem Rühren und Lösen der Bratrückstände vom Pfannenboden kochen, bis der Brokkoli bissfest ist, 3 bis 4 Minuten. Die Butter einrühren, bis sie geschmolzen ist, und einige Minuten köcheln lassen, damit die Sauce reduziert und intensiver wird.",
+        "group": ""
+      },
+      {
+        "text": "Die Pasta gut abgießen und zurück in den Pastatopf geben. Die Wurst-Brokkoli-Mischung sowie die Hälfte des Käses zugeben und gut durchmengen. Abschmecken und ggf. nachwürzen. Auf eine Servierplatte oder in einzelne Schalen geben und den restlichen geriebenen Käse bei Tisch dazu reichen.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Pasta & Nudeln",
+    "servings": 4
+  },
+  {
     "id": "HackfleischTomatenNudelsuppe",
     "title": "Hackfleisch-Tomaten-Nudelsuppe mit Joghurt-Einlage",
     "image": "https://radiatortwo.github.io/rezepte/pics/hackfleisch-tomaten-nudelsuppe.jpg",
