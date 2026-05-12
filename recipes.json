@@ -1,5 +1,121 @@
 [
   {
+    "id": "PastramiOnRye",
+    "title": "Klassisches New Yorker Pastrami auf Roggenbrot",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pastrami-on-rye.jpg",
+    "ingredients": [
+      {
+        "amount": 8.0,
+        "amount_max": 10.0,
+        "unit": "Scheiben",
+        "name": "Pastrami",
+        "group": "Sandwich",
+        "original": "8-10 Scheiben Pastrami"
+      },
+      {
+        "amount": 240.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Sauerkraut",
+        "group": "Sandwich",
+        "original": "240 g Sauerkraut"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Scheiben",
+        "name": "Roggenbrot",
+        "group": "Sandwich",
+        "original": "4 Scheiben Roggenbrot"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "Scheiben",
+        "name": "Schweizer Käse (Emmentaler)",
+        "group": "Sandwich",
+        "original": "4 Scheiben Schweizer Käse (Emmentaler)"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": 4.0,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Sandwich",
+        "original": "3-4 EL Butter"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Mayonnaise",
+        "group": "Einfaches Russian Dressing",
+        "original": "120 ml Mayonnaise"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "süßes Gurkenrelish",
+        "group": "Einfaches Russian Dressing",
+        "original": "2 EL süßes Gurkenrelish"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Chilisauce",
+        "group": "Einfaches Russian Dressing",
+        "original": "60 ml Chilisauce"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "gelber Senf",
+        "group": "Einfaches Russian Dressing",
+        "original": "120 ml gelber Senf"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Mayonnaise, süßes Gurkenrelish, Chilisauce und Senf in einer kleinen Schüssel glatt verrühren.",
+        "group": "Russian Dressing"
+      },
+      {
+        "text": "Pastrami und Sauerkraut auf einer heißen Plancha bzw. in einer Pfanne bei mittlerer bis hoher Hitze erwärmen.",
+        "group": "Sandwich"
+      },
+      {
+        "text": "Jede Brotscheibe auf einer Seite buttern und mit der gebutterten Seite nach unten auf die Plancha legen.",
+        "group": "Sandwich"
+      },
+      {
+        "text": "Auf jede Brotscheibe eine Scheibe Schweizer Käse legen und kurz schmelzen lassen.",
+        "group": "Sandwich"
+      },
+      {
+        "text": "Auf zwei der Brotscheiben das erwärmte Pastrami stapeln, auf die anderen beiden Scheiben jeweils die Hälfte des Sauerkrauts geben.",
+        "group": "Sandwich"
+      },
+      {
+        "text": "Eine Seite großzügig mit Russian Dressing beträufeln (oder erst nach dem Grillen hinzufügen, wenn das Dressing nicht warm werden soll).",
+        "group": "Sandwich"
+      },
+      {
+        "text": "Mit zwei Spateln die Pastrami-Seite auf die Sauerkraut-Seite klappen und das Sandwich noch ein paar Minuten weitergrillen, bis das Brot goldbraun und knusprig ist.",
+        "group": "Sandwich"
+      },
+      {
+        "text": "Auf einen Teller geben und mit Kartoffelchips und/oder einer Essiggurke servieren.",
+        "group": "Sandwich"
+      }
+    ],
+    "notes": [],
+    "category": "Burger & Sandwiches",
+    "servings": 2
+  },
+  {
     "id": "OrecchietteWurstBrokkoli",
     "title": "Orecchiette mit italienischer Wurst und Brokkoli",
     "image": "https://radiatortwo.github.io/rezepte/pics/orecchiette-wurst-brokkoli.jpg",
