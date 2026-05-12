@@ -90,6 +90,7 @@
 * [Garlic Bread Smash Burger](https://radiatortwo.github.io/rezepte/GarlicBreadSmashBurger)
 * [Klassisches Club Sandwich](https://radiatortwo.github.io/rezepte/ClubSandwich)
 * [Croque Monsieur](https://radiatortwo.github.io/rezepte/CroqueMonsieur)
+* [Klassisches New Yorker Pastrami auf Roggenbrot](https://radiatortwo.github.io/rezepte/PastramiOnRye)
 
 ## Pasta & Nudeln
 * [Bacon Cheeseburger Tortellini](https://radiatortwo.github.io/rezepte/BaconCheeseburgerTortellini)
