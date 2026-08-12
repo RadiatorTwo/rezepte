@@ -1,5 +1,160 @@
 [
   {
+    "id": "KnoblauchGarnelenLimonenpilze",
+    "title": "Knoblauch-Garnelen mit Limonenpilzen und Reis",
+    "image": "https://radiatortwo.github.io/rezepte/pics/knoblauch-garnelen-limonenpilze.jpg",
+    "ingredients": [
+      {
+        "amount": 250.0,
+        "amount_max": 300.0,
+        "unit": "g",
+        "name": "Garnelen, geschält",
+        "group": "Hauptzutaten",
+        "original": "250-300 g Garnelen, geschält"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": 300.0,
+        "unit": "g",
+        "name": "Limonenpilze",
+        "group": "Hauptzutaten",
+        "original": "250-300 g Limonenpilze"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": 180.0,
+        "unit": "g",
+        "name": "Jasmin- oder Basmatireis",
+        "group": "Hauptzutaten",
+        "original": "150-180 g Jasmin- oder Basmatireis"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2-3 Knoblauchzehen",
+        "group": "Hauptzutaten",
+        "original": "2-3 Knoblauchzehen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kleine",
+        "name": "Zwiebel oder 2 Frühlingszwiebeln",
+        "group": "Hauptzutaten",
+        "original": "1 kleine Zwiebel oder 2 Frühlingszwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "schwarzer Pfeffer",
+        "group": "Hauptzutaten",
+        "original": "schwarzer Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "neutrales Öl",
+        "group": "Hauptzutaten",
+        "original": "neutrales Öl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kleines",
+        "name": "Stück Butter",
+        "group": "Hauptzutaten",
+        "original": "1 kleines Stück Butter"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "optional: Sesam",
+        "group": "Hauptzutaten",
+        "original": "optional: Sesam"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die Sauce",
+        "original": "2 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Austernsauce",
+        "group": "Für die Sauce",
+        "original": "1 EL Austernsauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Honig oder brauner Zucker",
+        "group": "Für die Sauce",
+        "original": "1 TL Honig oder brauner Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Limettensaft",
+        "group": "Für die Sauce",
+        "original": "1 TL Limettensaft"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Chiliflocken, nach Geschmack",
+        "group": "Für die Sauce",
+        "original": "½ TL Chiliflocken, nach Geschmack"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Reis nach Packungsanweisung kochen.",
+        "group": ""
+      },
+      {
+        "text": "Die Garnelen trocken tupfen und leicht mit Pfeffer würzen. Eine Pfanne sehr heiß werden lassen, etwas Öl hineingeben und die Garnelen etwa 60-90 Sekunden pro Seite braten. Herausnehmen und beiseitestellen. Nicht komplett durchbraten - sie kommen später noch einmal kurz in die Pfanne.",
+        "group": ""
+      },
+      {
+        "text": "Die Limonenpilze nur grob auseinanderzupfen. Noch etwas Öl in die heiße Pfanne geben und die Pilze 3-5 Minuten kräftig anbraten, bis sie schöne braune Stellen bekommen.",
+        "group": ""
+      },
+      {
+        "text": "Die Hitze etwas reduzieren. Zwiebel und fein gehackten Knoblauch dazugeben und etwa eine Minute mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Sojasauce, Austernsauce, Honig, Limettensaft und Chiliflocken miteinander verrühren und in die Pfanne geben. Etwa 30-60 Sekunden einkochen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Die Garnelen wieder dazugeben und nur noch 30-60 Sekunden durchschwenken. Zum Schluss ein kleines Stück Butter unterziehen. Dadurch wird die Sauce glänzend und haftet besser an Pilzen und Garnelen.",
+        "group": ""
+      },
+      {
+        "text": "Alles auf dem Reis verteilen und optional Frühlingszwiebeln oder Sesam darübergeben.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Wenn die Limonenpilze wirklich im Vordergrund stehen sollen, die Austernsauce auf ½ EL reduzieren. Die Pilze haben selbst ein feines, leicht zitrusartiges Aroma, das von einer sehr kräftigen Sauce schnell erschlagen wird.",
+      "Für etwas Crunch ein paar grob gehackte Cashews oder Erdnüsse am Ende darüberstreuen."
+    ],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
     "id": "PastramiOnRye",
     "title": "Klassisches New Yorker Pastrami auf Roggenbrot",
     "image": "https://radiatortwo.github.io/rezepte/pics/pastrami-on-rye.jpg",
