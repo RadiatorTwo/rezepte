@@ -54,6 +54,7 @@
 * [Crispy Sweet & Sour Meat](https://radiatortwo.github.io/rezepte/CrispySweetSourMeat)
 * [Garlic Chilli Chicken](https://radiatortwo.github.io/rezepte/GarlicChilliChicken)
 * [Chicken Chukauni (Nepal Style)](https://radiatortwo.github.io/rezepte/ChickenChukauni)
+* [Knoblauch-Garnelen mit Limonenpilzen und Reis](https://radiatortwo.github.io/rezepte/KnoblauchGarnelenLimonenpilze)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
