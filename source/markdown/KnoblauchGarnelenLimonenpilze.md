@@ -1,6 +1,6 @@
 # Knoblauch-Garnelen mit Limonenpilzen und Reis
 
-![](https://radiatortwo.github.io/rezepte/pics/knoblauch-garnelen-limonenpilze.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/knoblauch-garnelen-limonenpilze.webp)
 
 Portionen: 2
 

@@ -92,6 +92,7 @@
 * [Klassisches Club Sandwich](https://radiatortwo.github.io/rezepte/ClubSandwich)
 * [Croque Monsieur](https://radiatortwo.github.io/rezepte/CroqueMonsieur)
 * [Klassisches New Yorker Pastrami auf Roggenbrot](https://radiatortwo.github.io/rezepte/PastramiOnRye)
+* [Cuban Sandwich](https://radiatortwo.github.io/rezepte/CubanSandwich)
 
 ## Pasta & Nudeln
 * [Bacon Cheeseburger Tortellini](https://radiatortwo.github.io/rezepte/BaconCheeseburgerTortellini)
