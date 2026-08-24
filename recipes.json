@@ -1,8 +1,198 @@
 [
   {
+    "id": "CubanSandwich",
+    "title": "Cuban Sandwich",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cuban-sandwich.webp",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Bio-Orangen",
+        "group": "Für die Marinade",
+        "original": "3 Bio-Orangen"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Limetten",
+        "group": "Für die Marinade",
+        "original": "3 Limetten"
+      },
+      {
+        "amount": 8.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "Für die Marinade",
+        "original": "8 Knoblauchzehen"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Koriander (frisch)",
+        "group": "Für die Marinade",
+        "original": "30 g Koriander (frisch)"
+      },
+      {
+        "amount": 10.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Minze (frisch)",
+        "group": "Für die Marinade",
+        "original": "10 g Minze (frisch)"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Olivenöl",
+        "group": "Für die Marinade",
+        "original": "200 ml Olivenöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Oregano (getrocknet)",
+        "group": "Für die Marinade",
+        "original": "1 EL Oregano (getrocknet)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Cumin",
+        "group": "Für die Marinade",
+        "original": "2 TL Cumin"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Für die Marinade",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "Für die Marinade",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": 1.7,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Schweineschulter (mit Schwarte)",
+        "group": "Für das Fleisch",
+        "original": "1,7 kg Schweineschulter (mit Schwarte)"
+      },
+      {
+        "amount": 170.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "gekochter Schinken",
+        "group": "Für die Sandwiches",
+        "original": "170 g gekochter Schinken"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "saure",
+        "name": "Dill-Gurken",
+        "group": "Für die Sandwiches",
+        "original": "6 saure Dill-Gurken"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Baguette",
+        "group": "Für die Sandwiches",
+        "original": "3 Baguette"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Butter",
+        "group": "Für die Sandwiches",
+        "original": "3 EL Butter"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Senf (mild)",
+        "group": "Für die Sandwiches",
+        "original": "6 TL Senf (mild)"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Emmentaler",
+        "group": "Für die Sandwiches",
+        "original": "250 g Emmentaler"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Hinweis: Das Fleisch sollte über Nacht in der Marinade ziehen.",
+        "group": "Für die Marinade"
+      },
+      {
+        "text": "Orangen waschen und abtrocknen. Von der Orange ca. 1 EL Schale fein abreiben. Orangen auspressen und den Limettensaft abmessen. Knoblauch schälen und fein hacken. Kräuter waschen, trockenschütteln und die Blätter fein hacken.",
+        "group": "Für die Marinade"
+      },
+      {
+        "text": "200 ml Olivenöl, 200 ml Orangensaft und 3 ml Limettensaft mit dem fein gehackten Knoblauch und den fein gehackten Kräutern vermengen und Oregano, Cumin und Orangenabrieb unterrühren. Ordentlich mit Salz und Pfeffer würzen.",
+        "group": "Für die Marinade"
+      },
+      {
+        "text": "Das Fleisch im Ganzen über Nacht in der Marinade ziehen lassen.",
+        "group": "Für die Marinade"
+      },
+      {
+        "text": "Am nächsten Tag das Fleisch im vorgeheizten Backofen zunächst bei 220 °C Umluft in einem Bräter ohne Deckel etwa 30 Minuten braten, dann noch einmal für weitere 90 Minuten bei 190 °C. Je nach Größe des Fleischstücks müsste es dann gar sein. Gegebenenfalls kontrollieren und noch etwas länger braten lassen. Außen wird das Fleisch durch die Zutaten in der Marinade ziemlich dunkel, fast schwarz. Das ist in Ordnung, tut dem Aroma gut und kann später weggeschnitten werden.",
+        "group": "Für das Fleisch"
+      },
+      {
+        "text": "Das Fleisch aus dem Ofen nehmen und etwas auskühlen lassen. Schwarte und schwarze Stellen wegschneiden, das Fleisch dann in dünne Scheiben schneiden.",
+        "group": "Für das Fleisch"
+      },
+      {
+        "text": "Den Kochschinken in einer beschichteten Pfanne ohne Fett leicht anbraten. Die Gurken längs in dünne Streifen schneiden.",
+        "group": "Für die Sandwiches"
+      },
+      {
+        "text": "Das Baguette – je nach Größe – halbieren oder vierteln, aufschneiden und innen großzügig mit Butter bestreichen. Die Baguettescheiben mit der Butterseite nach unten in einer Pfanne knusprig anbraten. Aus der Pfanne nehmen und die angebratene Seite des Baguettes jeweils mit 1-2 TL Senf bestreichen, die äußeren Seiten des Baguettes noch einmal großzügig mit Butter bestreichen.",
+        "group": "Für die Sandwiches"
+      },
+      {
+        "text": "Dann das Sandwich belegen: mit dem marinierten Schweinefleisch, dem angebratenen Schinken, Käse und Gurke.",
+        "group": "Für die Sandwiches"
+      },
+      {
+        "text": "Das Baguette zusammensetzen und in einem Sandwichtoaster kurz von beiden Seiten toasten, so dass das Baguette außen knusprig und leicht braun wird und der Käse etwas zerläuft.",
+        "group": "Für die Sandwiches"
+      }
+    ],
+    "notes": [
+      "Wenn kein Sandwichtoaster vorhanden ist, das Baguette in der Pfanne noch einmal von beiden Seiten kurz anbraten. Damit es nicht auseinanderfällt, mit einem Teller beschweren."
+    ],
+    "category": "Burger & Sandwiches",
+    "servings": 6
+  },
+  {
     "id": "KnoblauchGarnelenLimonenpilze",
     "title": "Knoblauch-Garnelen mit Limonenpilzen und Reis",
-    "image": "https://radiatortwo.github.io/rezepte/pics/knoblauch-garnelen-limonenpilze.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/knoblauch-garnelen-limonenpilze.webp",
     "ingredients": [
       {
         "amount": 250.0,
