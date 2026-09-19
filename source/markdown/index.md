@@ -9,6 +9,7 @@
 * [Maple Beef Bacon Jam](https://radiatortwo.github.io/rezepte/MapleBeefBaconJam)
 * [Cremige Knoblauch-Joghurt-Soße](https://radiatortwo.github.io/rezepte/KnoblauchJoghurtSosse)
 * [Pickle Dip](https://radiatortwo.github.io/rezepte/PickleDip)
+* [Cremige Jalapeño-Soße](https://radiatortwo.github.io/rezepte/CremigeJalapenoSosse)
 
 ## Asiatisch
 * [Grünes Curry](https://radiatortwo.github.io/rezepte/GruenesCurry)
@@ -78,6 +79,7 @@
 * [Kartoffel Rösti Tacos](https://radiatortwo.github.io/rezepte/KartoffelRoestiTacos)
 * [Birria Pasta](https://radiatortwo.github.io/rezepte/BirriaPasta)
 * [Hackfleisch Bohnen mit Reis](https://radiatortwo.github.io/rezepte/HackfleischBohnen)
+* [Rindfleisch-Quesadillas](https://radiatortwo.github.io/rezepte/RindfleischQuesadillas)
 
 ## Burger & Sandwiches
 * [Laugenbrioche Bacon Cheeseburger](https://radiatortwo.github.io/rezepte/LaugenbriocheCheeseburger)
