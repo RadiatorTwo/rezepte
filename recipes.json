@@ -1,5 +1,271 @@
 [
   {
+    "id": "CremigeJalapenoSosse",
+    "title": "Cremige Jalapeño-Soße",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cremige-jalapeno-sosse.webp",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Glas",
+        "name": "eingelegte Jalapeño-Scheiben (ca. 340 g, samt Lake; davon werden nur 7 EL Püree benötigt)",
+        "group": "",
+        "original": "1 Glas eingelegte Jalapeño-Scheiben (ca. 340 g, samt Lake; davon werden nur 7 EL Püree benötigt)"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mayonnaise",
+        "group": "",
+        "original": "120 g Mayonnaise"
+      },
+      {
+        "amount": 120.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "saure Sahne",
+        "group": "",
+        "original": "120 g saure Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprikapulver",
+        "group": "",
+        "original": "1 TL Paprikapulver"
+      },
+      {
+        "amount": 0.25,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlener Kreuzkümmel",
+        "group": "",
+        "original": "1/4 TL gemahlener Kreuzkümmel"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Knoblauchpulver",
+        "group": "",
+        "original": "1/2 TL Knoblauchpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chilipulver",
+        "group": "",
+        "original": "1 TL Chilipulver"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Cayennepfeffer",
+        "group": "",
+        "original": "1/2 TL Cayennepfeffer"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "",
+        "original": "1/2 TL Salz"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den gesamten Inhalt des Glases mit den eingelegten Jalapeño-Scheiben inklusive Lake in einen Mixer geben. Glatt pürieren und dabei die Ränder nach Bedarf nach unten schaben. Die Masse soll ein dünnflüssiges, blassgrünes Püree ohne sichtbare Stücke ergeben.",
+        "group": ""
+      },
+      {
+        "text": "In einer Schüssel Mayonnaise, saure Sahne, Paprikapulver, Kreuzkümmel, Knoblauchpulver, Chilipulver, Cayennepfeffer und Salz verrühren, bis die Mischung vollkommen glatt und gleichmäßig gewürzt ist.",
+        "group": ""
+      },
+      {
+        "text": "7 EL des Jalapeño-Pürees zugeben und unterrühren, bis alles vollständig verbunden ist. Mit 7 EL beginnen, abschmecken und bei Bedarf mehr Püree zugeben. Zu viel Püree macht die Soße schnell zu essigsauer oder zu scharf, daher nur schrittweise erhöhen.",
+        "group": ""
+      },
+      {
+        "text": "Die Soße in einen luftdichten Behälter füllen und vor dem Verwenden mindestens 1 Stunde kalt stellen. In dieser Zeit entfalten sich die Aromen vollständig.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Die Soße hält sich im Kühlschrank bis zu 4 Tage.",
+      "Das übrige Jalapeño-Püree lässt sich separat aufbewahren und zum Nachschärfen verwenden.",
+      "Im Originalrezept wird im Zubereitungsschritt zusätzlich Zwiebelpulver erwähnt, ohne Mengenangabe. Nach Geschmack ergänzen."
+    ],
+    "category": "Soßen & Dips",
+    "servings": 4
+  },
+  {
+    "id": "RindfleischQuesadillas",
+    "title": "Rindfleisch-Quesadillas",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rindfleisch-quesadillas.webp",
+    "ingredients": [
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "Weizentortillas",
+        "name": "(je 25 cm Durchmesser)",
+        "group": "Hauptzutaten",
+        "original": "5 Weizentortillas (je 25 cm Durchmesser)"
+      },
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Käse (Mozzarella oder Cheddar), gerieben",
+        "group": "Hauptzutaten",
+        "original": "300 g Käse (Mozzarella oder Cheddar), gerieben"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Öl zum Ausbacken",
+        "group": "Hauptzutaten",
+        "original": "1 EL Öl zum Ausbacken"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Olivenöl",
+        "group": "Für das Rindfleisch",
+        "original": "1 EL Olivenöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "mittelgroße",
+        "name": "Zwiebel (150 g), gewürfelt",
+        "group": "Für das Rindfleisch",
+        "original": "1 mittelgroße Zwiebel (150 g), gewürfelt"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "Für das Rindfleisch",
+        "original": "3 Knoblauchzehen"
+      },
+      {
+        "amount": 500.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "mageres Rinderhackfleisch",
+        "group": "Für das Rindfleisch",
+        "original": "500 g mageres Rinderhackfleisch"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "(7 g) geräuchertes Paprikapulver",
+        "group": "Für das Rindfleisch",
+        "original": "1 EL (7 g) geräuchertes Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "(3 g) Chilipulver",
+        "group": "Für das Rindfleisch",
+        "original": "1 TL (3 g) Chilipulver"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "(7 g) gemahlener Kreuzkümmel",
+        "group": "Für das Rindfleisch",
+        "original": "2 TL (7 g) gemahlener Kreuzkümmel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "(3 g) Thymian",
+        "group": "Für das Rindfleisch",
+        "original": "1 EL (3 g) Thymian"
+      },
+      {
+        "amount": 70.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Tomatenmark",
+        "group": "Für das Rindfleisch",
+        "original": "70 g Tomatenmark"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "(5 g) Salz",
+        "group": "Für das Rindfleisch",
+        "original": "1 TL (5 g) Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "frisch gemahlener schwarzer Pfeffer",
+        "group": "Für das Rindfleisch",
+        "original": "frisch gemahlener schwarzer Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Olivenöl in einer Pfanne erhitzen, die gewürfelte Zwiebel zugeben und 5 Minuten weich dünsten.",
+        "group": "Für das Rindfleisch"
+      },
+      {
+        "text": "Knoblauch zugeben und 1 Minute mitbraten, bis er duftet.",
+        "group": "Für das Rindfleisch"
+      },
+      {
+        "text": "Das magere Rinderhackfleisch zugeben, beim Braten zerkleinern und etwa 10–12 Minuten braten, bis es durchgegart ist.",
+        "group": "Für das Rindfleisch"
+      },
+      {
+        "text": "Geräuchertes Paprikapulver, Chilipulver, Kreuzkümmel, Thymian, Salz und frisch gemahlenen schwarzen Pfeffer zugeben.",
+        "group": "Für das Rindfleisch"
+      },
+      {
+        "text": "Tomatenmark einrühren, gut vermengen und die Masse beiseitestellen.",
+        "group": "Für das Rindfleisch"
+      },
+      {
+        "text": "Eine Weizentortilla nehmen, geriebenen Käse auf eine Hälfte geben, das Hackfleisch darauf verteilen und mit weiterem Käse bestreuen.",
+        "group": "Quesadillas füllen und braten"
+      },
+      {
+        "text": "Die Tortilla zusammenklappen.",
+        "group": "Quesadillas füllen und braten"
+      },
+      {
+        "text": "Etwa 1 EL Öl bei mittlerer bis niedriger Hitze erhitzen.",
+        "group": "Quesadillas füllen und braten"
+      },
+      {
+        "text": "Die Quesadillas je Seite etwa 2 Minuten braten, bis sie goldbraun sind und der Käse geschmolzen ist.",
+        "group": "Quesadillas füllen und braten"
+      }
+    ],
+    "notes": [
+      "Für das beste Bräunungsergebnis eine beschichtete Pfanne verwenden."
+    ],
+    "category": "Tex-Mex",
+    "servings": 10
+  },
+  {
     "id": "CubanSandwich",
     "title": "Cuban Sandwich",
     "image": "https://radiatortwo.github.io/rezepte/pics/cuban-sandwich.webp",
