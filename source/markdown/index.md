@@ -196,6 +196,7 @@
 * [Hähnchen-Pilz-Pfanne aus der Heißluftfritteuse](https://radiatortwo.github.io/rezepte/AirfryHaehnchenPilzPfanne)
 * [Hackfleisch-Röllchen in Folie](https://radiatortwo.github.io/rezepte/AirfryHackfleischRollenInFolie)
 * [Pulled Pork aus dem Airfryer](https://radiatortwo.github.io/rezepte/AirfryPulledPork)
+* [Knusprige Schweinebauchstreifen aus dem Airfryer mit Galbi-Soße](https://radiatortwo.github.io/rezepte/AirfrySchweinebauchstreifenGalbi)
 
 ## Mealprep
 * [Loaded Breakfast McMuffins](https://radiatortwo.github.io/rezepte/MealprepLoadedMuffins)
