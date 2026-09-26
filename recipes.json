@@ -1,5 +1,184 @@
 [
   {
+    "id": "AirfrySchweinebauchstreifenGalbi",
+    "title": "Knusprige Schweinebauchstreifen aus dem Airfryer mit Galbi-Soße",
+    "image": "https://radiatortwo.github.io/rezepte/pics/moogrob.jpg",
+    "ingredients": [
+      {
+        "amount": 800.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schweinebauch ohne Schwarte",
+        "group": "Hauptzutaten",
+        "original": "800 g Schweinebauch ohne Schwarte"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz (1 EL pro Liter Wasser)",
+        "group": "Hauptzutaten",
+        "original": "Salz (1 EL pro Liter Wasser)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Klarer Essig (1 EL pro Liter Wasser)",
+        "group": "Hauptzutaten",
+        "original": "Klarer Essig (1 EL pro Liter Wasser)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "neutrales Öl",
+        "group": "Hauptzutaten",
+        "original": "1 EL neutrales Öl"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasoße",
+        "group": "Für die Galbi-Soße",
+        "original": "6 EL Sojasoße"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "brauner Zucker",
+        "group": "Für die Galbi-Soße",
+        "original": "3 EL brauner Zucker"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mirin",
+        "group": "Für die Galbi-Soße",
+        "original": "2 EL Mirin"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Honig",
+        "group": "Für die Galbi-Soße",
+        "original": "1 EL Honig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sesamöl",
+        "group": "Für die Galbi-Soße",
+        "original": "1 EL Sesamöl"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, fein gerieben",
+        "group": "Für die Galbi-Soße",
+        "original": "4 Knoblauchzehen, fein gerieben"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Ingwer, fein gerieben",
+        "group": "Für die Galbi-Soße",
+        "original": "1 TL Ingwer, fein gerieben"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ Birne oder Apfel, fein gerieben",
+        "group": "Für die Galbi-Soße",
+        "original": "½ Birne oder Apfel, fein gerieben"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Gochugaru (optional, für Schärfe)",
+        "group": "Für die Galbi-Soße",
+        "original": "1 TL Gochugaru (optional, für Schärfe)"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "Für die Galbi-Soße",
+        "original": "100 ml Wasser"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Speisestärke in 1 EL Wasser angerührt",
+        "group": "Für die Galbi-Soße",
+        "original": "1 TL Speisestärke in 1 EL Wasser angerührt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebel, in Ringe geschnitten",
+        "group": "Für die Galbi-Soße",
+        "original": "1 Frühlingszwiebel, in Ringe geschnitten"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "geröstete Sesamsamen",
+        "group": "Für die Galbi-Soße",
+        "original": "1 TL geröstete Sesamsamen"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Schweinebauch in etwa 1 bis 1,5 cm dicke und 6 bis 8 cm lange Streifen schneiden. Einen Topf mit so viel Wasser aufsetzen, dass das Fleisch komplett bedeckt ist. Für jeden Liter Wasser einen Esslöffel Salz und einen Esslöffel klaren Essig hinzufügen.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Die Streifen im Wasser 5 Minuten kochen. Nur die Außenseite soll durch sein. Herausnehmen und sehr gründlich trocken tupfen. Für extra Knusprigkeit die Streifen offen 30 Minuten im Kühlschrank trocknen lassen.",
+        "group": "Kochen"
+      },
+      {
+        "text": "Die Streifen dünn mit Öl bestreichen und nebeneinander (nicht übereinander) in den Korb legen. Bei 190 °C 15 Minuten garen, nach der Hälfte wenden. Danach auf 200 °C erhöhen und weitere 5 bis 8 Minuten garen, bis die Streifen goldbraun und knusprig sind. Bei Bedarf in mehreren Durchgängen arbeiten.",
+        "group": "Airfryer"
+      },
+      {
+        "text": "Sojasoße, Zucker, Mirin, Honig, Sesamöl, Knoblauch, Ingwer, geriebene Birne, Gochugaru und Wasser in einem kleinen Topf verrühren und aufkochen.",
+        "group": "Für die Galbi-Soße"
+      },
+      {
+        "text": "Bei mittlerer Hitze 5 Minuten köcheln lassen.",
+        "group": "Für die Galbi-Soße"
+      },
+      {
+        "text": "Angerührte Speisestärke einrühren und 1 Minute weiterköcheln, bis die Soße leicht dicklich ist.",
+        "group": "Für die Galbi-Soße"
+      },
+      {
+        "text": "Die knusprigen Streifen mit der Soße glasieren oder die Soße als Dip dazu servieren. Mit Frühlingszwiebeln und Sesam bestreuen.",
+        "group": "Für die Galbi-Soße"
+      }
+    ],
+    "notes": [
+      "Airfryer-Variante von [Moo Grob (Frittierter Schweinebauch)](https://radiatortwo.github.io/rezepte/MooGrob_FrittierterSchweinebauch).",
+      "Die Streifen erst direkt vor dem Servieren glasieren, sonst werden sie weich."
+    ],
+    "category": "Airfryer Rezepte",
+    "servings": 4
+  },
+  {
     "id": "CremigeJalapenoSosse",
     "title": "Cremige Jalapeño-Soße",
     "image": "https://radiatortwo.github.io/rezepte/pics/cremige-jalapeno-sosse.webp",
