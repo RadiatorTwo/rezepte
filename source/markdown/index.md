@@ -111,6 +111,7 @@
 * [Jäger-Bolognese mit Nudeln](https://radiatortwo.github.io/rezepte/JaegerBolognese)
 * [Cremige Garnelen-Pasta mit getrockneten Tomaten](https://radiatortwo.github.io/rezepte/CreamySundriedTomatoShrimpPasta)
 * [Orecchiette mit italienischer Wurst und Brokkoli](https://radiatortwo.github.io/rezepte/OrecchietteWurstBrokkoli)
+* [Pfannen-Lasagne](https://radiatortwo.github.io/rezepte/PfannenLasagne)
 
 ## Suppen & Eintöpfe
 * [KartoffelSuppe mit Speck](https://radiatortwo.github.io/rezepte/KartoffelSuppe)
