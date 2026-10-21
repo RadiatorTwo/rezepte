@@ -163,6 +163,7 @@
 
 ## Österreichisch
 * [Murauer Bierfleisch](https://radiatortwo.github.io/rezepte/MurauerBierfleisch)
+* [Käsespätzle](https://radiatortwo.github.io/rezepte/Kaesespaetzle)
 
 ## Snacks & Fingerfood
 * [Mais-Snack](https://radiatortwo.github.io/rezepte/MaisSnack)
