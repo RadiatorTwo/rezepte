@@ -408,7 +408,7 @@
   {
     "id": "AirfrySchweinebauchstreifenGalbi",
     "title": "Knusprige Schweinebauchstreifen aus dem Airfryer mit Galbi-Soße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/moogrob.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/moogrob.webp",
     "ingredients": [
       {
         "amount": 800.0,
@@ -1198,7 +1198,7 @@
   {
     "id": "PastramiOnRye",
     "title": "Klassisches New Yorker Pastrami auf Roggenbrot",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pastrami-on-rye.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pastrami-on-rye.webp",
     "ingredients": [
       {
         "amount": 8.0,
@@ -1314,7 +1314,7 @@
   {
     "id": "OrecchietteWurstBrokkoli",
     "title": "Orecchiette mit italienischer Wurst und Brokkoli",
-    "image": "https://radiatortwo.github.io/rezepte/pics/orecchiette-wurst-brokkoli.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/orecchiette-wurst-brokkoli.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -1422,7 +1422,7 @@
   {
     "id": "HackfleischTomatenNudelsuppe",
     "title": "Hackfleisch-Tomaten-Nudelsuppe mit Joghurt-Einlage",
-    "image": "https://radiatortwo.github.io/rezepte/pics/hackfleisch-tomaten-nudelsuppe.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hackfleisch-tomaten-nudelsuppe.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -1573,7 +1573,7 @@
   {
     "id": "GrueneBohnenHackfleischPfanne",
     "title": "Grüne Bohnen Hackfleisch Pfanne mit Reis, Paprika & Mais",
-    "image": "https://radiatortwo.github.io/rezepte/pics/gruene-bohnen-hackfleisch-pfanne.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gruene-bohnen-hackfleisch-pfanne.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -1725,7 +1725,7 @@
   {
     "id": "CroqueMonsieur",
     "title": "Croque Monsieur",
-    "image": "https://radiatortwo.github.io/rezepte/pics/croque-monsieur.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/croque-monsieur.webp",
     "ingredients": [
       {
         "amount": null,
@@ -1789,7 +1789,7 @@
   {
     "id": "ClubSandwich",
     "title": "Klassisches Club Sandwich",
-    "image": "https://radiatortwo.github.io/rezepte/pics/klassisches-club-sandwich.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/klassisches-club-sandwich.webp",
     "ingredients": [
       {
         "amount": 3.0,
@@ -1877,7 +1877,7 @@
   {
     "id": "GarlicSteakBitesPotatoes",
     "title": "Garlic Steak Bites & Potatoes",
-    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-steak-bites-potatoes.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-steak-bites-potatoes.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -2073,7 +2073,7 @@
   {
     "id": "SlowCookedBeefCreamyMash",
     "title": "Slow Cooked Beef With Creamy Mash",
-    "image": "https://radiatortwo.github.io/rezepte/pics/slow-cooked-beef-creamy-mash.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/slow-cooked-beef-creamy-mash.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -2205,7 +2205,7 @@
   {
     "id": "GarlicBreadSmashBurger",
     "title": "Garlic Bread Smash Burger",
-    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-bread-smash-burger.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-bread-smash-burger.webp",
     "ingredients": [
       {
         "amount": null,
@@ -2387,7 +2387,7 @@
   {
     "id": "ChickenChukauni",
     "title": "Chicken Chukauni (Nepal Style)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chicken-chukauni.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chicken-chukauni.webp",
     "ingredients": [
       {
         "amount": null,
@@ -2575,7 +2575,7 @@
   {
     "id": "AirfryPulledPork",
     "title": "Pulled Pork aus dem Airfryer",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-pulled-pork.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-pulled-pork.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -2665,7 +2665,7 @@
   {
     "id": "AirfryHackfleischRollenInFolie",
     "title": "Hackfleisch-Röllchen in Folie (Airfryer)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-hackfleisch-roellchen-in-folie.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-hackfleisch-roellchen-in-folie.webp",
     "ingredients": [
       {
         "amount": 300.0,
@@ -2811,7 +2811,7 @@
   {
     "id": "GarlicChilliChicken",
     "title": "Garlic Chilli Chicken",
-    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-chilli-chicken.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic-chilli-chicken.webp",
     "ingredients": [
       {
         "amount": null,
@@ -2967,7 +2967,7 @@
   {
     "id": "AirfryHaehnchenPilzPfanne",
     "title": "Hähnchen-Pilz-Pfanne aus der Heißluftfritteuse",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-haehnchen-pilz-pfanne.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-haehnchen-pilz-pfanne.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -3086,7 +3086,7 @@
   {
     "id": "HotHoneyLemonPepperPorkBelly",
     "title": "Hot Honey Lemon Pepper Pork Belly",
-    "image": "https://radiatortwo.github.io/rezepte/pics/hot-honey-lemon-pepper-pork-belly.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hot-honey-lemon-pepper-pork-belly.webp",
     "ingredients": [
       {
         "amount": null,
@@ -3234,7 +3234,7 @@
   {
     "id": "PickleDip",
     "title": "Pickle Dip",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pickle-dip.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pickle-dip.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3366,7 +3366,7 @@
   {
     "id": "CoconutSagoPudding",
     "title": "Coconut Sago Pudding",
-    "image": "https://radiatortwo.github.io/rezepte/pics/coconut-sago-pudding.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/coconut-sago-pudding.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -3466,7 +3466,7 @@
   {
     "id": "CrispySweetSourMeat",
     "title": "Crispy Sweet & Sour Meat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/crispy-sweet-sour-meat.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/crispy-sweet-sour-meat.webp",
     "ingredients": [
       {
         "amount": null,
@@ -3590,7 +3590,7 @@
   {
     "id": "KnoblauchJoghurtSosse",
     "title": "Cremige Knoblauch-Joghurt-Soße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/knoblauch-joghurt-sosse.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/knoblauch-joghurt-sosse.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -3702,7 +3702,7 @@
   {
     "id": "CheesyChickenBBQToast",
     "title": "Cheesy Chicken BBQ Toasties",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cheesy-chicken-bbq-toast.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheesy-chicken-bbq-toast.webp",
     "ingredients": [
       {
         "amount": 4.0,
@@ -3790,7 +3790,7 @@
   {
     "id": "FriedSesameBalls",
     "title": "Frittierte Sesambällchen mit Rote-Bohnen-Füllung",
-    "image": "https://radiatortwo.github.io/rezepte/pics/fried-sesame-balls.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/fried-sesame-balls.webp",
     "ingredients": [
       {
         "amount": null,
@@ -3864,7 +3864,7 @@
   {
     "id": "ParmigianaMelanzane",
     "title": "Parmigiana di Melanzane",
-    "image": "https://radiatortwo.github.io/rezepte/pics/parmigiana-di-melanzane.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/parmigiana-di-melanzane.webp",
     "ingredients": [
       {
         "amount": 2.5,
@@ -3990,7 +3990,7 @@
   {
     "id": "Westernpfanne",
     "title": "Westernpfanne mit Hackfleisch",
-    "image": "https://radiatortwo.github.io/rezepte/pics/westernpfanne.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/westernpfanne.webp",
     "ingredients": [
       {
         "amount": 300.0,
@@ -4106,7 +4106,7 @@
   {
     "id": "ChinakohlKoreanisch",
     "title": "Chinakohl nach koreanischer Art",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-koreanisch.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-koreanisch.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -4234,7 +4234,7 @@
   {
     "id": "ChinakohlScharfSauer",
     "title": "Chinakohl scharf-sauer (veggie)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-scharf-sauer.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-scharf-sauer.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -4352,7 +4352,7 @@
   {
     "id": "KnusprigesSchweinefleischAirfryer",
     "title": "Knuspriges Schweinefleisch aus dem Airfryer",
-    "image": "https://radiatortwo.github.io/rezepte/pics/knuspriges-schweinefleisch-airfryer.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/knuspriges-schweinefleisch-airfryer.webp",
     "ingredients": [
       {
         "amount": null,
@@ -4452,7 +4452,7 @@
   {
     "id": "RindfleischMitGemuese",
     "title": "Rindfleisch mit Gemüse in 20 Minuten",
-    "image": "https://radiatortwo.github.io/rezepte/pics/rindfleisch-mit-gemuese.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rindfleisch-mit-gemuese.webp",
     "ingredients": [
       {
         "amount": 350.0,
@@ -4622,7 +4622,7 @@
   {
     "id": "MurauerBierfleisch",
     "title": "Murauer Bierfleisch",
-    "image": "https://radiatortwo.github.io/rezepte/pics/murauer-bierfleisch.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/murauer-bierfleisch.webp",
     "ingredients": [
       {
         "amount": 600.0,
@@ -4806,7 +4806,7 @@
   {
     "id": "ChilliChickenManchurian",
     "title": "Chilli Chicken Manchurian",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chilli-chicken-manchurian.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chilli-chicken-manchurian.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -5008,7 +5008,7 @@
   {
     "id": "JapanesePorkRiceBowl",
     "title": "Japanische Schweinefleisch-Reisschale",
-    "image": "https://radiatortwo.github.io/rezepte/pics/japanese-pork-rice-bowl.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/japanese-pork-rice-bowl.webp",
     "ingredients": [
       {
         "amount": 3.0,
@@ -5124,7 +5124,7 @@
   {
     "id": "GeroesteterKartoffelSalat",
     "title": "Gerösteter Kartoffel-Salat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/geroesteter-kartoffel-salat.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/geroesteter-kartoffel-salat.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -5248,7 +5248,7 @@
   {
     "id": "GyrosSpaetzlePfanne",
     "title": "Gyros-Spätzle-Pfanne",
-    "image": "https://radiatortwo.github.io/rezepte/pics/gyros-spaetzle-pfanne.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gyros-spaetzle-pfanne.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -5328,7 +5328,7 @@
   {
     "id": "MilchpuddingHaeppchen",
     "title": "Milchpudding-Häppchen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/milchpudding-haeppchen.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/milchpudding-haeppchen.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -5402,7 +5402,7 @@
   {
     "id": "LachsMangoKokosSauce",
     "title": "Lachs mit Mango-Kokos-Sauce",
-    "image": "https://radiatortwo.github.io/rezepte/pics/lachs-mango-kokos-sauce.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/lachs-mango-kokos-sauce.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -5544,7 +5544,7 @@
   {
     "id": "MarryMeGnocchiSoup",
     "title": "Marry Me Gnocchi-Suppe",
-    "image": "https://radiatortwo.github.io/rezepte/pics/marry-me-gnocchi-soup.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/marry-me-gnocchi-soup.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -5766,7 +5766,7 @@
   {
     "id": "CreamyCornChowder",
     "title": "Cremige Maissuppe mit Bacon",
-    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-corn-chowder.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-corn-chowder.webp",
     "ingredients": [
       {
         "amount": 4.0,
@@ -5928,7 +5928,7 @@
   {
     "id": "PizzaToast",
     "title": "Pizza Toast",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pizza-toast.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pizza-toast.webp",
     "ingredients": [
       {
         "amount": 6.0,
@@ -6010,7 +6010,7 @@
   {
     "id": "ErdnussCurry",
     "title": "Erdnuss-Curry",
-    "image": "https://radiatortwo.github.io/rezepte/pics/erdnuss-curry.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/erdnuss-curry.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -6196,7 +6196,7 @@
   {
     "id": "CreamyGarlicSteakRamen",
     "title": "Cremige Knoblauch-Steak-Ramen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-garlic-steak-ramen.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-garlic-steak-ramen.webp",
     "ingredients": [
       {
         "amount": 6.0,
@@ -6322,7 +6322,7 @@
   {
     "id": "Laxpudding",
     "title": "Laxpudding (Schwedischer Lachsauflauf)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/laxpudding.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/laxpudding.webp",
     "ingredients": [
       {
         "amount": 750.0,
@@ -6456,7 +6456,7 @@
   {
     "id": "BaconCheeseburgerTortellini",
     "title": "Bacon Cheeseburger Tortellini",
-    "image": "https://radiatortwo.github.io/rezepte/pics/bacon-cheeseburger-tortellini.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bacon-cheeseburger-tortellini.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -6618,7 +6618,7 @@
   {
     "id": "FirecrackerRamen",
     "title": "Firecracker Ramen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/firecracker-ramen.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/firecracker-ramen.webp",
     "ingredients": [
       {
         "amount": 6.0,
@@ -6756,7 +6756,7 @@
   {
     "id": "PaveAnanasCoco",
     "title": "Pavê mit Ananas und Kokos",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pave-ananas-coco.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pave-ananas-coco.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -6850,7 +6850,7 @@
   {
     "id": "KlassischerSchmorbraten",
     "title": "Klassischer Schmorbraten aus dem Bräter",
-    "image": "https://radiatortwo.github.io/rezepte/pics/klassischer-schmorbraten.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/klassischer-schmorbraten.webp",
     "ingredients": [
       {
         "amount": 1.2,
@@ -7016,7 +7016,7 @@
   {
     "id": "ShepherdsPie",
     "title": "Shepherd's Pie",
-    "image": "https://radiatortwo.github.io/rezepte/pics/shepherds-pie.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/shepherds-pie.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -7222,7 +7222,7 @@
   {
     "id": "CreamySundriedTomatoShrimpPasta",
     "title": "Cremige Garnelen-Pasta mit getrockneten Tomaten",
-    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-sundried-tomato-shrimp-pasta.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-sundried-tomato-shrimp-pasta.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -7428,7 +7428,7 @@
   {
     "id": "GurkensalatMitHaehnchen",
     "title": "Gurkensalat mit Hähnchenwürfeln",
-    "image": "https://radiatortwo.github.io/rezepte/pics/gurkensalat-mit-haehnchen.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gurkensalat-mit-haehnchen.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -7578,7 +7578,7 @@
   {
     "id": "AirfryHonigHaehnchenBrokkoli",
     "title": "Honig-Hähnchen mit Brokkoli (Airfryer)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-honig-haehnchen-brokkoli.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-honig-haehnchen-brokkoli.webp",
     "ingredients": [
       {
         "amount": 300.0,
@@ -7648,7 +7648,7 @@
   {
     "id": "GlazedChickenBrothyRice",
     "title": "Glasiertes Hähnchen mit cremiger Brühe und Reis",
-    "image": "https://radiatortwo.github.io/rezepte/pics/glazed-chicken-brothy-rice.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/glazed-chicken-brothy-rice.webp",
     "ingredients": [
       {
         "amount": 3.0,
@@ -7878,7 +7878,7 @@
   {
     "id": "Flammkuchenbroetchen",
     "title": "Flammkuchenbrötchen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/flammkuchenbroetchen.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/flammkuchenbroetchen.webp",
     "ingredients": [
       {
         "amount": 4.0,
@@ -7956,7 +7956,7 @@
   {
     "id": "Mohnnudeln",
     "title": "Mohnnudeln",
-    "image": "https://radiatortwo.github.io/rezepte/pics/mohnnudeln.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mohnnudeln.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -8062,7 +8062,7 @@
   {
     "id": "SweetSourChicken",
     "title": "Sweet & Sour Chicken",
-    "image": "https://radiatortwo.github.io/rezepte/pics/sweet-sour-chicken.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/sweet-sour-chicken.webp",
     "ingredients": [
       {
         "amount": 300.0,
@@ -8186,7 +8186,7 @@
   {
     "id": "ChickenPorkCoconutAdobo",
     "title": "Chicken and Pork Coconut Adobo",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chicken-pork-coconut-adobo.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chicken-pork-coconut-adobo.webp",
     "ingredients": [
       {
         "amount": 4.0,
@@ -8356,7 +8356,7 @@
   {
     "id": "StickySpareribs",
     "title": "Sticky Spareribs mit Ahornsirup und Sesam",
-    "image": "https://radiatortwo.github.io/rezepte/pics/sticky-spareribs-ahornsirup-sesam.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/sticky-spareribs-ahornsirup-sesam.webp",
     "ingredients": [
       {
         "amount": 800.0,
@@ -8502,7 +8502,7 @@
   {
     "id": "Kaiserschmarrn",
     "title": "Kaiserschmarrn",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kaiserschmarrn.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaiserschmarrn.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -8644,7 +8644,7 @@
   {
     "id": "KaeseLauchSuppe",
     "title": "Käse-Lauch-Suppe",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kaese-lauch-suppe.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaese-lauch-suppe.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -8758,7 +8758,7 @@
   {
     "id": "LasagnaSoup",
     "title": "Lasagna Soup",
-    "image": "https://radiatortwo.github.io/rezepte/pics/lasagna-soup.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/lasagna-soup.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -8972,7 +8972,7 @@
   {
     "id": "Dampfnudeln",
     "title": "Dampfnudeln",
-    "image": "https://radiatortwo.github.io/rezepte/pics/dampfnudeln.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/dampfnudeln.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -9078,7 +9078,7 @@
   {
     "id": "Kaesebroetchen",
     "title": "Käsebrötchen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kaesebroetchen.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaesebroetchen.webp",
     "ingredients": [
       {
         "amount": 80.0,
@@ -9160,7 +9160,7 @@
   {
     "id": "CreamyChickenGnocchiSoup",
     "title": "Cremige Hähnchen-Gnocchi-Suppe",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cremige-haehnchen-gnocchi-suppe.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cremige-haehnchen-gnocchi-suppe.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -9362,7 +9362,7 @@
   {
     "id": "ButterfliedHoneyBaconBBQDrumsticks",
     "title": "Butterflied Honey Bacon BBQ Drumsticks",
-    "image": "https://radiatortwo.github.io/rezepte/pics/butterflied-honey-bacon-bbq-drumsticks.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/butterflied-honey-bacon-bbq-drumsticks.webp",
     "ingredients": [
       {
         "amount": null,
@@ -9460,7 +9460,7 @@
   {
     "id": "MaultaschenParmesanSahne",
     "title": "Maultaschen in Parmesan-Sahnesoße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/maultaschen-parmesan-sahne.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/maultaschen-parmesan-sahne.webp",
     "ingredients": [
       {
         "amount": 600.0,
@@ -9538,7 +9538,7 @@
   {
     "id": "JaegerBolognese",
     "title": "Jäger-Bolognese mit Nudeln",
-    "image": "https://radiatortwo.github.io/rezepte/pics/jaeger-bolognese.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/jaeger-bolognese.webp",
     "ingredients": [
       {
         "amount": 320.0,
@@ -9696,7 +9696,7 @@
   {
     "id": "AirfryMozzarellaBaconBombs",
     "title": "Mozzarella Bacon Bombs",
-    "image": "https://radiatortwo.github.io/rezepte/pics/mozzarella-bacon-bombs.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mozzarella-bacon-bombs.webp",
     "ingredients": [
       {
         "amount": 16.0,
@@ -9754,7 +9754,7 @@
   {
     "id": "JapaneseCottonCheesecake",
     "title": "Japanese Cotton Cheesecake",
-    "image": "https://radiatortwo.github.io/rezepte/pics/japanese-cotton-cheesecake.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/japanese-cotton-cheesecake.webp",
     "ingredients": [
       {
         "amount": 250.0,
@@ -9888,7 +9888,7 @@
   {
     "id": "MangoCrepeRolls",
     "title": "Mango Crêpe Rolls",
-    "image": "https://radiatortwo.github.io/rezepte/pics/mango-crepe-rolls.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mango-crepe-rolls.webp",
     "ingredients": [
       {
         "amount": 100.0,
@@ -10006,7 +10006,7 @@
   {
     "id": "BangBangShrimpKlassisch",
     "title": "Bang Bang Shrimp (Klassisch)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp-klassisch.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp-klassisch.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -10150,7 +10150,7 @@
   {
     "id": "NashvilleHotPorkBellyGuac",
     "title": "Nashville Hot Pork Belly mit Guacamole",
-    "image": "https://radiatortwo.github.io/rezepte/pics/nashville-hot-pork-belly-guac.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/nashville-hot-pork-belly-guac.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -10380,7 +10380,7 @@
   {
     "id": "OberlausitzerSchaelkloesse",
     "title": "Oberlausitzer Schälklöße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/oberlausitzer-schaelkloesse.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/oberlausitzer-schaelkloesse.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -10518,7 +10518,7 @@
   {
     "id": "KlassischerKaiserschmarrn",
     "title": "Klassischer Kaiserschmarrn",
-    "image": "https://radiatortwo.github.io/rezepte/pics/klassischer-kaiserschmarrn.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/klassischer-kaiserschmarrn.webp",
     "ingredients": [
       {
         "amount": 140.0,
@@ -10644,7 +10644,7 @@
   {
     "id": "PeanutChiliOilNoodles",
     "title": "Peanut Chili Oil Noodles",
-    "image": "https://radiatortwo.github.io/rezepte/pics/peanut-chili-oil-noodles.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/peanut-chili-oil-noodles.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -10782,7 +10782,7 @@
   {
     "id": "Kartoffelsalat",
     "title": "Der leckerste Kartoffelsalat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffelsalat.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffelsalat.webp",
     "ingredients": [
       {
         "amount": 800.0,
@@ -10928,7 +10928,7 @@
   {
     "id": "SwedishMeatballsSoup",
     "title": "Swedish Meatballs Soup",
-    "image": "https://radiatortwo.github.io/rezepte/pics/swedish-meatballs-soup.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/swedish-meatballs-soup.webp",
     "ingredients": [
       {
         "amount": 470.0,
@@ -11254,7 +11254,7 @@
   {
     "id": "MeatballPasta",
     "title": "Meatball Pasta",
-    "image": "https://radiatortwo.github.io/rezepte/pics/meatball-pasta.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/meatball-pasta.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -11412,7 +11412,7 @@
   {
     "id": "HoisinGarlicNoodles",
     "title": "Hoisin Garlic Noodles",
-    "image": "https://radiatortwo.github.io/rezepte/pics/hoisin-garlic-noodles.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hoisin-garlic-noodles.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -11530,7 +11530,7 @@
   {
     "id": "CheesesteakTortellini",
     "title": "Cheesesteak Tortellini in Provolone-Sahnesoße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cheesesteak-tortellini.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheesesteak-tortellini.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -11668,7 +11668,7 @@
   {
     "id": "KoeniginnenDessert",
     "title": "Königinnen-Dessert",
-    "image": "https://radiatortwo.github.io/rezepte/pics/koeniginnen-dessert.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/koeniginnen-dessert.webp",
     "ingredients": [
       {
         "amount": 100.0,
@@ -11782,7 +11782,7 @@
   {
     "id": "AirfrySpareribs",
     "title": "Spareribs im Airfryer",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-spareribs.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-spareribs.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -11872,7 +11872,7 @@
   {
     "id": "WikingerTopf",
     "title": "Wikinger Topf",
-    "image": "https://radiatortwo.github.io/rezepte/pics/wikinger-topf.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/wikinger-topf.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -12082,7 +12082,7 @@
   {
     "id": "CrispySteakSpicedChicken",
     "title": "Crispy Steak-Spiced Chicken auf Reis",
-    "image": "https://radiatortwo.github.io/rezepte/pics/crispy-steak-spiced-chicken.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/crispy-steak-spiced-chicken.webp",
     "ingredients": [
       {
         "amount": 600.0,
@@ -12208,7 +12208,7 @@
   {
     "id": "SteakBitesKartoffelpueree",
     "title": "Steak Bites mit cremiger Tomatensoße und Knoblauch-Kartoffelpüree",
-    "image": "https://radiatortwo.github.io/rezepte/pics/steak-bites-kartoffelpueree.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/steak-bites-kartoffelpueree.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -12414,7 +12414,7 @@
   {
     "id": "AirfryAsiaChicken",
     "title": "Asia Chicken aus dem Airfryer",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-asia-chicken.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-asia-chicken.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -12508,7 +12508,7 @@
   {
     "id": "SchnellerSalat",
     "title": "Schneller Salat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/schneller-salat.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/schneller-salat.webp",
     "ingredients": [
       {
         "amount": 250.0,
@@ -12610,7 +12610,7 @@
   {
     "id": "ThaiBasilChicken",
     "title": "Thai Basil Chicken",
-    "image": "https://radiatortwo.github.io/rezepte/pics/thai-basil-chicken.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/thai-basil-chicken.webp",
     "ingredients": [
       {
         "amount": 150.0,
@@ -12804,7 +12804,7 @@
   {
     "id": "CreamyTortellini",
     "title": "Cremige Tortellini mit getrockneten Tomaten und Spinat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-tortellini.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-tortellini.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -12970,7 +12970,7 @@
   {
     "id": "Gyrosblech",
     "title": "Gyrosblech",
-    "image": "https://radiatortwo.github.io/rezepte/pics/gyrosblech.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gyrosblech.webp",
     "ingredients": [
       {
         "amount": 800.0,
@@ -13108,7 +13108,7 @@
   {
     "id": "KuestipastaSalat",
     "title": "Küstipasta-Salat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kuestipasta-salat.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kuestipasta-salat.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -13302,7 +13302,7 @@
   {
     "id": "MoroccanHarira",
     "title": "Marokkanische Harira",
-    "image": "https://radiatortwo.github.io/rezepte/pics/moroccan-harira.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/moroccan-harira.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -13500,7 +13500,7 @@
   {
     "id": "BraisedShortRibs",
     "title": "Slow-Braised Short Ribs mit Silan, Zimt & Rotwein",
-    "image": "https://radiatortwo.github.io/rezepte/pics/braised-short-ribs.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/braised-short-ribs.webp",
     "ingredients": [
       {
         "amount": 900.0,
@@ -13654,7 +13654,7 @@
   {
     "id": "YuxiangHuhn",
     "title": "Hühnerstreifen nach Yuxiang-Art (鱼香鸡丝)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/yuxiang-huhn.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/yuxiang-huhn.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -13852,7 +13852,7 @@
   {
     "id": "BirriaPasta",
     "title": "Birria Pasta",
-    "image": "https://radiatortwo.github.io/rezepte/pics/birria-pasta.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/birria-pasta.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -14086,7 +14086,7 @@
   {
     "id": "AirfryHoneySmokyChicken",
     "title": "Honey Smokey Air Fryer Chicken",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-honey-smoky-chicken.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-honey-smoky-chicken.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -14212,7 +14212,7 @@
   {
     "id": "CreamyBaconOnePot",
     "title": "Creamy Bacon One Pot Pasta",
-    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-bacon-one-pot.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-bacon-one-pot.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -14354,7 +14354,7 @@
   {
     "id": "CreamySteakBiteShells",
     "title": "Creamy Steak Bite Shells mit geröstetem Brokkoli",
-    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-steak-bite-shells.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy-steak-bite-shells.webp",
     "ingredients": [
       {
         "amount": 340.0,
@@ -14520,7 +14520,7 @@
   {
     "id": "RosemaryMapleWhiskyJerky",
     "title": "Rosemary Maple Whisky Beef Jerky",
-    "image": "https://radiatortwo.github.io/rezepte/pics/rosemary-maple-whisky-jerky.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rosemary-maple-whisky-jerky.webp",
     "ingredients": [
       {
         "amount": 900.0,
@@ -14650,7 +14650,7 @@
   {
     "id": "GochujangHalloumiPasta",
     "title": "Creamy Gochujang Halloumi & Bacon Pasta",
-    "image": "https://radiatortwo.github.io/rezepte/pics/gochujang-halloumi-pasta.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gochujang-halloumi-pasta.webp",
     "ingredients": [
       {
         "amount": 300.0,
@@ -14776,7 +14776,7 @@
   {
     "id": "FleischbaellchenPetersilienRahm",
     "title": "Fleischbällchen in Petersilien-Rahm-Sauce mit Spätzle",
-    "image": "https://radiatortwo.github.io/rezepte/pics/fleischbaellchen-petersilien-rahm.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/fleischbaellchen-petersilien-rahm.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -14924,7 +14924,7 @@
   {
     "id": "ChampignonsKnoblauchsauce",
     "title": "Champignons mit Knoblauchsauce",
-    "image": "https://radiatortwo.github.io/rezepte/pics/champignons-weihnachtsmarkt.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/champignons-weihnachtsmarkt.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -15052,7 +15052,7 @@
   {
     "id": "SpitzkohlSalat",
     "title": "Spitzkohl Salat mit Green Goddess Sauce",
-    "image": "https://radiatortwo.github.io/rezepte/pics/spitzkohl-salat.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/spitzkohl-salat.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -15190,7 +15190,7 @@
   {
     "id": "Zwiebelbutter",
     "title": "Karamellisierte Zwiebelbutter",
-    "image": "https://radiatortwo.github.io/rezepte/pics/zwiebelbutter.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/zwiebelbutter.webp",
     "ingredients": [
       {
         "amount": null,
@@ -15244,7 +15244,7 @@
   {
     "id": "Honigbutter",
     "title": "Aufgeschlagene Honigbutter",
-    "image": "https://radiatortwo.github.io/rezepte/pics/honigbutter.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/honigbutter.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -15298,7 +15298,7 @@
   {
     "id": "AirfryerTortellini",
     "title": "Airfryer Tortellini",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-tortellini.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-tortellini.webp",
     "ingredients": [
       {
         "amount": null,
@@ -15348,7 +15348,7 @@
   {
     "id": "MikrowellenOmelette",
     "title": "Mikrowellen-Omelette",
-    "image": "https://radiatortwo.github.io/rezepte/pics/mikrowellen-omelette.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mikrowellen-omelette.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -15404,7 +15404,7 @@
   {
     "id": "MaisSnack",
     "title": "Mais-Snack",
-    "image": "https://radiatortwo.github.io/rezepte/pics/mais-snack.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mais-snack.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -15478,7 +15478,7 @@
   {
     "id": "HighProteinCheesecake",
     "title": "High Protein Cheesecake",
-    "image": "https://radiatortwo.github.io/rezepte/pics/high-protein-cheesecake.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/high-protein-cheesecake.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -15558,7 +15558,7 @@
   {
     "id": "NapoleonKebab",
     "title": "Cajun Napoleon Kebab",
-    "image": "https://radiatortwo.github.io/rezepte/pics/napoleon-kebab.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/napoleon-kebab.webp",
     "ingredients": [
       {
         "amount": null,
@@ -15669,7 +15669,7 @@
   {
     "id": "MapleBeefBaconJam",
     "title": "Maple Beef Bacon Jam",
-    "image": "https://radiatortwo.github.io/rezepte/pics/maple-beef-bacon-jam.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/maple-beef-bacon-jam.webp",
     "ingredients": [
       {
         "amount": 280.0,
@@ -15773,7 +15773,7 @@
   {
     "id": "CajunChimichurriSkewers",
     "title": "Cajun Chimichurri Skewers",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cajun-chimichurri-skewers.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cajun-chimichurri-skewers.webp",
     "ingredients": [
       {
         "amount": null,
@@ -15912,7 +15912,7 @@
   {
     "id": "SmashburgerQuesadillas",
     "title": "Smashburger Quesadillas",
-    "image": "https://radiatortwo.github.io/rezepte/pics/smashburger-quesadillas.png",
+    "image": "https://radiatortwo.github.io/rezepte/pics/smashburger-quesadillas.webp",
     "ingredients": [
       {
         "amount": null,
@@ -16058,7 +16058,7 @@
   {
     "id": "SteakChimiChurri",
     "title": "Steak-Pinwheels mit Smoked Chimichurri",
-    "image": "https://radiatortwo.github.io/rezepte/pics/steak-pinwheels-smoked-chimichurri.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/steak-pinwheels-smoked-chimichurri.webp",
     "ingredients": [
       {
         "amount": null,
@@ -16214,7 +16214,7 @@
   {
     "id": "ReispapierDumplings",
     "title": "Knusprige Reispapier-Dumplings",
-    "image": "https://radiatortwo.github.io/rezepte/pics/reispapier-dumplings.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/reispapier-dumplings.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -16418,7 +16418,7 @@
   {
     "id": "ApfelPastila",
     "title": "Apfel-Pastila",
-    "image": "https://radiatortwo.github.io/rezepte/pics/apfel-pastila.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/apfel-pastila.webp",
     "ingredients": [
       {
         "amount": 800.0,
@@ -16569,7 +16569,7 @@
   {
     "id": "ChinakohlChickenSalat",
     "title": "Chinakohl-Hähnchen-Salat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.webp",
     "ingredients": [
       {
         "amount": 350.0,
@@ -16717,7 +16717,7 @@
   {
     "id": "KartoffelRoestiTacos",
     "title": "Kartoffel-Rösti-Tacos",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffel-roesti-tacos.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffel-roesti-tacos.webp",
     "ingredients": [
       {
         "amount": null,
@@ -16893,7 +16893,7 @@
   {
     "id": "ThaiShrimpCurry",
     "title": "Thai Curry Shrimp",
-    "image": "https://radiatortwo.github.io/rezepte/pics/thai-curry-shrimp.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/thai-curry-shrimp.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -17449,7 +17449,7 @@
   {
     "id": "BeefJerky",
     "title": "Beef Jerky",
-    "image": "https://radiatortwo.github.io/rezepte/pics/beef_jerky.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/beef_jerky.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -17573,7 +17573,7 @@
   {
     "id": "CheeseburgerTaco",
     "title": "Cheeseburger Tacos",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cheeseburger-taco.png",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheeseburger-taco.webp",
     "ingredients": [
       {
         "amount": 3.0,
@@ -17693,7 +17693,7 @@
   {
     "id": "SpaghettiAlfredo",
     "title": "Spaghetti Alfredo mit Garnelen in Cremiger Parmesan-Sauce",
-    "image": "https://radiatortwo.github.io/rezepte/pics/SpaghettiAlfredo.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/SpaghettiAlfredo.webp",
     "ingredients": [
       {
         "amount": 450.0,
@@ -18181,7 +18181,7 @@
   {
     "id": "PulledBeef",
     "title": "Pulled Beef",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pulled_beef.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pulled_beef.webp",
     "ingredients": [
       {
         "amount": 2.5,
@@ -18297,7 +18297,7 @@
   {
     "id": "GarlicBreadTortilla",
     "title": "Cheesy Garlic Bread Tortilla",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cheese-tortilla.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheese-tortilla.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -18413,7 +18413,7 @@
   {
     "id": "BrezelFlammkuchen",
     "title": "Flammkuchen Brezel",
-    "image": "https://radiatortwo.github.io/rezepte/pics/flammkuchen-brezeln.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/flammkuchen-brezeln.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -18485,7 +18485,7 @@
   {
     "id": "AirfryerRavioli",
     "title": "Airfryer Ravioli",
-    "image": "https://radiatortwo.github.io/rezepte/pics/air-fryer-ravioli.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/air-fryer-ravioli.webp",
     "ingredients": [
       {
         "amount": 340.0,
@@ -18557,7 +18557,7 @@
   {
     "id": "ColeSlaw",
     "title": "Cole Slaw",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cole_slaw.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cole_slaw.webp",
     "ingredients": [
       {
         "amount": 0.5,
@@ -18649,7 +18649,7 @@
   {
     "id": "PizzaLievitoMadre",
     "title": "Pizza Lievito Madre",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pizza_lievito_madre.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pizza_lievito_madre.webp",
     "ingredients": [
       {
         "amount": 100.0,
@@ -18809,7 +18809,7 @@
   {
     "id": "UdonNudeln",
     "title": "Udon Nudeln mit Rindfleisch",
-    "image": "https://radiatortwo.github.io/rezepte/pics/udonnudeln.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/udonnudeln.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -19173,7 +19173,7 @@
   {
     "id": "BBQNudelsalat",
     "title": "BBQ-Nudelsalat",
-    "image": "https://radiatortwo.github.io/rezepte/pics/bbq_nudelsalat.jpeg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bbq_nudelsalat.webp",
     "ingredients": [
       {
         "amount": 500.0,
@@ -19553,7 +19553,7 @@
   {
     "id": "SateSpiesse",
     "title": "Saté Hähnchenspieße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/satespiesse.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/satespiesse.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -19753,7 +19753,7 @@
   {
     "id": "Tteokbokki_Reiskuchen",
     "title": "Tteokbokki - Reiskuchen mit Hackfleisch",
-    "image": "https://radiatortwo.github.io/rezepte/pics/tteokbokki.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/tteokbokki.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -20081,7 +20081,7 @@
   {
     "id": "KartoffelPops",
     "title": "Garlic Butter Potato Pops",
-    "image": "https://radiatortwo.github.io/rezepte/pics/garlic_potato_pops.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garlic_potato_pops.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -20229,7 +20229,7 @@
   {
     "id": "CreamyColeSlaw",
     "title": "Creamy Cole Slaw",
-    "image": "https://radiatortwo.github.io/rezepte/pics/creamy_coleslaw.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/creamy_coleslaw.webp",
     "ingredients": [
       {
         "amount": 0.5,
@@ -20517,7 +20517,7 @@
   {
     "id": "LemonBrownies",
     "title": "Lemon Brownies",
-    "image": "https://radiatortwo.github.io/rezepte/pics/lemon-brownies.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/lemon-brownies.webp",
     "ingredients": [
       {
         "amount": 250.0,
@@ -20693,7 +20693,7 @@
   {
     "id": "AirfryLasagneWrap",
     "title": "Airfryer Lasagne Wrap",
-    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-lasagne-wrap.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfryer-lasagne-wrap.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -21321,7 +21321,7 @@
   {
     "id": "KoreanFishCake",
     "title": "Koreanischer Fischkuchen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/fishcake.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/fishcake.webp",
     "ingredients": [
       {
         "amount": 230.0,
@@ -21605,7 +21605,7 @@
   {
     "id": "BurgerBuns",
     "title": "Burger Buns",
-    "image": "https://radiatortwo.github.io/rezepte/pics/burger_buns.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/burger_buns.webp",
     "ingredients": [
       {
         "amount": 463.0,
@@ -21877,7 +21877,7 @@
   {
     "id": "FruehstuecksBrot",
     "title": "Frühstücksbrot",
-    "image": "https://radiatortwo.github.io/rezepte/pics/fruehstuecks_brot.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/fruehstuecks_brot.webp",
     "ingredients": [
       {
         "amount": null,
@@ -22037,7 +22037,7 @@
   {
     "id": "GruenesCurry",
     "title": "Grünes Curry",
-    "image": "https://radiatortwo.github.io/rezepte/pics/gruenes_curry.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/gruenes_curry.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -22229,7 +22229,7 @@
   {
     "id": "SteinpilzRisotto",
     "title": "Steinpilz Risotto",
-    "image": "https://radiatortwo.github.io/rezepte/pics/steinpilz_risotto.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/steinpilz_risotto.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -22593,7 +22593,7 @@
   {
     "id": "MealprepLoadedMuffins",
     "title": "Loaded Breakfast McMuffins",
-    "image": "https://radiatortwo.github.io/rezepte/pics/breakfest-mcmuffin.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/breakfest-mcmuffin.webp",
     "ingredients": [
       {
         "amount": null,
@@ -22841,7 +22841,7 @@
   {
     "id": "KartoffelSuppe",
     "title": "Cremige Kartoffelsuppe mit Speck",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffelsuppe.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kartoffelsuppe.webp",
     "ingredients": [
       {
         "amount": null,
@@ -23021,7 +23021,7 @@
   {
     "id": "CheesyGarlicPotatoBites",
     "title": "Cheesy Garlic Potato Bites",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cheese-garlic-potato.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cheese-garlic-potato.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -23285,7 +23285,7 @@
   {
     "id": "ThaiNudelpfanne",
     "title": "Thai Nudelpfanne",
-    "image": "https://radiatortwo.github.io/rezepte/pics/thai_nudeln.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/thai_nudeln.webp",
     "ingredients": [
       {
         "amount": 300.0,
@@ -23385,7 +23385,7 @@
   {
     "id": "HackfleischBohnen",
     "title": "Hackfleisch Bohnen mit Reis",
-    "image": "https://radiatortwo.github.io/rezepte/pics/hack_bohnen.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/hack_bohnen.webp",
     "ingredients": [
       {
         "amount": null,
@@ -23525,7 +23525,7 @@
   {
     "id": "CinnamonPullApartBread",
     "title": "Cinnamon Pull Apart Bread",
-    "image": "https://radiatortwo.github.io/rezepte/pics/cinnamon-pull-apart-bread.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cinnamon-pull-apart-bread.webp",
     "ingredients": [
       {
         "amount": 3.0,
@@ -23857,7 +23857,7 @@
   {
     "id": "BBQStreetCorn",
     "title": "BBQ Street Corn",
-    "image": "https://radiatortwo.github.io/rezepte/pics/bbq_street_corn.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bbq_street_corn.webp",
     "ingredients": [
       {
         "amount": 6.0,
@@ -24181,7 +24181,7 @@
   {
     "id": "MayakEggs",
     "title": "Koreanische Drogeneiner (Mayak Eggs)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/mayak_eggs.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mayak_eggs.webp",
     "ingredients": [
       {
         "amount": 6.0,
@@ -24493,7 +24493,7 @@
   {
     "id": "PadKana",
     "title": "Pad Kana",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pad_kana.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pad_kana.webp",
     "ingredients": [
       {
         "amount": null,
@@ -25081,7 +25081,7 @@
   {
     "id": "HotHoneyRanch",
     "title": "Hot Honey Ranch",
-    "image": "https://radiatortwo.github.io/rezepte/pics/burger_remoulade.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/burger_remoulade.webp",
     "ingredients": [
       {
         "amount": 230.0,
@@ -25165,7 +25165,7 @@
   {
     "id": "MooGrob_FrittierterSchweinebauch",
     "title": "Moo Grob (Frittierter Schweinebauch)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/moogrob.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/moogrob.webp",
     "ingredients": [
       {
         "amount": null,
@@ -25317,7 +25317,7 @@
   {
     "id": "GriessAuflauf",
     "title": "Grießauflauf",
-    "image": "https://radiatortwo.github.io/rezepte/pics/griess_auflauf.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/griess_auflauf.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -25409,7 +25409,7 @@
   {
     "id": "PolloFino",
     "title": "Pollo Fino - Hähnchen Oberkeule ohne Knochen",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pollo_fino.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pollo_fino.webp",
     "ingredients": [
       {
         "amount": 6.0,
@@ -25785,7 +25785,7 @@
   {
     "id": "KaeseReispapierNudeln",
     "title": "Käse-Reispapier-Nudeln",
-    "image": "https://radiatortwo.github.io/rezepte/pics/kaese-reispapier.png",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaese-reispapier.webp",
     "ingredients": [
       {
         "amount": null,
@@ -26057,7 +26057,7 @@
   {
     "id": "RotesCurry",
     "title": "Rotes Curry",
-    "image": "https://radiatortwo.github.io/rezepte/pics/rotes_curry.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rotes_curry.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -26225,7 +26225,7 @@
   {
     "id": "NaughtySandwich",
     "title": "Naughty Sandwich",
-    "image": "https://radiatortwo.github.io/rezepte/pics/naughty-sandwich.png",
+    "image": "https://radiatortwo.github.io/rezepte/pics/naughty-sandwich.webp",
     "ingredients": [
       {
         "amount": 0.5,
@@ -26561,7 +26561,7 @@
   {
     "id": "AirfryLachsroellchen",
     "title": "Lachsröllchen Airfryer Edition",
-    "image": "https://radiatortwo.github.io/rezepte/pics/lachsrollen-airfryer.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/lachsrollen-airfryer.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -26657,7 +26657,7 @@
   {
     "id": "BBQLeberkas",
     "title": "BBQ Leberkäse Braten",
-    "image": "https://radiatortwo.github.io/rezepte/pics/bbq-leberkas.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bbq-leberkas.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -26741,7 +26741,7 @@
   {
     "id": "PigShots",
     "title": "Pig Shots",
-    "image": "https://radiatortwo.github.io/rezepte/pics/pig_shots.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/pig_shots.webp",
     "ingredients": [
       {
         "amount": null,
@@ -26869,7 +26869,7 @@
   {
     "id": "ChiliGarlicNoodles",
     "title": "Chili Knoblauch Nudeln",
-    "image": "https://radiatortwo.github.io/rezepte/pics/chili_garlic_noodles.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/chili_garlic_noodles.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -26997,7 +26997,7 @@
   {
     "id": "AsiaRindfleischMarinade",
     "title": "Rindfleisch-Marinade (Asiatisch)",
-    "image": "https://radiatortwo.github.io/rezepte/pics/rindfleisch-marinade-asia.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rindfleisch-marinade-asia.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -27105,7 +27105,7 @@
   {
     "id": "GarnelenPasta",
     "title": "Garnelen-Pasta",
-    "image": "https://radiatortwo.github.io/rezepte/pics/garnelen_pasta.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/garnelen_pasta.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -27257,7 +27257,7 @@
   {
     "id": "McRibSauce",
     "title": "McRib Soße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/mcrib.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mcrib.webp",
     "ingredients": [
       {
         "amount": 200.0,
@@ -27377,7 +27377,7 @@
   {
     "id": "WhiteBBQTacos",
     "title": "White BBQ Tacos",
-    "image": "https://radiatortwo.github.io/rezepte/pics/white_bbq_tacos.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/white_bbq_tacos.webp",
     "ingredients": [
       {
         "amount": 4.0,
@@ -27453,7 +27453,7 @@
   {
     "id": "ZucchiniSchupfnudelPfanne",
     "title": "Zuchini Schupfnudel Pfanne",
-    "image": "https://radiatortwo.github.io/rezepte/pics/schupfnudelpfanne.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/schupfnudelpfanne.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -27585,7 +27585,7 @@
   {
     "id": "Shakshuka",
     "title": "Shakshuka",
-    "image": "https://radiatortwo.github.io/rezepte/pics/shakshuka.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/shakshuka.webp",
     "ingredients": [
       {
         "amount": 2.0,
@@ -27741,7 +27741,7 @@
   {
     "id": "MapleBaconPartyRibs",
     "title": "Maple Bacon Party Ribs",
-    "image": "https://radiatortwo.github.io/rezepte/pics/maple-bacon-party-ribs.png",
+    "image": "https://radiatortwo.github.io/rezepte/pics/maple-bacon-party-ribs.webp",
     "ingredients": [
       {
         "amount": 1.0,
@@ -27877,7 +27877,7 @@
   {
     "id": "BurgerRemoulade",
     "title": "Burger Remoulade",
-    "image": "https://radiatortwo.github.io/rezepte/pics/burger_remoulade.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/burger_remoulade.webp",
     "ingredients": [
       {
         "amount": 80.0,
@@ -27993,7 +27993,7 @@
   {
     "id": "ChickenTerriyakiSandwich",
     "title": "Chicken Teriyaki Sandwich",
-    "image": "https://radiatortwo.github.io/rezepte/pics/teriyaki-chicken-sub.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/teriyaki-chicken-sub.webp",
     "ingredients": [
       {
         "amount": null,
@@ -28141,7 +28141,7 @@
   {
     "id": "PadThai",
     "title": "Pad Thai mit Udon Nudeln und Rindfleisch",
-    "image": "https://radiatortwo.github.io/rezepte/pics/PadThai.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/PadThai.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -28301,7 +28301,7 @@
   {
     "id": "AirfryBangBangChicken",
     "title": "Bang Bang Chicken Airfryer Edition",
-    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-chicken.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/airfry-bang-bang-chicken.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -28425,7 +28425,7 @@
   {
     "id": "LaugenbriocheCheeseburger",
     "title": "Laugenbrioche Bacon Cheeseburger mit Jalapeno-Honig Soße",
-    "image": "https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.webp",
     "ingredients": [
       {
         "amount": null,
@@ -28737,7 +28737,7 @@
   {
     "id": "BangBangShrimp",
     "title": "Bang Bang Shrimp aus dem Airfryer",
-    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp.webp",
     "ingredients": [
       {
         "amount": 400.0,
@@ -28897,7 +28897,7 @@
   {
     "id": "ShotgunShells",
     "title": "Shotgun Shells",
-    "image": "https://radiatortwo.github.io/rezepte/pics/shotgun_shells.jpg",
+    "image": "https://radiatortwo.github.io/rezepte/pics/shotgun_shells.webp",
     "ingredients": [
       {
         "amount": 500.0,
