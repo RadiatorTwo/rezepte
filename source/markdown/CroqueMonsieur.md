@@ -1,6 +1,6 @@
 # Croque Monsieur
 
-![](https://radiatortwo.github.io/rezepte/pics/croque-monsieur.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/croque-monsieur.webp)
 
 Portionen: 1
 

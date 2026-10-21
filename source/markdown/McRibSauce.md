@@ -1,6 +1,6 @@
 # McRib Soße
 
-![](https://radiatortwo.github.io/rezepte/pics/mcrib.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/mcrib.webp)
 
 Portionen: 1
 

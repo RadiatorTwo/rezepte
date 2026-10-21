@@ -1,6 +1,6 @@
 # Crispy Sweet & Sour Meat
 
-![](https://radiatortwo.github.io/rezepte/pics/crispy-sweet-sour-meat.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/crispy-sweet-sour-meat.webp)
 
 Portionen: 4
 

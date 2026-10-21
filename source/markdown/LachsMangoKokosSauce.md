@@ -1,6 +1,6 @@
 # Lachs mit Mango-Kokos-Sauce
 
-![](https://radiatortwo.github.io/rezepte/pics/lachs-mango-kokos-sauce.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/lachs-mango-kokos-sauce.webp)
 
 Portionen: 2
 

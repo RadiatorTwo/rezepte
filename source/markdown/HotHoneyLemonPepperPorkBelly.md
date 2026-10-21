@@ -1,6 +1,6 @@
 # Hot Honey Lemon Pepper Pork Belly
 
-![](https://radiatortwo.github.io/rezepte/pics/hot-honey-lemon-pepper-pork-belly.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/hot-honey-lemon-pepper-pork-belly.webp)
 
 Portionen: 4
 

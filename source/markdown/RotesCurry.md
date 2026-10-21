@@ -1,6 +1,6 @@
 # Rotes Curry
 
-![](https://radiatortwo.github.io/rezepte/pics/rotes_curry.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/rotes_curry.webp)
 
 Portionen: 3
 

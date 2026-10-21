@@ -1,6 +1,6 @@
 # Pollo Fino - Hähnchen Oberkeule ohne Knochen
 
-![](https://radiatortwo.github.io/rezepte/pics/pollo_fino.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pollo_fino.webp)
 
 Portionen: 4
 

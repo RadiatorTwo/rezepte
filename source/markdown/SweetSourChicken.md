@@ -1,6 +1,6 @@
 # Sweet & Sour Chicken
 
-![](https://radiatortwo.github.io/rezepte/pics/sweet-sour-chicken.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/sweet-sour-chicken.webp)
 
 Portionen: 2
 

@@ -1,6 +1,6 @@
 # Shakshuka
 
-![](https://radiatortwo.github.io/rezepte/pics/shakshuka.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/shakshuka.webp)
 
 Portionen: 4
 

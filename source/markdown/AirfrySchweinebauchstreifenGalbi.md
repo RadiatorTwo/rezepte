@@ -1,6 +1,6 @@
 # Knusprige Schweinebauchstreifen aus dem Airfryer mit Galbi-Soße
 
-![](https://radiatortwo.github.io/rezepte/pics/moogrob.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/moogrob.webp)
 
 Portionen: 4
 

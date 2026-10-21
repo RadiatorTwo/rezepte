@@ -1,6 +1,6 @@
 # Hackfleisch Bohnen mit Reis
 
-![](https://radiatortwo.github.io/rezepte/pics/hack_bohnen.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/hack_bohnen.webp)
 
 Portionen: 1
 

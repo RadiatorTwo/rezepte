@@ -1,6 +1,6 @@
 # Cremige Kartoffelsuppe mit Speck
 
-![](https://radiatortwo.github.io/rezepte/pics/kartoffelsuppe.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/kartoffelsuppe.webp)
 
 Portionen: 6
 

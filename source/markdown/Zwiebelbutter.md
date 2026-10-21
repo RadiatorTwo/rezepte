@@ -1,6 +1,6 @@
 # Karamellisierte Zwiebelbutter
 
-![](https://radiatortwo.github.io/rezepte/pics/zwiebelbutter.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/zwiebelbutter.webp)
 
 Portionen: 1
 

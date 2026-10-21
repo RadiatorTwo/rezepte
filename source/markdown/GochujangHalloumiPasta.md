@@ -1,6 +1,6 @@
 # Creamy Gochujang Halloumi & Bacon Pasta
 
-![](https://radiatortwo.github.io/rezepte/pics/gochujang-halloumi-pasta.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/gochujang-halloumi-pasta.webp)
 
 Portionen: 4
 

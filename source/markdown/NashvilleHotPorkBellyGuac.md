@@ -1,6 +1,6 @@
 # Nashville Hot Pork Belly mit Guacamole
 
-![](https://radiatortwo.github.io/rezepte/pics/nashville-hot-pork-belly-guac.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/nashville-hot-pork-belly-guac.webp)
 
 Portionen: 4
 

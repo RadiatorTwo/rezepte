@@ -1,6 +1,6 @@
 # Swedish Meatballs Soup
 
-![](https://radiatortwo.github.io/rezepte/pics/swedish-meatballs-soup.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/swedish-meatballs-soup.webp)
 
 Portionen: 8
 

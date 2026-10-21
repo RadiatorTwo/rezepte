@@ -1,6 +1,6 @@
 # Garlic Steak Bites & Potatoes
 
-![](https://radiatortwo.github.io/rezepte/pics/garlic-steak-bites-potatoes.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/garlic-steak-bites-potatoes.webp)
 
 Portionen: 2
 

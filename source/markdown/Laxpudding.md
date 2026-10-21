@@ -1,6 +1,6 @@
 # Laxpudding (Schwedischer Lachsauflauf)
 
-![](https://radiatortwo.github.io/rezepte/pics/laxpudding.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/laxpudding.webp)
 
 Portionen: 4
 

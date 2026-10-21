@@ -1,6 +1,6 @@
 # Bang Bang Shrimp aus dem Airfryer
 
-![](https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp.webp)
 
 Portionen: 2
 

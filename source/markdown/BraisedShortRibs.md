@@ -1,6 +1,6 @@
 # Slow-Braised Short Ribs mit Silan, Zimt & Rotwein
 
-![](https://radiatortwo.github.io/rezepte/pics/braised-short-ribs.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/braised-short-ribs.webp)
 
 Portionen: 4
 

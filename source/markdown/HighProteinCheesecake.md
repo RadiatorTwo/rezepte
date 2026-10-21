@@ -1,6 +1,6 @@
 # High Protein Cheesecake
 
-![](https://radiatortwo.github.io/rezepte/pics/high-protein-cheesecake.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/high-protein-cheesecake.webp)
 
 Portionen: 6
 

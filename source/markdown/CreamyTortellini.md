@@ -1,6 +1,6 @@
 # Cremige Tortellini mit getrockneten Tomaten und Spinat
 
-![](https://radiatortwo.github.io/rezepte/pics/creamy-tortellini.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/creamy-tortellini.webp)
 
 Portionen: 4
 

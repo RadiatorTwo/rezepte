@@ -1,6 +1,6 @@
 # Fleischbällchen in Petersilien-Rahm-Sauce mit Spätzle
 
-![](https://radiatortwo.github.io/rezepte/pics/fleischbaellchen-petersilien-rahm.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/fleischbaellchen-petersilien-rahm.webp)
 
 Portionen: 4
 

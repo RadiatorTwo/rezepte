@@ -1,6 +1,6 @@
 # Grünes Curry
 
-![](https://radiatortwo.github.io/rezepte/pics/gruenes_curry.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/gruenes_curry.webp)
 
 Portionen: 3
 

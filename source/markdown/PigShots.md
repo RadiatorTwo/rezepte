@@ -1,6 +1,6 @@
 # Pig Shots
 
-![](https://radiatortwo.github.io/rezepte/pics/pig_shots.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pig_shots.webp)
 
 Portionen: 1
 

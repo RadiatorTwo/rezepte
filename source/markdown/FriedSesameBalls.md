@@ -1,6 +1,6 @@
 # Frittierte Sesambällchen mit Rote-Bohnen-Füllung
 
-![](https://radiatortwo.github.io/rezepte/pics/fried-sesame-balls.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/fried-sesame-balls.webp)
 
 Portionen: 12
 

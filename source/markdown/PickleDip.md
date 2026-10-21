@@ -1,6 +1,6 @@
 # Pickle Dip
 
-![](https://radiatortwo.github.io/rezepte/pics/pickle-dip.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pickle-dip.webp)
 
 Portionen: 8
 

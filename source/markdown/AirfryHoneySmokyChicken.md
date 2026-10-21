@@ -1,6 +1,6 @@
 # Honey Smokey Air Fryer Chicken
 
-![](https://radiatortwo.github.io/rezepte/pics/airfry-honey-smoky-chicken.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfry-honey-smoky-chicken.webp)
 
 Portionen: 2
 

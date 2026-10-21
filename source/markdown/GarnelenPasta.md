@@ -1,6 +1,6 @@
 # Garnelen-Pasta
 
-![](https://radiatortwo.github.io/rezepte/pics/garnelen_pasta.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/garnelen_pasta.webp)
 
 Portionen: 2
 

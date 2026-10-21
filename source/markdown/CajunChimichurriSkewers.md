@@ -1,6 +1,6 @@
 # Cajun Chimichurri Skewers
 
-![](https://radiatortwo.github.io/rezepte/pics/cajun-chimichurri-skewers.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/cajun-chimichurri-skewers.webp)
 
 Portionen: 4
 

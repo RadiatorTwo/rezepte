@@ -1,6 +1,6 @@
 # Gyros-Spätzle-Pfanne
 
-![](https://radiatortwo.github.io/rezepte/pics/gyros-spaetzle-pfanne.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/gyros-spaetzle-pfanne.webp)
 
 Portionen: 2
 

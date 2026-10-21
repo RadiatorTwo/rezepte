@@ -1,6 +1,6 @@
 # Chinakohl-Hähnchen-Salat
 
-![](https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/chinakohl-salat.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Parmigiana di Melanzane
 
-![](https://radiatortwo.github.io/rezepte/pics/parmigiana-di-melanzane.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/parmigiana-di-melanzane.webp)
 
 Portionen: 4
 

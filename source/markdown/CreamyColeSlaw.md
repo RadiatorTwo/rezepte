@@ -1,6 +1,6 @@
 # Creamy Cole Slaw
 
-![](https://radiatortwo.github.io/rezepte/pics/creamy_coleslaw.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/creamy_coleslaw.webp)
 
 Portionen: 6
 

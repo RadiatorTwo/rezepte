@@ -1,6 +1,6 @@
 # Creamy Steak Bite Shells mit geröstetem Brokkoli
 
-![](https://radiatortwo.github.io/rezepte/pics/creamy-steak-bite-shells.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/creamy-steak-bite-shells.webp)
 
 Portionen: 4
 

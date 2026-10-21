@@ -1,6 +1,6 @@
 # Asia Chicken aus dem Airfryer
 
-![](https://radiatortwo.github.io/rezepte/pics/airfry-asia-chicken.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfry-asia-chicken.webp)
 
 Portionen: 3
 

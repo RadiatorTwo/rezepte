@@ -1,6 +1,6 @@
 # Cremige Garnelen-Pasta mit getrockneten Tomaten
 
-![](https://radiatortwo.github.io/rezepte/pics/creamy-sundried-tomato-shrimp-pasta.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/creamy-sundried-tomato-shrimp-pasta.webp)
 
 Portionen: 6
 

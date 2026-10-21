@@ -1,6 +1,6 @@
 # Honig-Hähnchen mit Brokkoli (Airfryer)
 
-![](https://radiatortwo.github.io/rezepte/pics/airfryer-honig-haehnchen-brokkoli.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfryer-honig-haehnchen-brokkoli.webp)
 
 Portionen: 2
 

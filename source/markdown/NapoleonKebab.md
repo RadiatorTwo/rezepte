@@ -1,6 +1,6 @@
 # Cajun Napoleon Kebab
 
-![](https://radiatortwo.github.io/rezepte/pics/napoleon-kebab.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/napoleon-kebab.webp)
 
 Portionen: 4
 Zubereitung: 15 Min | Kochen: 10 Min | Gesamt: 25 Min

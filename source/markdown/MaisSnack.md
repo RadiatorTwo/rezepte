@@ -1,6 +1,6 @@
 # Mais-Snack
 
-![](https://radiatortwo.github.io/rezepte/pics/mais-snack.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/mais-snack.webp)
 
 Portionen: 1
 

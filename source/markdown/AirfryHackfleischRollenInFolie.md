@@ -1,6 +1,6 @@
 # Hackfleisch-Röllchen in Folie (Airfryer)
 
-![](https://radiatortwo.github.io/rezepte/pics/airfry-hackfleisch-roellchen-in-folie.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfry-hackfleisch-roellchen-in-folie.webp)
 
 Portionen: 4
 

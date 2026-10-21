@@ -1,6 +1,6 @@
 # Maple Beef Bacon Jam
 
-![](https://radiatortwo.github.io/rezepte/pics/maple-beef-bacon-jam.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/maple-beef-bacon-jam.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Hot Honey Ranch
 
-![](https://radiatortwo.github.io/rezepte/pics/burger_remoulade.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/burger_remoulade.webp)
 
 Portionen: 1
 

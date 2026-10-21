@@ -1,6 +1,6 @@
 # Erdnuss-Curry
 
-![](https://radiatortwo.github.io/rezepte/pics/erdnuss-curry.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/erdnuss-curry.webp)
 
 Portionen: 2
 

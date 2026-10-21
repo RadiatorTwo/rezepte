@@ -1,6 +1,6 @@
 # Pulled Pork aus dem Airfryer
 
-![](https://radiatortwo.github.io/rezepte/pics/airfry-pulled-pork.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfry-pulled-pork.webp)
 
 Portionen: 6
 

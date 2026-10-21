@@ -1,6 +1,6 @@
 # Pizza Lievito Madre
 
-![](https://radiatortwo.github.io/rezepte/pics/pizza_lievito_madre.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pizza_lievito_madre.webp)
 
 Portionen: 4
 

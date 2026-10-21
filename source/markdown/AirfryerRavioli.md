@@ -1,6 +1,6 @@
 # Airfryer Ravioli
 
-![](https://radiatortwo.github.io/rezepte/pics/air-fryer-ravioli.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/air-fryer-ravioli.webp)
 
 Portionen: 2
 

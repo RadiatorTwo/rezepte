@@ -1,6 +1,6 @@
 # Udon Nudeln mit Rindfleisch
 
-![](https://radiatortwo.github.io/rezepte/pics/udonnudeln.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/udonnudeln.webp)
 
 Portionen: 2
 

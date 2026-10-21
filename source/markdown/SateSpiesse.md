@@ -1,6 +1,6 @@
 # Saté Hähnchenspieße
 
-![](https://radiatortwo.github.io/rezepte/pics/satespiesse.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/satespiesse.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Hoisin Garlic Noodles
 
-![](https://radiatortwo.github.io/rezepte/pics/hoisin-garlic-noodles.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/hoisin-garlic-noodles.webp)
 
 Portionen: 4
 

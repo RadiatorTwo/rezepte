@@ -1,6 +1,6 @@
 # Smashburger Quesadillas
 
-![](https://radiatortwo.github.io/rezepte/pics/smashburger-quesadillas.png)
+![](https://radiatortwo.github.io/rezepte/pics/smashburger-quesadillas.webp)
 
 Portionen: 2
 Zubereitung: 15 Min | Kochen: 15 Min | Gesamt: 30 Min

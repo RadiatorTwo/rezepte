@@ -1,6 +1,6 @@
 # Shotgun Shells
 
-![](https://radiatortwo.github.io/rezepte/pics/shotgun_shells.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/shotgun_shells.webp)
 
 Portionen: 15
 

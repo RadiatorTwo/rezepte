@@ -1,6 +1,6 @@
 # Mohnnudeln
 
-![](https://radiatortwo.github.io/rezepte/pics/mohnnudeln.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/mohnnudeln.webp)
 
 Portionen: 4
 

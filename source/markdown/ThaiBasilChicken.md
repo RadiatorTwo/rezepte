@@ -1,6 +1,6 @@
 # Thai Basil Chicken
 
-![](https://radiatortwo.github.io/rezepte/pics/thai-basil-chicken.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/thai-basil-chicken.webp)
 
 Portionen: 2
 

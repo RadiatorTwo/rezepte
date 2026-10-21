@@ -1,6 +1,6 @@
 # Crispy Steak-Spiced Chicken auf Reis
 
-![](https://radiatortwo.github.io/rezepte/pics/crispy-steak-spiced-chicken.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/crispy-steak-spiced-chicken.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Chilli Chicken Manchurian
 
-![](https://radiatortwo.github.io/rezepte/pics/chilli-chicken-manchurian.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/chilli-chicken-manchurian.webp)
 
 Portionen: 4
 

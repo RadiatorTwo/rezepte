@@ -1,6 +1,6 @@
 # Slow Cooked Beef With Creamy Mash
 
-![](https://radiatortwo.github.io/rezepte/pics/slow-cooked-beef-creamy-mash.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/slow-cooked-beef-creamy-mash.webp)
 
 Portionen: 4
 

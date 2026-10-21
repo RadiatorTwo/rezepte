@@ -1,6 +1,6 @@
 # Japanische Schweinefleisch-Reisschale
 
-![](https://radiatortwo.github.io/rezepte/pics/japanese-pork-rice-bowl.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/japanese-pork-rice-bowl.webp)
 
 Portionen: 2
 

@@ -1,6 +1,6 @@
 # Kartoffel-Rösti-Tacos
 
-![](https://radiatortwo.github.io/rezepte/pics/kartoffel-roesti-tacos.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/kartoffel-roesti-tacos.webp)
 
 Portionen: 4
 

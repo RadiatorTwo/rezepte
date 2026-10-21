@@ -1,6 +1,6 @@
 # Zuchini Schupfnudel Pfanne
 
-![](https://radiatortwo.github.io/rezepte/pics/schupfnudelpfanne.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/schupfnudelpfanne.webp)
 
 Portionen: 2
 

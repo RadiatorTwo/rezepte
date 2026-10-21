@@ -1,6 +1,6 @@
 # Maple Bacon Party Ribs
 
-![](https://radiatortwo.github.io/rezepte/pics/maple-bacon-party-ribs.png)
+![](https://radiatortwo.github.io/rezepte/pics/maple-bacon-party-ribs.webp)
 
 Portionen: 4
 

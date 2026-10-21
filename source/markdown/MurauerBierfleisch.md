@@ -1,6 +1,6 @@
 # Murauer Bierfleisch
 
-![](https://radiatortwo.github.io/rezepte/pics/murauer-bierfleisch.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/murauer-bierfleisch.webp)
 
 Portionen: 4
 

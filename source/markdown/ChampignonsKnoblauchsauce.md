@@ -1,6 +1,6 @@
 # Champignons mit Knoblauchsauce
 
-![](https://radiatortwo.github.io/rezepte/pics/champignons-weihnachtsmarkt.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/champignons-weihnachtsmarkt.webp)
 
 Portionen: 2
 

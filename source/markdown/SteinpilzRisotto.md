@@ -1,6 +1,6 @@
 # Steinpilz Risotto
 
-![](https://radiatortwo.github.io/rezepte/pics/steinpilz_risotto.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/steinpilz_risotto.webp)
 
 Portionen: 4
 

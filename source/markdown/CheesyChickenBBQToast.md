@@ -1,6 +1,6 @@
 # Cheesy Chicken BBQ Toasties
 
-![](https://radiatortwo.github.io/rezepte/pics/cheesy-chicken-bbq-toast.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/cheesy-chicken-bbq-toast.webp)
 
 Portionen: 4
 

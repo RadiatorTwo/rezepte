@@ -1,6 +1,6 @@
 # Mozzarella Bacon Bombs
 
-![](https://radiatortwo.github.io/rezepte/pics/mozzarella-bacon-bombs.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/mozzarella-bacon-bombs.webp)
 
 Portionen: 4
 

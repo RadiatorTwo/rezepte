@@ -1,6 +1,6 @@
 # Käse-Reispapier-Nudeln
 
-![](https://radiatortwo.github.io/rezepte/pics/kaese-reispapier.png)
+![](https://radiatortwo.github.io/rezepte/pics/kaese-reispapier.webp)
 
 Portionen: 3
 

@@ -1,6 +1,6 @@
 # Pulled Beef
 
-![](https://radiatortwo.github.io/rezepte/pics/pulled_beef.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pulled_beef.webp)
 
 Portionen: 10
 

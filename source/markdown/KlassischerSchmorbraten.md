@@ -1,6 +1,6 @@
 # Klassischer Schmorbraten aus dem Bräter
 
-![](https://radiatortwo.github.io/rezepte/pics/klassischer-schmorbraten.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/klassischer-schmorbraten.webp)
 
 Portionen: 4
 

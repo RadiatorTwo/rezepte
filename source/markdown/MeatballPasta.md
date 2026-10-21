@@ -1,6 +1,6 @@
 # Meatball Pasta
 
-![](https://radiatortwo.github.io/rezepte/pics/meatball-pasta.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/meatball-pasta.webp)
 
 Portionen: 4
 

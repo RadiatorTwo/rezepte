@@ -1,6 +1,6 @@
 # Naughty Sandwich
 
-![](https://radiatortwo.github.io/rezepte/pics/naughty-sandwich.png)
+![](https://radiatortwo.github.io/rezepte/pics/naughty-sandwich.webp)
 
 Portionen: 2
 

@@ -1,6 +1,6 @@
 # Koreanischer Fischkuchen
 
-![](https://radiatortwo.github.io/rezepte/pics/fishcake.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/fishcake.webp)
 
 Portionen: 4
 

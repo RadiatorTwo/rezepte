@@ -1,6 +1,6 @@
 # Lemon Brownies
 
-![](https://radiatortwo.github.io/rezepte/pics/lemon-brownies.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/lemon-brownies.webp)
 
 Portionen: 16
 

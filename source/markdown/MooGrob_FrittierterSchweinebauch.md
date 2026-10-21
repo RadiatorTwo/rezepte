@@ -1,6 +1,6 @@
 # Moo Grob (Frittierter Schweinebauch)
 
-![](https://radiatortwo.github.io/rezepte/pics/moogrob.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/moogrob.webp)
 
 Portionen: 4
 

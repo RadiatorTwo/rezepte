@@ -1,6 +1,6 @@
 # Der leckerste Kartoffelsalat
 
-![](https://radiatortwo.github.io/rezepte/pics/kartoffelsalat.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/kartoffelsalat.webp)
 
 Portionen: 4
 

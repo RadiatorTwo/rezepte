@@ -1,6 +1,6 @@
 # Cremige Hähnchen-Gnocchi-Suppe
 
-![](https://radiatortwo.github.io/rezepte/pics/cremige-haehnchen-gnocchi-suppe.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/cremige-haehnchen-gnocchi-suppe.webp)
 
 Portionen: 4
 

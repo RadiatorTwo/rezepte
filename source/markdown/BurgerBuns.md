@@ -1,6 +1,6 @@
 # Burger Buns
 
-![](https://radiatortwo.github.io/rezepte/pics/burger_buns.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/burger_buns.webp)
 
 Portionen: 6
 

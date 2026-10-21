@@ -1,6 +1,6 @@
 # Käse-Lauch-Suppe
 
-![](https://radiatortwo.github.io/rezepte/pics/kaese-lauch-suppe.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/kaese-lauch-suppe.webp)
 
 Portionen: 6
 

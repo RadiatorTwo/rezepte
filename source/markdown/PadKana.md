@@ -1,6 +1,6 @@
 # Pad Kana
 
-![](https://radiatortwo.github.io/rezepte/pics/pad_kana.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pad_kana.webp)
 
 Portionen: 1
 

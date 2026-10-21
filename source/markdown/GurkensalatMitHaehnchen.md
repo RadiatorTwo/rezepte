@@ -1,6 +1,6 @@
 # Gurkensalat mit Hähnchenwürfeln
 
-![](https://radiatortwo.github.io/rezepte/pics/gurkensalat-mit-haehnchen.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/gurkensalat-mit-haehnchen.webp)
 
 Portionen: 2
 

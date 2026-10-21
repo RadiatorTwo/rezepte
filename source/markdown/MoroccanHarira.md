@@ -1,6 +1,6 @@
 # Marokkanische Harira
 
-![](https://radiatortwo.github.io/rezepte/pics/moroccan-harira.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/moroccan-harira.webp)
 
 Portionen: 6
 

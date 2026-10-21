@@ -1,6 +1,6 @@
 # Wikinger Topf
 
-![](https://radiatortwo.github.io/rezepte/pics/wikinger-topf.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/wikinger-topf.webp)
 
 Portionen: 4
 

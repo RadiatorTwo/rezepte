@@ -1,6 +1,6 @@
 # Rosemary Maple Whisky Beef Jerky
 
-![](https://radiatortwo.github.io/rezepte/pics/rosemary-maple-whisky-jerky.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/rosemary-maple-whisky-jerky.webp)
 
 Portionen: 1
 

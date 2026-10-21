@@ -1,6 +1,6 @@
 # Laugenbrioche Bacon Cheeseburger mit Jalapeno-Honig Soße
 
-![](https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/laugen-cheeseburger.webp)
 
 Portionen: 3
 

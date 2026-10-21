@@ -1,6 +1,6 @@
 # Spitzkohl Salat mit Green Goddess Sauce
 
-![](https://radiatortwo.github.io/rezepte/pics/spitzkohl-salat.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/spitzkohl-salat.webp)
 
 Portionen: 4
 

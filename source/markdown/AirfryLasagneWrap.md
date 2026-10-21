@@ -1,6 +1,6 @@
 # Airfryer Lasagne Wrap
 
-![](https://radiatortwo.github.io/rezepte/pics/airfryer-lasagne-wrap.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfryer-lasagne-wrap.webp)
 
 Portionen: 1
 

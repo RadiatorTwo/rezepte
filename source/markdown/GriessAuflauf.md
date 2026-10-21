@@ -1,6 +1,6 @@
 # Grießauflauf
 
-![](https://radiatortwo.github.io/rezepte/pics/griess_auflauf.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/griess_auflauf.webp)
 
 Portionen: 2
 

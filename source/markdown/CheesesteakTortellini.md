@@ -1,6 +1,6 @@
 # Cheesesteak Tortellini in Provolone-Sahnesoße
 
-![](https://radiatortwo.github.io/rezepte/pics/cheesesteak-tortellini.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/cheesesteak-tortellini.webp)
 
 Portionen: 4
 

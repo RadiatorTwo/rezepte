@@ -1,6 +1,6 @@
 # Coconut Sago Pudding
 
-![](https://radiatortwo.github.io/rezepte/pics/coconut-sago-pudding.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/coconut-sago-pudding.webp)
 
 Portionen: 8
 

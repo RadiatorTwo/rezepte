@@ -1,6 +1,6 @@
 # Maultaschen in Parmesan-Sahnesoße
 
-![](https://radiatortwo.github.io/rezepte/pics/maultaschen-parmesan-sahne.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/maultaschen-parmesan-sahne.webp)
 
 Portionen: 4
 

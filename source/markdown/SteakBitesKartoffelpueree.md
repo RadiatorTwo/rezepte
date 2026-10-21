@@ -1,6 +1,6 @@
 # Steak Bites mit cremiger Tomatensoße und Knoblauch-Kartoffelpüree
 
-![](https://radiatortwo.github.io/rezepte/pics/steak-bites-kartoffelpueree.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/steak-bites-kartoffelpueree.webp)
 
 Portionen: 4
 

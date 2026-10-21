@@ -1,6 +1,6 @@
 # Klassisches Club Sandwich
 
-![](https://radiatortwo.github.io/rezepte/pics/klassisches-club-sandwich.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/klassisches-club-sandwich.webp)
 
 Portionen: 1
 

@@ -1,6 +1,6 @@
 # Marry Me Gnocchi-Suppe
 
-![](https://radiatortwo.github.io/rezepte/pics/marry-me-gnocchi-soup.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/marry-me-gnocchi-soup.webp)
 
 Portionen: 4
 

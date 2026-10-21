@@ -1,6 +1,6 @@
 # Flammkuchenbrötchen
 
-![](https://radiatortwo.github.io/rezepte/pics/flammkuchenbroetchen.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/flammkuchenbroetchen.webp)
 
 Portionen: 4
 

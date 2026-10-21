@@ -1,6 +1,6 @@
 # Shepherd's Pie
 
-![](https://radiatortwo.github.io/rezepte/pics/shepherds-pie.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/shepherds-pie.webp)
 
 Portionen: 6
 

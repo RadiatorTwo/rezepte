@@ -1,6 +1,6 @@
 # Mango Crêpe Rolls
 
-![](https://radiatortwo.github.io/rezepte/pics/mango-crepe-rolls.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/mango-crepe-rolls.webp)
 
 Portionen: 4
 

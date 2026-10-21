@@ -1,6 +1,6 @@
 # Cheesy Garlic Potato Bites
 
-![](https://radiatortwo.github.io/rezepte/pics/cheese-garlic-potato.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/cheese-garlic-potato.webp)
 
 Portionen: 1
 

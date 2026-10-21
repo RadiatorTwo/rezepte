@@ -1,6 +1,6 @@
 # Tteokbokki - Reiskuchen mit Hackfleisch
 
-![](https://radiatortwo.github.io/rezepte/pics/tteokbokki.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/tteokbokki.webp)
 
 Portionen: 2
 

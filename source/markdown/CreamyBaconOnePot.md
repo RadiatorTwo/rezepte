@@ -1,6 +1,6 @@
 # Creamy Bacon One Pot Pasta
 
-![](https://radiatortwo.github.io/rezepte/pics/creamy-bacon-one-pot.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/creamy-bacon-one-pot.webp)
 
 Portionen: 4
 

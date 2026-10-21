@@ -1,6 +1,6 @@
 # Bang Bang Shrimp (Klassisch)
 
-![](https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp-klassisch.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/bang-bang-shrimp-klassisch.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Apfel-Pastila
 
-![](https://radiatortwo.github.io/rezepte/pics/apfel-pastila.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/apfel-pastila.webp)
 
 Portionen: 75 Stück
 Zubereitungszeit: 40 Minuten

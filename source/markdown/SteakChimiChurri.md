@@ -1,6 +1,6 @@
 # Steak-Pinwheels mit Smoked Chimichurri
 
-![](https://radiatortwo.github.io/rezepte/pics/steak-pinwheels-smoked-chimichurri.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/steak-pinwheels-smoked-chimichurri.webp)
 
 Portionen: 4
 

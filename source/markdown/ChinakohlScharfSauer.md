@@ -1,6 +1,6 @@
 # Chinakohl scharf-sauer (veggie)
 
-![](https://radiatortwo.github.io/rezepte/pics/chinakohl-scharf-sauer.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/chinakohl-scharf-sauer.webp)
 
 Portionen: 2
 

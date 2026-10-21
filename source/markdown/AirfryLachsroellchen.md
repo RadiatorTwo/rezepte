@@ -1,6 +1,6 @@
 # Lachsröllchen Airfryer Edition
 
-![](https://radiatortwo.github.io/rezepte/pics/lachsrollen-airfryer.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/lachsrollen-airfryer.webp)
 
 Portionen: 1
 

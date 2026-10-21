@@ -1,6 +1,6 @@
 # Hühnerstreifen nach Yuxiang-Art (鱼香鸡丝)
 
-![](https://radiatortwo.github.io/rezepte/pics/yuxiang-huhn.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/yuxiang-huhn.webp)
 
 Portionen: 2
 

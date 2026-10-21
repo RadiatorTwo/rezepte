@@ -1,6 +1,6 @@
 # Cremige Knoblauch-Joghurt-Soße
 
-![](https://radiatortwo.github.io/rezepte/pics/knoblauch-joghurt-sosse.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/knoblauch-joghurt-sosse.webp)
 
 Portionen: 3
 

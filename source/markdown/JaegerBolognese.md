@@ -1,6 +1,6 @@
 # Jäger-Bolognese mit Nudeln
 
-![](https://radiatortwo.github.io/rezepte/pics/jaeger-bolognese.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/jaeger-bolognese.webp)
 
 Portionen: 4
 

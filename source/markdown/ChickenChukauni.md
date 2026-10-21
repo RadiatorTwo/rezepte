@@ -1,6 +1,6 @@
 # Chicken Chukauni (Nepal Style)
 
-![](https://radiatortwo.github.io/rezepte/pics/chicken-chukauni.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/chicken-chukauni.webp)
 
 Portionen: 4
 

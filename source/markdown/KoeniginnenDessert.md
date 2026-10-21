@@ -1,6 +1,6 @@
 # Königinnen-Dessert
 
-![](https://radiatortwo.github.io/rezepte/pics/koeniginnen-dessert.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/koeniginnen-dessert.webp)
 
 Portionen: 8
 

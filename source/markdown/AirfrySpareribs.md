@@ -1,6 +1,6 @@
 # Spareribs im Airfryer
 
-![](https://radiatortwo.github.io/rezepte/pics/airfry-spareribs.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfry-spareribs.webp)
 
 Portionen: 2
 

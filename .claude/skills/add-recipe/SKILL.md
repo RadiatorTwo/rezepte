@@ -33,7 +33,7 @@ source/markdown/VORLAGE.md
 Halte dich exakt an deren Struktur:
 
 - `# Rezeptname` als Überschrift
-- Bild-Zeile: `![](https://radiatortwo.github.io/rezepte/pics/<bilddatei>.webp)` — immer `.webp`, auch wenn die Vorlage `.jpg` zeigt
+- Bild-Zeile: `![](https://radiatortwo.github.io/rezepte/pics/<bilddatei>.webp)`
 - `Portionen: <n>`
 - `## Zutaten` mit optionalen Untergruppen `### Hauptzutaten`, `### Für die Sauce` etc.
 - `## Zubereitung` mit optionalen Untergruppen passend zu den Zutatengruppen

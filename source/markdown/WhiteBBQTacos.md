@@ -1,6 +1,6 @@
 # White BBQ Tacos
 
-![](https://radiatortwo.github.io/rezepte/pics/white_bbq_tacos.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/white_bbq_tacos.webp)
 
 Portionen: 2
 

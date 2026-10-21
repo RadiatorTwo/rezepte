@@ -1,6 +1,6 @@
 # BBQ Leberkäse Braten
 
-![](https://radiatortwo.github.io/rezepte/pics/bbq-leberkas.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/bbq-leberkas.webp)
 
 Ein herzhaft-würziger Leberkäsebraten mit BBQ-Aroma.
 

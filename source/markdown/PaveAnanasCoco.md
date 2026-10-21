@@ -1,6 +1,6 @@
 # Pavê mit Ananas und Kokos
 
-![](https://radiatortwo.github.io/rezepte/pics/pave-ananas-coco.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pave-ananas-coco.webp)
 
 Portionen: 8
 

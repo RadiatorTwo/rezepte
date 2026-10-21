@@ -1,6 +1,6 @@
 # Butterflied Honey Bacon BBQ Drumsticks
 
-![](https://radiatortwo.github.io/rezepte/pics/butterflied-honey-bacon-bbq-drumsticks.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/butterflied-honey-bacon-bbq-drumsticks.webp)
 
 Portionen: 4
 

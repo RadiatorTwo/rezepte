@@ -1,6 +1,6 @@
 # Rezeptname
 
-![](https://radiatortwo.github.io/rezepte/pics/rezeptname.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/rezeptname.webp)
 
 Portionen: 4
 

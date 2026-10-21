@@ -1,6 +1,6 @@
 # Kaiserschmarrn
 
-![](https://radiatortwo.github.io/rezepte/pics/kaiserschmarrn.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/kaiserschmarrn.webp)
 
 Portionen: 2
 

@@ -1,6 +1,6 @@
 # Sticky Spareribs mit Ahornsirup und Sesam
 
-![](https://radiatortwo.github.io/rezepte/pics/sticky-spareribs-ahornsirup-sesam.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/sticky-spareribs-ahornsirup-sesam.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Chili Knoblauch Nudeln
 
-![](https://radiatortwo.github.io/rezepte/pics/chili_garlic_noodles.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/chili_garlic_noodles.webp)
 
 Portionen: 2
 

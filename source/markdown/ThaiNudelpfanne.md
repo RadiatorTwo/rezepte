@@ -1,6 +1,6 @@
 # Thai Nudelpfanne
 
-![](https://radiatortwo.github.io/rezepte/pics/thai_nudeln.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/thai_nudeln.webp)
 
 Portionen: 2
 

@@ -1,6 +1,6 @@
 # Peanut Chili Oil Noodles
 
-![](https://radiatortwo.github.io/rezepte/pics/peanut-chili-oil-noodles.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/peanut-chili-oil-noodles.webp)
 
 Portionen: 2
 

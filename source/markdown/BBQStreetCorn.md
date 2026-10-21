@@ -1,6 +1,6 @@
 # BBQ Street Corn
 
-![](https://radiatortwo.github.io/rezepte/pics/bbq_street_corn.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/bbq_street_corn.webp)
 
 Portionen: 6
 

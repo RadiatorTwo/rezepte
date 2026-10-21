@@ -1,6 +1,6 @@
 # Oberlausitzer Schälklöße
 
-![](https://radiatortwo.github.io/rezepte/pics/oberlausitzer-schaelkloesse.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/oberlausitzer-schaelkloesse.webp)
 
 Portionen: 4
 

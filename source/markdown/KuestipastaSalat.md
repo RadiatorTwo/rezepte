@@ -1,6 +1,6 @@
 # Küstipasta-Salat
 
-![](https://radiatortwo.github.io/rezepte/pics/kuestipasta-salat.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/kuestipasta-salat.webp)
 
 Portionen: 4
 

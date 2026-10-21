@@ -1,6 +1,6 @@
 # Rindfleisch mit Gemüse in 20 Minuten
 
-![](https://radiatortwo.github.io/rezepte/pics/rindfleisch-mit-gemuese.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/rindfleisch-mit-gemuese.webp)
 
 Portionen: 2
 

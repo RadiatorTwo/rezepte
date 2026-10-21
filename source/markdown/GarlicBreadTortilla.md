@@ -1,6 +1,6 @@
 # Cheesy Garlic Bread Tortilla
 
-![](https://radiatortwo.github.io/rezepte/pics/cheese-tortilla.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/cheese-tortilla.webp)
 
 Portionen: 1
 

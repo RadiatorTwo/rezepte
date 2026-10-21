@@ -1,6 +1,6 @@
 # Gerösteter Kartoffel-Salat
 
-![](https://radiatortwo.github.io/rezepte/pics/geroesteter-kartoffel-salat.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/geroesteter-kartoffel-salat.webp)
 
 Portionen: 2
 

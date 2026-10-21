@@ -1,6 +1,6 @@
 # Käsebrötchen
 
-![](https://radiatortwo.github.io/rezepte/pics/kaesebroetchen.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/kaesebroetchen.webp)
 
 Portionen: 6
 

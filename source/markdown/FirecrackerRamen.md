@@ -1,6 +1,6 @@
 # Firecracker Ramen
 
-![](https://radiatortwo.github.io/rezepte/pics/firecracker-ramen.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/firecracker-ramen.webp)
 
 Portionen: 2
 

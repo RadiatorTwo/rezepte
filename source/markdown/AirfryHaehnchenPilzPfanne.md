@@ -1,6 +1,6 @@
 # Hähnchen-Pilz-Pfanne aus der Heißluftfritteuse
 
-![](https://radiatortwo.github.io/rezepte/pics/airfry-haehnchen-pilz-pfanne.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfry-haehnchen-pilz-pfanne.webp)
 
 Portionen: 4
 

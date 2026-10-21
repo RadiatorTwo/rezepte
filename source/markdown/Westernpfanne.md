@@ -1,6 +1,6 @@
 # Westernpfanne mit Hackfleisch
 
-![](https://radiatortwo.github.io/rezepte/pics/westernpfanne.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/westernpfanne.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Thai Curry Shrimp
 
-![](https://radiatortwo.github.io/rezepte/pics/thai-curry-shrimp.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/thai-curry-shrimp.webp)
 
 Portionen: 4
 

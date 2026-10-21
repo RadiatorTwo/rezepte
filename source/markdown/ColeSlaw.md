@@ -1,6 +1,6 @@
 # Cole Slaw
 
-![](https://radiatortwo.github.io/rezepte/pics/cole_slaw.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/cole_slaw.webp)
 
 Portionen: 4
 

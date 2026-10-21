@@ -1,6 +1,6 @@
 # Aufgeschlagene Honigbutter
 
-![](https://radiatortwo.github.io/rezepte/pics/honigbutter.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/honigbutter.webp)
 
 Portionen: 1 (ergibt ca. 600 g)
 

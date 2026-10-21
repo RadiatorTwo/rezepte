@@ -1,6 +1,6 @@
 # Spaghetti Alfredo mit Garnelen in Cremiger Parmesan-Sauce
 
-![](https://radiatortwo.github.io/rezepte/pics/SpaghettiAlfredo.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/SpaghettiAlfredo.webp)
 
 Portionen: 2
 

@@ -1,6 +1,6 @@
 # Bacon Cheeseburger Tortellini
 
-![](https://radiatortwo.github.io/rezepte/pics/bacon-cheeseburger-tortellini.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/bacon-cheeseburger-tortellini.webp)
 
 Portionen: 4
 

@@ -1,6 +1,6 @@
 # Dampfnudeln
 
-![](https://radiatortwo.github.io/rezepte/pics/dampfnudeln.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/dampfnudeln.webp)
 
 Portionen: 6
 

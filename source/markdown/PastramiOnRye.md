@@ -1,6 +1,6 @@
 # Klassisches New Yorker Pastrami auf Roggenbrot
 
-![](https://radiatortwo.github.io/rezepte/pics/pastrami-on-rye.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pastrami-on-rye.webp)
 
 Portionen: 2
 

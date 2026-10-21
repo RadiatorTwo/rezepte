@@ -1,6 +1,6 @@
 # BBQ-Nudelsalat
 
-![](https://radiatortwo.github.io/rezepte/pics/bbq_nudelsalat.jpeg)
+![](https://radiatortwo.github.io/rezepte/pics/bbq_nudelsalat.webp)
 
 Portionen: 10
 

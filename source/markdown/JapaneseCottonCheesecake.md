@@ -1,6 +1,6 @@
 # Japanese Cotton Cheesecake
 
-![](https://radiatortwo.github.io/rezepte/pics/japanese-cotton-cheesecake.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/japanese-cotton-cheesecake.webp)
 
 Portionen: 8
 

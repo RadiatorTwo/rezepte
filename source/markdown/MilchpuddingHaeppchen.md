@@ -1,6 +1,6 @@
 # Milchpudding-Häppchen
 
-![](https://radiatortwo.github.io/rezepte/pics/milchpudding-haeppchen.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/milchpudding-haeppchen.webp)
 
 Portionen: 4
 

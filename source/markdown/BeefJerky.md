@@ -1,6 +1,6 @@
 # Beef Jerky
 
-![](https://radiatortwo.github.io/rezepte/pics/beef_jerky.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/beef_jerky.webp)
 
 Portionen: 1
 

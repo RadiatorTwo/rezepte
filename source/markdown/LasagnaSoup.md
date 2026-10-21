@@ -1,6 +1,6 @@
 # Lasagna Soup
 
-![](https://radiatortwo.github.io/rezepte/pics/lasagna-soup.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/lasagna-soup.webp)
 
 Portionen: 6
 

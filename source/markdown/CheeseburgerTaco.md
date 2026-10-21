@@ -1,6 +1,6 @@
 # Cheeseburger Tacos
 
-![](https://radiatortwo.github.io/rezepte/pics/cheeseburger-taco.png)
+![](https://radiatortwo.github.io/rezepte/pics/cheeseburger-taco.webp)
 
 Portionen: 4
 

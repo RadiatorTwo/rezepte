@@ -1,6 +1,6 @@
 # Gyrosblech
 
-![](https://radiatortwo.github.io/rezepte/pics/gyrosblech.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/gyrosblech.webp)
 
 Portionen: 6
 

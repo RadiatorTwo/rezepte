@@ -1,6 +1,6 @@
 # Birria Pasta
 
-![](https://radiatortwo.github.io/rezepte/pics/birria-pasta.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/birria-pasta.webp)
 
 Portionen: 4
 

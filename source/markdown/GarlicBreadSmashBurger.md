@@ -1,6 +1,6 @@
 # Garlic Bread Smash Burger
 
-![](https://radiatortwo.github.io/rezepte/pics/garlic-bread-smash-burger.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/garlic-bread-smash-burger.webp)
 
 Portionen: 1
 

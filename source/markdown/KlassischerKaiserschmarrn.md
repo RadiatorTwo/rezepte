@@ -1,6 +1,6 @@
 # Klassischer Kaiserschmarrn
 
-![](https://radiatortwo.github.io/rezepte/pics/klassischer-kaiserschmarrn.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/klassischer-kaiserschmarrn.webp)
 
 Portionen: 2
 

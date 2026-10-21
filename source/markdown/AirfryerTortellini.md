@@ -1,6 +1,6 @@
 # Airfryer Tortellini
 
-![](https://radiatortwo.github.io/rezepte/pics/airfryer-tortellini.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/airfryer-tortellini.webp)
 
 Portionen: 1
 

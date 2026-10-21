@@ -1,6 +1,6 @@
 # Schneller Salat
 
-![](https://radiatortwo.github.io/rezepte/pics/schneller-salat.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/schneller-salat.webp)
 
 Portionen: 2
 

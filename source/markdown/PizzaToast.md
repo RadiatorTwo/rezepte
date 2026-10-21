@@ -1,6 +1,6 @@
 # Pizza Toast
 
-![](https://radiatortwo.github.io/rezepte/pics/pizza-toast.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/pizza-toast.webp)
 
 Portionen: 6
 

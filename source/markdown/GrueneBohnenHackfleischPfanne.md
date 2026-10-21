@@ -1,6 +1,6 @@
 # Grüne Bohnen Hackfleisch Pfanne mit Reis, Paprika & Mais
 
-![](https://radiatortwo.github.io/rezepte/pics/gruene-bohnen-hackfleisch-pfanne.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/gruene-bohnen-hackfleisch-pfanne.webp)
 
 Portionen: 4
 

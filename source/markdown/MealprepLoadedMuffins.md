@@ -1,6 +1,6 @@
 # Loaded Breakfast McMuffins
 
-![](https://radiatortwo.github.io/rezepte/pics/breakfest-mcmuffin.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/breakfest-mcmuffin.webp)
 
 Portionen: 6
 

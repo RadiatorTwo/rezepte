@@ -1,6 +1,6 @@
 # Mikrowellen-Omelette
 
-![](https://radiatortwo.github.io/rezepte/pics/mikrowellen-omelette.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/mikrowellen-omelette.webp)
 
 Portionen: 1
 

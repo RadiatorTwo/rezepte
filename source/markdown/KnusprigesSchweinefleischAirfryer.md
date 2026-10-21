@@ -1,6 +1,6 @@
 # Knuspriges Schweinefleisch aus dem Airfryer
 
-![](https://radiatortwo.github.io/rezepte/pics/knuspriges-schweinefleisch-airfryer.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/knuspriges-schweinefleisch-airfryer.webp)
 
 Portionen: 4
 

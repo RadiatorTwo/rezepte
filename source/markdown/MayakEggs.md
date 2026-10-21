@@ -1,6 +1,6 @@
 # Koreanische Drogeneiner (Mayak Eggs)
 
-![](https://radiatortwo.github.io/rezepte/pics/mayak_eggs.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/mayak_eggs.webp)
 
 Portionen: 3
 

@@ -1,6 +1,6 @@
 # Garlic Chilli Chicken
 
-![](https://radiatortwo.github.io/rezepte/pics/garlic-chilli-chicken.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/garlic-chilli-chicken.webp)
 
 Portionen: 1
 

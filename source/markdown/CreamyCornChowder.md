@@ -1,6 +1,6 @@
 # Cremige Maissuppe mit Bacon
 
-![](https://radiatortwo.github.io/rezepte/pics/creamy-corn-chowder.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/creamy-corn-chowder.webp)
 
 Portionen: 4
 

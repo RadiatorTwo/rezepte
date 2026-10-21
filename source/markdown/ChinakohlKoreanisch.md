@@ -1,6 +1,6 @@
 # Chinakohl nach koreanischer Art
 
-![](https://radiatortwo.github.io/rezepte/pics/chinakohl-koreanisch.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/chinakohl-koreanisch.webp)
 
 Portionen: 6
 

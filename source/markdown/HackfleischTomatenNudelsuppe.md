@@ -1,6 +1,6 @@
 # Hackfleisch-Tomaten-Nudelsuppe mit Joghurt-Einlage
 
-![](https://radiatortwo.github.io/rezepte/pics/hackfleisch-tomaten-nudelsuppe.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/hackfleisch-tomaten-nudelsuppe.webp)
 
 Portionen: 4
 

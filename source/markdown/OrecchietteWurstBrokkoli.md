@@ -1,6 +1,6 @@
 # Orecchiette mit italienischer Wurst und Brokkoli
 
-![](https://radiatortwo.github.io/rezepte/pics/orecchiette-wurst-brokkoli.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/orecchiette-wurst-brokkoli.webp)
 
 Portionen: 4
 

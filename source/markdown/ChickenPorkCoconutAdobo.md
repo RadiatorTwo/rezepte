@@ -1,6 +1,6 @@
 # Chicken and Pork Coconut Adobo
 
-![](https://radiatortwo.github.io/rezepte/pics/chicken-pork-coconut-adobo.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/chicken-pork-coconut-adobo.webp)
 
 Portionen: 4
 

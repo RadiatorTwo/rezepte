@@ -1,6 +1,6 @@
 # Frühstücksbrot
 
-![](https://radiatortwo.github.io/rezepte/pics/fruehstuecks_brot.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/fruehstuecks_brot.webp)
 
 Portionen: 4
 

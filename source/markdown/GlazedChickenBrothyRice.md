@@ -1,6 +1,6 @@
 # Glasiertes Hähnchen mit cremiger Brühe und Reis
 
-![](https://radiatortwo.github.io/rezepte/pics/glazed-chicken-brothy-rice.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/glazed-chicken-brothy-rice.webp)
 
 Portionen: 4
 

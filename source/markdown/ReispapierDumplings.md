@@ -1,6 +1,6 @@
 # Knusprige Reispapier-Dumplings
 
-![](https://radiatortwo.github.io/rezepte/pics/reispapier-dumplings.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/reispapier-dumplings.webp)
 
 Portionen: 8 Dumplings
 

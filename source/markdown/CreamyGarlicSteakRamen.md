@@ -1,6 +1,6 @@
 # Cremige Knoblauch-Steak-Ramen
 
-![](https://radiatortwo.github.io/rezepte/pics/creamy-garlic-steak-ramen.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/creamy-garlic-steak-ramen.webp)
 
 Portionen: 2
 
