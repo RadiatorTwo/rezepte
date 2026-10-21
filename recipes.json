@@ -1,5 +1,115 @@
 [
   {
+    "id": "Kaesespaetzle",
+    "title": "Käsespätzle",
+    "image": "https://radiatortwo.github.io/rezepte/pics/kaesespaetzle.webp",
+    "ingredients": [
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Spätzle",
+        "group": "",
+        "original": "150 g Spätzle"
+      },
+      {
+        "amount": 40.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Bergkäse",
+        "group": "",
+        "original": "40 g Bergkäse"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Emmentaler",
+        "group": "",
+        "original": "50 g Emmentaler"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1/2 Zwiebel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Schluck",
+        "name": "Gemüsefond",
+        "group": "",
+        "original": "1 Schluck Gemüsefond"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Handvoll",
+        "name": "Röstzwiebeln",
+        "group": "",
+        "original": "1 Handvoll Röstzwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Butterschmalz oder Öl zum Braten",
+        "group": "",
+        "original": "Butterschmalz oder Öl zum Braten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz & Pfeffer",
+        "group": "",
+        "original": "Salz & Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schnittlauch zum Garnieren",
+        "group": "",
+        "original": "Schnittlauch zum Garnieren"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Bergkäse und Emmentaler grob reiben. Die Zwiebel fein schneiden.",
+        "group": ""
+      },
+      {
+        "text": "Eine kleine Pfanne auf kleinster Flamme erhitzen und etwas Butterschmalz hineingeben. Die Zwiebeln darin anbraten.",
+        "group": ""
+      },
+      {
+        "text": "Die Spätzle hinzufügen, mit Salz und Pfeffer würzen und anbraten, bis sie Farbe bekommen.",
+        "group": ""
+      },
+      {
+        "text": "Den geriebenen Käse über die Spätzle geben. Einen Schluck Gemüsefond hinzufügen und rühren, bis der Käse geschmolzen ist und der Fond reduziert ist.",
+        "group": ""
+      },
+      {
+        "text": "Die Käsespätzle etwas länger auf dem Herd lassen, damit sich am Pfannenboden eine Kruste bildet. Diese mit dem Holzlöffel abkratzen und unterheben.",
+        "group": ""
+      },
+      {
+        "text": "Mit Röstzwiebeln und Schnittlauch garnieren und servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Die Kruste am Pfannenboden ist das Beste an den Spätzle."
+    ],
+    "category": "Österreichisch",
+    "servings": 1
+  },
+  {
     "id": "PfannenLasagne",
     "title": "Pfannen-Lasagne",
     "image": "https://radiatortwo.github.io/rezepte/pics/pfannen-lasagne.webp",
