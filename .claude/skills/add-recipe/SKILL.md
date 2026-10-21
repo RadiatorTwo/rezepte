@@ -33,7 +33,7 @@ source/markdown/VORLAGE.md
 Halte dich exakt an deren Struktur:
 
 - `# Rezeptname` als Überschrift
-- Bild-Zeile: `![](https://radiatortwo.github.io/rezepte/pics/<bilddatei>.jpg)`
+- Bild-Zeile: `![](https://radiatortwo.github.io/rezepte/pics/<bilddatei>.webp)` — immer `.webp`, auch wenn die Vorlage `.jpg` zeigt
 - `Portionen: <n>`
 - `## Zutaten` mit optionalen Untergruppen `### Hauptzutaten`, `### Für die Sauce` etc.
 - `## Zubereitung` mit optionalen Untergruppen passend zu den Zutatengruppen
@@ -46,7 +46,7 @@ Wenn das Rezept nur einen einzigen Zutaten- bzw. Zubereitungsblock hat, dürfen 
 ### 3. Dateinamen für Rezept und Bild bestimmen
 
 - **Rezept-Dateiname**: PascalCase ohne Leerzeichen, ohne Umlaute (`ä→ae`, `ö→oe`, `ü→ue`, `ß→ss`), ohne Sonderzeichen, Endung `.md`. Beispiele: `KartoffelSuppe.md`, `BangBangShrimp.md`, `GrueneBohnenHackfleischPfanne.md`.
-- **Bild-Dateiname**: Kleinbuchstaben, Wörter durch Bindestriche getrennt, ohne Umlaute/Sonderzeichen, Endung `.jpg`. Beispiel: `gruene-bohnen-hackfleisch-pfanne.jpg`.
+- **Bild-Dateiname**: Kleinbuchstaben, Wörter durch Bindestriche getrennt, ohne Umlaute/Sonderzeichen, Endung `.webp`. Beispiel: `gruene-bohnen-hackfleisch-pfanne.webp`.
 - Vor dem Schreiben mit `Glob` prüfen, ob der Rezept-Dateiname unter `source/markdown/` bereits existiert. Falls ja, hänge eine sinnvolle Unterscheidung an (z. B. Variante, Stilrichtung) — nicht einfach Zahlen.
 
 ### 4. Rezeptdatei schreiben
@@ -60,7 +60,7 @@ source/markdown/<RezeptDateiname>.md
 Inhalt strikt nach Vorlage. Die Bild-URL lautet:
 
 ```
-![](https://radiatortwo.github.io/rezepte/pics/<bild-dateiname>.jpg)
+![](https://radiatortwo.github.io/rezepte/pics/<bild-dateiname>.webp)
 ```
 
 Achte auf:
@@ -89,7 +89,7 @@ Antworte am Ende **kurz** mit:
 
 1. Welche Datei angelegt wurde (Pfad).
 2. In welche Gruppe der index.md-Eintrag eingefügt wurde.
-3. **Den benötigten Bild-Dateinamen** (z. B. `gruene-bohnen-hackfleisch-pfanne.jpg`) klar hervorgehoben — dieser wird im Anschluss vom Benutzer für das Rezept-Bild verwendet.
+3. **Den benötigten Bild-Dateinamen** (z. B. `gruene-bohnen-hackfleisch-pfanne.webp`) klar hervorgehoben — dieser wird im Anschluss vom Benutzer für das Rezept-Bild verwendet.
 
 ## Wichtige Regeln
 
