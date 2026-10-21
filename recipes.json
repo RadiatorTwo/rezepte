@@ -1,5 +1,133 @@
 [
   {
+    "id": "MacAndCheese",
+    "title": "Mac and Cheese – ultra cremig & einfach",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mac-and-cheese.webp",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Makkaroni",
+        "group": "",
+        "original": "300 g Makkaroni"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Cheddar",
+        "group": "",
+        "original": "200 g Cheddar"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Gruyère oder Emmentaler",
+        "group": "",
+        "original": "100 g Gruyère oder Emmentaler"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter",
+        "group": "",
+        "original": "30 g Butter"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mehl",
+        "group": "",
+        "original": "30 g Mehl"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch",
+        "group": "",
+        "original": "400 ml Milch"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "100 ml Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Dijon-Senf",
+        "group": "",
+        "original": "1 TL Dijon-Senf"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frisch geriebene Muskatnuss",
+        "group": "",
+        "original": "Frisch geriebene Muskatnuss"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz & Pfeffer",
+        "group": "",
+        "original": "Salz & Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Prise",
+        "name": "Cayennepfeffer (optional)",
+        "group": "",
+        "original": "1 Prise Cayennepfeffer (optional)"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Makkaroni in kochendem Salzwasser al dente garen, durch ein Sieb gießen und abtropfen lassen.",
+        "group": ""
+      },
+      {
+        "text": "In einer tiefen Pfanne die Butter schmelzen lassen und das Mehl einrühren. Nach und nach die Milch unter Rühren hinzufügen, bis eine cremige Béchamelsauce entsteht.",
+        "group": ""
+      },
+      {
+        "text": "Die Sahne unterrühren und alles kurz aufkochen lassen. Mit Dijon-Senf, Muskatnuss, Salz, Pfeffer und Cayennepfeffer abschmecken.",
+        "group": ""
+      },
+      {
+        "text": "Den Herd ausschalten. Den Großteil des Cheddars und den gesamten Gruyère unterrühren, bis der Käse geschmolzen ist.",
+        "group": ""
+      },
+      {
+        "text": "Die Makkaroni zur Käsesoße geben und gut vermengen. Direkt aus der Pfanne servieren.",
+        "group": ""
+      },
+      {
+        "text": "Für die Ofen-Variante: Mac and Cheese in eine gefettete Auflaufform geben, mit dem restlichen Cheddar bestreuen und bei 200 °C Ober-/Unterhitze 25-30 Minuten goldbraun backen.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Die Pasta sollte noch Biss haben.",
+      "Bei der Ofen-Variante nach dem Backen 10 Minuten abkühlen lassen, damit sich alles setzen kann.",
+      "Quelle: https://www.youtube.com/watch?v=Z81DJK4wt28"
+    ],
+    "category": "Pasta & Nudeln",
+    "servings": 4
+  },
+  {
     "id": "Kaesespaetzle",
     "title": "Käsespätzle",
     "image": "https://radiatortwo.github.io/rezepte/pics/kaesespaetzle.webp",
