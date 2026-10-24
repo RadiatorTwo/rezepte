@@ -1,5 +1,361 @@
 [
   {
+    "id": "ZharkoePoDerevenski",
+    "title": "Schmorfleisch nach Landart (Жаркое по-деревенски)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/zharkoe-po-derevenski.webp",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Fleisch (z.B. Schweineschulter oder -nacken)",
+        "group": "Hauptzutaten",
+        "original": "1 kg Fleisch (z.B. Schweineschulter oder -nacken)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Kartoffeln",
+        "group": "Hauptzutaten",
+        "original": "1 kg Kartoffeln"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zwiebeln",
+        "group": "Hauptzutaten",
+        "original": "250 g Zwiebeln"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Paprika",
+        "group": "Hauptzutaten",
+        "original": "400 g Paprika"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Karotten",
+        "group": "Hauptzutaten",
+        "original": "200 g Karotten"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Brühe (Hühner- oder Gemüsebrühe)",
+        "group": "Hauptzutaten",
+        "original": "200 ml Brühe (Hühner- oder Gemüsebrühe)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "mittlere",
+        "name": "oder 3 kleine Lorbeerblätter",
+        "group": "Gewürze",
+        "original": "2 mittlere oder 3 kleine Lorbeerblätter"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "schwarzer Pfeffer",
+        "group": "Gewürze",
+        "original": "1 TL schwarzer Pfeffer"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "edelsüßes Paprikapulver",
+        "group": "Gewürze",
+        "original": "1 TL edelsüßes Paprikapulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Chmeli-Suneli",
+        "group": "Gewürze",
+        "original": "1 TL Chmeli-Suneli"
+      },
+      {
+        "amount": 0.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "gemahlener Koriander",
+        "group": "Gewürze",
+        "original": "0,5 TL gemahlener Koriander"
+      },
+      {
+        "amount": 1.5,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Gewürze",
+        "original": "1,5 TL Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Scharfer gemahlener Pfeffer nach Geschmack",
+        "group": "Gewürze",
+        "original": "Scharfer gemahlener Pfeffer nach Geschmack"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Knoblauch",
+        "group": "Zum Verfeinern",
+        "original": "20 g Knoblauch"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Koriandergrün",
+        "group": "Zum Verfeinern",
+        "original": "30 g Koriandergrün"
+      },
+      {
+        "amount": 15.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Petersilie",
+        "group": "Zum Verfeinern",
+        "original": "15 g Petersilie"
+      },
+      {
+        "amount": 15.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Dill",
+        "group": "Zum Verfeinern",
+        "original": "15 g Dill"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Fleisch und Kartoffeln in gleich große Stücke schneiden.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Karotten in Halbringe, Paprika und Zwiebeln in grobe Stücke schneiden.",
+        "group": "Vorbereitung"
+      },
+      {
+        "text": "Das Fleisch bei starker Hitze rundum goldbraun anbraten und in ein separates Gefäß umfüllen.",
+        "group": "Anbraten"
+      },
+      {
+        "text": "Nacheinander Paprika, Karotten und Zwiebeln jeweils bei starker Hitze anbraten und jede Zutat anschließend zum Fleisch geben.",
+        "group": "Anbraten"
+      },
+      {
+        "text": "Alle angebratenen Zutaten in einem Topf vereinen, Kartoffeln, Gewürze und Salz hinzufügen und mit der Brühe aufgießen.",
+        "group": "Schmoren"
+      },
+      {
+        "text": "Gründlich umrühren, mit einem Deckel abdecken und schmoren, bis die Kartoffeln gar sind.",
+        "group": "Schmoren"
+      },
+      {
+        "text": "Die Kräuter fein hacken und zusammen mit dem gepressten Knoblauch unter das fertige Gericht heben.",
+        "group": "Fertigstellung"
+      },
+      {
+        "text": "Abgedeckt 5 Minuten ziehen lassen und servieren.",
+        "group": "Fertigstellung"
+      }
+    ],
+    "notes": [
+      "Für einen zarteren Geschmack Schweineschulter verwenden, für einen saftigeren, fettigeren Schweinenacken.",
+      "Das getrennte Anbraten der Zutaten ist das Geheimnis für den intensiven Geschmack.",
+      "Quelle: https://youtu.be/OP65Ticvlu8"
+    ],
+    "category": "Russisch",
+    "servings": 6
+  },
+  {
+    "id": "FleischMitKartoffelnImOfen",
+    "title": "Fleisch mit Kartoffeln im Ofen (Мясо с картошкой в духовке)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/fleisch-mit-kartoffeln-im-ofen.webp",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Schweinenacken",
+        "group": "Fleisch & Marinade",
+        "original": "2 kg Schweinenacken"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zwiebeln",
+        "group": "Fleisch & Marinade",
+        "original": "200 g Zwiebeln"
+      },
+      {
+        "amount": 20.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Tafelessig (5 %)",
+        "group": "Fleisch & Marinade",
+        "original": "20 g Tafelessig (5 %)"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Sonnenblumenöl",
+        "group": "Fleisch & Marinade",
+        "original": "30 g Sonnenblumenöl"
+      },
+      {
+        "amount": 15.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Adjika",
+        "group": "Fleisch & Marinade",
+        "original": "15 g Adjika"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Fleisch & Marinade",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schwarzer Pfeffer",
+        "group": "Fleisch & Marinade",
+        "original": "Schwarzer Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprikapulver",
+        "group": "Fleisch & Marinade",
+        "original": "Paprikapulver"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "kg",
+        "name": "Kartoffeln",
+        "group": "Kartoffeln",
+        "original": "2 kg Kartoffeln"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "Kartoffeln",
+        "original": "3 Knoblauchzehen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pflanzenöl",
+        "group": "Kartoffeln",
+        "original": "Pflanzenöl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "Kartoffeln",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Koriandergrün",
+        "group": "Zum Servieren",
+        "original": "Koriandergrün"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schmand (Smetana)",
+        "group": "Für die Soße",
+        "original": "Schmand (Smetana)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Mayonnaise",
+        "group": "Für die Soße",
+        "original": "Mayonnaise"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Meerrettich",
+        "group": "Für die Soße",
+        "original": "Meerrettich"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Schweinenacken in portionsgroße Steaks schneiden. Mit schwarzem Pfeffer, Paprikapulver und Salz bestreuen, sodass die Gewürze gleichmäßig verteilt sind.",
+        "group": "Fleisch marinieren"
+      },
+      {
+        "text": "Die Zwiebeln in Halbringe schneiden, etwas salzen und mit den Händen durchkneten, bis sie Saft ziehen. Essig, etwas Sonnenblumenöl und Adjika hinzufügen, vermischen und das Fleisch in die Marinade geben.",
+        "group": "Fleisch marinieren"
+      },
+      {
+        "text": "Die Kartoffeln mit Salz, etwas Pflanzenöl und gepresstem Knoblauch direkt im Bratschlauch vermengen.",
+        "group": "Kartoffeln vorbereiten"
+      },
+      {
+        "text": "Das Fleisch in einer Schicht auf die Kartoffeln in den Bratschlauch legen. Den Schlauch verschließen und 2-3 kleine Löcher für den Dampf hineinstechen.",
+        "group": "Backen"
+      },
+      {
+        "text": "Im auf 190 °C vorgeheizten Ofen 1 Stunde backen.",
+        "group": "Backen"
+      },
+      {
+        "text": "Den Bratschlauch vorsichtig öffnen und weitere 5-10 Minuten backen, bis eine goldbraune Kruste entsteht.",
+        "group": "Backen"
+      },
+      {
+        "text": "Das fertige Fleisch mit gehacktem Koriandergrün bestreuen. Für die Soße Schmand, Mayonnaise und Meerrettich verrühren.",
+        "group": "Servieren"
+      }
+    ],
+    "notes": [
+      "Im Bratschlauch schmoren Fleisch und Kartoffeln im eigenen Saft und werden dadurch besonders weich.",
+      "Ohne Bratschlauch die Garzeit verlängern.",
+      "Quelle: https://www.youtube.com/watch?v=f3RNB3EcXg8"
+    ],
+    "category": "Russisch",
+    "servings": 6
+  },
+  {
     "id": "MacAndCheese",
     "title": "Mac and Cheese – ultra cremig & einfach",
     "image": "https://radiatortwo.github.io/rezepte/pics/mac-and-cheese.webp",
