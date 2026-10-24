@@ -152,6 +152,8 @@
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
+* [Schmorfleisch nach Landart (Жаркое по-деревенски)](https://radiatortwo.github.io/rezepte/ZharkoePoDerevenski)
+* [Fleisch mit Kartoffeln im Ofen (Мясо с картошкой в духовке)](https://radiatortwo.github.io/rezepte/FleischMitKartoffelnImOfen)
 
 ## Italienisch
 * [Pizza Lievito Madre](https://radiatortwo.github.io/rezepte/PizzaLievitoMadre)
