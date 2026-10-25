@@ -56,6 +56,9 @@
 * [Garlic Chilli Chicken](https://radiatortwo.github.io/rezepte/GarlicChilliChicken)
 * [Chicken Chukauni (Nepal Style)](https://radiatortwo.github.io/rezepte/ChickenChukauni)
 * [Knoblauch-Garnelen mit Limonenpilzen und Reis](https://radiatortwo.github.io/rezepte/KnoblauchGarnelenLimonenpilze)
+* [Hähnchen mit Soja und Knoblauch](https://radiatortwo.github.io/rezepte/HaehnchenSojaKnoblauchTteok)
+* [Rind mit Austernsauce und Nian Gao](https://radiatortwo.github.io/rezepte/RindAusternsauceNianGao)
+* [Rosé-Tteok](https://radiatortwo.github.io/rezepte/RoseTteok)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
