@@ -1,5 +1,409 @@
 [
   {
+    "id": "HaehnchenSojaKnoblauchTteok",
+    "title": "Hähnchen mit Soja und Knoblauch",
+    "image": "https://radiatortwo.github.io/rezepte/pics/haehnchen-soja-knoblauch-tteok.webp",
+    "ingredients": [
+      {
+        "amount": 350.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchenschenkel ohne Knochen, in 3 cm großen Stücken",
+        "group": "",
+        "original": "350 g Hähnchenschenkel ohne Knochen, in 3 cm großen Stücken"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Tteok",
+        "group": "",
+        "original": "250 g Tteok"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1 Zwiebel"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Paprika",
+        "name": "oder 150 g grüne Bohnen",
+        "group": "",
+        "original": "1 Paprika oder 150 g grüne Bohnen"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen, in Scheiben",
+        "group": "",
+        "original": "3 Knoblauchzehen, in Scheiben"
+      },
+      {
+        "amount": 3.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "",
+        "original": "3 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Austernsauce",
+        "group": "",
+        "original": "1 EL Austernsauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mirin",
+        "group": "",
+        "original": "1 EL Mirin"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zucker",
+        "group": "",
+        "original": "1 TL Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sesamöl",
+        "group": "",
+        "original": "1 EL Sesamöl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "",
+        "original": "2 Frühlingszwiebeln"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sesam",
+        "group": "",
+        "original": "1 EL Sesam"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Braten",
+        "group": "",
+        "original": "Öl zum Braten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Hähnchen trocken tupfen und salzen. In einer heißen Pfanne 6–7 Minuten mit der Hautseite nach unten braten, wenden, herausnehmen.",
+        "group": ""
+      },
+      {
+        "text": "Zwiebel und Paprika im Bratfett 2 Minuten anbraten, Knoblauch 30 Sekunden mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Tteok, Sojasauce, Austernsauce, Mirin, Zucker und 100 ml Wasser zugeben. 4 Minuten köcheln.",
+        "group": ""
+      },
+      {
+        "text": "Hähnchen zurück in die Pfanne geben und 1 Minute durchziehen lassen.",
+        "group": ""
+      },
+      {
+        "text": "Sesamöl, Frühlingszwiebel und Sesam darüber geben.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
+    "id": "RindAusternsauceNianGao",
+    "title": "Rind mit Austernsauce und Nian Gao",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rind-austernsauce-nian-gao.webp",
+    "ingredients": [
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rind, in Streifen",
+        "group": "Rind und Marinade",
+        "original": "250 g Rind, in Streifen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Rind und Marinade",
+        "original": "1 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Shaoxing-Wein (oder trockener Sherry)",
+        "group": "Rind und Marinade",
+        "original": "1 TL Shaoxing-Wein (oder trockener Sherry)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Speisestärke",
+        "group": "Rind und Marinade",
+        "original": "1 TL Speisestärke"
+      },
+      {
+        "amount": 250.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Nian Gao in Scheiben, 30 Minuten gewässert",
+        "group": "Außerdem",
+        "original": "250 g Nian Gao in Scheiben, 30 Minuten gewässert"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Brokkoli oder Pak Choi",
+        "group": "Außerdem",
+        "original": "150 g Brokkoli oder Pak Choi"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebeln",
+        "group": "Außerdem",
+        "original": "2 Frühlingszwiebeln"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Außerdem",
+        "original": "1 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Austernsauce",
+        "group": "Außerdem",
+        "original": "1 EL Austernsauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Zucker",
+        "group": "Außerdem",
+        "original": "1 TL Zucker"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Rinderbrühe",
+        "group": "Außerdem",
+        "original": "150 ml Rinderbrühe"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Weißer Pfeffer",
+        "group": "Außerdem",
+        "original": "Weißer Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Braten",
+        "group": "Außerdem",
+        "original": "Öl zum Braten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Rind mit Sojasauce, Shaoxing-Wein und Speisestärke mischen und 15 Minuten marinieren.",
+        "group": ""
+      },
+      {
+        "text": "Wok oder Pfanne sehr stark erhitzen. Rind 30–45 Sekunden scharf anbraten, herausnehmen.",
+        "group": ""
+      },
+      {
+        "text": "Brokkoli 1 Minute anbraten. Nian Gao, Brühe, Sojasauce, Austernsauce und Zucker zugeben und 2–3 Minuten köcheln, bis die Soße glasig am Reiskuchen klebt.",
+        "group": ""
+      },
+      {
+        "text": "Rind zurück in den Wok geben und mit weißem Pfeffer und Frühlingszwiebel abschließen.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
+    "id": "RoseTteok",
+    "title": "Rosé-Tteok",
+    "image": "https://radiatortwo.github.io/rezepte/pics/rose-tteok.webp",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Tteok",
+        "group": "",
+        "original": "300 g Tteok"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Speck oder Salsiccia",
+        "group": "",
+        "original": "100 g Speck oder Salsiccia"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "1 Zwiebel"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Knoblauchzehen",
+        "group": "",
+        "original": "2 Knoblauchzehen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "1½ EL Gochujang",
+        "group": "",
+        "original": "1½ EL Gochujang"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Gochugaru",
+        "group": "",
+        "original": "1 EL Gochugaru"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "150 ml Sahne"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "",
+        "original": "100 ml Wasser"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zucker",
+        "group": "",
+        "original": "1 EL Zucker"
+      },
+      {
+        "amount": 30.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Parmesan",
+        "group": "",
+        "original": "30 g Parmesan"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Mozzarella",
+        "group": "",
+        "original": "80 g Mozzarella"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Frühlingszwiebel",
+        "group": "",
+        "original": "Frühlingszwiebel"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Tteok wässern.",
+        "group": ""
+      },
+      {
+        "text": "Speck und Zwiebel anbraten, Knoblauch kurz mitbraten.",
+        "group": ""
+      },
+      {
+        "text": "Gochujang und Gochugaru 1 Minute mitrösten.",
+        "group": ""
+      },
+      {
+        "text": "Wasser und Tteok zugeben und 5 Minuten köcheln. Sahne und Zucker einrühren.",
+        "group": ""
+      },
+      {
+        "text": "Parmesan unterrühren, Mozzarella auflegen und schmelzen lassen. Frühlingszwiebel darüber geben.",
+        "group": ""
+      }
+    ],
+    "notes": [],
+    "category": "Asiatisch",
+    "servings": 2
+  },
+  {
     "id": "ZharkoePoDerevenski",
     "title": "Schmorfleisch nach Landart (Жаркое по-деревенски)",
     "image": "https://radiatortwo.github.io/rezepte/pics/zharkoe-po-derevenski.webp",
