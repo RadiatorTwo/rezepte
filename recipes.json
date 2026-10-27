@@ -1,5 +1,525 @@
 [
   {
+    "id": "BratwurstPfanneJaegerArt",
+    "title": "Bratwurst Pfanne nach Jäger Art",
+    "image": "https://radiatortwo.github.io/rezepte/pics/bratwurst-pfanne-jaeger-art.webp",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": 2.0,
+        "unit": "Bratwürste",
+        "name": "pro Person (grob oder gebrüht, je nach Größe und Hunger)",
+        "group": "",
+        "original": "1-2 Bratwürste pro Person (grob oder gebrüht, je nach Größe und Hunger)"
+      },
+      {
+        "amount": 400.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Champignons, in Scheiben geschnitten",
+        "group": "",
+        "original": "400 g Champignons, in Scheiben geschnitten"
+      },
+      {
+        "amount": 110.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zwiebeln, gewürfelt",
+        "group": "",
+        "original": "110 g Zwiebeln, gewürfelt"
+      },
+      {
+        "amount": 40.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Butter",
+        "group": "",
+        "original": "40 g Butter"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Mehl",
+        "group": "",
+        "original": "2 EL Mehl"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "",
+        "original": "150 ml Wasser"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Instant-Rinderbrühe",
+        "group": "",
+        "original": "1 TL Instant-Rinderbrühe"
+      },
+      {
+        "amount": 200.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "",
+        "original": "200 ml Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "getrockneter Thymian",
+        "group": "",
+        "original": "1 TL getrockneter Thymian"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "gehackte Petersilie",
+        "group": "",
+        "original": "2 EL gehackte Petersilie"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Anbraten",
+        "group": "",
+        "original": "Öl zum Anbraten"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "150 ml Wasser mit 1 TL Instant-Rinderbrühe und 200 ml Sahne verrühren.",
+        "group": ""
+      },
+      {
+        "text": "Die Bratwürste in einer Pfanne mit etwas Öl rundherum anbraten.",
+        "group": ""
+      },
+      {
+        "text": "Die Butter in die Pfanne geben, dann Zwiebeln und Champignons hinzufügen und mit anbraten.",
+        "group": ""
+      },
+      {
+        "text": "Mit 2 EL Mehl bestäuben und kurz anschwitzen.",
+        "group": ""
+      },
+      {
+        "text": "Mit der Brühe-Sahne-Mischung ablöschen.",
+        "group": ""
+      },
+      {
+        "text": "Thymian, Salz und Pfeffer hinzufügen und köcheln lassen, bis die Sauce eindickt.",
+        "group": ""
+      },
+      {
+        "text": "Mit gehackter Petersilie bestreuen und servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Zu diesem Gericht passen sehr viele Beilagen."
+    ],
+    "category": "Pfannengerichte",
+    "servings": 4
+  },
+  {
+    "id": "Mitraillette",
+    "title": "Belgisches Mitraillette-Sandwich",
+    "image": "https://radiatortwo.github.io/rezepte/pics/mitraillette.webp",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Ciabatta-Brötchen",
+        "group": "",
+        "original": "1 Ciabatta-Brötchen"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Rindersteak, in Streifen geschnitten",
+        "group": "",
+        "original": "1 Rindersteak, in Streifen geschnitten"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "ca. 100 g karamellisierte Zwiebeln",
+        "group": "",
+        "original": "ca. 100 g karamellisierte Zwiebeln"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "ca. 100 g knusprige Pommes frites",
+        "group": "",
+        "original": "ca. 100 g knusprige Pommes frites"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sauce nach Wahl",
+        "group": "",
+        "original": "2 EL Sauce nach Wahl"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "Scheiben",
+        "name": "Käse",
+        "group": "",
+        "original": "2 Scheiben Käse"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Ciabatta-Brötchen aufschneiden und goldbraun toasten.",
+        "group": ""
+      },
+      {
+        "text": "Die Rindersteak-Streifen in einer Pfanne bis zur gewünschten Garstufe braten.",
+        "group": ""
+      },
+      {
+        "text": "Die karamellisierten Zwiebeln und das gebratene Steak auf das getoastete Ciabatta schichten.",
+        "group": ""
+      },
+      {
+        "text": "Mit den knusprigen Pommes frites und 2 EL Sauce nach Wahl belegen.",
+        "group": ""
+      },
+      {
+        "text": "Die Käsescheiben darauflegen und schmelzen lassen, bis der Käse schön zerläuft.",
+        "group": ""
+      },
+      {
+        "text": "Das Sandwich zuklappen und sofort servieren.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Die Mitraillette ist ein Klassiker der belgischen Imbissbuden (Frituren) und wird traditionell mit einer großzügigen Portion Pommes direkt im Sandwich serviert."
+    ],
+    "category": "Burger & Sandwiches",
+    "servings": 1
+  },
+  {
+    "id": "CreamCheeseChicken",
+    "title": "Cream Cheese Chicken (Frischkäse-Hähnchen aus dem Ofen)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/cream-cheese-chicken.webp",
+    "ingredients": [
+      {
+        "amount": 260.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Hähnchen",
+        "group": "",
+        "original": "260 g Hähnchen"
+      },
+      {
+        "amount": 70.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Frischkäse (z. B. Sorte Knoblauch & Thymian)",
+        "group": "",
+        "original": "70 g Frischkäse (z. B. Sorte Knoblauch & Thymian)"
+      },
+      {
+        "amount": 40.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Zwiebel",
+        "group": "",
+        "original": "40 g Zwiebel"
+      },
+      {
+        "amount": 25.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Sahne",
+        "group": "",
+        "original": "25 g Sahne"
+      },
+      {
+        "amount": 95.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Wasser",
+        "group": "",
+        "original": "95 ml Wasser"
+      },
+      {
+        "amount": 60.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Milch (1,5 %)",
+        "group": "",
+        "original": "60 ml Milch (1,5 %)"
+      },
+      {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Senf",
+        "group": "",
+        "original": "5 g Senf"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Speisestärke",
+        "group": "",
+        "original": "4 g Speisestärke"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Salz",
+        "group": "",
+        "original": "Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Paprikapulver",
+        "group": "",
+        "original": "Paprikapulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Petersilie",
+        "group": "",
+        "original": "Petersilie"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Den Backofen auf 180 °C Heißluft vorheizen.",
+        "group": ""
+      },
+      {
+        "text": "Das Hähnchen mit Paprikapulver würzen und zusammen mit der Zwiebel in eine Auflaufform geben.",
+        "group": ""
+      },
+      {
+        "text": "Frischkäse, Sahne, Wasser, Milch, Senf, Speisestärke, Salz, Pfeffer und Petersilie miteinander verquirlen und über das Hähnchen geben.",
+        "group": ""
+      },
+      {
+        "text": "Für 20-25 Minuten bei 180 °C Heißluft backen. Zwischendurch prüfen, ob das Hähnchen schon gar ist.",
+        "group": ""
+      }
+    ],
+    "notes": [
+      "Dazu passen Reis oder Kartoffeln."
+    ],
+    "category": "Pfannengerichte",
+    "servings": 2
+  },
+  {
+    "id": "PhillyCheesesteak",
+    "title": "Schnelles Philly Cheesesteak Sandwich",
+    "image": "https://radiatortwo.github.io/rezepte/pics/philly-cheesesteak.webp",
+    "ingredients": [
+      {
+        "amount": 300.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Rumpsteak",
+        "group": "Hauptzutaten",
+        "original": "300 g Rumpsteak"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "große",
+        "name": "Baguettebrötchen",
+        "group": "Hauptzutaten",
+        "original": "2 große Baguettebrötchen"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "2-3 Zwiebeln",
+        "group": "Hauptzutaten",
+        "original": "2-3 Zwiebeln"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "grüne",
+        "name": "Jalapeño",
+        "group": "Hauptzutaten",
+        "original": "1 grüne Jalapeño"
+      },
+      {
+        "amount": 6.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "neutrales Bratöl (z. B. Rapsöl)",
+        "group": "Hauptzutaten",
+        "original": "6 EL neutrales Bratöl (z. B. Rapsöl)"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Cheddar",
+        "group": "Für die Käsecreme",
+        "original": "150 g Cheddar"
+      },
+      {
+        "amount": 150.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Provolone",
+        "group": "Für die Käsecreme",
+        "original": "150 g Provolone"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "ml",
+        "name": "Sahne",
+        "group": "Für die Käsecreme",
+        "original": "100 ml Sahne"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Paprikapulver edelsüß",
+        "group": "Für die Würzmischung",
+        "original": "1 TL Paprikapulver edelsüß"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Knoblauchpulver",
+        "group": "Für die Würzmischung",
+        "original": "½ TL Knoblauchpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL Zwiebelpulver",
+        "group": "Für die Würzmischung",
+        "original": "½ TL Zwiebelpulver"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "¼ TL getrockneter Oregano",
+        "group": "Für die Würzmischung",
+        "original": "¼ TL getrockneter Oregano"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Für die Würzmischung",
+        "original": "1 TL Salz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "½ TL frisch gemahlener schwarzer Pfeffer",
+        "group": "Für die Würzmischung",
+        "original": "½ TL frisch gemahlener schwarzer Pfeffer"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Paprikapulver, Knoblauchpulver, Zwiebelpulver und Oregano in einer kleinen Schüssel vermischen. Salz und Pfeffer separat bereitstellen.",
+        "group": "Für die Würzmischung"
+      },
+      {
+        "text": "Den Käse reiben, in die Sahne geben und leicht erhitzen, bis eine glatte Käsecreme entsteht.",
+        "group": "Für die Käsecreme"
+      },
+      {
+        "text": "Die Baguettebrötchen aufschneiden und in einer Pfanne mit etwas Öl kurz anrösten.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Die Zwiebeln würfeln und die Jalapeño klein schneiden.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Das Rumpsteak in feine Streifen hobeln.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Zwiebeln und Jalapeño im restlichen Öl in der Pfanne kräftig anrösten und anschließend zur Seite schieben.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Das Fleisch in die Pfanne geben, mit der Würzmischung, Salz und Pfeffer würzen und anbraten.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Käse über das Fleisch geben und schmelzen lassen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Die Käsecreme in das geröstete Brot streichen und die Fleisch-Käse-Mischung hineingeben.",
+        "group": "Hauptgericht"
+      }
+    ],
+    "notes": [
+      "Das Fleisch lässt sich leichter in feine Streifen hobeln, wenn es leicht angefroren ist."
+    ],
+    "category": "Burger & Sandwiches",
+    "servings": 2
+  },
+  {
     "id": "HaehnchenSojaKnoblauchTteok",
     "title": "Hähnchen mit Soja und Knoblauch",
     "image": "https://radiatortwo.github.io/rezepte/pics/haehnchen-soja-knoblauch-tteok.webp",
