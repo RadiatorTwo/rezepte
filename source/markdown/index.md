@@ -98,6 +98,8 @@
 * [Croque Monsieur](https://radiatortwo.github.io/rezepte/CroqueMonsieur)
 * [Klassisches New Yorker Pastrami auf Roggenbrot](https://radiatortwo.github.io/rezepte/PastramiOnRye)
 * [Cuban Sandwich](https://radiatortwo.github.io/rezepte/CubanSandwich)
+* [Belgisches Mitraillette-Sandwich](https://radiatortwo.github.io/rezepte/Mitraillette)
+* [Schnelles Philly Cheesesteak Sandwich](https://radiatortwo.github.io/rezepte/PhillyCheesesteak)
 
 ## Pasta & Nudeln
 * [Bacon Cheeseburger Tortellini](https://radiatortwo.github.io/rezepte/BaconCheeseburgerTortellini)
@@ -152,6 +154,8 @@
 * [Westernpfanne mit Hackfleisch](https://radiatortwo.github.io/rezepte/Westernpfanne)
 * [Garlic Steak Bites & Potatoes](https://radiatortwo.github.io/rezepte/GarlicSteakBitesPotatoes)
 * [Grüne Bohnen Hackfleisch Pfanne mit Reis, Paprika & Mais](https://radiatortwo.github.io/rezepte/GrueneBohnenHackfleischPfanne)
+* [Bratwurst Pfanne nach Jäger Art](https://radiatortwo.github.io/rezepte/BratwurstPfanneJaegerArt)
+* [Cream Cheese Chicken (Frischkäse-Hähnchen aus dem Ofen)](https://radiatortwo.github.io/rezepte/CreamCheeseChicken)
 
 ## Russisch
 * [Apfel Pastila (Apfel Marshmallow)](https://radiatortwo.github.io/rezepte/ApfelPastila)
