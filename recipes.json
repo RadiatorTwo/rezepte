@@ -1,5 +1,127 @@
 [
   {
+    "id": "SamtigesHaehnchenfilet",
+    "title": "Samtiges Hähnchenfilet (Velveting)",
+    "image": "https://radiatortwo.github.io/rezepte/pics/samtiges-haehnchenfilet.webp",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "amount_max": 600.0,
+        "unit": "g",
+        "name": "Hähnchenfilet",
+        "group": "Hauptzutaten",
+        "original": "500-600 g Hähnchenfilet"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pflanzenöl",
+        "group": "Hauptzutaten",
+        "original": "4 EL Pflanzenöl"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die Marinade",
+        "original": "1 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Eiweiß",
+        "group": "Für die Marinade",
+        "original": "1 Eiweiß"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Stärke",
+        "group": "Für die Marinade",
+        "original": "1 EL Stärke"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Apfelessig (6 %) (alternativ Zitronensaft oder Reisessig)",
+        "group": "Für die Marinade",
+        "original": "1 EL Apfelessig (6 %) (alternativ Zitronensaft oder Reisessig)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Schwarzer Pfeffer, gemahlen",
+        "group": "Für die Marinade",
+        "original": "Schwarzer Pfeffer, gemahlen"
+      },
+      {
+        "amount": 4.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sojasauce",
+        "group": "Für die Sauce",
+        "original": "4 EL Sojasauce"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Honig",
+        "group": "Für die Sauce",
+        "original": "1 TL Honig"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Apfelessig (6 %) (alternativ Zitronensaft oder Reisessig)",
+        "group": "Für die Sauce",
+        "original": "1 EL Apfelessig (6 %) (alternativ Zitronensaft oder Reisessig)"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Sesam",
+        "group": "Für die Sauce",
+        "original": "1 EL Sesam"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Das Hähnchenfilet in kleine Stücke schneiden. Sojasauce, Stärke, Essig, schwarzen Pfeffer und Eiweiß dazugeben und alles gut vermengen, sodass jedes Stück Fleisch von der Marinade überzogen ist. Mindestens 30 Minuten marinieren lassen.",
+        "group": "Marinieren"
+      },
+      {
+        "text": "Sesam, Sojasauce, Essig und Honig miteinander verrühren.",
+        "group": "Für die Sauce"
+      },
+      {
+        "text": "Eine Pfanne gut erhitzen und das Pflanzenöl hineingeben. Die Hähnchenstücke von beiden Seiten je 2-3 Minuten goldbraun anbraten.",
+        "group": "Braten"
+      },
+      {
+        "text": "Die Hitze reduzieren. Die Sauce über das Fleisch gießen, umrühren und weitere 2 Minuten braten.",
+        "group": "Braten"
+      },
+      {
+        "text": "Mit geschnittenen Frühlingszwiebeln und Reis servieren.",
+        "group": "Braten"
+      }
+    ],
+    "notes": [
+      "Das nach dieser Technik zubereitete Fleisch zergeht förmlich auf der Zunge: innen sehr zart und weich, außen eine „samtige“ Kruste."
+    ],
+    "category": "Asiatisch",
+    "servings": 3
+  },
+  {
     "id": "BratwurstPfanneJaegerArt",
     "title": "Bratwurst Pfanne nach Jäger Art",
     "image": "https://radiatortwo.github.io/rezepte/pics/bratwurst-pfanne-jaeger-art.webp",
