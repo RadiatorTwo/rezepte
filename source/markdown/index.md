@@ -59,6 +59,7 @@
 * [Hähnchen mit Soja und Knoblauch](https://radiatortwo.github.io/rezepte/HaehnchenSojaKnoblauchTteok)
 * [Rind mit Austernsauce und Nian Gao](https://radiatortwo.github.io/rezepte/RindAusternsauceNianGao)
 * [Rosé-Tteok](https://radiatortwo.github.io/rezepte/RoseTteok)
+* [Samtiges Hähnchenfilet (Velveting)](https://radiatortwo.github.io/rezepte/SamtigesHaehnchenfilet)
 
 ## BBQ & Grillen
 * [Nashville Hot Pork Belly mit Guacamole](https://radiatortwo.github.io/rezepte/NashvilleHotPorkBellyGuac)
