@@ -189,6 +189,7 @@
 * [Käse-Reispapier-Nudeln](https://radiatortwo.github.io/rezepte/KaeseReispapierNudeln)
 * [Flammkuchenbrötchen](https://radiatortwo.github.io/rezepte/Flammkuchenbroetchen)
 * [Pizza Toast](https://radiatortwo.github.io/rezepte/PizzaToast)
+* [Peach Cobbler Chicken Wings](https://radiatortwo.github.io/rezepte/PeachCobblerChickenWings)
 
 ## Airfryer Rezepte
 * [Airfryer Tortellini](https://radiatortwo.github.io/rezepte/AirfryerTortellini)
