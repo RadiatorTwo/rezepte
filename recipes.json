@@ -1,5 +1,211 @@
 [
   {
+    "id": "PeachCobblerChickenWings",
+    "title": "Peach Cobbler Chicken Wings",
+    "image": "https://radiatortwo.github.io/rezepte/pics/peach-cobbler-chicken-wings.webp",
+    "ingredients": [
+      {
+        "amount": 900.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Chicken Wings",
+        "group": "Hauptzutaten",
+        "original": "900 g Chicken Wings"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Senf (als Binder)",
+        "group": "Hauptzutaten",
+        "original": "Senf (als Binder)"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Scharfe Soße (als Binder)",
+        "group": "Hauptzutaten",
+        "original": "Scharfe Soße (als Binder)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Salz",
+        "group": "Hauptzutaten",
+        "original": "2 EL Salz"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Pfeffer",
+        "group": "Hauptzutaten",
+        "original": "2 EL Pfeffer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Knoblauchpulver",
+        "group": "Hauptzutaten",
+        "original": "2 EL Knoblauchpulver"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zwiebelpulver",
+        "group": "Hauptzutaten",
+        "original": "2 EL Zwiebelpulver"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Cayennepfeffer",
+        "group": "Hauptzutaten",
+        "original": "1 EL Cayennepfeffer"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Cajun-Gewürz",
+        "group": "Hauptzutaten",
+        "original": "2 EL Cajun-Gewürz"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Mehl",
+        "group": "Hauptzutaten",
+        "original": "Mehl"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Speisestärke",
+        "group": "Hauptzutaten",
+        "original": "Speisestärke"
+      },
+      {
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Öl zum Frittieren",
+        "group": "Hauptzutaten",
+        "original": "Öl zum Frittieren"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "Dose",
+        "name": "Pfirsiche in leichtem Sirup (ca. 400 g)",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "1 Dose Pfirsiche in leichtem Sirup (ca. 400 g)"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Wasser",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "2 EL Wasser"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "brauner Zucker",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "50 g brauner Zucker"
+      },
+      {
+        "amount": 50.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "weißer Zucker",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "50 g weißer Zucker"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Vanilleextrakt",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "1 EL Vanilleextrakt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zimt",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "1 EL Zimt"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Muskatnuss",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "1 TL Muskatnuss"
+      },
+      {
+        "amount": 2.0,
+        "amount_max": null,
+        "unit": "EL",
+        "name": "Zitronensaft",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "2 EL Zitronensaft"
+      },
+      {
+        "amount": 1.0,
+        "amount_max": null,
+        "unit": "TL",
+        "name": "Salz",
+        "group": "Für das Peach-Cobbler-Topping",
+        "original": "1 TL Salz"
+      }
+    ],
+    "instructions": [
+      {
+        "text": "Die Wings mit etwas Senf und scharfer Soße als Binder einreiben und mit Salz, Pfeffer, Knoblauch- und Zwiebelpulver, Cayennepfeffer und etwas Cajun-Gewürz würzen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Mehl und Speisestärke zu gleichen Teilen mischen, mit denselben Gewürzen würzen und gut verquirlen.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Die Wings vollständig in der Mehlmischung wenden und bei 190 °C goldbraun frittieren.",
+        "group": "Hauptgericht"
+      },
+      {
+        "text": "Die Pfirsiche samt Sirup in eine Pfanne bei mittlerer Hitze geben, zusammen mit einem Schuss Wasser, braunem Zucker, Vanilleextrakt, weißem Zucker, Zimt, Muskatnuss, Zitronensaft und Salz.",
+        "group": "Für das Peach-Cobbler-Topping"
+      },
+      {
+        "text": "Zum Köcheln bringen und reduzieren lassen, bis die Soße die gewünschte Dicke hat.",
+        "group": "Für das Peach-Cobbler-Topping"
+      },
+      {
+        "text": "Die Wings anrichten und reichlich Peach-Cobbler-Topping darübergießen.",
+        "group": "Für das Peach-Cobbler-Topping"
+      }
+    ],
+    "notes": [
+      "Völlig unnötig und albern? Ja – aber verdammt lecker."
+    ],
+    "category": "Snacks & Fingerfood",
+    "servings": 4
+  },
+  {
     "id": "SamtigesHaehnchenfilet",
     "title": "Samtiges Hähnchenfilet (Velveting)",
     "image": "https://radiatortwo.github.io/rezepte/pics/samtiges-haehnchenfilet.webp",
