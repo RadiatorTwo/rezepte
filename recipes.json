@@ -20024,44 +20024,76 @@
     "image": "https://radiatortwo.github.io/rezepte/pics/flammkuchen-brezeln.webp",
     "ingredients": [
       {
+        "amount": 5.0,
+        "amount_max": null,
+        "unit": "",
+        "name": "Laugenbrezeln",
+        "group": "",
+        "original": "5 Laugenbrezeln"
+      },
+      {
+        "amount": 100.0,
+        "amount_max": null,
+        "unit": "g",
+        "name": "Schmand",
+        "group": "",
+        "original": "100 g Schmand"
+      },
+      {
         "amount": 1.0,
         "amount_max": null,
         "unit": "",
-        "name": "Laugenbrezel",
+        "name": "Ei",
         "group": "",
-        "original": "1 Laugenbrezel"
+        "original": "1 Ei"
       },
       {
-        "amount": 2.0,
+        "amount": null,
         "amount_max": null,
-        "unit": "EL",
-        "name": "Crème fraîche",
+        "unit": "",
+        "name": "Salz",
         "group": "",
-        "original": "2 EL Crème fraîche"
+        "original": "Salz"
       },
       {
-        "amount": 50.0,
+        "amount": null,
+        "amount_max": null,
+        "unit": "",
+        "name": "Pfeffer",
+        "group": "",
+        "original": "Pfeffer"
+      },
+      {
+        "amount": 100.0,
         "amount_max": null,
         "unit": "g",
         "name": "Speckwürfel",
         "group": "",
-        "original": "50 g Speckwürfel"
+        "original": "100 g Speckwürfel"
       },
       {
-        "amount": 0.5,
+        "amount": 100.0,
         "amount_max": null,
-        "unit": "rote",
-        "name": "Zwiebel (in feine Streifen geschnitten)",
+        "unit": "g",
+        "name": "Kochschinken (gewürfelt)",
         "group": "",
-        "original": "1/2 rote Zwiebel (in feine Streifen geschnitten)"
+        "original": "100 g Kochschinken (gewürfelt)"
       },
       {
-        "amount": 1.0,
+        "amount": 2.0,
         "amount_max": null,
-        "unit": "TL",
-        "name": "Schnittlauch (gehackt)",
+        "unit": "Lauchzwiebeln",
+        "name": "(in feine Ringe geschnitten)",
         "group": "",
-        "original": "1 TL Schnittlauch (gehackt)"
+        "original": "2 Lauchzwiebeln (in feine Ringe geschnitten)"
+      },
+      {
+        "amount": 80.0,
+        "amount_max": 90.0,
+        "unit": "g",
+        "name": "geriebener Käse",
+        "group": "",
+        "original": "80-90 g geriebener Käse"
       }
     ],
     "instructions": [
@@ -20070,25 +20102,29 @@
         "group": ""
       },
       {
-        "text": "Die Laugenbrezel mit Crème fraîche bestreichen.",
+        "text": "Schmand mit dem Ei verrühren und mit Salz und Pfeffer abschmecken.",
         "group": ""
       },
       {
-        "text": "Speckwürfel und Zwiebelstreifen darauf verteilen.",
+        "text": "Die Laugenbrezeln mit der Schmand-Mischung bestreichen.",
         "group": ""
       },
       {
-        "text": "Die belegte Brezel auf ein Backblech legen und für ca. 20 Minuten backen, bis der Belag leicht gebräunt ist.",
+        "text": "Speckwürfel, Kochschinken und Lauchzwiebeln darauf verteilen und mit dem geriebenen Käse bestreuen.",
         "group": ""
       },
       {
-        "text": "Mit frischem Schnittlauch bestreuen und warm genießen.",
+        "text": "Die belegten Brezeln auf ein Backblech legen und für ca. 20 Minuten backen, bis der Käse leicht gebräunt ist.",
+        "group": ""
+      },
+      {
+        "text": "Warm genießen.",
         "group": ""
       }
     ],
     "notes": [],
     "category": "Italienisch",
-    "servings": 1
+    "servings": 5
   },
   {
     "id": "AirfryerRavioli",
